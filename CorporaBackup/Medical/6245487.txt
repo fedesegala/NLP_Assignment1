@@ -1,0 +1,26 @@
+In biology, a branched DNA assay is a signal amplification assay (as opposed to a target amplification assay) that is used to detect nucleic acid molecules.
+
+
+== Method ==
+A branched DNA assay begins with a dish or some other solid support (e.g., a plastic dipstick). The dish is peppered with small, single stranded DNA molecules (or chains) that stick out into the solution. These are known as capture probe DNA molecules. Next, an extender DNA molecule is added. Each extender has two domains; one that hybridizes to the capture DNA molecule and one that sticks out above the surface. The purpose of the extender is two-fold. First, it creates more available surface area for target DNA molecules to bind, and second, it allows the assay to be easily adapted to detect a variety of target DNA molecules.
+Once the capture and extender molecules are in place and they have hybridized, the sample can be added. Target molecules in the sample will bind to the extender molecule. This results in a base peppered with capture probes, which are hybridized to extender probes, which in turn are hybridized to target molecules.
+At this point, signal amplification takes place. A label extender DNA molecule is added that has two domains (similar to the first extender). The label extender hybridizes to the target and to a pre-amplified molecule. The preamplifier molecule has two domains. First, it binds to the label extender and second, it binds to the amplifier molecule. An example amplifier molecule is an oligonucleotide chain bound to the enzyme alkaline phosphatase.
+Diagrammatically, the process can be resembled as 
+Base → Capture Probe → Extender → Target → label extender → pre-amplifier → amplifier
+
+
+== Uses and Advantages ==
+The assay can be used to detect and quantify many types of RNA or DNA target. In the assay, branched DNA is mixed with a sample to be tested. The detection is done using a non-radioactive method and does not require preamplification of the nucleic acid to be detected. The assay entirely relies on hybridization. Enzymes are used to indicate the extent of hybridization but are not used to manipulate the nucleic acids. Thus, small amounts of a nucleic acid can be detected and quantified without a reverse transcription step (in the case of RNA) and/or PCR. The assay can be run as a high throughput assay, unlike quantitative Northern-blotting or the RNAse-protection assay, which are labor-intensive and thus difficult to perform on a large number of samples. The other major high throughput technique employed in the quantification of specific RNA molecules is quantitative PCR, after reverse transcription of the RNA to cDNA.
+Several different short single-stranded DNA molecules (oligonucleotides) are used in a branched DNA-assay. The capture and capture-extender oligonucleotide bind to the target nucleic acid and immobilize it on a solid support. The label oligonucleotide and the branched DNA then detects the immobilized target nucleic acid. The immobilization of the target on a solid support makes extensive washing easier, which reduces false positive results. After binding of the target to the solid support it can be detected by branched DNA which is coupled to an enzyme (e.g. alkaline phosphatase). The branched DNA binds to the sample nucleic acid by specific hybridization in areas which are not occupied by capture hybrids. The branching of the DNA allows for very dense decorating of the DNA with the enzyme, which is important for the high sensitivity of the assay. The enzyme catalyzes a reaction of a substrate which generates light (detectable in a luminometer). The amount of light emitted increases with the amount of the specific nucleic acid present in the sample. The design of the branched DNA and the way it is hybridized to the nucleic acid to be investigated differs between different generations of the bDNA assay.
+Despite the fact that the starting material is not preamplified, bDNA assays can detect less than 100 copies of HIV-RNA per mL of blood. A recent publication in Nature Scientific Reports uses levels of cfDNA as a predictor of chemotherapy efficacy in treatment of advanced cancers, and uses the branched DNA approach to amplify signal of the trace occurring cfDNA.
+
+
+== See also ==
+Dendrimer
+
+
+== Notes and references ==
+
+
+== External links ==
+Branched+DNA+Assay at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

@@ -1,0 +1,566 @@
+This is a list of taxa with Candidatus status. For taxa not covered by this list, see also:
+
+the GenBank taxonomy for "effective" names as published;
+the Candidatus Lists and LPSN for latinate names, some sanitized to match the Code.
+
+
+== Phyla ==
+
+"Ca. Absconditabacteria" (previously Candidate phylum SR1)
+ABY1 aka OD1-ABY1, subgroup of OD1 ("Ca. Parcubacteria")
+Candidate phylum AC1
+"Ca. Acetothermia" (previously Candidate phylum OP1)
+"Ca. Aerophobetes" (previously Candidate phylum CD12 or BHI80-139)
+"Ca. Aminicenantes" (previously Candidate phylum OP8)
+aquifer1
+aquifer2
+"Ca. Berkelbacteria" (previously Candidate phylum ACD58)
+BRC1
+CAB-I
+"Ca. Calescamantes" (previously Candidate phylum EM19)
+Candidate phylum CPR2
+Candidate phylum CPR3
+Candidate phylum NC10
+Candidate phylum OP2
+Candidate phylum RF3
+Candidate phylum SAM
+Candidate phylum SPAM
+Candidate phylum TG2
+Candidate phylum VC2
+Candidate phylum WS1
+Candidate phylum WS2
+Candidate phylum WS4
+Candidate phylum WYO
+CKC4
+"Ca. Cloacimonetes" (previously Candidate phylum WWE1)
+CPR1
+"Ca. Dependentiae" (previously Candidate phylum TM6)
+EM 3
+"Ca. Endomicrobia" Stingl et al. 2005
+"Ca. Fermentibacteria" (Hyd24-12)
+"Ca. Fervidibacteria" (previously Candidate phylum OctSpa1-106)
+GAL08
+GAL15
+GN01
+GN03
+GN04
+GN05
+GN06
+GN07
+GN08
+GN09
+GN10
+GN11
+GN12
+GN13
+GN14
+GN15
+GOUTA4
+"Ca. Gracilibacteria" (previously Candidate phylum GN02, BD1-5, or BD1-5 group)
+Guaymas1
+"Ca. Hydrogenedentes" (previously Candidate phylum NKB19)
+JL-ETNP-Z39
+"Ca. Katanobacteria" (previously Candidate phylum WWE3)
+Kazan-3B-09
+KD3-62
+kpj58rc
+KSA1
+KSA2
+KSB1
+KSB2
+KSB4
+"Ca. Latescibacteria" (previously Candidate phylum WS3)
+LCP-89
+LD1-PA38
+"Ca. Marinamargulisbacteria" (previously Candidate division ZB3)
+"Ca. Marinimicrobia" (previously Marine Group A or Candidate phylum SAR406)
+"Ca. Melainabacteria"
+"Ca. Microgenomates" (previously Candidate phylum OP11)
+"Ca. Modulibacteria" (previously Candidate phylum KSB3)
+MSBL2
+MSBL3
+MSBL4
+MSBL5
+MSBL6
+NPL-UPA2
+NT-B4
+OC31
+"Ca. Omnitrophica" (previously Candidate phylum OP3)
+OP4
+OP6
+OP7
+OS-K/OS-K group
+"Ca. Parcubacteria" (previously Candidate phylum OD1)
+PAUC34f
+"Ca. Peregrinibacteria" (previously Candidate phylum PER)
+"Ca. Poribacteria"
+RsaHF231
+S2R-29
+"Ca. Saccharibacteria" (previously Candidate phylum TM7)
+SBR1093
+SBYG-2791
+Candidate phylum SC3
+Candidate phylum SC4
+Sediment-1
+Sediment-2
+Sediment-3
+Sediment-4
+SHA-109
+SM2F11
+TA06
+"Ca. Tectomicrobia"
+TG3 ("Ca. Chitinivibrionia")
+WCHB1-60
+WD272
+WOR-1
+WOR-3
+WPS-1
+WPS-2
+WS5
+WS6
+ZB2 aka OD1-ZB2 subgroup of OD1 ("Ca. Parcubacteria")
+"Ca. Zixibacteria"
+
+
+== Classes ==
+"Ca. Lambdaproteobacteria" Anantharaman et al. 2016
+"Ca. Muproteobacteria" Anantharaman et al. 2016
+"Ca. Zetaproteobacteria" Emerson et al. 2007
+
+
+== Orders ==
+"Ca. Nitrosopumilales" Könneke et al. 2005
+
+
+== Families ==
+"Ca. Midichloriaceae" Montagna et al. 2013
+"Ca. Nitrosopumilaceae" Könneke et al. 2005
+"Ca. Procabacteriaceae"
+"Ca. Rhabdochlamydiaceae"
+
+
+== Genera ==
+"Ca. Accumulibacter" Hesselmann et al. 1999
+"Ca. Allobeggiatoa" Hinck et al. 2011
+"Ca. Arthromitus" Snel et al. 1995
+"Ca. Bacilloplasma" Kostanjšek et al. 2007
+"Ca. Baumannia" Moran et al. 2003
+"Ca. Blochmannia" Sauer et al. 2000
+"Ca. Carsonella" Thao et al. 2000
+"Ca. Chlorothrix" Klappenbach and Pierson 2004
+"Ca. Competibacter" Crocetti et al. 2002
+"Ca. Contubernalis" Zhilina et al. 2005
+"Ca. Desulforudis"
+"Ca. Endomicrobium" Stingl et al. 2005
+"Ca. Epixenosoma"
+"Ca. Giganthauma"
+"Ca. Glomeribacter" Bianciotto et al. 2003
+"Ca. Kleidoceria" Kuechler et al. 2010
+"Ca. Kuenenia" Schmid et al. 2000
+"Ca. Liberibacter"
+"Ca. Lokiarchaeum"
+"Ca. Lumbricincola" Nechitaylo et al. 2009
+"Ca. Magnetobacterium" Murray and Stackebrandt 1995
+"Ca. Methanoregula"
+"Ca. Microthrix"
+"Ca. Nardonella" Lefèvre et al. 2004
+"Ca. Nitrosoarchaeum" Blainey et al. 2011
+"Ca. Nitrosopumilus" Könneke et al. 2005
+"Ca. Pelagibacter" Rappe et al. 2002
+"Ca. Photodesmus" Hendry and Dunlap 2011
+"Ca. Phytoplasma" Firrao et al. 2004
+"Ca. Portiera" Thao and Baumann 2004
+"Ca. Procabacter" Horn et al. 2002
+"Ca. Rhabdochlamydia"
+"Ca. Riegeria" Gruber-Vodicka et al. 2011
+"Ca. Rohrkolberia" Kuechler et al. 2011
+"Ca. Salinibacter" Antón et al. 2000
+"Ca. Savagella" Thompson et al. 2012
+"Ca. Scalindua"
+"Ca. Similichlamydia" Stride et al. 2013
+"Ca. Symbiothrix" Hongoh et al. 2007
+"Ca. Tremblaya" Thao et al. 2002
+"Ca. Xiphinematobacter" Vandekerckhove et al. 2000
+
+
+== Species and subspecies ==
+Unless otherwise noted (♦), these entries are from LPSN.
+"Ca. Acaryochloris bahamiensis" López-Legentil et al. 2011
+"Ca. Acidianus copahuensis" Giaveno et al. 2013
+"Ca. Aciduliprofundum boonei" Schouten et al. 2008"Ca. Accumulibacter phosphatis" Hesselmann et al. 1999 
+"Ca. Actinobaculum timonae" Drancourt et al. 2004
+"Ca. Adiaceo aphidicola" Darby et al. 2005
+"Ca. Allobeggiatoa salina" Hinck et al. 2011
+"Ca. Alysiomicrobium bavaricum" Kragelund et al. 2006
+"Ca. Alysiosphaera europaea" Kragelund et al. 2006
+"Ca. Amoebinatus massiliae" Greub et al. 2004
+"Ca. Amoebophilus asiaticus" Horn et al. 2001
+"Ca. Amphibiichlamydia ranarum" Martel et al. 2013
+"Ca. Anadelfobacter veles" Vannini et al. 2010
+"Ca. Ancillula trichonymphae" Strassert et al. 2012
+"Ca. Anammoxoglobus propionicus" Kartal et al. 2007
+"Ca. Aquiluna rubra" Hahn 2009
+"Ca. Aquirestis calciphila" Hahn and Schauer 2007
+"Ca. Arcobacter sulfidicus" Wirsen et al. 2002
+"Ca. Arsenophonus arthropodicus" Dale et al. 2002
+"Ca. Arsenophonus phytopathogenicus" Bressan et al. 2012
+"Ca. Arsenophonus triatominarum" Hypsa and Dale 1997
+"Ca. Aschnera chinzeii" Hosokawa et al. 2012
+"Ca. Atelocyanobacterium thalassa(♦)
+"Ca. Azoamicus ciliaticola" Graf et al. 2021
+"Ca. Bacteroides massiliae" Drancourt et al. 2004
+"Ca. Bartonella ancashi" Blazes et al. 2013
+"Ca. Bartonella antechini" Kaewmongkol et al. 2011
+"Ca. Bartonella breitschwerdtii(♦)
+"Ca. Bartonella bandicootii" Kaewmongkol et al. 2011
+"Ca. Bartonella durdenii(♦)
+"Ca. Bartonella eldjazairii(♦)
+"Ca. Bartonella mayotimonensis" Lin et al. 2010
+"Ca. Bartonella melophagi(♦)
+"Ca. Bartonella merieuxii" Chomel et al. 2012
+"Ca. Bartonella monaxi(♦)
+"Ca. Bartonella rudakovii(♦)
+"Ca. Bartonella thailandensis" Saisongkorh et al. 2009
+"Ca. Bartonella volans(♦)
+"Ca. Bartonella woyliei" Kaewmongkol et al. 2011
+"Ca. Baumannia cicadellinicola" Moran et al. 2003
+"Ca. Benitsuchiphilus tojoi" Hosokawa et al. 2010
+"Ca. Berkiella aquae" Mehari et al. 2016
+"Ca. Berkiella cookevillensis" Mehari et al. 2016
+"Ca. Blochmannia floridanus" Sauer et al. 2000
+"Ca. Blochmannia herculeanus" Sauer et al. 2000
+"Ca. Blochmannia rufipes" Sauer et al. 2000
+"Ca. Borrelia tachyglossi" Loh et al. 2017
+"Ca. Borrelia texasensis" Lin et al. 2005
+"Ca. Branchiomonas cysticola" Toenshoff et al. 2012
+"Ca. Brocadia anammoxidans" Jetten et al. 2001
+"Ca. Brocadia caroliniensis" Magrí et al. 2012
+"Ca. Brocadia fulgida" Kartal et al. 2004
+"Ca. Brocadia sinica" Hu et al. 2010
+"Ca. Brownia rhizoecola" Gruwell et al. 2010
+"Ca. Burkholderia andongensis" Lemaire et al. 2011
+"Ca. Burkholderia calva" Van Oevelen et al. 2004
+"Ca. Burkholderia crenata(♦)
+"Ca. Burkholderia hispidae" Lemaire et al. 2012
+"Ca. Burkholderia kirkii" Van Oevelen et al. 2002
+"Ca. Burkholderia mamillata(♦)
+"Ca. Burkholderia nigropunctata" Van Oevelen et al. 2004
+"Ca. Burkholderia petitii" Lemaire et al. 2011
+"Ca. Burkholderia rigidae" Lemaire et al. 2012
+"Ca. Burkholderia schumannianae" Lemaire et al. 2012
+"Ca. Burkholderia verschuerenii(♦)
+"Ca. Burkholderia virens(♦)
+"Ca. Caedibacter acanthamoebae" Horn et al. 1999
+"Ca. Caldiarchaeum subterraneum" Nunoura et al. 2011
+"Ca. Campylobacter hominis" Lawson et al. 1998
+"Ca. Captivus acidiprotistae" Baker et al. 2003
+"Ca. Cardinium hertigii" Zchori-Fein et al. 2004
+"Ca. Carsonella ruddii" Thao et al. 2000
+"Ca. Chloracidobacterium thermophilum" Bryant et al. 2007
+"Ca. Chlorothrix halophila" Klappenbach and Pierson 2004
+"Ca. Chryseobacterium massiliae" Greub et al. 2004
+"Ca. Chryseobacterium timonae" Drancourt et al. 2004
+"Ca. Clavochlamydia salmonicola" Karlsen et al. 2008
+"Ca. Cloacamonas acidaminovorans" Pelletier et al. 2008
+"Ca. comitans" Jacobi et al. 1996
+"Ca. Competibacter phosphatis" Crocetti et al. 2002
+"Ca. Consessoris aphidicola" Darby et al. 2005
+"Ca. Contubernalis alkalaceticum" Zhilina et al. 2005
+"Ca. Cryptoprodotis polytropus" Ferrantini et al. 2009
+"Ca. Curculioniphilus buchneri" Toju et al. 2009
+"Ca. Cyrtobacter comes" Vannini et al. 2010
+"Ca. Cyrtobacter zanobii" Boscaro et al. 2013
+"Ca. Defluviella procrastinata" Boscaro et al. 2013
+"Ca. Desulforudis audaxviator" Chivian et al. 2008 
+"Ca. Desulfovibrio trichonymphae" Sato et al. 2009
+"Ca. Devosia euplotis" Vannini et al. 2004
+"Ca. Ecksteinia adelgidicola" Toenshoff et al. 2012
+"Ca. Ehrlichia walkerii" Brouqui et al. 2003
+"Ca. Endobugula glebosa" Lim and Haygood 2004
+"Ca. Endobugula sertula" Haygood and Davidson 1997
+"Ca. Endolissoclinum faulkneri" Kwan et al. 2012
+"Ca. Endoecteinascidia frumentensis" Pérez-Matos et al. 2007
+"Ca. Endomicrobium pyrsonymphae" Stingl et al. 2005
+"Ca. Endomicrobium trichonymphae" Stingl et al. 2005
+"Ca. Endonucleobacter bathymodioli" Zielinski et al. 2009
+"Ca. Endoriftia persephone" Robidart et al. 2008
+"Ca. Endowatersipora palomitas" Anderson and Haygood 2007
+"Ca. Endowatersipora rubus" Anderson and Haygood 2007
+"Ca. Entotheonella palauensis" Schmidt et al. 2000
+"Ca. Epiflobacter spp." Xia et al. 2008
+"Ca. Erwinia dacicola" Capuzzo et al. 2005
+"Ca. Evansia muelleri" Kuechler et al. 2013
+"Ca. Flaviluna lacus" Hahn 2009
+"Ca. Fodinabacter communificans" Bertin et al. 2011
+"Ca. Francisella noatunensis subsp. endociliophora" Schrallhammer et al. 2011
+"Ca. Frankia datiscae" Persson et al. 2011
+"Ca. Fritschea bemisiae" Everett et al. 2005
+"Ca. Fritschea eriococci" Everett et al. 2005
+"Ca. Gillettellia cooleyia" Toenshoff et al. 2012
+"Ca. Gilliamella apicola" Martinson et al. 2012
+"Ca. Glomeribacter gigasporarum" Bianciotto et al. 2003
+"Ca. Gortzia infectiva" Boscaro et al. 2012
+"Ca. Haliscomenobacter calcifugiens" Hahn and Schauer 2007
+"Ca. Halomonas phosphatis" Nguyen et al. 2012
+"Ca. Hamiltonella defensa" Moran et al. 2005
+"Ca. Helicobacter bovis" De Groote et al. 1999
+"Ca. Helicobacter heilmannii" O'Rourke et al. 2004
+"Ca. Helicobacter suis" De Groote et al.  (includes strains previously known as Helicobacter heilmannii type one)
+"Ca. Heliomonas lunata" Asao et al. 2012
+"Ca. Hemipteriphilus asiaticus" Bing et al. 2013
+"Ca. Hemobacterium ranarum" Zhang and Rikihisa 2004 (previously known as Aegyptianella ranarum)
+"Ca. Hepatincola porcellionum" Wang et al. 2004
+"Ca. Hepatobacter penaei" Numan et al. 2013
+"Ca. Hepatoplasma crinochetorum" Wang et al. 2004
+"Ca. Hodgkinia cicadicola" McCutcheon et al. 2009
+"Ca. Holdemania massiliensis(♦)
+"Ca. Ishikawaella capsulata" Hosokawa et al. 2006
+"Ca. Isobeggiatoa divolgata" Salman et al. 2011
+"Ca. Jettenia asiatica" Quan et al. 2008
+"Ca. Kinetoplastibacterium blastocrithidii" Du et al. 1994
+"Ca. Kinetoplastibacterium crithidii" Du et al. 1994
+"Ca. Kleidoceria schneideri" Kuechler et al. 2010
+"Ca. Kopriimonas aquarianus" Quinn et al. 2012
+"Ca. Korarchaeum cryptofilum" Elkins et al. 2008
+"Ca. Koribacter versatilis" Ward et al. 2009
+"Ca. Kuenenia stuttgartiensis" Schmid et al. 2000
+"Ca. Lariskella arthropodarum" Matsuura et al. 2012
+"Ca. Legionella jeonii" Park et al. 2004
+"Ca. Liberibacter americanus" Teixeira et al. 2005 - one cause of Citrus greening disease
+"Ca. Liberibacter africanus" Roberts et al. 2015 - one cause of Citrus greening disease
+"Ca. Liberibacter africanus" corrig. Jagoueix et al. 1994 (previously "Ca. Liberobacter africanum)
+"Ca. Liberibacter africanus subsp. capensis" Garnier et al. 2000
+"Ca. Liberibacter asiaticus" corrig. Jagoueix et al. 1994 (previously "Ca. Liberobacter asiaticum) - one cause of Citrus greening disease
+"Ca. Liberibacter europaeus" Raddadi et al. 2011
+"Ca. Liberibacter psyllaurous" Hansen et al. 2008
+"Ca. Liberibacter solanacearum" Liefting et al. 2009 - cause of Psyllid yellows and Zebra chip
+"Ca. Limnoluna rubra" Hahn 2009
+"Ca. Macropleicola appendiculatae" Kölsch et al. 2009
+"Ca. Macropleicola muticae" Kölsch et al. 2009
+"Ca. Magnetobacterium bavaricum" Spring et al. 1993
+"Ca. Magnetoglobus multicellularis" Abreu et al. 2007
+"Ca. Magnospira bakii" Snaidr et al. 1999
+"Ca. Maribeggiatoa vulgaris" Salman et al. 2011
+"Ca. Marispirochaeta associata" Shivani et al. 2016
+"Ca. Marithioploca araucae" Salman et al
+"Ca. Marithrix sessilis" Salman et al. 2011
+"Ca. Mesochlamydia elodeae" Corsaro et al. 2013
+"Ca. Metachlamydia lacustris" Corsaro et al. 2010
+"Ca. Methanogranum caenicola" Iino et al. 2013
+"Ca. Methanomethylophilus alvus" Borrel et al. 2012
+"Ca. Methanoregula boonei" Bräuer et al. 2006
+"Ca. Methylacidiphilum infernorum" Hou et al. 2008
+"Ca. Methylomirabilis oxyfera" Ettwig et al. 2010
+"Ca. Micrarchaeum acidiphilum(♦)
+"Ca. Microthrix calida" Levantesi et al. 2006
+"Ca. Microthrix parvicella" Blackall et al. 1996
+"Ca. Midichloria mitochondrii" Sassera et al. 2006
+"Ca. Monilibacter batavus" Kragelund et al. 2006
+"Ca. Moranella endobia" McCutcheon and von Dohlen 2011
+"Ca. Mycoplasma aoti" Barker et al. 2011
+"Ca. Mycoplasma corallicola" Neulinger et al. 2009
+"Ca. Mycoplasma haematoparvum" Sykes et al. 2005
+"Ca. Mycoplasma haemobos" Tagawa et al. 2008
+"Ca. Mycoplasma haemodidelphidis" Messick et al. 2002
+"Ca. Mycoplasma haemofelis" Neimark et al. 2001 (synonymous with Haemobartonella felis)
+"Ca. Mycoplasma haemolamae" Messick et al. 2002
+"Ca. Mycoplasma haemomacaque" Maggi et al. 2013
+"Ca. Mycoplasma haemominutum" Foley and Pedersen 2001 (previously "Haemobartonella felis small form (Hfsm)")
+"Ca. Mycoplasma haemomuris" Neimark et al. 2001 (synonymous with Haemobartonella muris)
+"Ca. Mycoplasma haemomuris subsp. musculi" Harasawa et al. 2015
+"Ca. Mycoplasma haemomuris subsp. ratti" Harasawa et al. 2015
+"Ca. Mycoplasma haemosuis" Neimark et al. 2001 (synonymous with Eperythrozoon suis and Mycoplasma suis)
+"Ca. Mycoplasma haemovis" Hornok et al. 2009
+"Ca. Mycoplasma haemozalophi" Volokhov et al. 2011
+"Ca. Mycoplasma kahanei" Neimark et al. 2002
+"Ca. Mycoplasma ravipulmonis" Neimark et al. 1998
+"Ca. Mycoplasma turicensis" Willi et al. 2006
+"Ca. Mycoplasma wenyonii" Neimark et al. 2001 (synonymous with Eperythrozoon wenyonii)
+"Ca. Nebulobacter yamunensis" Boscaro et al. 2012
+"Ca. Neoehrlichia arcana" Gofton et al. 2016
+"Ca. Neoehrlichia australis" Gofton et al. 2016
+"Ca. Neoehrlichia lotoris" Yabsley et al. 2008
+"Ca. Neoehrlichia mikurensis" Kawahara et al. 2004
+"Ca. Nitrosoarchaeum koreensis" Kim et al. 2011
+"Ca. Nitrosoarchaeum limnia" Blainey et al. 2011
+"Ca. Nitrosocaldus yellowstonii" de la Torre et al. 2008
+"Ca. Nitrosopelagicus brevis(♦)
+"Ca. Nitrosopumilus koreensis" Park et al. 2012
+"Ca. Nitrosopumilus maritimus" Könneke et al. 2005
+"Ca. Nitrosopumilus salaria" Mosier et al. 2012
+"Ca. Nitrosopumilus sediminis" Park et al. 2012
+"Ca. Nitrososphaera gargensis" Hatzenpichler et al. 2008
+"Ca. Nitrososphaera viennensis" Tourna et al. 2011
+"Ca. Nitrospira bockiana" Lebedeva et al. 2008
+"Ca. Nitrospira defluvii" Spieck et al. 2006
+"Ca. Nitrosotalea devanaterra" Lehtovirta-morley et al. 2011
+"Ca. Nitrotoga arctica" Alawi et al. 2007
+"Ca. Nostocoida limicola" Blackall et al. 2000 (strains Ben 17, Ben 18, Ben 67, Ben 68 and Ben 74 are now Tetrasphaera jenkinsii, strain Ben 70 is Tetrasphaera vanveenii, and strains Ver 1 and Ver 2 are Tetrasphaera veronensis)
+"Ca. Odyssella thessalonicensis" Birtles et al. 2000
+"Ca. Ovobacter propellens" Fenchel and Thar 2004
+"Ca. Paenicardinium endonii" Noel and Atibalentja 2006
+"Ca. Parabeggiatoa communis" Salman et al. 2011
+"Ca. Paracaedibacter acanthamoebae" Horn et al. 1999
+"Ca. Paracaedibacter symbiosus" Horn et al. 1999
+"Ca. Paraholospora nucleivisitans" Eschbach et al. 2009
+"Ca. Parilichlamydia carangidicola" Stride et al. 2013
+"Ca. Parvarchaeum acidophilus(♦)
+"Ca. Pasteuria aldrichii" Giblin-Davis et al. 2011
+"Ca. Pasteuria usgae" Giblin-Davis et al. 2003
+"Ca. Pelagibacter ubique" Rappe et al. 2002
+"Ca. Peptostreptococcus massiliae" Drancourt et al. 2004
+"Ca. Phlomobacter fragariae" Zreik et al. 1998
+"Ca. Photodesmus katoptron" Hendry and Dunlap 2011
+"Ca. Phytoplasma 16SrII-U" Yang et al. 2016
+"Ca. Phytoplasma allocasuarinae" Marcone et al. 2004
+"Ca. Phytoplasma americanum" Lee et al. 2006
+"Ca. Phytoplasma asteris" Lee et al. 2004
+"Ca. Phytoplasma aurantifolia" Zreik et al. 1995
+"Ca. Phytoplasma australiense" Davis et al. 1997
+"Ca. Phytoplasma balanitae" Win et al. 2013
+"Ca. Phytoplasma brasiliense" Montano et al. 2001
+"Ca. Phytoplasma caricae" Arocha et al. 2005
+"Ca. Phytoplasma castaneae" Jung et al. 2002
+"Ca. Phytoplasma cirsii" Safarova et al. 2016
+"Ca. Phytoplasma convolvuli" Martini et al. 2012
+"Ca. Phytoplasma costaricanum" Lee et al. 2011
+"Ca. Phytoplasma cynodontis" Marcone et al. 2004
+"Ca. Phytoplasma fragariae" Valiunas et al. 2006
+"Ca. Phytoplasma fraxini" Griffiths et al. 1999 - cause of Lilac witches'-broom
+"Ca. Phytoplasma graminis" Arocha et al. 2005
+"Ca. Phytoplasma hispanicum" Davis et al. 2016
+"Ca. Phytoplasma japonicum" Sawayanagi et al. 1999
+"Ca. Phytoplasma lycopersici" Arocha et al. 2007
+"Ca. Phytoplasma malaysianum" Nejat et al. 2013
+"Ca. Phytoplasma mali" Seemüller and Schneider 2004
+"Ca. Phytoplasma meliae" Fernandez et al. 2016
+"Ca. Phytoplasma omanense" Al-Saady et al. 2008
+"Ca. Phytoplasma oryzae" Jung et al. 2003
+"Ca. Phytoplasma palmicola" Harrison et al. 2014
+"Ca. Phytoplasma phoenicium" Verdin et al. 2003
+"Ca. Phytoplasma pini" Schneider et al. 2005
+"Ca. Phytoplasma pruni" Davis et al. 2013
+"Ca. Phytoplasma prunorum" Seemüller and Schneider 2004
+"Ca. Phytoplasma pyri" Seemüller and Schneider 2004
+"Ca. Phytoplasma rhamni" Marcone et al. 2004
+"Ca. Phytoplasma rubi" Malembic-Maher et al. 2011
+"Ca. Phytoplasma rubi" Franova et al. 2016
+"Ca. Phytoplasma solani" Quaglino et al. 2013
+"Ca. Phytoplasma spartii" Marcone et al. 2004
+"Ca. Phytoplasma sudamericanum" Davis et al. 2012
+"Ca. Phytoplasma tamaricis" Zhao et al
+"Ca. Phytoplasma trifolii" Hiruki and Wang 2004
+"Ca. Phytoplasma ulmi" Lee et al. 2004
+"Ca. Phytoplasma vitis" Marzorati et al. 2006 - cause of Flavescence dorée
+"Ca. Phytoplasma ziziphi" Jung et al. 2003
+"Ca. Piscichlamydia salmonis" Draghi et al. 2004
+"Ca. Planktoluna difficilis" Hahn 2009
+"Ca. Planktomarina temperata" Giebel et al. 2011
+"Ca. Planktophila limnetica" Jezbera et al. 2009
+"Ca. Portiera aleyrodidarum" Thao and Baumann 2004
+"Ca. Prevotella massiliensis" Drancourt et al. 2004
+"Ca. Procabacter acanthamoebae" Horn et al. 2002
+"Ca. Profftia tarda" Toenshoff et al. 2012
+"Ca. Profftia virida" Toenshoff et al. 2012
+"Ca. Protochlamydia amoebophila" Collingro et al. 2005
+"Ca. Puchtella pedicinophila" Fukatsu et al. 2009
+"Ca. Puniceispirillum marinum" Oh et al. 2010
+"Ca. Purcelliella pentastirinorum" Bressan et al. 2009
+"Ca. Regiella insecticola" Moran et al. 2005
+"Ca. Renichlamydia lutjani" Corsaro and Work 2012
+"Ca. Rhabdochlamydia crassificans" Corsaro et al. 2006
+"Ca. Rhabdochlamydia porcellionis" Kostanjšek (morphology matches the description of Chlamydia isopodii)
+"Ca. Rhizobium massiliae" Greub et al. 2004
+"Ca. Rhodoluna limnophila" Hahn 2009
+"Ca. Rhodoluna planktonica" Hahn 2009
+"Ca. Rickettsia amblyommii" Labruna et al. 2004
+"Ca. Rickettsia andeanae" Jiang et al. 2005
+"Ca. Rickettsia asemboensis" Jiang et al. 2013
+"Ca. Rickettsia barbariae" Mura et al. 2008
+"Ca. Rickettsia hebeiii" Yaxue et al. 2011
+"Ca. Rickettsia hungarica" Hornok et al. 2010
+"Ca. Rickettsia hoogstraalii" Mattila et al. 2007
+"Ca. Rickettsia kellyi" Rolain et al. 2006
+"Ca. Rickettsia kingi" Anstead and Chilton 2013
+"Ca. Rickettsia kotlanii" Sréter-Lancz et al. 2006
+"Ca. Rickettsia liberiensis" Mediannikov et al. 2012
+"Ca. Rickettsia principis" Mediannikov et al. 2006
+"Ca. Rickettsia senegalensis" Mediannikov, Aubadie-Ladrix, and Raoult 2015
+"Ca. Rickettsia tarasevichiae" Shpynov et al. 2003
+"Ca. Rickettsia tasmanensis" Izzard et al. 2009
+"Ca. Rickettsia vini" Palomar et al. 2012
+"Ca. Riegeria galateiae" Gruber-Vodicka et al. 2011
+"Ca. Riesia pediculicola" Sasaki-Fukatsu et al. 2006
+"Ca. Rohrkolberia cinguli" Kuechler et al. 2011
+"Ca. Roseomonas massiliae" Greub et al. 2004
+"Ca. Ruthia magnifica" Newton et al. 2007
+"Ca. Scalindua arabica" Woebken et al. 2008
+"Ca. Scalindua brodae" Schmid et al. 2003
+"Ca. Scalindua pacifica" Dang et al. 2003
+"Ca. Scalindua profunda" Van De Vossenberg et al. 2008
+"Ca. Scalindua richardsii" Fuchsman et al. 2012
+"Ca. Scalindua sorokinii" Kuypers et al. 2003
+"Ca. Scalindua wagneri" Schmid et al. 2003
+"Ca. Serratia symbiotica" Moran et al. 2005
+"Ca. Similichlamydia latridicola" Stride et al. 2013
+"Ca. Snodgrassella alvi" Martinson et al. 2012
+"Ca. Snodgrassella alvi" Martinson et al. 2012
+"Ca. Sodalis melophagi" Chrudimský et al. 2012
+"Ca. Sodalis pierantonius" Oakeson et al. 2014
+"Ca. Sphaeronema italicum" Kragelund et al. 2006
+"Ca. Stammerula tephritidis" Mazzon et al. 2008
+"Ca. Steffania adelgidicola" Toenshoff et al. 2012
+"Ca. Streptomyces philanthi" Kaltenpoth et al. 2006
+"Ca. Sulcia muelleri" Moran et al. 2005
+"Ca. Sulfurovum sediminum" Park et al. 2012
+"Ca. Symbiothrix dinenymphae" Hongoh et al. 2007
+"Ca. Synechococcus spongiarum" Usher et al. 2004
+"Ca. Tammella caduceiae" Hongoh et al. 2007
+"Ca. Tenderia electrophaga" Eddie et al. 2016
+"Ca. Thermochlorobacter aerophilum" Liu et al. 2012
+"Ca. Thiobios zoothamnicoli" Rinke et al. 2006
+"Ca. Thiodictyon syntrophicum" Peduzzi et al. 2012
+"Ca. Thioglobus singularis" Marshall and Morris 2013
+"Ca. Thiomargarita joergensenii" Salman et al. 2011
+"Ca. Thiomargarita nelsonii" Salman et al. 2011
+"Ca. Thiophysa hinzei" Salman et al. 2011
+"Ca. Thiopilula aggregata" Salman et al. 2011
+"Ca. Thioturbo danicus" Muyzer et al. 2005
+"Ca. Tremblaya phenacola" Gruwell et al. 2010
+"Ca. Tremblaya princeps" Thao et al. 2002
+"Ca. Troglogloea absoloni" Kostanjšek et al. 2013
+"Ca. Uzinura diaspidicola" Gruwell et al. 2007
+"Ca. Vallotia cooleyia" Toenshoff et al. 2012
+"Ca. Vallotia tarda" Toenshoff et al. 2012
+"Ca. Vallotia virida" Toenshoff et al. 2012
+"Ca. Veillonella atypica" Drancourt et al. 2004
+"Ca. Vesicomyosocius okutanii" Kuwahara et al. 2007
+"Ca. Vestibaculum illigatum" Stingl et al. 2004
+"Ca. Vidania fulgoroideae" Gonella et al. 2011
+"Ca. Wolinella africanus" Bohr et al. 2003
+"Ca. Xenohaliotis californiensis" Friedman et al. 2000
+"Ca. Xiphinematobacter americani" Vandekerckhove et al. 2000
+"Ca. Xiphinematobacter brevicolli" Vandekerckhove et al. 2000
+"Ca. Xiphinematobacter rivesi" Vandekerckhove et al. 2000
+"Ca. Zinderia insecticola" McCutcheon and Moran 2010
+
+
+== Former candidatus taxa ==
+Armatimonadota, formerly Candidate phylum OP10
+Atribacterota (previously Candidate phylum OP9 or JS1)
+Caldisericota, formerly Candidate phylum OP5
+Elusimicrobiota, formerly Termite Group 1
+Ignavibacteriota (previously Candidate phylum ZB1)
+Lentisphaerota, formerly vadinBE97
+Nitrospinota
+
+
+== See also ==
+Uncultivated bacterial phyla and metagenomics
+Open nomenclature, a system of notations used in taxonomy to indicate a taxonomist's judgement about taxon affinities
+Glossary of scientific naming
+incertae sedis, a taxon of uncertain position in a classification
+nomen dubium, a name of unknown or doubtful application
+
+
+== References ==

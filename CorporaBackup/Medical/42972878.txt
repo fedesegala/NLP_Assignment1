@@ -1,0 +1,8 @@
+The AHL-1 (Armenian Hamster Lung-1) cell line is derived from the lung of a normal, adult, male Armenian hamster, Cricetulus migratorius, and used for pulmonary physiology research.
+
+
+== References ==
+
+
+== External links ==
+Cellosaurus entry for AHL-1

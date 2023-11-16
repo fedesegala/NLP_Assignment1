@@ -1,0 +1,36 @@
+Endospore staining is a technique used in bacteriology to identify the presence of endospores in a bacterial sample. Within bacteria, endospores are protective structures used to survive extreme conditions, including high temperatures making them highly resistant to chemicals. Endospores contain little or no ATP which indicates how dormant they can be. Endospores contain a tough outer coating made up of keratin which protects them from nucleic DNA as well as other adaptations. Endospores are able to regerminate into vegetative cells, which provides a protective nature that makes them difficult to stain using normal techniques such as simple staining and gram staining. Special techniques for endospore staining include the Schaeffer–Fulton stain and the Moeller stain.
+
+
+== History ==
+Endospores were first studied in 1876 by scientists Cohn and Koch. It was found that endospores could not be stained using simple stains such as methylene blue, safranin, and carbol fuchsin. These scientists, along with a few others, found out that spores were dormant and resistant to heat. In the early 1900s, researchers were trying to find alternative methods to improve disease and infection from these endospores.In 1922, Dorner published a method for staining endospores. He found a differential staining technique where endospores appear green and vegetative cells appear pinkish red. Dorner used heat as a step in the process, but it was time-consuming, so in 1933, Schaeffer and Fulton modified his method.
+Schaeffer and Fulton made the heating process a lot faster by using a Bunsen burner. Although this method was not the most beneficial, it was a lot more convenient than Dorner's method. This improved method provided a quicker and easier test and allowed for the spores to be more susceptible to the dyes. To this day, the Schaeffer- Fulton stain is still performed to help identify bacteria. 
+
+
+== Examples ==
+Endospores are able to last for decades in multiple hard conditions, such as drying and freezing. This is because the DNA inside the endospore is able to survive over a long period of time. Most bacteria are unable to form endospores due to their high resistance, but some common species are the genera Bacillus ( over 100 species) and Clostridium (over 160 species).- Bacillus anthraces, which causes anthrax-Bacillus cereus- Can cause two types of food poisoning: emetic and diarrheal-Bacillus subtilis- Found in soil -Clostridium tetani,- Spore that causes lock jaw (tetanus) and rigid paralysis. 
+-Clostridium botulinum-  Spore found in foods that have not been canned properly. Clostridium botulinum is sometimes sold as botox and prevents nerve transmission.
+-Clostridium difficile- Causes inflammation in the colon, most often from other antibiotics. Symptoms include diarrhea, belly pain, and fever.
+
+
+== Shape and location ==
+Types of endospores that can be identified include free endospores, central endospores( middle of the cell), subterminal( between the end and middle of the cell), and terminal ( end of the cell) endospores. There can also be a combination of terminal or subterminal. Endospores can be differentiated based on shape, either spherical or elliptical (oval), size relative to the cell, and whether they cause the cell to look swollen or not.
+
+
+== Staining mechanism ==
+In the Schaeffer-Fulton staining method, a primary stain containing malachite green is forced into the spore by steaming the bacteria. Malachite green can be left on the slide for 15 minutes or more to stain the spores. It takes a long time for the spores to stain due to their density, so heat acts as the mordant when performing this differential stain. Malachite green is water-soluble so vegetative cells and spore mother cells can be decolorized with distilled water and counterstained with 0.5% Safranin. In the end, a proper smear would show the endospore as a green dot within either a red or pink-colored cell.Mycobacterium is one obstacle that is faced with this type of staining process because it will still stain green even though it does not produce any endospores. This is due to its waxy cell wall which retains the malachite green dye even after the decolorizing process. A different type of staining called acid-fast stain will have to be done in order to get further information about this particular type of bacterium. 
+
+
+== Staining procedure ==
+Using aseptic technique, prepare and air dried heat fixed slide with the desired organism.
+Prepare a boiling water bath.
+Cover the slide with a piece of paper towel and place on staining rack over the water bath.
+Flood the paper towel on the slide with Malachite Green ( primary stain).
+Steam the slide for 5 to 7 minutes (mordant).
+After the time is up, carefully remove the slide from the water bath using forceps. Take off papertowel.
+Let the slide cool down, and then using the forceps over the staining rack, gently rinse with distilled water until the runoff is clear( decolorizer).
+Pour off any excess water and place slide on the staining rack and flood with Safranin ( counterstain) for one minute.
+Rinse off any excess safranin gently with distilled water and carefully blot dry both sides.
+When slide is dry, view slide under the microscope under the oil immersion objective (100X).
+
+
+== References ==

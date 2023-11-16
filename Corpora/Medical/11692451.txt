@@ -1,0 +1,230 @@
+In genetics, a centimorgan (abbreviated cM) or map unit (m.u.) is a unit for measuring genetic linkage.  It is defined as the distance between chromosome positions (also termed loci or markers) for which the expected average number of intervening chromosomal crossovers in a single generation is 0.01.  It is often used to infer distance along a chromosome. However, it is not a true physical distance.
+
+
+== Relation to physical distance ==
+The number of base pairs to which it corresponds varies widely across the genome (different regions of a chromosome have different propensities towards crossover) and it also depends on whether the meiosis in which the crossing-over takes place is a part of oogenesis (formation of female gametes) or spermatogenesis (formation of male gametes).
+One centimorgan corresponds to about 1 million base pairs in humans on average. The relationship is only rough, as the physical chromosomal distance corresponding to one centimorgan varies from place to place in the genome, and also varies between males and females since recombination during gamete formation in females is significantly more frequent than in males. Kong et al. calculated that the female genome is 4460 cM long, while the male genome is only 2590 cM long. Plasmodium falciparum has an average recombination distance of ~15 kb per centimorgan: markers separated by 15 kb of DNA (15,000 nucleotides) have an expected rate of chromosomal crossovers of 0.01 per generation. Note that non-syntenic genes (genes residing on different chromosomes) are inherently unlinked, and cM distances are not applicable to them.
+
+
+== Relation to the probability of recombination ==
+Because genetic recombination between two markers is detected only if there are an odd number of chromosomal crossovers between the two markers, the distance in centimorgans does not correspond exactly to the probability of genetic recombination.  Assuming J. B. S. Haldane's map function, in which the number of chromosomal crossovers is distributed according to a Poisson distribution, a genetic distance of d centimorgans will lead to an odd number of chromosomal crossovers, and hence a detectable genetic recombination, with probability
+
+  
+    
+      
+         
+        P
+        (
+        
+          recombination
+        
+        
+          |
+        
+        
+          linkage of 
+        
+        d
+        
+           cM
+        
+        )
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            ∞
+          
+        
+         
+        P
+        (
+        2
+        k
+        +
+        1
+        
+           crossovers
+        
+        
+          |
+        
+        
+          linkage of 
+        
+        d
+        
+           cM
+        
+        )
+      
+    
+    {\displaystyle \ P({\text{recombination}}|{\text{linkage of }}d{\text{ cM}})=\sum _{k=0}^{\infty }\ P(2k+1{\text{ crossovers}}|{\text{linkage of }}d{\text{ cM}})}
+  
+
+  
+    
+      
+        
+
+        
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            −
+            d
+            
+              /
+            
+            100
+          
+        
+        
+          
+            
+              (
+              d
+              
+                /
+              
+              100
+              
+                )
+                
+                  2
+                  
+                  k
+                  +
+                  1
+                
+              
+            
+            
+              (
+              2
+              
+              k
+              +
+              1
+              )
+              !
+            
+          
+        
+        =
+        
+          e
+          
+            −
+            d
+            
+              /
+            
+            100
+          
+        
+        sinh
+        ⁡
+        (
+        d
+        
+          /
+        
+        100
+        )
+        =
+        
+          
+            
+              1
+              −
+              
+                e
+                
+                  −
+                  2
+                  d
+                  
+                    /
+                  
+                  100
+                
+              
+            
+            2
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle {}=\sum _{k=0}^{\infty }e^{-d/100}{\frac {(d/100)^{2\,k+1}}{(2\,k+1)!}}=e^{-d/100}\sinh(d/100)={\frac {1-e^{-2d/100}}{2}}\,,}
+  where sinh is the hyperbolic sine function.  The probability of recombination is approximately d/100 for small values of d and approaches 50% as d goes to infinity.
+The formula can be inverted, giving the distance in centimorgans as a function of the recombination probability:
+
+  
+    
+      
+        d
+        =
+        50
+        ln
+        ⁡
+        
+          (
+          
+            
+              1
+              
+                1
+                −
+                2
+                 
+                P
+                (
+                
+                  recombination
+                
+                )
+              
+            
+          
+          )
+        
+        
+        .
+      
+    
+    {\displaystyle d=50\ln \left({\frac {1}{1-2\ P({\text{recombination}})}}\right)\,.}
+  
+
+
+== Etymology ==
+The centimorgan was named in honor of geneticist Thomas Hunt Morgan by J. B. S. Haldane. However, its parent unit, the morgan, is rarely used today.
+
+
+== See also ==
+Mutation rate
+
+
+== References ==
+
+
+== Further reading ==

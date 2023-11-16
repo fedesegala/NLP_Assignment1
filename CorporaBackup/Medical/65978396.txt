@@ -1,0 +1,16 @@
+Reporter virus particles (RVPs) are replication-incompetent virus particles engineered to express one or more reporter genes upon infecting susceptible cells. Since the RVP genome lacks genes essential for viral replication, RVPs are capable of only a single round of infection. Thus they are safe to work with under BSL-2 conditions, enabling the study of highly pathogenic viruses using standard laboratory facilities. Expression of a reporter such as luciferase can provide a quantitative readout of infection. With proper design and quality control, RVPs remain stable under common assay conditions and yield reproducible results that correlate with those obtained from live virus. These qualities make RVPs a safer and faster alternative to plaque assays, and especially well-suited for high-throughput applications. RVPs offer flexibility for different uses, as they are antigenically identical to wild-type virus, and can be engineered with various proteins or express mutant envelopes to study infectivity or antigenicity.
+
+
+== Applications ==
+RVPs are most commonly used in neutralization assays, which measure the ability of serum or antibodies to prevent virus infectivity in vitro, with applications in vaccine development, antibody discovery, and serological testing. A related assay tests for antibody-dependent enhancement (ADE), a phenomenon where non-neutralizing antibodies against viruses can increase infectivity through their binding to the cellular Fc receptor, aiding entry of the virus into host cells.
+
+
+== Structure ==
+Depending on the virus of interest and the desired application, RVPs can be pseudotypes, containing a heterologous self-assembling core (typically of lentiviral origin), as well as native envelope proteins corresponding to the studied virus. This type of RVP facilitates exceptional reliability and reproducibility of neutralization assay results, while maintaining antigenicity and safety. Alternatively, for structurally complex viruses such dengue and Zika viruses, RVPs are engineered to be antigenically identical to wild-type virus, using all of the structural proteins of the native virus.
+
+
+== Limitations ==
+RVP production requires optimization of several elements, such as expression constructs, cell lines, and processing steps, to reach a yield sufficient for downstream applications and reproducibility across production lots. Although ideal for studying the effects of the immune response on virus entry, RVPs are replication-incompetent, and therefore typically do not allow study of the later stages of the viral life cycle. RVPs formed by pseudotyping contain the native form of the viral Envelope (or Spike) protein, but may not contain other structural elements from the original virus. Results obtained with RVPs are often compared to those obtained with live virus.
+
+
+== References ==

@@ -1,0 +1,17 @@
+Bacteria biooxidation is an oxidation process caused by microbes where the valuable metal remains (but becomes enriched) in the solid phase. In this process, the metal remains in the solid phase and the liquid can be discarded.Bacterial oxidation  is a biohydrometallurgical process developed for pre-cyanidation treatment of refractory gold ores or concentrates.  The bacterial culture is a mixed culture of Acidithiobacillus ferrooxidans, Acidithiobacillus thiooxidans and Leptospirillum ferrooxidans.  The bacterial oxidation process comprises contacting refractory sulfide ROM ore or concentrate with a strain of the  bacterial culture for a suitable treatment period under an optimum operating environment.  The bacteria oxidise the sulfide minerals, thus liberating the occluded gold for subsequent recovery via cyanidation.
+The BIOX® process is a proprietary technology owned by Biomin South Africa and used under licence by a number of operating mines. The BIOX® process involves bacterial oxidation in agitated tanks for pre-treatment of refractory ores and concentrates ahead of conventional cyanide leach for gold recovery.
+Under controlled continuous plant conditions, the number of bacterial cells and their activity is optimised to attain the highest rate of sulfide oxidation.  The bacteria require a very acidic environment (pH 1.0 to 4.0), a temperature of between 30 and 45 °C, and a steady supply of oxygen and carbon dioxide for optimum growth and activity.  The unusual operating conditions for the bacteria are not favourable for the growth of most other microbes, thus eliminating the need for sterility during the bacterial oxidation process.  Because organic substances are toxic to the bacteria, they are non-pathogenic and incapable of causing disease.  The bacteria employed in the process do not, therefore, pose a health risk to humans or any animals.
+The bacterial oxidation of iron sulfide minerals produces iron(III) sulfate and sulfuric acid, and in the case of arsenopyrite, arsenic acid is also produced.  The arsenic is removed from the liquor by coprecipitation with the iron and sulfate in a two-stage neutralisation process.  This produces a solid neutralisation precipitate containing largely calcium sulfate, basic iron(III) arsenate and iron(III) hydroxide. The iron(III) arsenate is sufficiently insoluble and stable to allow the neutralisation product to be safely disposed of on a slimes dam.  The neutralisation liquor, purified to contain an acceptable level of arsenic, can be re-used in the milling, flotation or bacterial oxidation circuits.
+
+
+== See also ==
+Economic geology
+Geomicrobiology
+
+
+== References ==
+
+
+== External links ==
+Biooxidation, BioMineWiki
+BIOX® Overview at Biomin South Africa website

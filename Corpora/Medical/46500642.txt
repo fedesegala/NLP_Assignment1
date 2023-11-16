@@ -1,0 +1,40 @@
+This is the list of healthy vaginal microbiota (VMB), which is defined as the group of species and genera that generally are found to have lack of symptoms, absence of various infections, and result in good pregnancy outcomes. VMB is dominated mainly by Lactobacillus species. This is the list of organisms that are found in the lower reproductive tract of sexually mature women who are not immunocompromised. A partial description of pathogens that can be found in the lower and upper reproductive tract of women can be found in the article sexually transmitted disease. The organisms listed below are capable of causing illness if for some reason there is a change in vaginal pH or a change in the ratio of one organism to another. For example, Candida is a normal inhabitant of a healthy reproductive tract but an overgrowth of this organism can cause candidiasis.
+
+
+== Normal microbiota ==
+This is the list of the normal flora that are found in the lower reproductive tract of sexually mature women who exhibit no symptoms of illness and who are not immunocompromised. Lactobacilli predominate. These organisms protect against infection. Vaginal microbiota composition may have a genetic component.
+
+
+=== Anaerobes ===
+
+
+=== Aerobes ===
+These bacteria may be detected as transients or are marginally discernable with PCR techniques. They are also opportunistic pathogens and their overgrowth is considered an infection though symptoms and signs may be absent.
+
+While the vaginal microbiota is populated predominantly by Lactobacillus spp. in 71% of women, 29% of asymptomatic, healthy women possess a microbiota essentially lacking in Lactobacillus and instead the following groups have been isolated from this population.  This microbiota is affiliated with ethnicity:
+
+
+== Yeast ==
+Candida albicans and other spp.
+
+
+== Microbiota changes ==
+Pre-pubescent girls, women in menarche, and postmenopausal women have lower populations of Lactobacillus spp. in proportion to the other species. Hormone replacement therapy in postmenopausal women restores the microbiota to that of a reproductive-aged woman. The microbiota populations change in response to the menstrual cycle. Pregnancy alters the microbiota, with a reduction in species/genus diversity.
+Overgrowth of Candida albicans or other Candida (yeast infections) sometimes occurs after antibiotic therapy. Bacterial vaginosis results in altered populations and ratios of the normal microbiota.
+There has been no link demonstrated between taking oral probiotics and maintaining normal microbiota populations of lactobacilli.
+
+
+== References ==
+
+
+== Further reading ==
+Bacterial vaginosis: a review on clinical trials with probiotics (2013)
+Enhanced Trapping of HIV-1 by Human Cervicovaginal Mucus Is Associated with Lactobacillus crispatus-Dominant Microbiota (2015)
+
+
+== External links ==
+
+Aagaard K, Riehle K, Ma J, Segata N, Mistretta TA, Coarfa C, Raza S, Rosenbaum S, Van den Veyver I, Milosavljevic A, Gevers D, Huttenhower C, Petrosino J, Versalovic J (2012). "A metagenomic approach to characterization of the vaginal microbiome signature in pregnancy". PLOS ONE. 7 (6): e36466. Bibcode:2012PLoSO...736466A. doi:10.1371/journal.pone.0036466. PMC 3374618. PMID 22719832.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+CDC
+NIH/Medline
+Pelvic Inflammatory Disease (PID; Salpingitis, Endometritis)

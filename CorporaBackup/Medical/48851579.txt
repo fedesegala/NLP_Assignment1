@@ -1,0 +1,12 @@
+Domestication islands refers to regions within DNA that do not change despite gene flow between wild and domesticated species.
+
+
+== Speciation islands ==
+In 2005, a study of genomic DNA within species of mosquitoes found that there were "speciation islands" of genes that remain differentiated despite considerable gene flow, and are therefore expected to contain the genes responsible for reproductive isolation between species. In the following years, there was criticism of this proposal and that there might be other explanations, including nucleotide diversity within species or reduced diversity. This debate continues.
+
+
+== Domestication islands ==
+In 2007, a study of the genomic DNA differences of wild compared to domesticated species of beans found that there was a large fraction of the genome of the common bean that appears to have been subjected to the effects of selection during domestication. Domestication appears to have affected not only the target genes, but also a large portion of the genome around these genes. These "domestication islands" have probably experienced a higher level of isolation between the wild and the domesticated forms in comparison with the rest of the genome, probably because of linkage to the loci selected during domestication.In 2015, a study looked at the genome sequences of pigs, and found that the assumption of  reproductive isolation and strong domestication bottlenecks were incompatible with the data. The domestication process was assumed to have been initiated by humans, involved few individuals, and relied on reproductive isolation between wild and domestic forms. Despite gene flow between domestic and wild pigs, the genomes of domestic pigs had strong signatures of selection at loci that affect behavior and morphology. The conclusion was that recurrent selection for domestic traits likely counteracted the homogenizing effect of gene flow from wild boars and created "islands of domestication" in the genome.
+
+
+== References ==

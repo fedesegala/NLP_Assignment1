@@ -1,0 +1,24 @@
+Function  Maize gene for first step in biosynthesis of benzoxazin, which aids in resistance to insect pests, pathogenic fungi and bacteria.
+First report  Hamilton 1964, as a mutant sensitive to the herbicide atrazine, and lacking benzoxazinoids (less than 1% of non-mutant plants).
+Molecular characterization reveals that the BX1 protein is a homologue to the alpha-subunit of tryptophan synthase. The reference mutant allele has a deletion of about 900 bp, located at the 5'-terminus and comprising sequence upstream of the transcription start site and the first exon. Additional alleles are given by a Mu transposon insertion in the fourth exon (Frey et al. 1997 ) and a Ds transposon insertion in the maize inbred line W22 genetic background (Betsiashvili et al. 2014). Gene sequence diversity analysis has been performed for 281 inbred lines of maize, and the results suggest that bx1 is responsible for much of the natural variation in DIMBOA (a benzoxazinoid compound) synthesis (Butron et al. 2010).  Genetic variation in benzoxazinoid content influences maize resistance to several insect pests (Meihls et al. 2013; McMullen et al. 2009).
+
+
+== Map location ==
+AB chromosome translocation analyses place on short arm of chromosome 4 (4S; Simcox and Weber 1985 ). There is close linkage to other genes in the benzoxazinoid synthesis pathway [bx2, bx3, bx4, bx5 Frey et al. 1995, 1997 ). Gene bx1 is 2490 bp from bx2 (Frey et al. 1997 ); between umc123 and agrc94 on 4S (Melanson et al. 1997 ). Mapping probes: SSR p-umc1022 (Sharopova et al. 2002 ); Overgo (physical map probe) PCO06449 (Gardiner et al. 2004 ).
+
+
+== Phenotypes ==
+Mutants are viable, but may be distinguished from normal plants by FeCl3 staining: plants able to synthesize benzoxinoids have pale blue color when crushed and treated with FeCl3 solutions (Hamilton 1964, Simcox 1993 ). Mutations in the bx1 gene reduce the resistance to first generation European corn borer (Ostrinia nubilalis) that is conferred by benzoxazinoids (Klun et al. 1970 ). Bx1 mutant maize deposited less callose in response to chitosan elicitation than isogenic wildtype plants (Ahmad et al. 2011 ). Genetic mapping using recombinant inbred lines derived from maize inbred lines B73 and Mo17 showed that a 3.9 kb cis-regulatory element that is located approximately 140 kb upstream of Bx1 causes higher 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one (DIMBOA) accumulation in Mo17 than in B73 seedlings (Zheng et al. 2015 ). This genetic variation is also associated with higher corn leaf aphid (Rhopalosiphum maidis) reproduction on B73 compared to Mo17 maize seedlings (Betsiashvili et al. 2014 ). Relative to maize inbred line W22, Bx1::Ds mutant maize plants are more sensitive to corn leaf aphids (Rhopalosiphum maidis)  (Betsiashvili et al. 2014) and beet armyworms (Spodoptera exigua) (Tzin et al. 2017 ). Highly localized induction of benzoxazinoid accumulation in response to Egyptian cotton leafworm (Spodoptera littoralis) feeding is abolished in a maize bx1 mutant (Maag et al. 2016 ).
+
+
+== Gene Product ==
+Catalyzes the first step in the synthesis of DIMBOA, forming indole from indole-3-glycerol phosphate. The enzyme is called indole-3-glycerol phosphate lyase, chloroplast, EC 4.1.2.8 and is located in the chloroplast. The X-ray structure of BX1 protein has been resolved and compared with bacterial TSA (tryptophan synthase alpha subunit, Kulik et al. 2005). Three homologs of the BX1 protein occur in maize. One is encoded by the gene tsa1, tryptophan synthase alpha1(Frey et al. 1997, Melanson et al. 1997 ), on chromosome 7, another by igl1, indole-3-glycerol phosphate lyase1(Frey et al. 1997, on chromosome 1, and another by tsah1, 'TSA like" and located near the bx1  gene (Frey et al. 1997. ).
+
+
+== Links ==
+MaizeGDB
+NCBI
+Uniprot
+
+
+== References ==

@@ -1,0 +1,46 @@
+Prefibrotic primary myelofibrosis (Pre-PMF) is a rare blood cancer, classified by the World Health Organization as a distinct type of myeloproliferative neoplasm in 2016. The disease is progressive to overt primary myelofibrosis, though the rate of progression is variable and not all patients progress. Symptoms and presentation can mimic essential thrombocythemia, with the main differentiator for pre-PMF being the presence of fibrosis in the bone marrow.
+
+
+== Diagnosis ==
+A bone marrow examination is required for diagnosis.
+
+
+=== Major Criteria ===
+The bone marrow histology should demonstrate the following:
+A proliferation and atypia of the bone marrow cells that produce platelets (megakaryocytes)
+Reticulin fibrosis which doesn't exceed grade 1. Grade 2 or 3 is a diagnostic criteria for primary myelofibrosis.
+Age-adjusted cellularity
+Proliferation of granulocytes, a type of white blood cell
+Decreased production of red blood cells (erythropoiesis)
+Presence of JAK2, CALR, MPL or other clonal marker.
+
+
+=== Minor Criteria ===
+According to the WHO, at least one of these minor criteria should be present:
+Anemia which is not attributable to another condition
+High white blood cell count (leukocytosis)
+An enlarged spleen (splenomegaly)
+LDH levels above the upper limit of the reference range.
+
+
+=== Comparison with primary myleofibrosis ===
+Reticulin or collagen fibrosis grade 2 or 3 is a diagnostic criteria for primary myelofibrosis.
+
+
+=== Comparison with Essential Thrombocythemia ===
+Both pre-PMF and Essential thrombocythemia can share diagnostic similarities, such as a proliferation of megakaryocytes and a presence of a mutation. The presence of Reticulin fibrosis in pre-PMF provides the clearest distinction between the two.
+
+
+== Treatment ==
+Patients considered low risk for thrombosis or major bleeding should be observed only. Low-dose aspirin is recommended for patients without a history of thrombosis. For intermediate risk patients, symptom driven therapy for anaemia or constitutional symptoms.For high risk patients with a history of thrombosis, oral anticoagulants and cytoreductive drugs such as hydroxycarbamide are recommended, and the patient should be treated as in primary myelofibrosis.
+
+
+== Prognosis ==
+Prognosis of pre-PMF currently suffers from a lack of multi-center data, with several biases resulting from the disease being newly distinct in WHO's 2016 reclassification. The 10 year cumulative incidence of progression to overt PMF is between 9.7 and 31.5%. The 10 year incidence of transformation into acute myeloid leukemia ranges from 5.8% to 12%.A prognostic scoring model designed specifically for pre-PMF does not yet exist, but the International Prognostic Scoring System can be used to predict survival in pre-PMF patients. A multi-center study on reclassified PMF patients showed median survival of pre-PMF patients at 17.6 years compared with 7.2 years for overt PMF patients. However, another study showed 98% of pre-PMF patients were alive after 10 years from diagnosis and while overt PMF patients showed a median survival of 16.6 years, pre-PMF median survival was not able to be calculated as more than 50% of patients were still alive at the time of publication.
+
+
+== History ==
+First described in 1976, pre-PMF was not introduced into the WHO's classification of tumors until 2001, and not formally classified as a distinct entity until the 2016 revision.
+
+
+== References ==

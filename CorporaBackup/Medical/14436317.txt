@@ -1,0 +1,74 @@
+A doubled haploid (DH) is a genotype formed when haploid cells undergo chromosome doubling. Artificial production of doubled haploids is important in plant breeding.
+Haploid cells are produced from pollen or egg cells or from other cells of the gametophyte, then by induced or spontaneous chromosome doubling, a doubled haploid cell is produced, which can be grown into a doubled haploid plant. If the original plant was diploid, the haploid cells are monoploid, and the term doubled monoploid may be used for the doubled haploids. Haploid organisms derived from tetraploids or hexaploids are sometimes called dihaploids (and the doubled dihaploids are, respectively, tetraploid or hexaploid).
+Conventional inbreeding procedures take six generations to achieve approximately complete homozygosity, whereas doubled haploidy achieves it in one generation. Dihaploid plants derived from tetraploid crop plants may be important for breeding programs that involve diploid wild relatives of the crops.
+
+
+== History ==
+The first report of the haploid plant was published by Blakeslee et al. (1922) in Datura stramonium. Subsequently, haploids were reported in many other species. Guha and Maheshwari (1964) developed an anther culture technique for the production of haploids in the laboratory. Haploid production by wide crossing was reported in barley (Kasha and Kao, 1970) and tobacco (Burk et al., 1979). Tobacco, rapeseed, and barley are the most responsive species for doubled haploid production. Doubled haploid methodologies have now been applied to over 250 species.
+
+
+== Production of doubled haploids ==
+Doubled haploids can be produced in vivo or in vitro. Haploid embryos are produced in vivo by parthenogenesis, pseudogamy, or chromosome elimination after wide crossing. The haploid embryo is rescued, cultured, and chromosome-doubling produces doubled haploids. The in vitro methods include gynogenesis (ovary and flower culture) and androgenesis (anther and microspore culture). Androgenesis is the preferred method. Another method of producing the haploids is wide crossing. In barley, haploids can be produced by wide crossing with the related species Hordeum bulbosum; fertilization is affected, but during the early stages of seed development the H. bulbosum chromosomes are eliminated leaving a haploid embryo. In tobacco (Nicotiana tabacum), wide crossing with Nicotiana africana is widely used. When N. africana is used to pollinate N. tabacum, 0.25 to 1.42 percent of the progeny survive and can readily be identified as either F1 hybrids or maternal haploids. Although these percentages appear small, the vast yield of tiny seeds and the early death of most seedlings provide significant numbers of viable hybrids and haploids in relatively small soil containers. This method of interspecific pollination serves as a practical way of producing seed-derived haploids of N. tabacum, either as an alternative method or complementary method to anther culture.
+
+
+== Genetics of DH population ==
+In DH method only two types of genotypes occur for a pair of alleles, A and a, with the frequency of ½ AA and ½  aa, while in diploid method three genotypes occur with the frequency of ¼ AA, ½ Aa, ¼ aa. Thus, if AA is desirable genotype, the probability of obtaining this genotype is higher in haploid method than in diploid method. If n loci are segregating, the probability of getting the desirable genotype is (1/2)n by the haploid method and (1/4)n by the diploid method. Hence the efficiency of the haploid method is high when the number of genes concerned is large.
+Studies were conducted comparing DH method and other conventional breeding methods and it was concluded that adoption of doubled haploidy does not lead to any bias of genotypes in populations, and random DHs were even found to be compatible to selected line produced by conventional pedigree method.
+
+
+== Applications of DHs plant breeding ==
+
+
+=== Mapping quantitative trait loci ===
+Most of the economic traits are controlled by genes with small but cumulative effects. Although the potential of DH populations in quantitative genetics has been understood for some time, it was the advent of molecular marker maps that provided the impetus for their use in identifying loci controlling quantitative traits. As the quantitative trait loci (QTL) effects are small and highly influenced by environmental factors, accurate phenotyping with replicated trials is needed. This is possible with doubled haploidy organisms because of their true breeding nature and because they can conveniently be produced in large numbers. Using DH populations, 130 quantitative traits have been mapped in nine crop species. In total, 56 DH populations were used for QTL detection.
+
+
+=== Backcross breeding ===
+In backcross conversion, genes are introgressed from a donor cultivar or related species into a recipient elite line through repeated backcrossing. A problem in this procedure is being able to identify the lines carrying the trait of interest at each generation. The problem is particularly acute if the trait of interest is recessive, as it will be present only in a heterozygous condition after each backcross. The development of molecular markers provides an easier method of selection based on the genotype (marker) rather than the phenotype. Combined with doubled haploidy it becomes more effective. In marker assisted backcross conversion, a recipient parent is crossed with a donor line and the hybrid (F1) backcrossed to the recipient. The resulting generation (BC1) is backcrossed and the process repeated until the desired genotypes are produced. The combination of doubled haploidy and molecular marker provides the short cut. In the backcross generation one itself, a genotype with the character of interest can be selected and converted into homozygous doubled-haploid genotype. Chen et al. (1994) used marker assisted backcross conversion with doubled haploidy of BC1 individuals to select stripe rust resistant lines in barley.
+
+
+=== Bulked segregant analysis (BSA) ===
+In bulked segregant analysis, a population is screened for a trait of interest and the genotypes at the two extreme ends form two bulks. Then the two bulks are tested for the presence or absence of molecular markers. Since the bulks are supposed to contrast in the alleles that contribute positive and negative effects, any marker polymorphism between the two bulks indicates the linkage between the marker and trait of interest. BSA is dependent on accurate phenotyping and the DH population has particular advantage in that they are true breeding and can be tested repeatedly. DH populations are commonly used in bulked segregant analysis, which is a popular method in marker assisted breeding. This method has been applied mostly to rapeseed and barley.
+
+
+=== Genetic maps ===
+Genetic maps are very important to understand the structure and organization of genomes from which evolution patterns and syntenic relationships between species can be deduced. Genetic maps also provide a framework for the mapping of genes of interest and estimating the magnitude of their effects and aid our understanding of genotype/phenotype associations. DH populations have become standard resources in genetic mapping for species in which DHs are readily available. Doubled haploid populations are ideal for genetic mapping. It is possible to produce a genetic map within two years of the initial cross regardless of the species. Map construction is relatively easy using a DH population derived from a hybrid of two homozygous parents as the expected segregation ratio is simple, i.e. 1:1. DH populations have now been used to produce genetic maps of barley, rapeseed, rice, wheat, and pepper. DH populations played a major role in facilitating the generation of the molecular marker maps in eight crop species.
+
+
+=== Genetic studies ===
+Genetic ratios and mutation rates can be read directly from haploid populations. A small doubled haploid (DH) population was used to demonstrate that a dwarfing gene in barley is located chromosome 5H. In another study the segregation of a range of markers has been analyzed in barley.
+
+
+=== Genomics ===
+Although QTL analysis has generated a vast amount of information on gene locations and the magnitude of effects on many traits, the identification of the genes involved has remained elusive. This is due to poor resolution of QTL analysis. The solution for this problem would be production of recombinant chromosome substitution line, or stepped aligned recombinant inbred lines. Here, backcrossing is carried out until a desired level of recombination has occurred and genetic markers are used to detect desired recombinant chromosome substitution lines in the target region, which can be fixed by doubled haploidy. In rice, molecular markers have been found to be linked with major genes and QTLs for resistance to rice blast, bacterial blight, and sheath blight in a map produced from DH population.
+
+
+=== Elite crossing ===
+Traditional breeding methods are slow and take 10–15 years for cultivar development. Another disadvantage is inefficiency of selection in early generations because of heterozygosity.
+These two disadvantages can be over come by DHs, and more elite crosses can be evaluated and selected within less time.
+
+
+=== Cultivar development ===
+Uniformity is a general requirement of cultivated line in most species, which can be easily obtained through DH production. There are various ways in which DHs can be used in cultivar production. The DH lines themselves can be released as cultivars, they may be used as parents in hybrid cultivar production or more indirectly in the creation of breeders lines and in germplasm conservation. Barley has over 100 direct DH cultivars. According to published information there are currently around 300 DH derived cultivars in 12 species worldwide.
+The relevance of DHs to plant breeding has increased markedly in recent years owing to the development of protocols for 25 species. Doubled haploidy already plays an important role in hybrid cultivar production of vegetables, and the potential for ornamental production is being vigorously examined. DHs are also being developed in the medicinal herb Valeriana officinalis to select lines with high pharmacological activity. Another interesting development is that fertile homozygous DH lines can be produced in species that have self-incompatibility systems.
+
+
+== Advantages of DHs ==
+The ability to produce homozygous lines after a single round recombination saves a lot of time for the plant breeders. Studies conclude that random DH’s are comparable to the selected lines in pedigree inbreeding. The other advantages include development of large number of homozygous lines, efficient genetic analysis and development of markers for useful traits in much less time. More specific benefits include the possibility of seed propagation as an alternative to vegetative multiplication in ornamentals, and in species such as trees in which long life cycles and inbreeding depression preclude traditional breeding methods, doubled haploidy provides new alternatives.
+
+
+== Disadvantages of DHs ==
+The main disadvantage with the DH population is that selection cannot be imposed on the population. But in conventional breeding selection can be practised for several generations: thereby desirable characters can be improved in the population.
+In haploids produced from anther culture, it is observed that some plants are aneuploids and some are mixed haploid-diploid types. Another disadvantage associated with the double haploidy is the cost involved in establishing tissue culture and growth facilities. The over-usage of doubled haploidy may reduce genetic variation in breeding germplasm. Hence one has to take several factors into consideration before deploying doubled haploidy in breeding programmes.
+
+
+== Conclusions ==
+Technological advances have now provided DH protocols for most plant genera. The number of species amenable to doubled haploidy has reached a staggering 250 in just a few decades. Response efficiency has also improved with gradual removal of species from recalcitrant category. Hence it will provide greater efficiency of plant breeding.
+
+
+== Tutorials ==
+Doubled Haploids to Improve Winter Wheat Archived 2015-09-12 at the Wayback Machine
+Video : Doubled Haploids: A simple method to improve efficiency of maize breeding.
+
+
+== References ==

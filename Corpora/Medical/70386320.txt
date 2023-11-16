@@ -1,0 +1,8 @@
+Codon reassignment is the biological process via which the genetic code of a cell is changed as a response to the environment. It may be caused by alternative tRNA aminoacylation, in which the cell modifies the target aminoacid of some particular type of transfer-RNA.  This process has been identified in bacteria, yeast and human cancer cells.In human cancer cells, codon reassignment can be triggered by tryptophan depletion, resulting in proteins where the tryptophan aminoacid is substituted by phenylalanine.
+
+
+== See also ==
+Expanded genetic code
+
+
+== References ==

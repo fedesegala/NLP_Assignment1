@@ -1,0 +1,10 @@
+A double-disk diffusion test is a kind of disk diffusion test (to test for the effectiveness of an antimicrobial agent a disk infused with it is placed on a cultivated agar dish of bacteria to see if the antimicrobial agent in the disk inhibits further growth of the bacteria.) 
+The double-disc synergy test (DDST) utilizes two of these disks on the cultivated agar solution, either infused with a different antimicrobial solution.This test was recommended the standard by the Clinical and Laboratory Standards Institute in 2004 for its use against MRSA. Testing for inducible clindamycin resistance is typically performed in strains of Staphylococcus, β-hemolytic streptococci, and Streptococcus pneumoniae that are demonstrate erythromycin resistance and clindamycin susceptibility. To test for clindamycin resistance certain strains of Staphylococcus aureus bacteria with natural resistance to erythromycin are chosen for cultivation on the gel. The two antimicrobial disks contain erythromycin and clindamycin and are placed 25 mm apart when testing Staphylococcus and 15 mm apart for Streptococcus. This is called a D-zone test, or D test. If a 'D' shape is formed around the clindamycin disk then the isolate is reported as resistant to clindamycin. This occurs due to erythromycin inducing the bacteria's ERM (B) gene, and thus making it resistant to Clindamycin.
+
+
+== References ==
+
+
+== Further reading ==
+Megged O, Assous M, Weinberg G, Schlesinger Y (2013). "Inducible clindamycin resistance in β-hemolytic streptococci and Streptococcus pneumoniae". Isr. Med. Assoc. J. 15: 27–30. PMID 23484235.
+Steward C. et al. Testing for Induction of Clindamycin Resistance in Erythromycin-Resistant Isolates of Staphylococcus aureus. Journal of Clinical Microbiology. April, 2005.

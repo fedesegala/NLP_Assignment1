@@ -1,0 +1,4 @@
+Ambidirectional dominance occurs in a situation where multiple genes influence a phenotype and dominance is in different directions depending on the gene. For example, for gene A increased height is dominant, while for gene B decreased height is dominant. The opposite situation, where all genes show dominance in the same direction, is called directional dominance. In the same example, for both genes A and B increased height is dominant. According to Broadhurst, ambidirectional dominance is the result of stabilising selection in the evolutionary past. Ambidirectional dominance has been found for exploratory behaviours in mice and paradise fish.
+
+
+== References ==

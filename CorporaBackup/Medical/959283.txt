@@ -1,0 +1,110 @@
+A satellite is a subviral agent that depends on the coinfection of a host cell with a helper virus for its replication. Satellites can be divided into two major classes: satellite viruses and satellite nucleic acids. Satellite viruses, which are most commonly associated with plants, are also found in mammals, arthropods, and bacteria. They encode structural proteins to enclose their genetic material, which are therefore distinct from the structural proteins of their helper viruses. Satellite nucleic acids, in contrast, do not encode their own structural proteins, but instead are encapsulated by proteins encoded by their helper viruses. The genomes of satellites range upward from 359 nucleotides in length for satellite tobacco ringspot virus RNA (STobRV).Most viruses have the capability to use host enzymes or their own replication machinery to independently replicate their own viral RNA. Satellites, in contrast, are completely dependent on a helper virus for replication. The symbiotic relationship between a satellite and a helper virus to catalyze the replication of a satellite genome is also dependent on the host to provide components like replicases to carry out replication.A satellite virus of mamavirus that inhibits the replication of its host has been termed a virophage. However, the usage of this term remains controversial due to the lack of fundamental differences between virophages and classical satellite viruses.
+
+
+== History and discovery ==
+The tobacco necrosis virus was the virus that led to the discovery of the first satellite virus in 1962. Scientists discovered that the first satellite had the components to make its own protein shell. A few years later in 1969, scientists discovered another symbiotic relationship with the tobacco ringspot nepovirus (TobRV) and another satellite virus. The emergence of satellite RNA is said to have come from either the genome of the host or its co-infecting agents, and any vectors leading to transmission.A satellite virus important to human health that demonstrates the need for co-infection to replicate and infect within a host is the virus that causes hepatitis D. Hepatitis D or delta virus (HDV) was discovered in 1977 by Mario Rizzetto and is differentiated from hepatitis A, B, and C because it requires viral particles from hepatitis B virus (HBV) to replicate and infect liver cells. HBV provides a surface antigen, HBsAg, which is utilized by HDV to create a super-infection resulting in liver failure. HDV is found all over the globe but is most prevalent in Africa, the Middle East and southern Italy.
+
+
+== Satellite compared to a virus ==
+
+
+== Classification ==
+The classification of subviral agents is ongoing. The following uses an outline for subviral agents in a 2011 ICTV report. A lot of the taxa have since been assigned more formal names in 2019, so these are included when possible.
+
+
+=== Satellite viruses ===
+Some satellite viruses have been assigned a taxon. The following reflects the results of a 2015 proposal that has since been accepted (Taxoprop 2015.009a).
+Single-stranded RNA satellite viruses
+(unassigned to a family)
+Albetovirus – Tobacco necrosis satellite virus 1, 2, and C
+Aumaivirus – Maize white line mosaic satellite virus
+Papanivirus – Panicum mosaic satellite virus
+Virtovirus – Tobacco mosaic satellite virus, aka Tobacco necrosis satellite virus
+Family Sarthroviridae
+Macronovirus – Macrobrachium satellite virus 1 (extra small virus)
+(unnamed genus) – Nilaparvata lugens commensal X virus
+(unnamed genus) – Chronic bee-paralysis satellite virus
+Double-stranded DNA satellite viruses
+Family Lavidaviridae – Virophages
+Sputnik virophage
+Zamilon virophage
+Mavirus virophage
+Organic Lake virophage
+Single-stranded DNA satellite viruses
+Genus Dependoparvovirus – Adeno-associated virus group
+
+
+=== Satellite nucleic acids ===
+The following may not be comprehensive in its ICTV coverage. The nomenclature for satellite RNAs is to prefix the host virus name with "sat".
+Satellite-like nucleic acids resemble satellite nucleic acids, in that they replicate with the aid of helper viruses. However they differ in that they can encode functions that can contribute to the success of their helper viruses; while they are sometimes considered to be genomic elements of their helper viruses, they are not always found within their helper viruses.
+
+Single-stranded satellite DNAs
+Family Alphasatellitidae (encoding a replication initiator protein)
+Family TolecusatellitidaeGenus Betasatellites (encoding a pathogenicity determinant βC1)
+Genus Deltasatellites (appears defective in βC1, but is their own group)
+Double-stranded satellite RNAs
+Saccharomyces cerevisiae virus satellite M
+Saccharomyces cerevisiae M1 virus satellite
+Saccharomyces cerevisiae M2 virus satellite
+Saccharomyces cerevisiae M28 virus satellite
+Ustilago maydis virus H satellite M
+Ustilago maydis M-P1 virus satellite
+Ustilago maydis M-P4 virus satellite
+Ustilago maydis M-P6 virus satellite
+Trichomonas vaginalis T1 virus satellite
+Partitiviridae associated virus satellites
+dsRNA1
+dsRNA1
+Zygosaccharomyces bailii virus satellite M / Zybavirus balii satellite M
+Single-stranded satellite RNAs
+Large linear satellite RNAs
+Arabis mosaic virus large satellite RNA
+Bamboo mosaic virus satellite RNA (satBaMV)
+Chicory yellow mottle virus large satellite RNA
+Grapevine Bulgarian latent virus satellite RNA
+Grapevine fanleaf virus satellite RNA
+Myrobalan latent ringspot virus satellite RNA
+Tomato black ring virus satellite RNA
+Beet ringspot virus satellite RNA
+Beet necrotic yellow vein virus RNA5
+Small linear satellite RNAs
+Cucumber mosaic virus satellite RNA
+Cymbidium ringspot virus satellite RNA
+Pea enation mosaic virus satellite RNA
+Groundnut rosette virus satellite RNA
+Panicum mosaic virus small satellite RNA
+Peanut stunt virus satellite RNA
+Turnip crinkle virus satellite RNA
+Tomato bushy stunt virus satellite RNA, B10
+Tomato bushy stunt virus satellite RNA, B1
+Tobacco bushy top virus satellite RNA
+Circular satellite RNAs or "virusoids"
+Arabis mosaic virus small satellite RNA
+Tobacco ringspot virus satellite RNA (satTRsV)   above two forms a clade
+Chicory yellow mottle virus satellite RNA (satCYMoV)
+Solanum nodiflorum mottle virus satellite RNA
+Subterranean clover mottle virus satellite RNA
+Velvet tobacco mottle virus satellite RNA   above four forms a clade
+Lucerne transient streak virus satellite RNA (satLTSV)
+Cereal yellow dwarf virus-RPV satellite RNA
+Cherry small circular viroid-like RNA
+Realm Ribozyviria / Family Kolmioviridae – Deltavirus-like satellite-like RNAs
+Genus Deltavirus – Hepadnavirus-associated satellite-like RNAs
+Polerovirus-associated RNAs
+
+
+== See also ==
+Virus
+Virusoid
+Viroid
+Virophage
+WikiSpecies:Virus
+
+
+== References ==
+
+
+== External links ==
+
+ICTV
+"Subcellular". Subcellular Life Forms

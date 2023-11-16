@@ -1,0 +1,19 @@
+Vasculogenic mimicry is the formation of microvascular channels by aggressive, metastatic and genetically deregulated tumour cells. This process differs from angiogenesis in that it occurs de novo without the presence of endothelial cells (tumour cells line tumour vessels effectively mimicking a true vascular endothelium). It was first described in uveal melanomas by Maniotis et al. in 1999. Later also in many other tumor types.  There are two main types of vasculogenic mimicry: tubular and patterned. The former is morphologically similar to normal blood vessels, whereas the latter is visibly different although capable of undergoing anastomosis with blood vessels. Mechanisms and signalling pathways involved in the process of vasculogenic mimicry have been described. The microvasculature generated through vasculogenic mimicry contains a basement membrane that stains positive with periodic acid–Schiff stain.
+
+
+== History ==
+After its discovery in 1999 a controversy arose in the field regarding the validity of the findings and conclusions of Maniotis and colleagues. Nonetheless, their findings have been further supported by several research groups, becoming the focus of much interest due to its potential role as a therapeutic target and indicator of metastasis.
+
+
+== See also ==
+Vasculogenesis
+
+
+== References ==
+
+
+== Further reading ==
+Milosevic, V., Edelmann, R.J., Fosse, J.H., Östman, A., Akslen, L.A. (2022).  Molecular Phenotypes of Endothelial Cells in Malignant Tumors. In: Akslen, L.A., Watnick, R.S. (eds) Biomarkers of the Tumor Microenvironment. Springer, Cham. https://doi.org/10.1007/978-3-030-98950-7_3
+Fan, Yu-Long; Zheng, Min; Ya-Ling, Tan; Liang, Xin‑Hua (August 2013). "A new perspective of vasculogenic mimicry: EMT and cancer stem cells (Review)". Oncology Letters. 6 (5): 1174–1180. doi:10.3892/ol.2013.1555. PMC 3813799. PMID 24179490.
+Kirschmann, D. A.; Seftor, E. A.; Hardy, K. M.; Seftor, R. E. B.; Hendrix, M. J. C. (April 2012). "Molecular Pathways: Vasculogenic Mimicry in Tumor Cells: Diagnostic and Therapeutic Implications". Clinical Cancer Research. 18 (10): 2726–2732. doi:10.1158/1078-0432.CCR-11-3237. PMC 3354024. PMID 22474319.
+Qiao, Lili; Liang, Ning; Zhang, Jiandong; Xie, Jian; Liu, Fengjun; Xu, Deguo; Yu, Xinshuang; Tian, Yuan (February 2015). "Advanced research on vasculogenic mimicry in cancer". Journal of Cellular and Molecular Medicine. 19 (2): 315–326. doi:10.1111/jcmm.12496. PMC 4407602. PMID 25598425.

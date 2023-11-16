@@ -1,0 +1,39 @@
+Antigenic escape, immune escape, immune evasion or escape mutation occurs when the immune system of a host, especially of a human being, is unable to respond to an infectious agent: the host's immune system is no longer able to recognize and eliminate a pathogen, such as a virus. This process can occur in a number of different ways of both a genetic and an environmental nature. Such mechanisms include homologous recombination, and manipulation and resistance of the host's immune responses.Different antigens are able to escape through a variety of mechanisms. For example, the African trypanosome parasites are able to clear the host's antibodies, as well as resist lysis and inhibit parts of the innate immune response. A bacteria, Bordetella pertussis, is able to escape the immune response by inhibiting neutrophils and macrophages from invading the infection site early on. One cause of antigenic escape is that a pathogen's epitopes (the binding sites for immune cells) become too similar to a person's naturally occurring MHC-1 epitopes, resulting in the immune system becoming unable to distinguish the infection from self-cells.
+Antigenic escape is not only crucial for the host's natural immune response, but also for the resistance against vaccinations. The problem of antigenic escape has greatly deterred the process of creating new vaccines. Because vaccines generally cover a small ratio of strains of one virus, the recombination of antigenic DNA that lead to diverse pathogens allows these invaders to resist even newly developed vaccinations. Some antigens may even target pathways different from those the vaccine had originally intended to target. Recent research on many vaccines, including the malaria vaccine, has focused on how to anticipate this diversity and create vaccinations that can cover a broader spectrum of antigenic variation. On 12 May 2021, scientists reported to The United States Congress of the continuing threat of COVID-19 variants and COVID-19 escape mutations, such as the E484K virus mutation.
+
+
+== Mechanisms of evasion ==
+
+
+=== Helicobacter pylori and homologous recombination ===
+The most common of antigenic escape mechanisms, homologous recombination, can be seen in a wide variety of bacterial pathogens, including Helicobacter pylori, a bacterium that infects the human stomach. While a host's homologous recombination can act as a defense mechanisms for fixing DNA double stranded breaks (DSBs), it can also create changes in antigenic DNA that can create new, unrecognizable proteins that allow the antigen to escape recognition by the host's immune response. Through the recombination of H. pylori's outer membrane proteins, immunoglobulins can no longer recognize these new structures and, therefore, cannot attack the antigen as part of the normal immune response.
+
+
+=== African trypanosomes ===
+African trypanosomes are parasites that are able to escape the immune responses of its host animal through a range of mechanisms. Its most prevalent mechanism is its ability to evade recognition by antibodies through antigenic variation. This is achieved through the switching of its variant surface glycoprotein or VSG, a substance that coats the entire antigen. When this coat is recognized by an antibody, the parasite can be eliminated. However, variation of this coat can lead to antibodies being unable to recognize and eliminate the antigen. In addition to this, the VSG coat is able to clear the antibodies themselves to escape their clearing function.Trypanosomes are also able to achieve evasion through the mediation of the host's immune response. Through the conversion of ATP to cAMP by the enzyme adenylate cyclase, the production of TNF-α, a signaling cytokine important for inducing inflammation, is inhibited in liver myeloid cells. In addition, trypanosomes are able to weaken the immune system by inducing B cell apoptosis (cell death) and the degradation of B cell lymphopoiesis. They are also able to induce suppressor molecules that can inhibit T cell reproduction.
+
+
+=== Plant RNA viruses ===
+Lafforgue et al 2011 found escape mutants in plant RNA viruses to be encouraged by coexistence of transgenic crops with artificial microRNA (amiR)-based resistance with fully susceptible individuals of the same crop, and even more so by coexistence with weakly amiR-producing transgenics.
+
+
+=== Tumor escape ===
+Many head and neck cancers are able to escape immune responses in a variety of ways. One such example is through the production of pro-inflammatory and immunosuppressive cytokines. This can be achieved when the tumor recruits immunosuppressive cell subsets into the tumor's environment. Such cells include pro-tumor M2 macrophages, myeloid-derived suppressor cells (MDSCs), Th-2 polarized CD4 T-lymphocytes, and regulatory T-lymphocytes. These cells can then limit the responses of T cells through the production of cytokines and by releasing immune-modulating enzymes.  Additionally tumors can escape antigen-directed therapies by loss or down-regulation of the associated antigens, as well demonstrated after checkpoint blockade immunotherapy and CAR-T cell therapy though more recent data indicate that this may be prevented by localized bystander killing mediated by fasL/fas.  Alternatively therapies can be developed to encompass multiple antigens in parallel.
+
+
+== Escape from vaccination ==
+
+
+=== Consequences of recent vaccines ===
+While vaccines are created to strengthen the immune response to pathogens, in many cases these vaccines are not able to cover the wide variety of strains a pathogen may have. Instead they may only protect against one or two strains, leading to the escape of strains not covered by the vaccine. This results in the pathogens being able to attack targets of the immune system different than those intended to be targeted by the vaccination. This parasitic antigen diversity is particularly troublesome for the development of the malaria vaccines.
+
+
+=== Solutions to escape of vaccination ===
+In order to fix this problem, vaccines must be able to cover the wide variety of strains within a bacterial population. In recent research of Neisseria meningitidis, the possibility of such broad coverage may be achieved through the combination of multi-component polysaccharide conjugate vaccines. However, in order to further improve upon broadening the scope of vaccinations, epidemiological surveillance must be conducted to better detect the variation of escape mutants and their spread.
+
+
+== See also ==
+Viral strategies for immune response evasion
+
+
+== References ==

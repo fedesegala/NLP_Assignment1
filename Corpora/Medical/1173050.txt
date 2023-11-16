@@ -1,0 +1,55 @@
+Cyclic vomiting syndrome (CVS) is a chronic functional condition of unknown pathogenesis. CVS is characterized as recurring episodes lasting a single day to multiple weeks. Each episode is divided into four phases: inter-episodic, prodrome, vomiting, and recovery. Inter-episodic phase (symptom free phase), is characterized as no discernible symptoms, normal everyday activities can occur, and this phase typically lasts one week to one month. The prodrome phase is known as the pre-emetic phase, characterized by the initial feeling of an approaching episode, still able to keep down oral medication. Emetic or vomiting phase is characterized as intense persistent nausea, and repeated vomiting typically lasting hours to days. Recovery phase is typically the phase where vomiting ceases, nausea diminishes or is absent, and appetite returns. "Cyclic vomiting syndrome (CVS) is a rare abnormality of the neuroendocrine system that affects 2% of children." This disorder is thought to be closely related to migraines and family history of migraines.
+
+
+== Signs and symptoms ==
+Affected individuals may vomit or retch 6–12 times in an hour and an episode may last from a few hours to over three weeks and in some cases months, with a median episode duration of 41 hours.  Stomach acid, bile and, if the vomiting is severe, blood may be vomited. Some with the condition will ingest water to reduce the irritation of bile and acid on the esophagus during emesis. Between episodes, the affected individual is usually normal and healthy otherwise but can be in a weak state of fatigue or experience muscle pain. In approximately half of cases the attacks, or episodes, occur in a time-related manner. Each attack is stereotypical; that is, in any given individual, the timing, frequency and severity of attacks is similar. Some affected people experience episodes that progressively get worse when left untreated, occurring more frequently with reduced symptom free phase.Episodes may happen every few days, every few weeks or every few months, for some happening at common uniform times, typically mornings. For other affected people, there is not a pattern in time that can be recognized. Some with the condition have a warning of an episodic attack; they may experience a prodrome, some documented prodromal symptoms include: unusually intense nausea and pallor, excess salivation, sweating, flushing, rapid/irregular heartbeat, diarrhea, anxiety/panic, food aversion, restlessness/insomnia, irritability, depersonalization, fatigue/listlessness, intense feelings of being hot or chilled, intense thirst, shivering/shaking, retching, tachypnea, abdominal pain/cramping, limb paresthesias, hyperesthesia, photophobia, phonophobia, headache, and dyspnea, heightened sensitivity, especially to light, though sensitivity to smell, sound, pressure, and temperature, as well as oncoming muscle pain and fatigue, are also reported by some patients. Many experiences a full panic attack when nausea begins and continue to panic once the vomiting has begun. Medications like Lorazepam, Alprazolam, and other benzodiazepines are prescribed by their doctors and instructed to take immediately at the onset of any of their CVS symptoms and/or triggers. Some prodromal symptoms are present inter-episodically as well as during acute phases of illness. The majority of affected people can identify triggers that may precede an attack. The most common are various foods, infections (such as colds), menstruation, extreme physical exertion, lack of sleep, and psychological stresses, both positive and negative.An affected person may also be light-sensitive (photophobic), sound-sensitive (phonophobic) or, less frequently, temperature- or pressure-sensitive during an attack.  Some people also have a strong urge to bathe in warm or cold water. In fact, many people with CVS experience a compulsion to be submerged in hot water, and end up taking several baths during the duration of an episode. For some the psychological compulsion to be in hot water is so extreme that they cannot stop themselves from taking very long baths in near scalding hot water several times per day. For some of these people, they may have just finished taking a lengthy bath in extremely hot water and immediately feel this compulsion again and end up taking another bath right after drying off. Some people with the condition experience insomnia, diarrhea (GI complications), hot and cold flashes, and excessive sweating before an episode. Some report that they experience a restless sensation or stinging pain along the spine, hands, and feet followed by weakness in both legs. Some of these symptoms may be due to dehydration or hypokalemia from excessive vomiting, rather than the underlying cause of CVS.
+
+
+== Genetics ==
+There is no known genetic pathogenesis for CVS. Recent studies suggest many affected individuals have a family history of related conditions, such as migraines, psychiatric disorders and gastrointestinal disorders. Inheritance is thought to be maternal, a possible genetic mitochondrial inheritance. Adolescents show higher possible mitochondrial inheritance and maternal inheritance than found in adults. Single base-pair and DNA rearrangements in the mitochondrial DNA (mtDNA) have been associated with these traits.
+
+
+== Diagnosis ==
+The cause of CVS has not been determined and there are no diagnostic tests for CVS. Several other medical conditions, such as cannabinoid hyperemesis syndrome (CHS), can mimic the same symptoms, and it is important to rule these out. If all other possible causes have been excluded, a diagnosis of CVS using Rome criteria by a physician may be appropriate.Once formal investigations to rule out gastrointestinal or other causes have been conducted, these tests do not need to be repeated in the event of future episodes.
+
+
+=== Diagnostic criteria ===
+Due to the lack of specific biomarkers available for the disorder, and if all other possible causes can be ruled out (such as intestinal malrotation), physicians rely on the Rome IV process criteria in order to diagnose patients. Patients must meet all three of the following criteria to receive diagnosis: 
+
+Stereotypical episodes of acute vomiting each with a duration of less than 1 week
+A history of at least three discrete episodes in the prior year and at least two episodes in the past 6 months, each occurring at least 1 week apart
+An absence of vomiting between episodes, but other milder symptoms can be present between cyclesCriteria must be fulfilled for the last 3 months with symptom onset at least 6 months prior to diagnosis. A history of family history of migraine headaches can also be used in facilitating diagnosis.
+
+
+== Treatment ==
+Treatment for cyclic vomiting syndrome depends on the evident phase of the disorder.Because the symptoms of CVS are similar (or perhaps identical) to those of the disease well-identified as "abdominal migraine,"  prophylactic migraine medications, such as topiramate and amitriptyline, have seen recent success in treatment for the prodrome and vomiting phases, reducing the duration, severity, and frequency of episodes.Therapeutic treatment for the prodromal phase, characterized by the anticipation of an episode, consists of sumatriptan (nasal or oral) an anti-migraine medication, anti-inflammatory drugs to reduce abdominal pain, and possible anti-emetic drugs. These options may be helpful in preventing an episode or reducing the severity of an attack.The most common therapeutic strategies for those already in the vomiting phase are maintenance of salt balance by appropriate intravenous fluids and, in some cases, sedation. Having vomited for a long period prior to attending a hospital, patients are typically severely dehydrated. For a number of patients, potent anti-emetic drugs such as ondansetron (Zofran) or granisetron (Kytril), and dronabinol (Marinol) may be helpful in either preventing an attack, aborting an attack, or reducing the severity of an attack. Many patients seek comfort during episodes by taking prolonged showers and baths typically quite hot. The use of a heating pad may also help reduce abdominal pain.Lifestyle changes may be recommended, such as extended rest, reduction of stress, frequent small meals, and to abstain from fasting. A diet change may be recommended avoid food allergens, eliminating trigger foods such as chocolates, cheese, beer, and red wine.Some patients experience relief from inhaled isopropyl alcohol.Intravenous Haloperidol may be an effective treatment.
+
+
+== Prognosis ==
+Fitzpatrick et al. (2007) identified 41 children with CVS. The mean age of the sample was 6 years at the onset of the syndrome, 8 years at first diagnosis, and 13 years at follow-up. As many as 39% of the children had resolution of symptoms immediately or within weeks of the diagnosis. Vomiting had resolved at the time of follow-up in 61% of the sample. Many children, including those in the remitted group, continued to have somatic symptoms such as headaches (in 42%) and abdominal pain (in 37%).Most children who have this disorder miss on average 24 school days a year.  The frequency of episodes is higher for some people during times of excitement.  Charitable organizations to support affected people and their families and to promote knowledge of CVS exist in several countries.
+A 2005 study by Fleisher et al. identified 41 adults who had been previously seen for complaints compatible with CVS. The average age at presentation of the sample was 34 years, and the mean age at onset was 21 years. The mean duration of the CVS at the time of consultation was 12 years. Of the 39 patients surveyed, 85% had episodes that were fairly uniform in length. Most patients reported these attacks in the morning hours. Of those 39 patients, 32% were completely disabled and required financial support due to CVS. Despite this, data suggests that the prognosis for CVS is generally favorable.Complications can include dehydration, dental caries, or an esophageal tear.
+
+
+== Epidemiology ==
+The average age at onset is 3–7 years, with described cases as young as 6 days and as old as 73 years. Typical delay in diagnosis from onset of symptoms is 3 years. Females show a slight predominance over males.One study found that 3 in 100,000 five-year-olds are diagnosed with the condition. Two studies on childhood CVS suggest nearly 2% of school-age children may have CVS.
+
+
+== History ==
+Cyclic vomiting syndrome was first described in France by Swiss physician Henri Clermond Lombard and first described in the English language by pediatrician Samuel Gee in 1882.It has been suggested that Charles Darwin's adult illnesses may have been due to this syndrome.
+
+
+== See also ==
+Migraine
+Cannabis hyperemesis syndrome
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Cyclic Vomiting Syndrome Emedicine article
+CVS page at the US National Digestive Diseases Clearinghouse, NIH Publication No. 04-4548
+Cyclic Vomiting Syndrome on rarediseases.org

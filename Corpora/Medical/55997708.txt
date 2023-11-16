@@ -1,0 +1,24 @@
+The Mitelman Database of Chromosome Aberrations and Gene Fusions in Cancer is a free access database devoted to chromosomes, genes, and cancer. It was first published in 1983 as a book named "Catalog of Chromosome aberrations in Cancer" in the Journal of Cytogenetics and Cell Genetics, containing 3,844 cases. Subsequent editions of the Catalog were published 1985 (5,345 cases), 1988 (9,069 cases), 1991 (14,141 cases), 1994
+(22,076 cases), and 1998 (30,541 cases). In 2000, it became an online database on open access hosted by the NCI (National Cancer Institute).
+The information in the Mitelman Database of Chromosome Aberrations and Gene Fusions in Cancer relates cytogenetic changes and their genomic consequences, in particular gene fusions, to tumor characteristics, based either on individual cases or associations. All the data have been manually culled from the literature by Felix Mitelman in collaboration with Bertil Johansson and Fredrik Mertens.
+"A Goldmine of Cytogenetic Data Linked to Cancer" (Center for Biomedical Informatics, National Cancer Institute 2023)
+"Taking in consideration all the progress made in cancer cytogenetics, it would have been much slower without the Mitelman database."The Mitelman Database is supported by NCI (National Cancer Institute), the Swedish Cancer Society and the Swedish Childhood Cancer Foundation. The database is updated quarterly in January, April, July, and October.
+The database is available on-line (https://mitelmandatabase.isb-cgc.org) for searches related to cases cytogenetics, gene fusions, clinical associations, structural or numerical recurrent aberrations and references.
+The database was last updated on October 16, 2023, with a total number of cases=77,061, a total number of unique gene fusions=33,711 and a total number of genes involved=14,046.
+
+
+== See also ==
+Atlas of Genetics and Cytogenetics in Oncology and Haematology
+COSMIC cancer database
+Ensembl genome database project
+Entrez Gene
+GenBank
+Gene Wiki
+HUGO Gene Nomenclature Committee
+International Agency for Research on Cancer
+International Classification of Diseases for Oncology
+Online Mendelian Inheritance in Man
+UCSC Genome Browser
+
+
+== References ==

@@ -1,0 +1,18 @@
+Endemixit is a project that studies the effects of reduced population size in five Italian endemic species at risk of extinction. The final objective is to estimate the risk of extinction from genomic data and contribute to the preservation of these species. The project was funded by the MUR (Italian Ministry for Research) and coordinated by the Department of Life Sciences and Biotechnology of the University of Ferrara with the involvement of five other Italian universities: Ancona, Florence, Padua, Rome Tor Vergata and Trieste.
+
+
+== Species under study ==
+The species considered are all classified in danger or in critical danger of extinction in the IUCN Red List:
+
+Podarcis raffonei (Aeolian wall lizard), a lizard with a current range restricted to three Aeolian Islands and subdivided into isolated and relatively distant populations.
+Hipparchia sbordonii (Ponza grayling), currently only found on some Pontine Islands.
+Acipenser naccarii (Adriatic sturgeon), once widespread in the Northern Adriatic Sea and in many rivers of Northern Italy, but today almost extinct in nature.
+Bombina pachypus (Apennine yellow-bellied toad), an endemic and endangered species of the Italian Peninsula closely related to the most common European yellow-bellied toad (B. variegata).
+Ursus arctos marsicanus (Marsican, or Apennine, brown bear), a subspecies of brown bear (U. arctos), present exclusively in a small region of the central Apennines Mountains.
+
+
+== Applications and innovative aspects ==
+Endemixit is a genomic project applied to the conservation of biodiversity. Five reference genomes will be produced (one for each endemic species/subspecies), and 20 to 30 individuals per species will be re-sequenced (whole genomes at intermediate coverage). Population genomics analyses will be used to reconstruct past demographic processes and to estimate the genetic load possibly accumulated due to genetic drift. The results will be theoretically important to understand the genetic load dynamic. Practically, they will provide guidelines and priorities for the conservation of these endemics.Endemixit is a partner of the European Reference Genome Atlas (ERGA), a pan-European consortium that aims to produce reference genomes of high quality for all European biodiversity to contribute to the protection of the same. Endemixit is also affiliated to the Earth Biogenome Project (EBP), an international project that aims to sequence the complete genome of all eukaryotic living beings in 10 years.
+
+
+== References ==

@@ -1,0 +1,70 @@
+C3orf56 is a protein encoding gene found on chromosome 3. Although, the structure and function of the protein is not well understood, it is known that the C3orf56 protein is exclusively expressed in metaphase II of oocytes and degrades as the oocyte develops towards the blastocyst stage. Degradation of the C3orf56 protein suggests that this gene plays a role in the progression from maternal to embryonic genome and in embryonic genome activation.
+
+
+== Gene ==
+The C3orf56 gene is positioned at 3q21.3 on the plus strand and is 5,055 base pairs in length. The gene occupies base pair 127193131 to 127198185. C3orf56 has two aliases: FLJ40141 and LOC285311.
+
+
+== Transcript ==
+The primary assembly contains 2 exons and is 242 amino acids in length.
+
+
+== Protein ==
+C3orf56 has a predicted molecular weight of 26 kdal and an isoelectric point of 8.48.
+
+
+=== Primary Structure ===
+C3orf56 is rich in proline, serine, and tryptophan. It has one highly conserved internal repeat which spans from G85 to P125 and G146 to P178.
+
+
+=== Secondary Structure ===
+Only one highly conserved alpha helical structure was predicted.
+
+
+=== Tertiary Structure ===
+The tertiary structure of C3orf56 was predicted with a confidence score of -3.08. It is suggested to possess many hydrogen bonds and salt bridges.
+
+
+=== Protein-Protein Interactions ===
+C3orf56 has been predicted to interact with tyrosine-protein kinase transmembrane receptor (ROR2) and oocyte-expressed protein homolog (OOEP).
+
+
+== Gene level regulation ==
+
+
+=== Expression ===
+C3orf56 has shown to be over-expressed in the testes. Relative to the expression of all other genes, C3orf56 has shown an almost absence of expression in human tissues (excluding the ovary) than in metaphase II oocytes. C3orf56 also has an expression relatively lower in the 8-cell embryo stage and significantly lower in the morula and blastocyst stages compared to the 1-cell, 2-cell,  and 4-cell stages.
+
+
+=== RNA binding proteins and transcription factors ===
+RNA binding proteins seem to be conserved within the 5’ UTR and show some functional significance with sex and development. Many predicted transcription factors also demonstrated a functional importance in development.
+
+
+== Transcript level regulation ==
+
+
+=== Predicted stem loops ===
+Hypothetical stem loops appear to be slightly more prevalent in the 3’ UTR sequence with more conservation of stem loops in the 5’ UTR sequence.
+
+
+== Protein level regulation ==
+
+
+=== Post-translational modifications ===
+C3orf56 has many predicted post-translational modifications. Predicted protein kinase C phosphorylation sites were found at and S6-K8, K181-C183, and S228-R230. Predicted casein kinase II phosphorylation sites at S109-S112, S213-E186, and S218-L220. General phosphorylation sites were predicted at T3, S6, S21, S109, T160, and S227. N-myristoylation sites were predicted to be found at G2-E7, G26-S31, G38-S43, and G146-S151.
+
+
+=== Localization ===
+A potential nuclear localization signal was found at position P231 to R238 along with a suggested nuclear tendency.
+
+
+== Evolutionary History ==
+The earliest appearance of the C3orf56 gene was approximately 102 million years ago within the species Orycteropus afer. 
+Compared to the speed at which the proteins fibrinogen alpha and cytochrome c evolved, C3orf56 evolves very rapidly. This relationship was limited to more recently diverged species.
+
+
+=== Homology ===
+C3orf56 has numerous orthologs that are only within various placental mammals. No known paralogs of C3orf56 exist at this time.
+
+
+== References ==

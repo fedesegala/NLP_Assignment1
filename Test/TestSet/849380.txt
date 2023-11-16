@@ -1,0 +1,49 @@
+Aniridia is the absence of the iris, a muscular structure that opens and closes the pupil to allow light into the eye. It is also responsible for eye color. Without it, the central eye appears all black. It can be congenital, in which both eyes are usually involved, or caused by a penetrant injury.  Isolated aniridia is a congenital disorder that is not limited to a defect in iris development,  but is a  panocular condition with macular and optic nerve hypoplasia, cataract,  and corneal changes. Vision may be severely compromised and the disorder is frequently associated with some ocular complications: nystagmus, amblyopia, buphthalmos, and cataract. Aniridia in some individuals occurs as part of a syndrome, such as WAGR syndrome (kidney nephroblastoma (Wilms tumour), genitourinary anomalies and intellectual disability), or Gillespie syndrome (cerebellar ataxia).
+
+
+== PAX6 ==
+The AN2 region of the short  arm of chromosome 11 (11p13) includes the PAX6 gene (named for its PAired boX status), whose gene product helps regulate a cascade of other genetic processes involved in the development of the eye (as well as other non-ocular structures).  This PAX6 gene is around 95% similar to the pax gene found in zebrafish, a creature whose ancestors diverged from human evolutionary development around 400 million years ago. Thus the PAX6 gene is  highly conserved across evolutionary  lineages.
+Defects in the PAX6 gene cause aniridia-like ocular defects in mice (as well as Drosophila). Aniridia is a heterozygous disorder, meaning that only one of the two chromosome 11 copies is affected. When both copies are altered (homozygous condition), the result is a uniformly fatal condition with near complete failure of entire eye formation. In 2001, two cases of  homozygous aniridia patients were reported; the fetuses died prior to birth and had severe brain damage. In mice, homozygous small eye defect (mouse Pax-6) leads to loss of the eyes and nose and the murine fetuses sustain severe brain damage.
+
+
+== Types ==
+Aniridia may be broadly divided  into hereditary and sporadic forms. Hereditary aniridia is usually transmitted in an autosomal dominant manner (each offspring has a 50% chance of being affected), although rare autosomal recessive forms (such as Gillespie syndrome) have also been reported. Sporadic aniridia mutations may affect the WT1 region adjacent to the AN2 aniridia region, causing a kidney cancer called nephroblastoma (Wilms tumor). These patients often also have genitourinary abnormalities and intellectual disability (WAGR syndrome).
+Several different mutations may affect the PAX6 gene. Some mutations appear to inhibit gene function more than others, with subsequent variability in the severity of the disease. Thus, some aniridic individuals are only missing a relatively small amount of iris, do not have foveal hypoplasia, and retain relatively normal vision. Presumably, the genetic defect in these individuals causes less "heterozygous insufficiency," meaning they retain enough gene function to yield a milder phenotype.
+
+Online Mendelian Inheritance in Man (OMIM): 106210 AN
+Online Mendelian Inheritance in Man (OMIM): 106220 Aniridia and absent patella
+Online Mendelian Inheritance in Man (OMIM): 106230 Aniridia, microcornea, and  spontaneously reabsorbed cataract
+Online Mendelian Inheritance in Man (OMIM): 206700 Aniridia, cerebellar ataxia, and mental deficiency (Gillespie syndrome)
+
+
+== Mutational analysis ==
+Molecular (DNA) testing for PAX6 gene mutations (by sequencing of the entire coding region and deletion/duplication analysis) is available for isolated aniridia and the Gillespie syndrome. For the WAGR syndrome, high-resolution cytogenetic analysis and fluorescence in situ hybridization (FISH) can be utilized to identify deletions within chromosome band 11p13, where both the PAX6 and WT1 genes are located.
+
+
+== Symptoms ==
+Aniridia can cause many symptoms, such as:
+
+Poor vision (not always present)
+More sensitivity to light
+Fast, uncontrolled, shaking "to and from" eye movements (nystagmus)
+Eyes don't line up (strabismus)
+
+
+== Treatment ==
+In May 2018, the U.S. Food and Drug Administration approved the CustomFlex Artificial Iris, the first synthetic iris for use in adults and children with congenital aniridia or iris defects related to other conditions, such as albinism, traumatic injury, or surgical removal due to ocular melanoma. The artificial iris is a surgically implanted device made of thin, foldable, medical-grade silicone and is custom-sized and colored for each individual patient. The prosthetic iris is held in place by the anatomical structures of the eye or, if needed, by sutures.
+
+
+== See also ==
+WAGR syndrome
+Scleral lenses
+
+
+== References ==
+
+
+== External links ==
+
+GeneReviews/NCBI/NIH/UW entry on Aniridia
+NCBI/Molecular diagnosis of aniridia
+OMIM entries on Aniridia
+GeneReviews/NIH/NCBI/UW entry on Wilms Tumor Overview

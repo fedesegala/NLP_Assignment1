@@ -1,0 +1,31 @@
+The Common Cold Unit (CCU) or Common Cold Research Unit (CCRU) was a unit of the British Medical Research Council which undertook laboratory and epidemiological research on the common cold between 1946 and 1989 and produced 1,006 papers. The Common cold Unit studied etiology, epidemiology, prevention, and treatment of common colds. It was set up on the site of the Harvard Hospital, a former military hospital at Harnham Down near Salisbury in Wiltshire. Common colds account for a third of all acute respiratory infections and the economic costs are substantial in terms of sick leave.
+Thirty volunteers were required every fortnight during trial periods. The unit advertised in newspapers and magazines for volunteers, who were paid a small amount. A stay at the unit was presented in these advertisements as an unusual holiday opportunity. The volunteers were infected with preparations of cold viruses and typically stayed for ten days. They were housed in small groups of two or three, with each group strictly isolated from the others during the course of the stay. Volunteers were allowed to go out for walks in the countryside south of Salisbury, but residential areas were out of bounds.
+Human coronaviruses, which are responsible for about 10% of common colds, were first isolated from volunteers at the unit in 1965. The CCU continually recruited volunteers for research into the common cold until its closure in 1990. The final  director was David Tyrrell, whose autobiography describes his work at the CCU from 1957.
+The CCU was sometimes confused with the Microbiological Research Establishment at nearby Porton Down, a military unit with which it occasionally collaborated but was not officially connected.
+
+
+== History ==
+Our current understanding of colds began in 1914 when Dr. Kruse showed that nasal secretions from people with colds could be filtrated to make them free from bacteria and that inoculation of those filtrated washes into the nose of recipients caused the same illness. Christopher Andrewes and David Tyrrell refined these experiments at Harvard Hospital in Salisbury, England. Around 1946 this hospital became the Common Cold Unit of the Medical Research Council. The Common Cold Research Unit was set up by the Medical Research Council after Dr. Andrewes promoted the idea of researches on volunteers and persuaded authorities to set up the research station.
+
+
+== Discoveries ==
+The first coronavirus (B814) was found in washes from a boy with typical common cold symptoms in 1960 during the study led by virologist David Tyrrell at the Common Cold Unit. After washes were inoculated to volunteers and tested for known viruses none was found. Publication about first human coronavirus was published in The BMJ in 1965. Later virologist June Almeida imaged virus for the first time and group of eight virologists including June Almeida named it coronavirus in their publication in 1968.
+
+
+== Results ==
+For 43 years of Common Cold Unit existence thousands of volunteers participated in researches being inoculated with common cold viruses or being in control group, but no cure for the common cold has been found. Some compounds were active against rhinovirus in vitro, but they didn't demonstrate clinical efficiency. Interferons alpha and beta administered intranasally before virus challenge were effective as prophylactic agents, but they were most effective in prophylaxis rather than treatment and had local side effects so they subsequently were not used in the routine practice against common cold viruses. Research made by the Common Cold Unit improved our understanding of respiratory viruses, their lifecycle and possible vaccines.
+
+
+== Sources ==
+Tyrrell, D A J (June 1992). "A view from the Common Cold Unit". Antiviral Res. 18 (2): 105–125. doi:10.1016/0166-3542(92)90032-Z. PMC 7133934. PMID 1329647.
+Tyrrell, David; Michael Fielder (2002). Cold Wars: The Fight against the Common Cold. New York: Oxford University Press. ISBN 0-19-263285-X.
+Richmond, Caroline (June 2005). "Obituary: David Tyrrell". BMJ. 330 (7505): 1451. doi:10.1136/bmj.330.7505.1451. PMC 558394.
+"David Tyrrell obituary". The Times. London. 18 May 2005. Retrieved 17 February 2008.
+"The Medical Research Council Common Cold Research Unit". Ministry of Defence. Archived from the original on 26 October 2012. Retrieved 17 February 2008.
+
+
+== References ==
+
+
+== External links ==
+History of the Common Cold Unit - a British Library oral history project

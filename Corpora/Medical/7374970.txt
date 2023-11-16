@@ -1,0 +1,30 @@
+Tissue tropism is the range of cells and tissues of a host that support growth of a particular pathogen, such as a virus, bacterium or parasite.Some bacteria and viruses have a broad tissue tropism and can infect many types of cells and tissues. Other viruses may infect primarily a single tissue. For example, rabies virus affects primarily neuronal tissue.
+
+
+== Influencing factors ==
+Factors influencing viral tissue tropism include:
+
+The presence of cellular receptors permitting viral entry.
+Availability of transcription factors involved in viral replication.
+The molecular nature of the viral tropogen or virus surface, such as the glycoprotein, which interacts with the corresponding cell receptor.The cellular receptors are the proteins found on a cell or viral surface.  These receptors are like keys, allowing the viral cell to fuse with or attach itself to a cell.  The way that these proteins are acquired is through a similar process to that of an infection cycle.
+
+
+== How 'tropic' tissue is acquired ==
+Tissue tropism develops in the following stages: 
+
+Virus with GPX enters body (where GP - glycoprotein and X is the numeric value given to the GP)
+Viral cell "targets" cell with a GPX receptors
+Viral cell fuses with the host cell and inserts its contents into the host cell
+Reverse transcription occurs
+Viral DNA is incorporated with host DNA via viral enzyme
+Production of RNA and viral protein
+Viral particle is assembled
+Viral particle buds out of the cell, taking a chunk of the cell membrane with it and acquiring a new tissue with all the receptors it needs to continue tissue tropismExample: HIV has a gp120, which is precisely what the CD4 marker is on the surface of the macrophages and T cells. Thus HIV can enter T cells and macrophages
+
+
+== See also ==
+Host tropism
+Endothelial Cell Tropism
+
+
+== References ==

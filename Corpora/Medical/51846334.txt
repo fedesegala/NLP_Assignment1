@@ -1,0 +1,4 @@
+Distal promoter elements are regulatory DNA sequences that can be many kilobases distant from the gene that they regulate.They can either be enhancers (increasing expression) or silencers (decreasing expression). They act by binding activator or repressor proteins (transcription factors) and the intervening DNA bends such that the bound proteins contact the core promoter and RNA polymerase.
+
+
+== References ==

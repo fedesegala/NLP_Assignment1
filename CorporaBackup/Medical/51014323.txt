@@ -1,0 +1,48 @@
+Biphenotypic sinonasal sarcoma is a newly recognized, very rare, low-grade malignant tumor of the nasal cavity, which was formerly probably included in fibrosarcoma and synovial sarcoma cases. It was incorporated into the fourth edition of the World Health Organization Classification of Head and Neck Tumours, published in 2017.
+
+
+== Classification ==
+Abbreviations:
+
+Biphenotypic sinonasal sarcoma (BSNS)
+Original name: Low-grade sinonasal sarcoma with neural and myogenic features (LGSSNMF), but it is no longer recommended.Definitions:
+
+A low-grade spindle-cell neoplasm of the sinonasal tract associated with overlying respiratory epithelium and showing S100 protein and actin immunoreactivity
+
+
+== Signs and symptoms ==
+The tumor  often affects multiple sites within the upper aerodigestive tract, frequently showing extension into the orbit (25%) or through the cribriform plate (11%) of the ethmoid sinus into the skull base. The patient presents with nonspecific findings, including difficulty breathing, facial pressure, congestion, pain, and mild epiphora. Often, concurrent benign sinonasal tract inflammatory polyps are seen.
+
+
+== Diagnosis ==
+
+
+=== Microscopic ===
+Infiltrative, highly cellular spindled cell neoplasm  is poorly circumscribed and unencapsulated. Bone destruction or invasion is common. The cells show medium to long fascicles (nerve fibers), with a herringbone pattern. The cells are remarkably uniform with elongated nuclei. Delicate strands of intercellular collagen without ropy or dense deposition are seen. A very characteristic concurrent surface-type respiratory epithelial proliferation is found from the surface or in small cystic spaces around the cancer cells, often forming glands. The background may have a rich vascularity and usually has a small number of scattered lymphocytes. Extra growths or mitoses are rare, while necrosis, ulceration, and hemorrhage are usually absent.
+
+
+=== Ancillary tests ===
+Immunohistochemistry
+S100 protein (a tumor marker protein) is focal, patchy to diffuse in all tumors. 
+Smooth-muscle actin or muscle-specific actin is seen in nearly all tumors, but a strong and diffuse reaction with SMA is seen in only about 50% of cases. 
+No reactivity occurs with other tumor markers such as SOX10, myogenin, estrogen receptor, progesterone receptor, or keratins.Genetic testing
+t(2;4)(q35;q31.1): PAX3-MAML3 fusion protein Only a few cases have shown a PAX3-NCOA1 (inv(2)(q35p23)), and the tumor is negative for SS18-SSX1 or SSX2
+
+
+=== Differential diagnoses ===
+Fibrosarcoma can be very similar,  although nerve fibers and the herringbone pattern tend to be longer and more well developed.
+Synovial sarcoma is almost histologically identical, but genetic translocation (SS18-SSX1 or SSX2) is shown through fluorescence in situ hybridization or RT-PCR.
+Malignant peripheral nerve sheath tumor, such as triton tumor, has distinctive alternating light and dark cellular areas, an association with peripheral nerves, and usually a high-grade tumor with pleomorphism, necrosis, and increased mitoses. Generally, it shows reactivity with S100 protein and SOX10, while negative for SMA or MSA.
+Leiomyosarcoma has fascicular (nerve tract) architecture, with cigar-shaped nuclei showing blunt ends, perinuclear halos (cellular nuclear shrinking), and eosinophilic cytoplasm. Much stronger reactivity occurs with desmin and SMA, while it is usually negative with S100 protein.
+Mucosal melanoma, also a spindled-cell tumor in many cases, has pleomorphism (more variety in shape/size of tumor cells), intranuclear inclusions, and prominent nucleoli. The neoplastic cells are usually strongly reactive with S100 protein, SOX10, HMB45, Melan-A, and tyrosinase, while negative for SMA or MSA.
+
+
+== Epidemiology ==
+As it is newly described, this tumor is probably under-reported, though it is considered to be very rare. Patients present over a wide age range (24–85 years), with a mean age of 52 years. More females are diagnosed than males (2:1).
+
+
+== Management ==
+Surgery, often accompanied by radiation, is the treatment of choice. Frequent (44%) local recurrence is seen, often many years after the initial presentation. As of 2012,  no regional or distant metastases are reported, and no patient has yet died from disease.
+
+
+== References ==

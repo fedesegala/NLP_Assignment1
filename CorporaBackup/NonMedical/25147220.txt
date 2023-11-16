@@ -1,0 +1,49 @@
+Coloured hats or color-coded hats are used in psychology, religions, societies, workplaces, and learning environments, both literally and figuratively. Examples of this can be found on construction sites, in classrooms, and in the Catholic Church. It is also a present theme throughout history.
+
+
+== Psychology - the Six Thinking Hats ==
+
+In 1985 psychologist and author Edward de Bono published a book titled Six Thinking Hats. The book presents a method for groups of people working together to use in order to better understand and utilize parallel thinking skills and helps limit disputes within said group.
+
+The White Hat is the information hat. The wearer of the white hat is considering the information they already know and looking for more information they may need. Questions the wearer should ask are "What information do we have? What information is still needed? What does our data tell us?"
+The Yellow Hat is the hat of optimism. The Yellow Hat wearer looks at the positives. They look for value and what benefits their situation. Questions the Yellow Hat wearer asks are "What are the benefits? Where are the opportunities for a positive outcome? What do we see on the bright side of this situation?"
+The Black Hat symbolizes risks and problems. The job of the person wearing this hat is to look for obstacles that could cause problems or things that are hindering their success. The Black Hat wearer may ask questions like: "What are the difficulties? Where are the downsides? What might go wrong?"
+The Red Hat is the  emotional hat. The wearer communicates their feelings such as their likes and dislikes, what scares or excites them, and things they love or hate. Questions to ask when wearing this hat are: "What do we like about this and why? "How can our gut reaction inform our thinking?"
+The Green Hat symbolizes creativity. This hat searches for a new course of action and possibilities. Questions to consider when wearing the Green Hat are "What are some creative possibilities? What are alternatives we haven't considered? How can brainstorming help us here?"
+The Blue Hat is an overseer. The person wearing this hat makes sure that the rules for all other hats are being followed and that things are running smoothly. Questions asked by the wearer of this hat are "What is our first step? How well are we following the Six Hats process and what are we learning? What are the stumbling blocks we are encountering as we go? What are we learning about this process and this topic?" (Setyaningtyas, Radia)
+
+
+== Cybersecurity ==
+
+Whether they are malicious or ethical hackers play a large role in cybersecurity. Within that industry they tend to be grouped under three main categories, the white hat, grey hat, and black hat.
+White hat hackers are also known as ethical hackers or penetration testers. They work within the boundaries of the law. Their talent is used to search for problems that could put protected information at risk at the behest of the company's owner. Some ethical hackers earn substantial amounts of money for "bug bounties" put out by software corporations.
+Grey hat hackers may not be malicious, what they do is illegal in most cases. They hack systems without permission and request payment in exchange for their silence. If the problem is not promptly fixed then the hackers may go public. The presence of Grey Hat Hackers create a more competitive environment in the software field. Sometimes a lot of people experience the positive side of grey hats as they tend to work with, or against, larger corporations when exploiting bugs or other irregularities in a system. Doing this allows them to educate the public on the possibility of their private data leaking as a result of poor data security and the ramifications of that.
+Black hat hackers can span from amateur to expert and they wield their knowledge in a malicious manor. Terrorist organizations and governments may support this kind of hacker. Black Hat Hackers will either sell the information they've found on the black market or find a different way to make use of it.
+BlueHat, an outside computer security consulting firm employed to bug test a system prior to its launch.
+
+
+== Construction ==
+Construction workers are required to wear hard hats when on a job site. While these color designations may vary from site to site, workers wear a different colour hard hat to indicate their role.
+
+White hard hats are worn by engineers, supervisors, and foremen.
+Brown hard hats are worn by for workers that use high heat like welders.
+Green hard hats are used by safety inspectors and on occasion, new workers.
+Yellow hard hats are used by earth movers and general workers.
+Blue hard hats are typically used by technical workers or carpenters.
+Orange hard hats are usually reserved for road crew workers and visitors. Occasionally they will also be used for new employees.
+
+
+== Red and yellow hats in Venetian society ==
+In the 14th century the Venetian government put into law that all Jews coming into the city had to wear a yellow circle on their outermost layer of clothing in order to distinguish the Christians and Jews and further their segregation. After years of Jewish people allegedly not following this law the government replaced the yellow circle on their clothing with a yellow head covering or yarmulke to increase visibility in 1497. The head covering color was supposed to be yellow but many of the Jewish people coming into the city chose to wear red instead, with the exception of those of Levantine origin. While there is no solid proof for the reasoning of this change, many believe it is because of the stigma surrounding the color yellow which was also used to mark pimps and prostitutes. Eventually, in 1738 Venetian government updated the law to officially include the use of red head coverings.
+
+
+== Catholic Church ==
+A zucchetto can be worn by any ordained member of the Roman Catholic Church. The use of these head coverings predates the invention of centralized heating, between that and the tops of their heads being tonsured and the lack of hoods on their capes, the clergymen needed something to keep them warm, now they've become a traditionalized form of dress. The color of a Zucchetto depends on a clergymen's rank in the church:
+
+The pope wears white.
+Cardinals wear red or scarlet.
+Bishops, territorial abbots, and territorial prelates wear purple/violet or amaranth.
+Priests and deacons wear black.
+
+
+== References ==
