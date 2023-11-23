@@ -1,0 +1,14 @@
+A diallel cross is a mating scheme used by plant and animal breeders, as well as geneticists, to investigate the genetic underpinnings of quantitative traits.In a full diallel, all parents are crossed to make hybrids in all possible combinations. Variations include half diallels with and without parents, omitting reciprocal crosses. Full diallels require twice as many crosses and entries in experiments, but allow for testing for maternal and paternal effects. If such "reciprocal" effects are assumed to be negligible, then a half diallel without reciprocals can be effective. 
+Common analysis methods utilize general linear models to identify heterotic groups, estimate general or specific combining ability, interactions with testing environments and years, or estimates of additive, dominant, and epistatic genetic effects and genetic correlations.
+
+
+== Mating designs ==
+There are four main types of diallel mating design:
+
+Full diallel with parents and reciprocal F1 crosses
+Full diallel as above, but excluding parents
+Half diallel with parents, but without reciprocal crosses
+Half diallel without parents or reciprocal crosses
+
+
+== References ==

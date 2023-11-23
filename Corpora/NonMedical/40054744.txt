@@ -1,0 +1,10 @@
+An auxiliary line (or helping line) is an extra line needed to complete a proof in plane geometry. Other common auxiliary constructs in elementary plane synthetic geometry are the helping circles.
+
+As an example, a proof of the theorem on the sum of angles of a triangle can be done by adding a straight line parallel to one of the triangle sides (passing through the opposite vertex).Although the adding of auxiliary constructs can often make a problem obvious, it's not at all obvious to discover the helpful construct among all the possibilities, and for this reason many prefer to use more systematic methods for the solution of geometric problems (such as the coordinate method, which requires much less ingenuity).
+
+
+== References ==
+
+
+== External links ==
+http://www.cut-the-knot.org/Generalization/MenelausByEinstein.shtml On Einstein's opinion regarding proofs that use the introduction of additional constructs

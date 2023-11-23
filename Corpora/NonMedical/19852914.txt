@@ -1,0 +1,4 @@
+In robotics, the manipulability ellipsoid is the geometric interpretation of the scaled eigenvectors resulting from the singular value decomposition of the jacobian that describes a robot's motion.
+
+
+== References ==

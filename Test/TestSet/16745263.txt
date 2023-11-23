@@ -1,0 +1,89 @@
+The Corpulence Index (CI) (also Ponderal Index (PI) or Rohrer's Index) is a measure of corpulence, or of leanness in other variants, of a person calculated as a relationship between mass and height.
+It was first proposed in 1921 as the "Corpulence measure" by Swiss physician Fritz Rohrer and hence is also known as Rohrer's Index. It is similar to the body mass index, but the mass is normalized with the third power of body height rather than the second power. In 2015, Sultan Babar showed that CI does not need to be adjusted for height after adolescence.
+
+  
+    
+      
+        
+          C
+          I
+        
+        =
+        
+          
+            
+              m
+              a
+              s
+              s
+            
+            
+              
+                h
+                e
+                i
+                g
+                h
+                t
+              
+              
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {CI} ={\frac {\mathrm {mass} }{\mathrm {height} ^{3}}}}
+  with 
+  
+    
+      
+        
+          m
+          a
+          s
+          s
+        
+      
+    
+    {\displaystyle \mathrm {mass} }
+   in kilograms and 
+  
+    
+      
+        
+          h
+          e
+          i
+          g
+          h
+          t
+        
+      
+    
+    {\displaystyle \mathrm {height} }
+   in metres, giving a measure with the same dimensions as density. The corpulence index yields valid results even for very short and very tall persons, which is a problem with BMI —  for example, an ideal body weight for a person 152.4 cm tall (48 kg) will render BMI of 20.7 and CI of 13.6, while for a person 200 cm tall (99 kg), the BMI will be 24.8, very close to the "overweight" threshold of 25, while CI will be 12.4.Because of this property, it is most commonly used in pediatrics. (For a baby, one can take crown-heel length for the height.) The normal values for infants are about twice as high as for adults, which is the result of their relatively short legs. It does not need to be adjusted for age after adolescence.  It has also been shown to have a lower false positive rate in athletes.The corpulence index is variously defined (the first definition should be preferred due to the use of SI-units kg and m) as follows:
+
+
+== Significance ==
+It plays a role in assessing whether the intrauterine growth restriction of a child is symmetrical or asymmetrical.
+CI has been shown to have higher sensitivity, specificity, and positive and negative predictive values than body mass index for determining adiposity.
+It is used to calculate ectomorphy in the Heath–Carter formula.
+
+
+== See also ==
+Body adiposity index
+Body mass index
+Waist-to-height ratio
+
+
+== References ==
+
+
+== External links ==
+Online Ponderal Index Calculator, which uses the first definition.
+Ponderal Index Calculator, which uses metric values. (English site)
+Ponderal Index Calculator, which uses metric values. (German site)
+Android App for Corpulence Index
+Apple app for Corpulence Index

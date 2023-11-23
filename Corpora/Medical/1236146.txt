@@ -1,0 +1,24 @@
+Reassortment is the mixing of the genetic material of a species into new combinations in different individuals. Several different processes contribute to reassortment, including assortment of chromosomes, and chromosomal crossover. It is particularly used when two similar viruses that are infecting the same cell exchange genetic material. In particular, reassortment occurs among influenza viruses, whose genomes consist of eight distinct segments of RNA.  These segments act like mini-chromosomes, and each time a flu virus is assembled, it requires one copy of each segment.
+If a single host (a human, a chicken, or other animal) is infected by two different strains of the influenza virus, then it is possible that new assembled viral particles will be created from segments whose origin is mixed, some coming from one strain and some coming from another. The new reassortant strain will share properties of both of its parental lineages.
+Reassortment is responsible for some of the major genetic shifts in the history of the influenza virus. In the 1957 "Asian flu" and 1968 "Hong Kong flu" pandemics, flu strains were caused by reassortment between an avian virus and a human virus. In addition, the H1N1 virus responsible for the 2009 swine flu pandemic has an unusual mix of swine, avian and human influenza genetic sequences.The reptarenavirus family, responsible for inclusion body disease in snakes, shows a very high degree of genetic diversity due to reassortment of genetic material from multiple strains in the same infected animal.
+
+
+== Multiplicity reactivation ==
+When influenza viruses are inactivated by UV irradiation or ionizing radiation, they remain capable of multiplicity reactivation in infected host cells.  If any of a virus's genome segments is damaged in such a way as to prevent replication or expression of an essential gene, the virus is inviable when it, alone, infects a host cell (single infection).  However, when two or more damaged viruses infect the same cell (multiple infection), the infection can often succeed (multiplicity reactivation) due to reassortment of segments, provided that each of the eight genome segments is present in at least one undamaged copy.
+
+
+== See also ==
+Other kinds of nonhereditary genetic change
+Antigenic shift
+Horizontal gene transfer
+
+
+== References ==
+
+History of April-2009 flu collected by Bionyt.
+
+
+== External links ==
+An animation from hhmi.org illustrating the process Archived 2005-11-23 at the Wayback Machine
+Hood E (February 2006). "Flu Vaccine Production Gets a Shot in the Arm". Environ Health Perspect. 114 (2): A108–11. doi:10.1289/ehp.114-a108. PMC 1367863. PMID 16451835.
+Simon-Loriere, Etienne; Holmes, Edward C. (2011). "Why do RNA viruses recombine?". Nature Reviews Microbiology. 9 (8): 617–626. doi:10.1038/nrmicro2614. PMC 3324781. PMID 21725337. Offers a good introduction with figures on the concept of reassortment (as well as recombination).

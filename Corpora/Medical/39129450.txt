@@ -1,0 +1,85 @@
+Childhood chronic illness refers to conditions in pediatric patients that are usually prolonged in duration, do not resolve on their own, and are associated with impairment or disability. The duration required for an illness to be defined as chronic is generally greater than 12 months, but this can vary, and some organizations define it by limitation of function rather than a length of time. Regardless of the exact length of duration, these types of conditions are different than acute, or short-lived, illnesses which resolve or can be cured. There are many definitions for what counts as a chronic condition. However, children with chronic illnesses will typically experience at least one of the following: limitation of functions relative to their age, disfigurement, dependency on medical technologies or medications, increased medical attention, and a need for modified educational arrangements.There are many different diseases affecting children that have a prolonged course and can lead to disability or impairment including asthma, sickle cell anemia, congenital heart disease, obesity, neurodevelopmental conditions, and epilepsy. Owing to improvements in public health and health infrastructure, infant and child mortality especially from infectious causes has decreased in most areas of the world. Therefore, children are living longer with chronic illnesses.
+
+
+== Epidemiology ==
+It is difficult to know the exact number of children who have a chronic illness worldwide. Given that there is no agreement on the definition for a chronic illness and that quality data from every country is not guaranteed, there is a wide range of estimates of prevalence and incidence. In the United States, the American Academy of Pediatrics estimates that between ten and twenty million children and adolescents live with a chronic condition while estimates of the prevalence of chronic conditions among youth more than doubled from 12.8% in 1994 to 26.6% in 2006. One important trend to consider is that the overall number of children with chronic illnesses is increasing. This rise is likely due to decreased infant and child mortality from previously lethal diseases due to innovations in medication and other treatment as well as increased ability to diagnose and therefore discover chronic conditions. Common chronic illnesses in children include asthma, diabetes, cystic fibrosis, obesity and overweight, malnutrition, developmental disabilities and differences, and mental illness. Leading causes of poor outcomes due to childhood chronic illness, however, depend on geographic region.
+
+
+== Common Childhood Chronic Diseases ==
+Chronic diseases in children may have a genetic (hereditary) cause, an environmental (acquired) cause or a combination of both. Early identification and treatment of the disease is key to successful health outcomes. Chronic diseases can affect multiple organ systems and can, therefore, manifest in different ways. Highlighted below are the more common manifestations of chronic childhood disease.
+
+
+=== Anemia ===
+Anemia is a condition that involves a reduction in the number of red blood cells circulating in the blood. Red blood cells are packed with a chemical called hemoglobin, which is the main transporter of oxygen in the blood. The decrease in the oxygen-carrying-capacity of the blood will result in children presenting with fatigue, irritability, weakness, frequent napping, and pale skin. A deficiency in iron intake is the main cause of anemia in children and can be managed by eating a balanced diet that includes foods containing iron such as leafy green vegetables, cereals, and red meat.
+
+
+=== Asthma ===
+Asthma is a common chronic disease in children that impacts their ability to breathe. The disease is characterized by inflammation of the airways and patients will commonly present with coughing, shortness of breath and wheezing. Asthma in children is typically triggered by environmental antigens, allergies, viral respiratory infections, fumes, obesity, and emotional factors including stress.
+
+
+=== Cystic Fibrosis ===
+Cystic fibrosis is an inherited (genetic) disease that can present with symptoms within the first two years of life. The genetic defect results in the production of thick mucus in the lungs, pancreas, liver, small intestine, and reproductive organs. The thick mucus in the lungs moves slower than usual, thereby allowing enough time for bacteria to grow. This predisposes patients with cystic fibrosis to repeated episodes of respiratory infection in the form of pneumonia or bronchitis.
+
+
+=== Diabetes ===
+Diabetes is a chronic illness involving the body’s inability to regulate the amount of glucose in the blood. There are two types of Diabetes: Type 1 Diabetes, also known as juvenile-onset diabetes, commonly affects children and is due to an inability of the pancreas to produce insulin. Type 2 diabetes, also known as adult-onset diabetes, commonly affects adults but can also affect children and is due to the body’s inability to respond to insulin appropriately. Both forms lead to elevated blood glucose levels which can lead to the following complications in kids: bed-wetting, significant thirst, weight loss, and increased appetite.
+
+
+=== Malnutrition ===
+Malnutrition is particularly common in low and middle-income countries and is the cause of significant morbidity and mortality in children. Risk factors for malnutrition in children include chronic poverty, food insecurity, inadequate maternal and fetal nutritional uptake, and underlying comorbidities.  Severe malnutrition can present in children as muscle wasting, stunted growth, and kwashiorkor. These children will also have an impaired immune system which increases their risk of severe infection and death.
+
+
+=== Childhood Overweight and Obesity ===
+Overweight and obesity in children is a chronic illness that has been steadily increasing in prevalence in the US. This disease disproportionately impacts low-income and minority communities. Non-Hispanic Black, Hispanic, and American Indian/Alaskan Native children have a higher burden of disease than white children. Psychosocial risk factors include environmental stressors, food insecurity, chronic stress, and systemic racism.
+
+
+== Management ==
+Taking care of a child with a chronic illness will require a team of providers that may include medical providers, therapists, educators, and other caregivers.
+
+
+=== Psychological ===
+Coping with a chronic illness can challenge many aspects of life, and some therapies can help children and their families adjust to their condition.
+
+
+==== Psychological Management in Children ====
+Children with chronic illnesses have a higher risk of developing mental health disturbances than their healthy counterparts. Many evidence-based interventions exist to treat children with mental health issues; however, these interventions often have not been validated for children with chronic physical illnesses, and their efficacy on this population is not fully understood. Nevertheless, psychological management in children with chronic diseases should be prioritized similarly to the management of physical symptoms because it can impact the child's quality of life, behavior, and functioning.Behavior therapy and cognitive behavioral therapy can help children improve their condition and manage the stress associated with a chronic illness. Behavior therapy in the setting of chronic illnesses aims to change problematic learned behaviors using classical conditioning and operant techniques. Some examples of behavioral therapy for children with asthma include stress management techniques and contingency coping exercises. In one study, the asthma patients randomized to such therapies demonstrated fewer behavioral adjustment problems. Additionally, systematic desensitization can be used to decrease children's fear associated with some medical treatments, such as imaging or invasive procedures.One of the more studied interventions for the psychological management of chronic physical illness in children is Cognitive Behavioral Therapy (CBT). CBT is used to build resilience in children with chronic diseases. It includes breathing exercises, relaxation training, imagery, distraction methods, coping models, cognitive coping skills, reinforcement for compliance, behavioral rehearsal, role-play, and direct coaching. CBT has positive effects in specifically treating anxiety and depression in this population; when treatment includes both parents and child, it can improve physical symptoms associated with the child's condition.
+
+
+==== Psychological Management in Parents ====
+Parents of children with chronic conditions often experience higher stress levels, maladaptive behaviors, and mental health issues due to challenges associated with balancing their child's care and other obligations. The adverse effects of chronic childhood illness in parents are critical to address because the child's well-being depends on the parents' ability to deal with the situation and maintain healthy family dynamics. Treatments aim to improve parents' distress, adaptive behaviors, family dynamics, and the sick child's well-being.Currently, there is a lot of debate about what interventions are the most effective for parents, and often the efficacy of therapy appears to depend on the child's condition. For example, psychotherapy has helped improve parental adaptive behaviors in parents of children with cancer but not in others. Additionally, some therapies may work for some targeted outcomes but not others. Treatments can include psychotherapy, CBT, problem-solving therapy (PST), family therapy (FT), and multi-systemic therapy (MST). Of these, PST has shown to improve parents' adaptive behavior, mental health, and stress level post-treatment.
+
+
+=== Diet ===
+Nutrition is a crucial part of managing many chronic conditions in children. Many chronic illnesses increase children's risk of developing growth complications due to increased inflammation and other pathological processes specific to each disease. Inflammation is one of the main drivers of growth failure and malnutrition in children with chronic illnesses because it decreases caloric intake and increases both energy demands and energy losses. Consequently, children can experience food aversion, intolerance, malabsorption, and loss of lean muscle and fat.The specific management of nutrition varies depending on the patient and their disease. The goal of treatment is to increase energy intake to match the increased energy needs and to supplement nutrient deficiencies. General guidelines for treatment include regular monitoring of growth and development, checking nutritional status, addressing issues with food intake, reviewing medications and supplements, referral to a specialist and assessment of food insecurity. Nutrition management is essential for many children with chronic diseases because poor nutrition is associated with worse treatment responses, development of comorbidities, and lowered survival in some cases.
+
+
+=== Transition to Adult Care ===
+The transition from pediatric and family-centered care to adult-centered care is an area of management that has recently gained importance due to the increased prevalence of chronic diseases and lengthened life expectancy in children with chronic conditions. This transition is an ongoing area of research, and better data is still needed to assess the effectiveness of different models of transition.The transition process is multifactorial and depends on patients' goals, family preferences, cultural differences, and the patient's condition. Guidelines on conducting this process vary amongst countries and healthcare institutions. Most guidelines from countries where western medicine is practiced have similar characteristics. First, early planning is often desirable to allow enough time for the transition and to decrease potential adverse outcomes and the need for acute care. For example, the National Institute of Health and Care Excellence sets transition guidelines in the UK and recommends that planning starts as early as when the child is thirteen or fourteen. Second, a systematic approach that provides good communication between providers, patients, and families is preferred. A dedicated transition coordinator is appointed to manage this process sometimes. Lastly, providers and parents should encourage self-managing of care as the child develops a stronger desire for autonomy and independence. Methods used to achieve self-management will likely depend on the child's capacity and understanding. Plans can include educating the child about their condition, providing different communication tools to reach providers, referring them to peer support or advocacy groups, and encouraging them to be involved in decision-making.
+
+
+== Outcomes ==
+
+
+=== Development ===
+Chronic illness can affect a child's development at any stage. During infancy and childhood chronic illness can be detrimental to the development of secure attachment, interpersonal trust, self-regulation, and/or peer relation skills. During middle adolescence, chronic illness can prevent a child from being in school on a regular basis. This can affect a child's academic and social competence. During adolescence, chronic illness can affect the development of autonomy and self-image. It can also interfere with peer and romantic relationships, and the desire for independence can lead to poor treatment compliance. Stress coping methods significantly influence how well children with chronic illnesses emotionally and behaviorally develop and adjust to their illness.  Children with chronic illnesses experience increased absenteeism, poorer school experiences, and poorer educational outcomes than their peers, especially in the case of severe disease, intense treatment regimens, and lower SES. Some research suggests educational outcomes remain poorer in adults who experience childhood chronic illness, but financial outcomes do equalize with proper support.  Childhood chronic illnesses are common among school-aged children in the United States, and these illnesses often require management within school settings for a child to safely attend.  At any stage, children with chronic illness can have reduced quality of life, especially if the children or their families are of low socioeconomic status. Malnutrition is a greater risk among children with chronic illnesses, and children's physical and cognitive development may be poorly impacted, such as abnormal immune system regulation and decreased IQ scores.
+
+
+=== Adulthood ===
+Childhood chronic illnesses and their sequelae persist into adulthood, such as in the case of asthma or diabetes. Despite management of individual diseases, a diagnosis of chronic childhood disease generally does not resolve upon growth into adulthood. Relatedly, experiencing a childhood chronic illness may lead to financial hardships later in life, as shown in childhood cancer survivors.
+
+
+== Society and Culture ==
+
+
+=== Impact on family members and caregivers ===
+The presence of a child with a chronic illness in the home has multiple effects on the family's life as it may affect daily routines. One potential consequence is the physical space inside the home being altered by the need for home health or medical equipment. As such children typically require frequent appointments, caregivers can feel strain to participate in their other children's lives equally and may develop increased levels of stress and family discord. Caregivers report lower physical and psychological quality of life, and coping strategies are important in improving psychological quality of life, just as it is for the ill children themselves. Healthy siblings of children with a chronic illnesses can have negative experiences and emotions, including withdrawal, overwhelm, and isolation even when social support is present. Child life specialists and health professionals must provide additional support to facilitate proper psychosocial adjustment among healthy siblings, as they already do for ill children. The time requirements could also increase social isolation from extended family members. Given the cost associated with the greater need for specialized treatments as well as decreased time to work, these families may also experience economic difficulties.
+
+
+=== Societal Impact ===
+Childhood chronic illnesses can have large-scale implications for societies. One to two percent of healthcare budgets in developed countries is spent on asthma, the most common childhood chronic illness. While not specific to childhood disease, the CDC reports that 90% of the U.S. national spending on healthcare goes to chronic diseases broadly.
+
+
+== References ==
+
+
+== Further reading ==

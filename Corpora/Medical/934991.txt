@@ -1,0 +1,126 @@
+Body proportions is the study of artistic anatomy, which attempts to explore the relation of the elements of the human body to each other and to the whole. These ratios are used in depictions of the human figure and may become part of an artistic canon of body proportion within a culture. Academic art of the nineteenth century demanded close adherence to these reference metrics and some artists in the early twentieth century rejected those constraints and consciously mutated them.
+
+
+== Basics of human proportions ==
+It is usually important in figure drawing to draw the human figure in proportion. Though there are subtle differences between individuals, human proportions fit within a fairly standard range –  though artists have historically tried to create idealised standards that have varied considerably over time, according to era and region. In modern figure drawing, the basic unit of measurement is the 'head', which is the distance from the top of the head to the chin. This unit of measurement is credited to the Greek sculptor Polykleitos (fifth century BCE) and has long been used by artists to establish the proportions of the human figure. Ancient Egyptian art used a canon of proportion based on the "fist", measured across the knuckles, with 18 fists from the ground to the hairline on the forehead.  This canon was already established by the Narmer Palette from about the 31st century BC, and remained in use until at least the conquest by Alexander the Great some 3,000 years later.One version of the proportions used in modern figure drawing is:
+An average person is generally 7-and-a-half heads tall (including the head).
+An ideal figure, used when aiming for an impression of nobility or grace, is drawn at 8 heads tall.
+A heroic figure, used in the depiction of gods and superheroes, is eight-and-a-half heads tall.  Most of the additional length comes from a bigger chest and longer legs.
+
+
+=== Measurements ===
+
+There are a number of important distances between reference points that an artist may measure and will observe: These are the distance from floor to the patella; from the patella to the front iliac crest; the distance across the stomach between the iliac crests; the distances (which may differ according to pose) from the iliac crests to the suprasternal notch between the clavicles; and the distance from the notch to the bases of the ears (which again may differ according to the pose).
+Some teachers deprecate mechanistic measurements and strongly advise the artist to learn to estimate proportion by eye alone.
+ It is in drawing from the life that a canon is likely to be a hindrance to the artist; but it is not the method of Indian art to work from the model. Almost the whole philosophy of Indian art is summed up in the verse of Śukrācārya's Śukranĩtisāra which enjoins meditations upon the imager: "In order that the form of an image may be brought fully and clearly before the mind, the imager should medi[t]ate; and his success will be proportionate to his meditation. No other way—not indeed seeing the object itself—will achieve his purpose." The canon then, is of use as a rule of thumb, relieving him of some part of the technical difficulties, leaving him free to concentrate his thought more singly on the message or burden of his work. It is only in this way that it must have been used in periods of great achievement, or by great artists. 
+
+
+=== Ratios ===
+
+[Proportion] should not be confused with a ratio, involving two magnitudes. Modern usage tends to substitute "proportion" for a comparison involving two magnitudes (e.g., length and width), and hence mistakes a mere grouping of simple ratios for a complete proportion system, often with a linear basis at odds with the areal approach of Greek geometry.
+Many text books of artistic anatomy advise that the head height be used as a yardstick for other lengths in the body: their ratios to it provide a consistent and credible structure. Although the average person is 71⁄2 heads tall, the custom in Classical Greece (since Lysippos) and Renaissance art was to set the figure as eight heads tall: "the eight-heads-length figure seems by far the best; it gives dignity to the figure and also seems to be the most convenient." The half-way mark is a line between the greater trochanters, just above the pubic arch.
+the ratio of hip circumference to shoulder circumference varies by biological gender: the average ratio for women is 1:1.03, for men it is 1:1.18.
+legs (floor to perineum) are typically three-and-a-half to four heads long; arms about three heads long; hands are as long as the face.
+Leg-to-body ratio is seen as indicator of physical attractiveness but there appears to be no accepted definition of leg-length: the 'perineum to floor' measure is the most used but arguably the distance from ankle bone to outer hip bone is more rigorous. On this (latter) metric, the most attractive ratio of leg to body for men (as seen by American women) is 1:1, matching the 'four heads:four heads' ratio above. A Japanese study using the former metric found the same result for male attractiveness but women with longer legs than body were judged to be more attractive. Excessive deviations from the mean were seen as indicative of disease. "High class fashion journals depict women with an extreme length of limb, and decorative art does the same for both men and women [...]. When the artist wishes to depict the lower orders, as such, or the comic, he draws people with exaggeratedly short limbs and makes them fat."
+Waist-to-height ratio: the average ratio for US college competitive swimmers is 0.424 (women) and 0.428 (men); the ratios for an (US) normally healthy man or woman is 0.46–0.53 and 0.45–0.49 respectively; the ratio ranges beyond 0.63 for morbidly obese individuals.
+Waist–hip ratio: artist's conception of the ideal waist–hip ratio has varied down the ages, but for female figures "over the 2,500-year period the average WHR never exited 'the fertile range' (from 0.67 to 0.80)." The Venus de Milo (130–100 BCE) has a WHR of 0.76; in Anthony van Dyck's Venus Asks Vulcan to Cast Arms for Her Son Aeneas (1630), Venus's estimated WHR is 0.8; and Jean-Léon Gérôme's Birth of Venus (1890) has an estimated WHR of 0.66.
+
+
+== Body proportions in history ==
+The earliest known representations of female figures date from 23,000 to 25,000 years ago. Models of the human head (such as the Venus of Brassempouy) are rare in Paleolithic art: most are like the Venus of Willendorf –  bodies with vestigial head and limbs, noted for their very high waist:hip ratio of 1:1 or more. It may be that the artists' "depictions of corpulent, middle-aged females were not 'Venuses' in any conventional sense. They may, instead, have symbolized the hope for survival and longevity, within well-nourished and reproductively successful communities."The ancient Greek sculptor Polykleitos (c.450–420 BCE), known for his ideally proportioned bronze Doryphoros, wrote an influential Canon (now lost) describing the proportions to be followed in sculpture.  The Canon applies the basic mathematical concepts of Greek geometry, such as the ratio, proportion, and symmetria (Greek for "harmonious proportions") creating a system capable of describing the human form through a series of continuous geometric progressions. Polykleitos may have used the distal phalanx of the little finger as the basic module for determining the proportions of the human body, scaling this length up repeatedly by √2 to obtain the ideal size of the other phalanges, the hand, forearm, and upper arm in turn.Leonardo da Vinci believed that the ideal human proportions were determined by the harmonious proportions that he believed governed the universe, such that the ideal man would fit cleanly into a circle as depicted in his famed drawing of Vitruvian Man (c. 1492), as described in a book by Vitruvius. Leonardo's commentary is about relative body proportions –  with comparisons of hand, foot, and other feature's lengths to other body parts –  more than to actual measurements.
+
+
+== Golden ratio ==
+
+It has been suggested that the ideal human figure has its navel at the golden ratio (
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+  , about 1.618), dividing the body in the ratio of 0.618 to 0.382 (soles of feet to navel:navel to top of head) (1⁄
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   is 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+  -1, about 0.618) and Leonardo da Vinci's Vitruvian Man is cited as evidence. In reality, the navel of the Vitruvian Man divides the figure at 0.604 and nothing in the accompanying text mentions the golden ratio.In his conjectural reconstruction of the Canon of Polykleitos, art historian Richard Tobin determined √2 (about 1.4142) to be the important ratio between elements that the classical Greek sculptor had used.
+
+
+== Additional images ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Bibliography ==
+Gottfried Bammes: Studien zur Gestalt des Menschen. Verlag Otto Maier GmbH, Ravensburg 1990, ISBN 3-473-48341-9.
+Édouard Lantéri: Modelling: a guide for teachers and students. London: Chapman & Hall Ltd. 1902.
+Fairbanks, Eugene F. (2012). Children's Proportions for Artists. Bellingham, WA: Fairbanks Art and Books. ISBN 978-0-9725841-2-8.
+
+
+== See also ==
+Allometry – Study of the relationship of body size to shape, anatomy, physiology, and behavior
+Anthropometry – Measurement of the human individual
+Arm span – The distance from finger tips to finger tips
+Body shape – General shape of a human body
+Female body shape – Cumulative product of the human female skeletal structure and distribution of muscle and fat
+Male body shape – General shape of a human bodyPages displaying short descriptions of redirect targets
+Nude (art) – Work of art that has as its primary subject the unclothed human body
+Physical attractiveness – Aesthetic assessment of physical traits
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+
+Deriabin, V. E. (1987). "Age-related changes in human body proportions studied by the method of principal components". Nauchnye Doklady Vysshei Shkoly. Biologicheskie Nauki (1): 50–55. PMID 3828410.
+Bogin, B; Varela-Silva, M. I. (2010). "Leg length, body proportion, and health: A review with a note on beauty". International Journal of Environmental Research and Public Health. 7 (3): 1047–75. doi:10.3390/ijerph7031047. PMC 2872302. PMID 20617018.Alley, Thomas R. (Feb 1983). "Growth-Produced Changes in Body Shape and Size as Determinants of Perceived Age and Adult Caregiving". Child Development. 54 (1): 241–248. doi:10.2307/1129882. JSTOR 1129882.
+Pittenger, John B. (1990). "Body proportions as information for age and cuteness: Animals in illustrated children's books". Perception & Psychophysics. 48 (2): 124–30. doi:10.3758/BF03207078. PMID 2385485. S2CID 27929821.
+
+
+== External links ==
+Changing body proportions during growth Archived 2017-03-27 at the Wayback Machine
+"Body visualizer". MPI IS Perceiving Systems Department, Max Planck Institute. 2011. Retrieved 23 September 2020.
+Geher, Glenn (April 19, 2019). "Why Comic Book Heroes Are Sexy". Psychology Today.

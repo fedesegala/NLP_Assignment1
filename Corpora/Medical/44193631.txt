@@ -1,0 +1,52 @@
+Childhood cataract is cataract that occurs at birth or in childhood. It may be congenital or acquired.
+Congenital cataracts are defined as the presence of lens opacification during childhood. About 1.14 million children in the world are blind. Cataracts are the leading cause of blindness in children.
+
+
+== Signs and symptoms ==
+The first sign is usually leukocoria, meaning white pupil upon fundoscopic exam. Another sign is if the child has been struggling to follow objects with their eyes or has been making decreased eye contact with family members. Other general complaints associated with childhood cataracts include kids squeezing their eyes shut in response to bright lights, squinting of eyes, history of small set eyes or large set eyes, and nystagmus. Older kids are more likely to complain of the following: difficulty viewing objects at a distance, unable to view whiteboard in class, parent may notice children are bringing objects closer to their face.
+
+
+=== Complications ===
+Untreated childhood cataracts can cause emotional, financial, and societal burdens. Even when treated, childhood cataracts may be associated with some complications. About 10% to 25% of children have been diagnosed with glaucoma after cataract surgery. The most common complication after cataract surgery in childhood is visual axis opacification. Cataract surgery may be associated with decreased accommodation.
+
+
+== Causes ==
+Most cases of childhood cataracts, both unilateral and bilateral, are idiopathic in nature. Congenital infections including Toxoplasma, Rubella, Cytomegalovirus (CMV), Herpes, and Syphilis can cause childhood cataracts. The most common congenital infection to cause congenital cataracts is Rubella. Rubella is especially common, with a higher incidence in India. Rubella is characterized by a triad of features: congenital cataracts, sensorineural hearing loss, and patent ductus arteriosus (a congenital heart condition).Trauma can cause cataracts in childhood. There are different types of traumatic injury that cause cataracts in different parts of the world. Child abuse may cause traumatic injury to the eye and cataracts. Open globe injuries are more often associated with cataracts than closed globe injuries. The leading cause of these open globe injuries are bow and arrow injuries.
+
+
+=== Genetics ===
+Childhood cataracts are hereditary in 8.3% to 25% of cases. Of which, 75% of cases are inherited in an autosomal dominant fashion. The diagnosis of childhood cataracts are associated with other eye abnormalities in 27% of cases and associated with systemic abnormalities/findings in 22% of cases.Congenital cataracts are typically inherited in an autosomal dominant pattern with incomplete inheritance. There are multiple different genetic disorders associated with congenital cataracts: Norrie disease (X-linked recessive inheritance), Nance-Horan syndrome (X-linked recessive inheritance), Down's syndrome (also associated with other eye abnormalities like nystagmus and strabismus), and Lowe syndrome (X-linked inheritance). Galactosemia is often associated with congenital cataracts.
+
+
+== Diagnosis ==
+Routine screening is the method in which cataracts are typically diagnosed in childhood. A thorough history is obtained to assist in making this diagnosis. The following are questions to consider addressing in a visit: "at what age did the symptoms begin?", "how long have the symptoms been present?", "is there a family history of childhood cataracts?", "is there a history of pregnancy complications or symptoms?", "any drug use during pregnancy?", "is there history of trauma during pregnancy?", "does the child have any other accompanying symptoms like vomiting?". A specific question regarding vomiting is asked as it may lead to increased suspicion for Galactosemia.A complete physical examination is done to identify if a child has any associated systemic symptoms which may aid in a diagnosis of childhood cataracts. In addition, a complete eye examination is done. This eye exam includes fixation, pupillary reflex test, and test for visual acuity. Visual acuity is tested differently based on patient's age. For infants, visual acuity can be tested by visual evoked response, Catford drum, optokinetic nystagmus, and Teller's acuity cards tests. For children aged 1–2 years old, visual acuity can be tested by Worth's ivory ball test, Boeck's candy test, the "Screening Test for Young Children and Retards", and Cardiff's acuity test. For children aged 2–3 years old, visual acuity can be tested by miniature toy test, coin test, and LEA symbols tests. For children aged 3–5 years old, visual acuity can be tested by Allen's picture card, Lippman's HOTV test, and letter test. For children greater than age 5, visual acuity can be tested by Tumbling E, Landolt's broken ring, Snellen's chart, and LogMAR chart tests.
+
+
+== Treatment ==
+Early detection is crucial in treatment of congenital cataracts. Prognosis is good if cataracts are detected early and surgery occurs aged 6 weeks for unilateral cataracts and at 8 weeks for bilateral cataracts. Favorable outcomes are associated with timely surgery, appropriate postoperative care, and visual rehabilitation postoperatively. Postoperative care requires effective communication between an interdisciplinary team including parents, pediatricians, surgeons, anesthesiologists, and optometrists.To decrease presentations of avoidable blindness in childhood, it is important to focus on maternal and neonatal health prior to symptomatic presentation.
+
+
+=== Surgical Indications ===
+There are multiple indications for cataract surgery. An absolute indication signifies need for surgical correction. Surgical correction of the cataract is indicated when lens opacification blocks the ref reflex and dilated pupils are detected, strabismus with unilateral cataract, or nystagmus with bilateral cataracts.
+
+
+=== Postoperative Care ===
+After surgery, postoperative care is necessary for recovery. Topical corticosteroids are used to decrease postoperative optical inflammation. Topical antibiotics are used to decrease risk of infection after surgery. Topical anesthetics are used for postoperative pain. Contact lens are used immediately after surgery to allow for visual rehabilitation. Visual rehabilitation decreases risk of strabismus, amblyopia, and poor fusion after cataract surgery.
+
+
+== Epidemiology ==
+Childhood cataracts are the primary cause of childhood blindness. Childhood cataracts make up 7.4% to 15.3% of blindness in kids. The prevalence of childhood cataracts ranges from 0.63/10,000 to 9.74/10,000 children, with a median of 1.71. This is dependent on factors like economic status but not gender or laterality. The incidence of childhood cataracts ranges from 1.8/10,000 to 3.6/10,000 children per year.
+
+
+== See also ==
+Blindness
+Cataract
+Cataract surgery
+
+
+== References ==
+
+
+== Further reading ==
+Childhood cataracts at NHS Choices
+Cataracts in Children, Congenital and Acquired at EyeWiki

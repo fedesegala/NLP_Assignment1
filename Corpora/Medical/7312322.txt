@@ -1,0 +1,125 @@
+A growth chart is used by pediatricians and other health care providers to follow a child's growth over time. Growth charts have been constructed by observing the growth of large numbers of healthy children over time. The height, weight, and head circumference of a child can be compared to the expected parameters of children of the same age and sex to determine whether the child is growing appropriately. Growth charts can also be used to predict the expected adult height and weight of a child because, in general, children maintain a fairly constant growth curve. When a child deviates from his or her previously established growth curve, investigation into the cause is generally warranted. Parameters used to analyze growth charts include weight velocity (defined as rate of change in weight over time), height velocity (defined as rate of change in stature over time), and whether someone's growth chart crosses percentiles. For instance, endocrine disorders can be associated with a decrease in height velocity and preserved weight velocity while normal growth variants are associated with a decrease in height and weight velocity that are proportional to each other. It's important to note that other parameters are more commonly used such as waist circumference for assessing obesity and skin fold difference for assessing malnutrition. Growth charts can also be compiled with a portion of the population deemed to have been raised in more or less ideal environments, such as nutrition that conforms to pediatric guidelines, and no maternal smoking.  Charts from these sources end up with slightly taller but thinner averages.
+Growth charts are different for persons assigned male at birth and female at birth, due in part to pubertal differences and disparity in final adult height. In addition, children born prematurely and children with chromosomal abnormalities such as Down syndrome and Turner syndrome follow distinct growth curves which deviate significantly from children without these conditions. As such, growth charts have been created to describe the expected growth patterns of several developmental conditions. Since there are differences in normal growth rates between breastfed and formula-fed babies, the World Health Organization growth charts, which better reflect the growth pattern of the healthy, breastfed infant, are considered the standard for U.S. children under age two.
+
+
+== History and revisions to growth chart ==
+The growth chart was first developed by the National Center for Health Statistics (NCHS) in 1977 to clinically analyze child development. The 1977 growth chart was subsequently used by the World Health Organization for dissemination to healthcare systems abroad. In order to accommodate for heterogenous populations internationally, the WHO made an effort to gather data from different regions in every continent. Data used to calculate the CDC's growth chart percentiles was accumulated periodically since the 1960s by the National Health and Nutrition Examination Survey. Updated and more comprehensive data was later used to revise the existing growth chart and construct the 2000 CDC growth charts. The revised growth charts include revision of the 14 existing charts as well as introduction of 2 new BMI-for-age charts.
+
+
+== Quantitative definitions ==
+Mid-parental height (MPH) is often used to predict the target height of an individual based on the heights of the two biological parents. It can be used to calculate the target height (TH) for children. MPH is given by (mother’s height + father’s height) divided by 2. MPH is unisex. Boys need an upward correction, girls need a downward correction. In view of an average height difference between adult men and women of 13 cm, TH for boys is usually given by MPH + 6.5cm, TH for girls by MPH - 6.5cm. Alternatively, TH can be expressed in standard deviation scores (SDS), with TH_SDS = (mother’s height_SDS + father’s height_SDS) / 2. Yet, this calculation is incorrect as it needs adjustment to mid-population height. It is suggested to use the conditional target height or cTH_SDS with a correction factor of 0.72.cTH_SDS = TH_SDS x 0.72
+Velocity is another quantity that is used to quantify growth curves. It can be used for both height and weight. In the equation provided q is either weight or height, t represents time, and Δ represents change over a defined interval. Growth velocity is defined as follows.
+
+  
+    
+      
+        v
+        e
+        l
+        o
+        c
+        i
+        t
+        y
+        =
+        Δ
+        q
+        
+          /
+        
+        Δ
+        t
+      
+    
+    {\displaystyle velocity=\Delta q/\Delta t}
+  Body mass index (BMI) is a useful quantification that can gauge level of obesity. It is defined as follows with the given clinical ranges.
+
+  
+    
+      
+        B
+        M
+        I
+        =
+        w
+        e
+        i
+        g
+        h
+        t
+        (
+        k
+        g
+        )
+        
+          /
+        
+        [
+        h
+        e
+        i
+        g
+        h
+        t
+        (
+        m
+        )
+        
+          ]
+          
+            2
+          
+        
+      
+    
+    {\displaystyle BMI=weight(kg)/[height(m)]^{2}}
+  
+Obesity: BMI > 95th percentile
+Overweight: 85th < BMI < 95th percentile
+Underweight: BMI < 5th percentileBone age is another useful metric that complements a physician's use of a growth chart. It is particularly useful in working up growth abnormalities and can indicate a delay in onset of puberty.
+
+
+== Common variants of normal growth ==
+Familial short statue: Benign variant of normal height growth. Expect a normal bone age and a trajectory that is on track for the target height.
+Constitutional growth delay: Benign variant of normal height growth due to a delay in the onset of puberty. Expect a delayed bone age and a trajectory that is not on track for the target height.
+Endocrine disorders: Pathologic variant of normal growth due to hormonal abnormality. Expect a delayed height trajectory accompanied by a gain of weight.
+
+
+== Clinical significance ==
+The combination of height and weight velocity can indicate underlying disease of genetic origin, endocrine cause, and/or delayed growth.
+
+
+=== Normal growth deficiency ===
+One of the most common growth disorders, a growth deficiency can be due to either familial short stature or constitutional growth delay (CGD). Familial short stature is indicative when one or both parents are of a short stature, and the height and weight percentiles are under the 5 percentile threshold. The child will be concordant with the mean parental height, and the bone age should be normal. Constitutional growth delays are marked by low height and weight percentiles as early as the first 4–6 months following birth.
+
+
+=== Genetic syndromes ===
+A variety of genetic syndromes can result growth chart patterns with a typical pattern. Genetic diseases such as Turner's syndrome, Prader Willi, and Noonan syndrome can be marked by a less than 5th percentile height and weight since birth. Other genetic disorders such as Marfan's syndrome and Klinefelter's syndrome are typically indicated by a height above the 90th percentile.
+
+
+=== Endocrine and metabolic disorders ===
+A decrease of height velocity with retained or increased weight velocity can be indicative of endocrine disorders including hypothyroidism, growth hormone deficiency, and excess of glucocorticoids.
+
+
+== Variability in growth charts ==
+The CDC's growth chart is utilized from a population that consists of a representative population in the USA. Charts based on a specific race or ethnicity are not useful because of the growth chart progression can be attributed to socioeconomic factors. WHO launched a revised growth in 2006 chart using children from Ghana, Oman, Norway, Brazil, India and the USA that substantiated the fact that growth is highly dependent on environmental factors.
+
+
+== See also ==
+Failure to thrive, a growth disorder
+Weight and height percentile
+Endocrine disease
+Constitutional growth delay
+Growth hormone deficiency
+Intrauterine growth restriction
+Obesity
+
+
+== References ==
+
+
+== External links ==
+CDC information on growth charts
+WHO information on growth charts
+The WHO Child Growth Standards
+Growth Charts and Breastfeeding Babies

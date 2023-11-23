@@ -1,0 +1,47 @@
+The agricultural weed syndrome is the set of common traits which make a plant a successful agricultural weed. Most of these traits are not, themselves, phenotypes but are instead methods of rapid adaptation. So equipped, plants of various origins - invasives, natives, mildly successful marginal weeds of agriculture, weeds of other settings - accumulate other characteristics which allow them to compete in an environment with a high degree of human management.Nonetheless, some of the syndrome traits are themselves phenotypic.
+
+
+== Syndrome traits ==
+Rapid growth
+Efficient use of nutrients
+Seed dormancy
+Effective seed dispersal, often more aggressive shattering
+Vavilovian mimicry including introgression of crop alleles if there are nearby crop relatives
+Herbicide resistance
+Short life cycle
+High fertilitySome of these are the opposite of domestication traits.
+
+
+== Evolution ==
+Insufficient information is available as to the exact contribution of mutations, particular mutation types, pre-existing genetic diversity, specific genes, and introgression to syndrome acquisition. It is also unknown whether we can discern the genetic signatures of adaptation to different weed management regimes from different times.
+In some cases domestication alleles may produce weeds that are weedier than the wild parent they were derived from. For example, California wild radish is weedier and more aggressive than Raphanus raphanistrum, despite being merely a combination of R. raphanistrum and R. raphanistrum's own subspecies R. r. sativus.
+Pre-existing allelic variety which suddenly became more adaptive when the cultivated environment appeared likely has contributed to the success of Amaranthus tuberculatus, A. palmeri, Lolium rigidum and Ipomoea purpurea especially their quick development of herbicide resistance.
+On the other hand, novel mutations may be the source herbicide resistance in Echinochloa crus-galli and E. oryzicola, whose worldwide combined populations have developed resistance to nine modes of action.
+Some weeds are themselves the descendants of crops, while some are unrelated to any cultivated species. The origins of those arising from cultivars are variously better and worse understood: Weedy Helianthus annuus is well understood as wild/cultivar hybrids, weedy Secale cereale and O. sativa as purely feral crops, Beta vulgaris weeds are highly studied although some further analysis is called for, and at the other end of the spectrum lie Sorghum halepense and weedy races of S. bicolor, weedy congeners of cultivated S. bicolor with complicated interbreeding histories that have yet to be untangled. Recently (as of 2020) teosintes have begun invading Spain and France. DNA testing of Spanish teosinte shows it to be intermediate between Zea mays subsp. mays and Zea mays subsp. mexicana.
+
+
+== Genes ==
+Antioxidant pigmentation:
+Rc in Oryza rufipogon and its weedy rice descendants.
+Shattering:
+sh4 in O. rufipogon and its weedy rice descendants, including some new alleles of similar function but entirely new origin.
+Germination temperature:
+Unknown in weedy rice.
+Vavilovian mimicry:
+SD1 alleles conveying shorter stature, slower growth, and earlier flowering, introgressed from O. sativa cultivars into weedy rice. (May or may not be adaptive, not actually confirmed.)
+Herbicide resistance:
+Various genes identical to genetically engineered domesticated O. sativa introgressed into weedy rice.
+Codon deletion in PPX2L in A. tuberculatus.
+Various alleles of ALS - the acetolactate synthase gene - in a variety of species.
+The same amino acid substitution in all 43 genera as of 2012 which have triazine resistance.Some of these are the same genes as domestication traits, but with alleles of opposite effect.
+
+
+== Example species ==
+Polygonum aviculare, Plantago lanceolata, Spergularia rubra, Senecio vulgaris, Poa annua, weedy rice, Sorghum weeds including S. halepense and weedy races of S. bicolor, weedy Helianthus annuus.
+
+
+== See also ==
+Domestication syndrome both in animals and plants
+
+
+== References ==

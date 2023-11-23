@@ -1,0 +1,28 @@
+In mathematics and theoretical physics (especially twistor string theory), an amplituhedron is a geometric structure introduced in 2013 by Nima Arkani-Hamed and Jaroslav Trnka. It enables simplified calculation of particle interactions in some quantum field theories. In planar N = 4 supersymmetric Yang–Mills theory, also equivalent to the perturbative topological B model string theory in twistor space, an amplituhedron is defined as a mathematical space known as the positive Grassmannian.Amplituhedron theory challenges the notion that spacetime locality and unitarity are necessary components of a model of particle interactions. Instead, they are treated as properties that emerge from an underlying phenomenon.The connection between the amplituhedron and scattering amplitudes is a conjecture that has passed many non-trivial checks, including an understanding of how locality and unitarity arise as consequences of positivity. Research has been led by Nima Arkani-Hamed. Edward Witten described the work as "very unexpected" and said that "it is difficult to guess what will happen or what the lessons will turn out to be".
+
+
+== Description ==
+When subatomic particles interact, different outcomes are possible. The evolution of the various possibilities is called a "tree" and the probability amplitude of a given outcome is called its scattering amplitude. According to the principle of unitarity, the sum of the probabilities (the squared moduli of the probability amplitudes) for every possible outcome is 1.
+The on-shell scattering process "tree" may be described by a positive Grassmannian, a structure in algebraic geometry analogous to a convex polytope, that generalizes the idea of a simplex in projective space. A polytope is the n-dimensional analogue of a 3-dimensional polyhedron, the values being calculated in this case are scattering amplitudes, and so the object is called an amplituhedron.Using twistor theory, Britto–Cachazo–Feng–Witten recursion (BCFW recursion) relations involved in the scattering process may be represented as a small number of twistor diagrams. These diagrams effectively provide the recipe for constructing the positive Grassmannian, i.e. the amplituhedron, which may be captured in a single equation. The scattering amplitude can thus be thought of as the volume of a certain polytope, the positive Grassmannian, in momentum twistor space.When the volume of the amplituhedron is calculated in the planar limit of  N = 4 D = 4 supersymmetric Yang–Mills theory, it describes the scattering amplitudes of particles described by this theory. The amplituhedron thus provides a more intuitive geometric model for calculations with highly abstract underlying principles.The twistor-based representation provides a recipe for constructing specific cells in the Grassmannian which assemble to form a positive Grassmannian, i.e., the representation describes a specific cell decomposition of the positive Grassmannian.
+The recursion relations can be resolved in many different ways, each giving rise to a different representation, with the final amplitude expressed as a sum of on-shell processes in different ways as well. Therefore, any given on-shell representation of scattering amplitudes is not unique, but all such representations of a given interaction yield the same amplituhedron.The twistor approach is relatively abstract. While amplituhedron theory provides an underlying geometric model, the geometrical space is not physical spacetime and is also best understood as abstract.
+
+
+== Implications ==
+The twistor approach simplifies calculations of particle interactions. In a conventional perturbative approach to quantum field theory, such interactions may require the calculation of thousands of Feynman diagrams, most describing off-shell "virtual" particles which have no directly observable existence.  In contrast, twistor theory provides an approach in which scattering amplitudes can be computed in a way that yields much simpler expressions. Amplituhedron theory calculates scattering amplitudes without referring to such virtual particles. This undermines the case for even a transient, unobservable existence for such virtual particles.The geometric nature of the theory suggests in turn that the nature of the universe, in both classical relativistic spacetime and quantum mechanics, may be described with geometry.Calculations can be done without assuming the quantum mechanical properties of locality and unitarity. In amplituhedron theory, locality and unitarity arise as a direct consequence of positivity. They are encoded in the positive geometry of the amplituhedron, via the singularity structure of the integrand for scattering amplitudes. Arkani-Hamed suggests this is why amplituhedron theory simplifies scattering-amplitude calculations: in the Feynman-diagrams approach, locality is manifest, whereas in the amplituhedron approach, it is implicit.
+
+
+== See also ==
+Associahedron
+Wilson loop
+
+
+== References ==
+
+
+== External links ==
+
+Grassmannian Geometry of Scattering Amplitudes Workshop, December 8–12, 2014
+Nima Arkani-Hamed (2013-08-30). "The Amplituhedron" (video). SUSY 2013 Conference Video Archive.
+Scattering Without Space-Time Subrahmanyan Chandrasekhar Lecture, 25 September 2012 on YouTube
+N = 4 D = 4 super Yang–Mills theory from nLab
+Postnikov, Alexander (2006-09-27). "Total positivity, Grassmannians, and networks". arXiv:math/0609764.

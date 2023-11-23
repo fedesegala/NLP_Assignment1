@@ -1,0 +1,26 @@
+A recombinant virus may occur naturally or be produced by recombining pieces of DNA using recombinant DNA technology.
+
+
+== Synthetic recombination ==
+This may be used to produce viral vaccines or gene therapy vectors.
+
+
+== Natural recombination ==
+The term is also used to refer to naturally occurring recombination between virus genomes in a cell infected by more than one virus strain. This occurs either by Homologous recombination of the nucleic acid strands or by reassortment of genomic segments. Both these and mutation within the virus have been suggested as ways in which influenza and other viruses evolve. An example of a recombinant virus is Western equine encephalitis virus (WEE), which is a recombinant virus between two other closely related yet distinct encephalitis viruses. In addition, reassortment is most important for pandemic influenza viruses.
+
+
+== See also ==
+Reassortment
+Mutation
+Chromosomal crossover
+
+
+== References ==
+Recombination Resulting in Virulence Shift in Avian Influenza Outbreak, Chile. Suarez et al 2009
+Homologous Recombination as an Evolutionary Force in the Avian Influenza A Virus. He at al 2008
+
+
+== External links ==
+Dr. Jeffery Taubenberger on: A Recombinant Virus Archived 2009-12-15 at the Wayback Machine
+Viral Genetics
+Transmission of Influenza A Viruses Between Animals and People

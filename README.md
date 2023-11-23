@@ -47,9 +47,16 @@ Si tratta di una classe che include tutte le utility principali del classificato
 - costruito il *vocabolario*
 - computate le *priors* per ciascuna delle due classi  
 
+Al fine di costruire le due bag of words per ogni categoria, come anche spiegato all'interno del codice, viene generata la bag of words di ogni testo appartenente alla categoria data. A tale scopo, prima di raggiungere la sua rappresentazione come BoW, ogni documento viene normalizzato tramite i seguenti passi: 
+
+- tokenization tramite `nltk.wordpunct`, tramite la quale il testo viene diviso in vari token, rimuovendo inoltre i segni di punteggiatura
+- stopword elimination, in modo tale da andare ad eliminare le parole più comuni del linguaggio
+- per ogni token ne viene effettuato lo stemming, in modo da andare a ridurre la dimensione della BoW (riducendo ogni token al proprio stem, si più token diventano un solo stem)
+- rimozione degli stem rimasti contenenti il simbolo `=`, questo viene fatto in quanto le sezioni dei documenti del Corpora sono tra loro separate tramite `== Nome Sezione ==`, non è rilevante dunque tenere conto di quel simbolo nella maggioranza dei casis
+
 A questo punto la fase di training si può ritenere completa, e si può procedere alla vera e propria classificazione: `Classifier.classify()`.
 
-In particolare la classificazione viene effettuata tramite il metodo **Naive Bayes** secondo la formula:
+In particolare la classificazione viene effettuata tramite il metodo **Naive Bayes** secondo la formula (si veda pdf per visualizzare la formula in modo corretto):
 
 $$
 \hat{y} = \text{argmax} \;\; \text{log}(\text{P(class)}) + \sum_{i\in pos} \text{log}(p(w_i|\text{class}))

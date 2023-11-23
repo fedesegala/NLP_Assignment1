@@ -1,0 +1,69 @@
+There are several models of the Branching order of bacterial phyla, one of these was proposed in 1987 paper by Carl Woese.The branching order proposed by Carl Woese was based on molecular phylogeny, which was considered revolutionary as all preceding models were based on discussions of morphology.  (v. Monera). Several models have been proposed since and no consensus is reached at present as to the branching order of the major bacterial lineages.The gene used was the 16S ribosomal DNA.
+
+
+== Tree ==
+The names have been changed to reflect more current nomenclature used by molecular phylogenists.
+
+
+== Note on names ==
+
+Despite the impact of the paper on bacterial classification, it was not a proposal for change of taxonomy. Consequently, many clades were given official names. Only subsequently, this occurred: for example, the "purple bacteria and relatives" were renamed Proteobacteria.
+
+
+== Discussion ==
+In 1987, Carl Woese, regarded as the forerunner of the molecular phylogeny revolution, divided Eubacteria into 11 divisions based on 16S ribosomal RNA (SSU) sequences, listed below. Many new phyla have been proposed since then.
+
+Purple Bacteria and their relatives (later renamed Proteobacteria)
+alpha subdivision (purple non-sulfur bacteria, rhizobacteria, Agrobacterium, Rickettsiae, Nitrobacter)
+beta subdivision (Rhodocyclus, (some) Thiobacillus, Alcaligenes, Spirillum, Nitrosovibrio)
+gamma subdivision (enterics, fluorescent pseudomonads, purple sulfur bacteria, Legionella, (some) Beggiatoa)
+delta subdivision (Sulfur and sulfate reducers (Desulfovibrio), Myxobacteria, Bdellovibrio)
+Gram-positive EubacteriaHigh-G+C species (later renamed Actinobacteria) (Actinomyces, Streptomyces, Arthrobacter, Micrococcus, Bifidobacterium)
+Low-G+C species (later renamed Firmicutes) (Clostridium, Peptococcus, Bacillus, Mycoplasma)
+Photosynthetic species (Heliobacteria)
+Species with Gram-negative walls (Megasphaera, Sporomusa)
+Cyanobacteria and chloroplasts (Aphanocapsa, Oscillatoria, Nostoc, Synechococcus, Gloeobacter, Prochloron)
+Spirochetes and relatives
+Spirochetes (Spirochaeta, Treponema, Borrelia)
+Leptospiras (Leptospira, Leptonema)
+Green sulfur bacteria (Chlorobium, Chloroherpeton)
+Bacteroides, Flavobacteria and relatives (later renamed Bacteroidetes
+Bacteroides (Bacteroides, Fusobacterium)
+Flavobacterium group (Flavobacterium, Cytophaga, Saprospira, Flexibacter)
+Planctomyces and relatives (later renamed Planctomycetes)
+Planctomyces group (Planctomyces, Pasteuria [sic])
+Thermophiles (Isocystis pallida)
+Chlamydiae (Chlamydia psittaci, Chlamydia trachomatis)
+Radioresistant micrococci and relatives (now commonly referred to as Deinococcus–Thermus or Thermi)Deinococcus group (Deinococcus radiodurans)
+Thermophiles (Thermus aquaticus)
+Green non-sulfur bacteria and relatives (later renamed Chloroflexi)
+Chloroflexus group (Chloroflexus, Herpetosiphon)
+Thermomicrobium group (Thermomicrobium roseum)
+Thermotogae (Thermotoga maritima)
+
+
+== Last universal common ancestor ==
+
+The root of the tree, i.e. the node of the last universal common ancestor, is placed between the domain Bacteria (or kingdom Eubacteria as it was then known) and the clade formed by the domains Archaea (formerly kingdom Archaebacteria) and Eukaryotes. This is consistent with all subsequent studies, bar the study by Thomas Cavalier-Smith in 2002 and 2004, which was not based on molecular phylogeny.Eukaryotes are a mosaic of different lineages:
+
+The genome in the nucleus descends from the first organelle-less eukaryote, the "urkaryote" a sister species to the ancestral archeon
+The mitochondria are organelles  that descended from the proto-mitochondrion, a species of Rickettsiales (Alphaproteobacteria) (v. Reclinomonas and retortamonads).
+The chloroplasts are organelles of cyanobacterial origin.Consequently, in Woese (1987) the group is referred to as urkaryote.
+The clade composed of Archaea and the nuclear genome of eukaryotes is called Neomura by T. Cavalier-Smith
+
+
+== See also ==
+Branching order of bacterial phyla (Woese, 1987)
+Branching order of bacterial phyla (Rappe and Giovanoni, 2003)
+Branching order of bacterial phyla after ARB Silva Living Tree
+Branching order of bacterial phyla (Ciccarelli et al., 2006)
+Branching order of bacterial phyla (Battistuzzi et al.,2004)
+Branching order of bacterial phyla (Gupta, 2001)
+Branching order of bacterial phyla (Cavalier-Smith, 2002)
+Woeseian revolution
+
+
+== Footnotes ==
+
+
+== References ==

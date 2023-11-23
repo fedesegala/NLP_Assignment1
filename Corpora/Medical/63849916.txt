@@ -1,0 +1,56 @@
+
+== Gene ==
+Family with sequence similarity 180 is a Homo sapiens protein that is encoded by the FAM180b gene also known as LOC399888. It is located on the positive DNA strand in Chromosome 11p11.2 (47,586,651 – 47,589,194) and is 1403 nucleotides long. The gene also has 3 exons.
+
+
+== Protein ==
+
+
+=== Composition ===
+The isoelectric point of FAM180b is 4.74 and has a molecular weight of 20KDa. The protein lacks any prominent amino acids, but does have an increase in acidity due to the negatively charged KR-ED.
+
+
+=== Paralog ===
+FAM180A is the only paralog to FAM180b. The four different isoforms of FAM180b are listed below.
+
+
+=== Orthologs ===
+FAM180b is found in Primates, Mammalians, and Fungi. But there are no orthologs in plants.A table indicating the various orthologs:
+
+
+=== Secondary & Tertiary Structures ===
+FAM180b is composed of 63% alpha-helixes and 54.1% beta sheets. Certain amino acids have an overlap in both, hence the percentage exceeding 100% when totaled. The predicted tertiary structure obtained from Phyre 2 can be seen in Figure 3. on the right.
+
+
+== Regulation ==
+
+
+=== Epigenetic ===
+FAM180b has a CpG island associated with its promoter, and has a CpG count of 150. FAM180b also has relatively low levels of H3K4me1, H3K4me3 and H3K27Ac amongst the cell types, MADD, ARFGAP2, FNBP4, C1QTNF4, AGBL2, and PTPRJ.
+
+
+=== Subcellular Localization ===
+The FAM180b protein is predicted to be located in the extracellular region, with a reliability score of 55.6%. The protein contains a signal peptide, which has a cleavage site between 23 and 24 aa. However, FAM180b does not have any ER retention motif in the C-terminus, nor cleavage sites for mitochondria.
+
+
+=== Post-Translational ===
+FAM180b has two cysteine residues located at amino acid (aa) 10 and 16, that are predicted to be palmitoylation sites. FAM180b also has three Threonine residues positioned in aa 4, 22, and 23, and one Glycine residue located in aa 19 that are all predicted to be phosphorylation sites. O-GlcNacylation sites are present in serine residues located in 35 aa, 171 aa and in Threonine residue located in 36 aa. 
+
+
+=== Domains & Motifs ===
+FAM180b has one domain listed as Big-1 (bacterial IG-like domain 1) domain at position 1–8. It has an e-value of 1.6 + 0.3. As for the motif, there is an amidation site at  position 78–81.
+
+
+== Gene Expression ==
+In human fetal tissues, FAM180b is expressed in the lungs and stomach at 10 weeks. It's also highly expressed in the intestine at 11 weeks. Amongst various different RNA sequenced tissues, FAM180b is highly expressed in fat, skin, and thyroid.
+
+
+== Clinical Significance ==
+Currently there are no clinical significances associated with protein FAM180b 
+
+
+== Suggested Readings ==
+Strausberg, Robert L et al. “Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.” Proceedings of the National Academy of Sciences of the United States of America vol. 99,26 (2002): 16899–903. doi:10.1073/pnas.242603899
+
+
+== References ==

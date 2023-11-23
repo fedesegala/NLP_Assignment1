@@ -1,0 +1,101 @@
+Haruki's Theorem says that given three intersecting circles that only intersect each other at two points that the lines connecting the inner intersecting points to the outer satisfy:
+
+  
+    
+      
+        
+          s
+          
+            1
+          
+        
+        ⋅
+        
+          s
+          
+            3
+          
+        
+        ⋅
+        
+          s
+          
+            5
+          
+        
+        =
+        
+          s
+          
+            2
+          
+        
+        ⋅
+        
+          s
+          
+            4
+          
+        
+        ⋅
+        
+          s
+          
+            6
+          
+        
+      
+    
+    {\displaystyle s_{1}\cdot s_{3}\cdot s_{5}=s_{2}\cdot s_{4}\cdot s_{6}}
+  where 
+  
+    
+      
+        
+          s
+          
+            1
+          
+        
+        ,
+        
+          s
+          
+            2
+          
+        
+        ,
+        
+          s
+          
+            3
+          
+        
+        ,
+        
+          s
+          
+            4
+          
+        
+        ,
+        
+          s
+          
+            5
+          
+        
+        ,
+        
+          s
+          
+            6
+          
+        
+      
+    
+    {\displaystyle s_{1},s_{2},s_{3},s_{4},s_{5},s_{6}}
+   are the measure of segments connecting the inner and outer intersection points.The theorem is named after the Japanese mathematician Hiroshi Haruki.
+
+
+== References ==

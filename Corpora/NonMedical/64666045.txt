@@ -1,0 +1,66 @@
+Health politics or politics of health is an interdisciplinary field of study concerned with the analysis of social and political power over the health status of individuals.Health politics, incorporating broad perspectives from medical sociology to international relations, is interested not only in the understanding of politics as government/ governance, but also politics as civil society and as a process of power contestation. It views this wider understanding of politics to take place throughout levels of society - from the individual to the global. As such the politics of health is not constrained to a particular area of society, such as state government, but rather is a dynamic, ongoing social process that takes place ubiquitously throughout our levels of society.
+
+
+== Overview ==
+Health politics is a joint discipline between public health and politics although, like many other interdisciplinary fields such as sociology, phenomenology or public policy, often incorporates approaches and methodologies of other related fields of study such as intersectionality. It sits to realize the political nature of health, healthcare, and the wider public health and medical contexts that sit within it.A bibliometric search for 'politics of health' on PubMed found the earliest entry to be Schmidt's 1977 article "National Blood Policy, 1977: a study in the politics of health" that was set within the United States.
+Foucault, through his work in biopolitics, offers insight into health politics through his essay (English translation by Lynch, 2014) "The politics of health in the eighteenth century".
+
+
+== Central contestations ==
+
+
+=== Apolitical study of health and healthcare ===
+A key issue that health politics engages with is the apolitical nature of health within academia, health professions, and wider society. As an interdisciplinary area of study, it is seen as underresearched with literature focusing on the social and cultural determinants of health at the lack of political ones.By integrating analysis on social power and politics within health and healthcare systems, a better understanding of barriers in health inequality and inequity can be gained.It critiques public health for professionalizing health and healthcare systems to an extent that it removes it from public engagement, depoliticizing it in the process. This then transfers power away from the public body and into the medical profession and industry such that they can 'determine what health is and therefore, how political it is (or, more usually, is not)'. Combining political science with the study of public health, health politics aims to understand the unique interplay of politics within this policy domain to locate the politics of health."Among professionals in public health, the political system is commonly viewed as a subway's third rail: avoid touching it, lest you get burned. Yet it is this third rail that provides power to the train, and achieving public health goals depends on a sustained, constructive engagement between public health and political systems".Here, public health's problems and issues are explicitly political as the world's health bodies and organizations are supported by national governments - making their solutions equally as political as well. "If public health is the field that diagnoses and strives to cure social ills, then understanding political causes and cures for health problems should be an intrinsic part of the field".
+
+
+== Concepts ==
+
+
+=== Medical and health professionals as political agents ===
+The delivery, planning, and research into health and healthcare, within the modern age of nation-states, is a highly state-orientated enterprise. The bureaucracy in its provision and regulation throughout countries across the world is often one of the most highly centralised activities of government and political actors. More than other areas in society, health politics intersects numerous socially, morally, and culturally crucial as well as sensitive issues that societies face that shape the health and well-being of everyone. Because of this, medical and health professionals can be seen as political agents as a bridge between medical science and society. How this agency takes place, through conformity or deviance (e.g. protesting against government policy), creates unique health politics landscapes and provides a perspective of looking at political power beyond the state.
+
+
+=== Political determinants of health ===
+
+The political determinants of health (PDOH) are a conceptual framework that visualises and frames the political factors that shape and control the health and wellbeing of people. This places a sociological lens upon areas like medicine - treating it as a social science as much as an applied science to understand its political nature.Here, it is predominantly a critique of the social determinants of health in its perceived failure to incorporate political factors within its framework or its having a limited conceptualisation of what politics can entail. PDOH outlines that politics is not merely an institutional process, of government acting upon an individual. Rather, politics is a multifaceted contestation of social power (e.g. the ability to enact change upon someone else) that takes place throughout the social determinants of health. Although government agencies and policy are important, seeing political contestation and politics as power operating across levels of analysis offers to seek out the cause of the causes.PDOH is set within the social determinants of health, but acknowledges that political processes and contestation over power form a unique social phenomenon that require a distinct conceptualisation to appreciate their impact upon health and healthcare. Rather than stopping at social determinants like sexual orientation, educational level, or food insecurity it encourages an explicit exploration of the causes of these determinants such as Neoliberal market failures, homophobia, or poverty.
+
+
+== Perspectives ==
+
+
+=== Comparative health politics ===
+Comparative health politics takes influence from comparative politics, a major sub-field of politics. It focuses on the interactions of health politics within a country or comparing countries, as opposed to international health politics. This field of study explores how political culture, class relationships, to economic resources shape the implementation of health policy and wider social determinants of health, often taking the form of comparative case studies.
+
+
+=== Global health politics ===
+Global health politics is interested in the statal and extra-statal space of politics in health that takes place on a global level. It views the space of nation-states as increasingly being blurred, such as through processes like globalisation, that makes the distinction of domestic and international health politics increasingly insensitive to shifting political contexts.
+
+
+=== LGBT health politics ===
+LGBT or gender and sexual minorities (GSMs), through a complex history and ongoing discriminations, have a distinct sub-field within health politics. From the stonewall riots to the politics involved around HIV, GSMs' health status has been deeply influenced by the politics of any given time and geopolitical location.
+
+
+=== Marxist health politics ===
+Using theories generated by Marx and Marxist scholars, a Maxist health politics centres on class conflict and the failures of capitalism and capitalistic processes and actors in the persistence of health inequalities and inequity."We have understanding only of inorganic capital and know nothing about human capital. In a wholly capitalist economy, where the loss of human life is considered only as a private loss for the family but as no economic loss for society, the economy of people becomes, of course, completely superfluous".
+
+
+=== Political epidemiology ===
+This interdisciplinary field takes influence from epidemiology in creating a scientific study of the political factors that influence and shape the health of human populations. It has a distinct leaning on natural science methodology through a positivist approach, involving methodology like statistical analysis or case studies.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Journal of Health Politics, Policy and Law
+Journal of Policy, Politics, & Nursing Practice
+Politics of Health Group

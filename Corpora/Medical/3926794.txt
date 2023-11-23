@@ -1,0 +1,23 @@
+In biology, a deme, in the strict sense, is a group of individuals that belong to the same taxonomic group. However, when biologists, and especially ecologists, use the term ‘deme’ they usually refer to it as the definition of a gamodeme: a local group of individuals (from the same taxon) that interbreed with each other and share a gene pool. The latter definition of a deme is only applicable to sexual reproducing species, while the former is more neutral and also takes asexual reproducing species into account, such as certain plant species. In the following sections the latter (and most frequently used) definition of a deme will be used.
+In evolutionary computation, a "deme" often refers to any isolated subpopulation subjected to selection as a unit rather than as individuals.
+
+
+== Local adaptation ==
+A population of a species usually has multiple demes. Environments between these demes can differ. Demes could, therefore, become locally adapted to their environment. A good example of this is the Adaptive Deme Formation (ADF) hypothesis in insects. The ADF hypothesis states that herbivorous insects can become adapted to specific host plants in their local environment because local plants can have unique nutrient patches to which insects may become adapted. This hypothesis predicts that less mobile insect demes are more likely to become locally adapted than more dispersive insect. However, a meta-analysis, based on 17 studies on this subject, showed that dispersive insect demes were as likely to become locally adapted as less mobile insects. Moreover, this study found a small indication that feeding behaviour might stimulate the local adaptation of demes. Endophagous insects were more likely to become locally adapted than exophagous insects. The explanation for this could be that endophagous insects come in more close and continuous contact to the plant's mechanical, chemical and phenological defensive mechanisms.
+
+
+== Speciation and demes ==
+Speciation could occur at the level of demes. When a deme gets geographically isolated from other demes of the same species, gene-flow between these demes will stop which could lead to speciation after a long time. This is called allopatric speciation and is generally a slow process.On the contrary, sympatric speciation can be more rapid when a species has multiple small demes. This rapid speciation is both observed in plants and vertebrates. Rapid speciation is explained by the ecology and social structure of demes. Species that behave more territorial, live in patchy environments and/or have a polygynous breeding system with only one reproductive male tend to have smaller deme sizes. Interbreeding between small demes is rare due to these factors. Furthermore, alleles fixate more rapidly in smaller demes. Small demes could, therefore, become genetically distinct from each other.Primates, for example, have the second highest speciation rate among mammals, with one speciation event per lineage every 3 million years. However, not all primate species have a high speciation rate; this is reflected in their deme size and social structure. Guenons (Cercopithecus), for example, live together in small polygynous troops and are a quite diverse genus. On the other hand, baboons (Papio) have a much lower speciation rate. Baboons have larger deme sizes because they live in polygynous multi-male troops. These baboon demes are usually allopatric but gene-flow still exists between demes with hybridization being common.
+
+
+== Examples ==
+Various populations of gorillas can be understood by their geographical separation and have been assessed to determine distinct and disjointed gene pools. The polar bear, Ursus maritimus, is understood to have 19 identifiable demes, even though their circumpolar distribution allows some interchange among the demes.
+
+
+== See also ==
+Fragmented habitat
+Population genetics
+Memetics
+
+
+== References ==

@@ -1,0 +1,17 @@
+A plaque-forming unit (PFU) is a measure used in virology to describe the number of virus particles capable of forming plaques per unit volume.  It is a proxy measurement rather than a measurement of the absolute quantity of particles: viral particles that are defective or which fail to infect their target cell will not produce a plaque and thus will not be counted.
+For example, a solution of tick-borne encephalitis virus with a concentration of 1,000 PFU/μL indicates that 1 μL of the solution contains enough virus particles to produce 1000 infectious plaques in a cell mono-layer, but no inference can be made about the relationship of PFU to number of virus particles. The concept of plaque-forming units of virus is equivalent to the concept of colony-forming units of bacteria.
+
+
+== See also ==
+Viral load
+Minimal infective dose
+Virus quantification
+
+
+== References ==
+
+https://www.sciencedirect.com/topics/immunology-and-microbiology/plaque-forming-unit
+
+
+== External links ==
+Definition from Biology-Online.org

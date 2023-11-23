@@ -1,0 +1,43 @@
+Lacticaseibacillus casei is an organism that belongs to the largest genus in the family Lactobacillaceae, a lactic acid bacteria (LAB), that was previously classified as Lactobacillus casei-01. This bacteria has been identified as facultatively anaerobic or microaerophilic, acid-tolerant, non-spore-forming bacteria. The taxonomy of this group has been debated for several years because researchers struggled to differentiate between the strains of L. casei and L. paracasei. It has recently been accepted as a single species with five subspecies: L. casei subsp. rhamnosus, L. casei subsp. alactosus, L. casei subsp. casei, L. casei subsp. tolerans, and L. casei subsp. pseudoplantarum. The taxonomy of this genus was determined according to the phenotypic, physiological, and biochemical similarities.
+
+This species is a non-sporing, rod-shaped, gram positive microorganism that can be found within the reproductive and digestive tract of the human body. Since L. casei can survive in a variety of environmental habitats, it has and continues to be extensively studied by health scientists. Commercially, L. casei is used in fermenting dairy products and its application as a probiotic.
+
+
+== Uses ==
+
+
+=== Dairy ===
+The most common application of L. casei is industrial, specifically for dairy production.Lacticaseibacillus casei is typically the dominant species of nonstarter lactic acid bacteria (i.e. contaminant bacteria) present in ripening cheddar cheese, and, recently, the complete genome sequence of L. casei ATCC 334 has become available. L. casei is also the dominant species in naturally fermented Sicilian green olives.
+
+
+=== Medical ===
+A commercial beverage containing L. casei strain Shirota has been shown to inhibit the in vivo growth of Helicobacter pylori, but when the same beverage was consumed by humans in a small trial, H. pylori colonization decreased only slightly, and the trend was not statistically significant. Some L. casei strains are considered to be probiotic, and may be effective in alleviation of gastrointestinal pathogenic bacterial diseases. According to World Health Organization, those properties have to be demonstrated on each specific strain—including human clinical studies—to be valid. L. casei has been combined with other probiotic strains of bacteria in randomized trials studying its effects in preventing antibiotic-associated diarrhea (AAD) and Clostridium difficile infections (CDI), and patients in the trials who were not given the placebo had significantly lower rates of AAD or CDI (depending on the trial) with no adverse effects reported. Additionally, trials have shown significantly shorter recovery times in children suffering from acute diarrhea (primarily caused by rotavirus) when given different L. casei treatments when compared to placebo. Studies suggest that lactobacilli are a safe and effective treatment for acute and infectious diarrhea.In the preparation of food, L. casei bacteria can be used in the natural fermentation of beans to lower levels of the compounds causing flatulence upon digestion.
+
+
+=== Commercial probiotic ===
+Among the best-documented, probiotic L.casei, L. casei DN-114001, and L. casei Shirota have been extensively studied and are widely available as functional foods (see Actimel/DanActive, Yakult).
+
+
+=== Others ===
+In the past few years, many studies have been conducted in the decolorization of azo dyes by lactic acid bacteria such as L. casei TISTR 1500, L. paracasei, Oenococcus oeni, etc. With the azoreductase activity, mono- and diazo bonds are degraded completely, and generate other aromatic compounds as intermediates.
+
+
+== Characteristics of Lactocaseibacillus casei ==
+The following table includes the colony, morphological, physiological, and biochemical characteristics of L. casei.
+
+
+=== Transformation ===
+Lactic acid bacteria (LAB) is widely exploited for its probiotic and fermenting properties, so understanding how its genetic material is exchanged was crucial for researchers. A wide variety of comparative analyses were used to determine that horizontal gene transfer (HGT) influenced the evolution of the Lactobacillus genus. HGT in L. casei includes transformation, conjugation, and transduction. The mobile genetic elements found within the genome, known as mobilomes, play an important role in Lactobacillaceae transfer. This includes insertion sequences, bacteriophages, integrons, plasmids, genomic islands, and transposons. Within LAB, they are responsible for metabolizing different molecules, hydrolyzing proteins, resisting antibiotics, DNA, and phages, and modifying genetic elements.The first form of gene transfer used by Lactobacillus is transformation. This includes the uptake of naked DNA by a recipient bacterial cell to gain the genetic information of a donor cell. This occurs after a donor bacterium has undergone autolysis and its DNA fragments are left within the free extracellular fluid. The recipient bacterium will then ingest the DNA fragments and will result in either a bacterial cell with a plasmid or recombination of the recipient DNA will transpire within the chromosome.
+The next form of transfer is conjugation, a process that involves the transfer of DNA from a Lactobacillus donor to a recipient via cell-to-cell contact or direct cytoplasmic contact. In this process, the recipient cell is known as the transconjugant. Once the cells come together, fragments of DNA are directly transferred from the donor to the transconjugant. This is mediated by pheromone-induced cell aggregation and mobilization proteins since many of the plasmids are unable to transfer on their own. Afterward, the mating cells will separate and a recombinant cell will be produced after homologous recombination.Finally, transduction in Lactobacillus cells is a bacteriophage-mediated transfer of plasmid or chromosomal genetic information. To initiate this process, a bacteriophage must first infect the donor cell so that lysis of the cell will occur. At this point, the cell lysate will be filled with phages that carry donated genome fragments and the recipient cell will be injected with abnormal phage. This will result in a recombination cell whether the cell is infected after homologous recombination or after the infection occurs by bacteriophage integrase.
+
+
+== See also ==
+Prebiotic (nutrition)
+Lactic acid bacteria
+
+
+== References ==
+
+
+== External links ==
+Type strain of Lactobacillus casei at BacDive - the Bacterial Diversity Metadatabase

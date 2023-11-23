@@ -1,0 +1,23 @@
+Acidogenesis is the second stage in the four stages of anaerobic digestion:
+
+Hydrolysis: A chemical reaction where particulates are solubilized and large polymers converted into simpler monomers;
+Acidogenesis: A biological reaction where simple monomers are converted into volatile fatty acids;
+Acetogenesis: A biological reaction where volatile fatty acids are converted into acetic acid, carbon dioxide, and hydrogen
+Methanogenesis: A biological reaction where acetates are converted into methane and carbon dioxide, while hydrogen is consumed.Anaerobic digestion is a complex biochemical process of biologically mediated reactions by a consortium of microorganisms to convert organic compounds into methane and carbon dioxide. It is a stabilization process, reducing odor, pathogens, and mass reduction.
+Hydrolytic bacteria form a variety of reduced end-products from the fermentation of a given substrate. One fundamental question that arises concerns the metabolic features that control carbon and electron flow to a given reduced end-product during pure culture and mixed methanogenic cultures of hydrolytic bacteria. Thermoanaerobium brockii is a representative thermophilic, hydrolytic bacterium, which ferments glucose, via the Embden–Meyerhof Parnas Pathway. T. brockii is an atypical hetero-lactic acid bacterium because it forms molecular hydrogen (H2), in addition to lactic acid and ethanol. The reduced end-products of glucose fermentation are enzymatically formed from pyruvate, via the following mechanisms: lactate by fructose 1-6 all-phosphate (F6P) activated lactate dehydrogenase; H2 by pyruvate ferredoxin oxidoreductase and hydrogenase; and ethanol via NADH- and NADPH-linked alcohol dehydrogenase.By its side, the acidogenic activity was found in the early 20th century, but it was not until the mid-1960s that the engineering of phases separation was assumed in order to improve the stability and waste digesters treatment. In this phase, complex molecules (carbohydrates, lipids, and proteins) are depolymerized into soluble compounds by hydrolytic enzymes (cellulases, hemicellulases, amylases, lipases and proteases). The hydrolyzed compounds are fermented into volatile fatty acids (acetate, propionate, butyrate, and lactate), neutral compounds (ethanol, methanol), ammonia, hydrogen and carbon dioxide.Acetogenesis is one of the main reactions of this stage, in this, the intermediary metabolites produced are metabolized to acetate, hydrogen and carbonic gas by the three main groups of bacteria: 
+
+homoacetogens;
+syntrophes; and
+sulphoreductors.For the acetic acid production are considered three kind of bacteria:
+
+Clostridium aceticum;
+Acetobacter woodii; and
+Clostridium termoautotrophicum.Winter y Wolfe, in 1979, demonstrated that A. woodii in syntrophic association with Methanosarcina produce methane and carbon dioxide from fructose, instead of three molecules of acetate. Moorella thermoacetica and Clostridium formiaceticum are able to reduce the carbonic gas to acetate, but they do not have hydrogenases which inhabilite the hydrogen use, so they can produce three molecules of acetate from fructose. Acetic acid is equally a co-metabolite of the organic substrates fermentation (sugars, glycerol, lactic acid, etc.) by diverse groups of microorganisms which produce different acids: 
+
+Propionic bacteria (propionate + acetate);
+Clostridium (butyrate + acetate);
+Enterobacteria (acetate + lactate); and
+Hetero-fermentative bacteria (acetate, propionate, butyrate, valerate, etc.).
+
+
+== References ==

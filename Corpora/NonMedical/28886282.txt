@@ -1,0 +1,17 @@
+In geometry, an equichordal point is a point defined relative to a convex plane curve such that all chords passing through the point are equal in length. Two common figures with equichordal points are the circle and the limaçon.  It is impossible for a curve to have more than one equichordal point.
+
+
+== Equichordal curves ==
+A curve is called equichordal when it has an equichordal point. Such a curve may be constructed as the pedal curve of a curve of constant width. For instance, the pedal curve of a circle is either another circle (when the center of the circle is the pedal point) or a limaçon; both are equichordal curves.
+
+
+== Multiple equichordal points ==
+
+In 1916 Fujiwara proposed the question of whether a curve could have two equichordal points (offering in the same paper a proof that three or more is impossible). Independently, a year later, Blaschke, Rothe and Weitzenböck posed the same question. The problem remained unsolved until it was finally proven impossible in 1996 by Marek Rychlik. Despite its elementary formulation, the equichordal point problem was difficult to solve. Rychlik's theorem is proved by methods of advanced complex analysis and algebraic geometry and it is 72 pages long.
+
+
+== References ==
+
+
+== External links ==
+Weisstein, Eric W. "Equichordal Point". MathWorld.
