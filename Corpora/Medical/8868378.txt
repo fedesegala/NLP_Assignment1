@@ -1,0 +1,23 @@
+In biology, axenic (, ) describes the state of a culture in which only a single species, variety, or strain of organism is present and entirely free of all other contaminating organisms. The earliest axenic cultures were  of  bacteria or unicellular eukaryotes, but axenic cultures of many multicellular organisms are also possible. Axenic culture is an important tool for the study of symbiotic and parasitic organisms in a controlled environment.
+
+
+== Preparation ==
+Axenic cultures of microorganisms are typically prepared by subculture of an existing mixed culture. This may involve use of a dilution series, in which a culture is successively diluted to the point where subsamples of it contain only a few individual organisms, ideally only a single individual (in the case of an asexual species). These subcultures are allowed to grow until the identity of their constituent organisms can be ascertained. Selection of those cultures consisting solely of the desired organism produces the axenic culture. Subculture selection may also involve manually sampling the target organism from an uncontaminated growth front in an otherwise mixed culture, and using this as an inoculum source for the subculture.Axenic cultures are usually checked routinely to ensure that they remain axenic.  One standard approach with microorganisms is to spread a sample of the culture onto an agar plate, and to incubate this for a fixed period of time.  The agar should be an enriched medium that will support the growth of common "contaminating" organisms.  Such "contaminating" organisms will grow on the plate during this period, identifying cultures that are no longer axenic.
+
+
+== Experimental use ==
+As axenic cultures are derived from very few organisms, or even a single individual, they are useful because the organisms present within them share a relatively narrow gene pool. In the case of an asexual species derived from a single individual, the resulting culture should consist of  identical organisms (though processes such as mutation and horizontal gene transfer may introduce a degree of variability).  Consequently, they will generally respond in a more uniform and reproducible fashion, simplifying the interpretation of experiments.
+
+
+=== Problems ===
+The axenic culture of some pathogens is complicated because they normally thrive within host tissues which exhibit properties that are difficult to replicate in vitro.  This is especially true in the case of intracellular pathogens.  However, careful replication of key features of the host environment can resolve these difficulties (e.g. host metabolites, dissolved oxygen), such as with the Q fever pathogen, Coxiella burnetii.
+
+
+== See also ==
+Asepsis
+Gnotobiotic animal
+Germ-free animal
+Sterilization (microbiology)
+
+
+== References ==

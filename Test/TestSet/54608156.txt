@@ -1,0 +1,68 @@
+Domestication syndrome refers to two sets of phenotypic traits that are common to either domesticated animals, or domesticated plants. These traits were identified by Charles Darwin in The Variation of Animals and Plants Under Domestication.
+Domesticated animals tend to be smaller and less aggressive than their wild counterparts, they may also have floppy ears, variations to coat color, a smaller brain, and a shorter muzzle. Other traits may include changes in the endocrine system and an extended breeding cycle.
+Research suggests that modified neural crest cells are potentially responsible for the traits that are common across many domesticated animal species.
+The process of plant domestication has produced changes in shattering/fruit abscission, shorter height, larger grain or fruit size, easier threshing, synchronous flowering, and increased yield, as well as changes in color, taste, and texture.
+
+
+== Origin ==
+Charles Darwin's study of The Variation of Animals and Plants Under Domestication in 1868 identified behavioral, morphological, and physiological traits that are shared by domestic animals, but not by their wild ancestors. These shared traits became known as the domestication syndrome. These traits include tameness, docility, floppy ears, altered tails, novel coat colors and patterns, reduced brain size, reduced body mass and smaller teeth. Other traits include changes in craniofacial morphology, alterations to the endocrine system, and changes to the female estrous cycles including the ability to breed all year-round.A recent hypothesis suggests that neural crest cell behaviour may be modified by domestication, which then leads to those traits that are common across many domesticated animal species.
+
+
+== Cause ==
+Many similar traits – both in animals and plants – are produced by orthologs, however whether this is true for domestication traits or merely for wild forms is less clear. Especially in the case of crops, doubt has been cast because some domestication traits have been found to result from unrelated loci. In 2018, a study identified 429 genes that differed between modern dogs and modern wolves. As the differences in these genes could also be found in ancient dog fossils, these were regarded as being the result of the initial domestication and not from recent breed formation. These genes are linked to neural crest and central nervous system development. These genes affect embryogenesis and can confer tameness, smaller jaws, floppy ears, and diminished craniofacial development, which distinguish domesticated dogs from wolves and are considered to reflect domestication syndrome. The study proposes that domestication syndrome is caused by alterations in the migration or activity of neural crest cells during their development. The study concluded that during early dog domestication, the initial selection was for behavior. This trait is influenced by those genes which act in the neural crest, which led to the phenotypes observed in modern dogs.
+
+
+== In animals ==
+A dog's cranium is 15% smaller than an equally heavy wolf's, and the dog is less aggressive and more playful. Other species pairs show similar differences. Bonobos, like chimpanzees, are a close genetic cousin to humans, but unlike the chimpanzees, bonobos are not aggressive and do not participate in lethal inter-group aggression or kill within their own group. The most distinctive features of a bonobo are its cranium, which is 15% smaller than a chimpanzee's, and its less aggressive and more playful behavior. In other examples, the guinea pig's cranium is 13% smaller than its wild cousin the cavy, and domestic fowl show a similar reduction to their wild cousins. Possession of a smaller cranium for holding a smaller brain is a telltale sign of domestication. Bonobos appear to have domesticated themselves.: 104  In the farm fox experiment, humans selectively bred foxes against aggression, causing domestication syndrome. The foxes were not selectively bred for smaller craniums and teeth, floppy ears, or skills at using human gestures, but these traits were demonstrated in the friendly foxes. Natural selection favors those that are the most successful at reproducing, not the most aggressive. Selection against aggression made possible the ability to cooperate and communicate among foxes, dogs and bonobos.: 114  The more docile animals have been found to have less testosterone than their more aggressive counterparts, and testosterone controls aggression and brain size. The further away a dog breed is genetically from wolves, the larger the relative brain size is.
+
+
+=== Challenge ===
+The domestication syndrome was reported to have appeared in the domesticated silver fox cultivated by Dmitry Belyayev's breeding experiment. However, in 2015 canine researcher Raymond Coppinger found historical evidence that Belyayev's foxes originated in fox farms on Prince Edward Island and had been bred there for fur farming since the 1800s, and that the traits demonstrated by Belyayev had occurred in the foxes prior to the breeding experiment. A 2019 opinion paper by Lord and colleagues argued that the results of the "Russian farm fox experiment" were overstated. However, the pre-domesticated origins of the Russian farmed foxes were already a matter of public record.In 2020, Wright et al. argued Lord et al.'s work refuted only a narrow and unrealistic definition of domestication syndrome because they assumed it is caused by genetic pleiotropy and arises in response to 'selection for tameness'. In the same year, Zeder pointed out that it makes no sense to deny the existence of domestication syndrome on the basis that domestication syndrome traits were present in the pre-domesticated founding foxes.The hypothesis that neural crest genes underlie some of the phenotypic differences between domestic and wild horses and dogs is supported by the functional enrichment of candidate genes under selection.
+
+
+== In plants ==
+
+
+=== Syndrome traits ===
+The same concept appears in the plant domestication process which produces crops, but with its own set of syndrome traits. In cereals, these include little to no shattering/fruit abscission, shorter height (thus decreased lodging), larger grain or fruit size, easier threshing, synchronous flowering, altered timing of flowering, increased grain weight, glutinousness (stickiness, not gluten protein content), increased fruit/grain number, altered color compounds, taste, and texture, daylength independence, determinate growth, lesser/no vernalization, less seed dormancy.
+
+
+=== Cereal genes by trait ===
+Control of the syndrome traits in cereals is by:
+
+ShatteringSH1 in sorghum, rice, and maize/corn
+sh4 in the rachis of rice
+qPDH1 in soybean
+Q in wheat
+LG1 in ricePlant heightRht-B1/Rht-D1 (two orthologous versions of Rht-1 on different subgenomes, Rht standing for reduced height) in wheat
+GA20ox-2 in rice and barley
+KO2 in one Japanese cultivar of rice
+either dw3 or d2 in sorghum and pearl millet
+Ghd7 in rice
+Q in wheatGrain sizeGS3 in maize/corn and rice
+GS5 in rice
+An-1 in rice
+GAD1/RAE2 (smaller) in riceYieldSPL14/LOC4345998 in rice.
+pyl1, pyl4, pyl6 in the PYL gene family in riceThreshabilityQ and Nud
+An-1 (by reducing or eliminating awns) in rice
+An-2/LABA1 - small awn reduction/barbless awns - in rice
+GAD1/RAE2 - awn elimination in rice
+tga1 - naked kernels in maizeFlowering timeVRN1 in barley, wheat, ryegrassGrain weightGW2 in rice, wheat, maize/corn
+GW5 in rice
+GLW2 in rice
+GASR7 in wheat
+GW5 in rice
+TGW6 in riceGlutinousnessGBSSI or Waxy in rice (especially glutinous rice), wheat, corn, barley, sorghum, foxtail millet
+SBEIIb in riceDeterminate growthTERMINAL FLOWER 1/TFL1 in Arabidopsis thaliana and orthologsSpecifically, four orthologs in Glycine max and eight in Phaseolus vulgarisStandabilityPROSTRATE GROWTH/Prog1/PROG1 in rice
+teosinte branched1/tb1 (apical dominance) in maize/cornGrain/fruit numberAn-1 in rice
+GAD1/RAE2 in rice
+PROG1 (by increasing tiller number) in rice
+Gn1a in rice
+AAP3 (by increasing tiller number) in ricePanicle sizeDEP1 in rice and wheatSpike numbervrs1 in barleyFragranceBADH2 produces 2-Acetyl-1-pyrroline when defective in rice; can be artificially disrupted to produce the same compoundDelayed sproutingpyl1, pyl4, pyl6 in the PYL gene family - reduced preharvest sprouting in riceAltered colorRc - white pericarp in riceUnspecified traitTeosinte glume architecture/tga in maize/cornMany of these are mutations in regulatory genes, especially transcription factors, which is likely why they work so well in domestication: They are not new, and are relatively ready to have their magnitudes altered. In annual grains, loss of function and altered expression are by far the most common, and thus are the most interesting goals of mutation breeding, while copy number variation and chromosomal rearrangements are far less common.
+
+
+== See also ==
+Agricultural weed syndrome
+
+
+== References ==

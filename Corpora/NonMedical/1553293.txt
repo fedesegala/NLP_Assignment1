@@ -1,0 +1,25 @@
+Safety orange (also known as blaze orange, vivid orange, OSHA orange, hunter orange, or Caltrans orange) is a hue used to set objects apart from their surroundings, particularly in complementary contrast to the azure color of the sky. (Azure is the complementary color of orange, and thus there is a stark contrast between the two colors.) The high-visibility color is commonly used for hunting during the rifle season, and is also used for upland-bird hunting. Places such as construction sites use this orange to help ensure the safety of others.
+ANSI standard Z535.1–1998 states how safety orange is defined in the following notation systems:
+
+Munsell notation:5.0YR (hue)  6.0/15 (value/chroma)Approximate PMS (Pantone) Color (mixing directions):13 parts yellow, 3 parts warm red, 1⁄4 part blackPantone number152CIE Data:x = 0.5510  y = 0.4214 Y% = 30.05Note that this CIE color point is outside the gamut of common color spaces like sRGB or Adobe RGB.
+The closest CIE color point that is still in the sRGB gamut is x = 0.54091, y = 0.40869, Y% = 30.05, corresponding to the sRGB-255 coordinates (232, 118, 0).The Adobe RGB color space is larger than the sRGB color space; the closest "safety orange" CIE color point that is still in the Adobe RGB gamut is x = 0.54467, y = 0.41424, Y% = 30.05%, corresponding to the AdobeRGB-255 coordinates (206, 118, 0).
+Safety orange is the color usually used in the United States for traffic cones (starting in 1961), stanchions, barrels, and other construction zone marking devices. OSHA requires that certain construction equipment must be painted safety orange. Two large trucking companies, Allied Van Lines and Schneider National, paint their trucks and trailers safety orange. In Europe, Dayglo orange (or "luminous orange"; RAL 2005) serves the same purpose.
+Safety orange is the same color as blaze orange, the shade of orange (Color No. 12199) required by United States law (U.S. Code of Federal Regulations, Title 15 Commerce and Foreign Trade, Section 1150.3) to be on the tips of barrels of replica guns such as airsoft guns, and cap or toy guns. Hunter orange is also the color of hats, caps, and other safety wear required to be worn while hunting in most US states.
+
+
+== Elsewhere ==
+Orange vests using colors such as safety orange as high visibility clothing may be commonly worn by workers in the US, but this is not merely a legal standard but can be influenced by culture.
+Since such colored patterned gear is easily produced, it can be assigned any kind of meaning.  In Indonesia, it is commonly worn by parking attendants.  Similarly in Thailand, it is used by motorcycle taxi workers. In Hong Kong, some Government Flying Service's aircraft and helicopters are painted in safety orange.
+
+
+== See also ==
+Safety yellow
+Construction site safety
+Fire engine red
+International orange
+List of colors
+School bus yellow
+Spectral color
+
+
+== Notes ==

@@ -1,0 +1,24 @@
+The motor system is the set of central and peripheral structures in the nervous system that support motor functions, i.e. movement. Peripheral structures may include skeletal muscles and neural connections with muscle tissues. Central structures include cerebral cortex, brainstem, spinal cord, pyramidal system including the upper motor neurons, extrapyramidal system, cerebellum, and the lower motor neurons in the brainstem and the spinal cord.The motor system is a biological system with close ties to the muscular system and the circulatory system. To achieve motor skill, the motor system must accommodate the working state of the muscles, whether hot or cold, stiff or loose, as well as physiological fatigue. 
+
+
+== Pyramidal motor system ==
+
+The pyramidal motor system, also called the pyramidal tract or the corticospinal tract, start in the motor center of the cerebral cortex. There are upper and lower motor neurons in the corticospinal tract. The motor impulses originate in the giant pyramidal cells or Betz cells of the motor area; i.e., precentral gyrus of cerebral cortex. These are the upper motor neurons (UMN) of the corticospinal tract. The axons of these cells pass in the depth of the cerebral cortex to the corona radiata and then to the internal capsule, passing through the posterior branch of internal capsule and continuing to descend in the midbrain and the medulla oblongata. In the lower part of the medulla oblongata, 90–95% of these fibers decussate (pass to the opposite side) and descend in the white matter of the lateral funiculus of the spinal cord on the opposite side. The remaining 5–10% pass to the same side. Fibers for the extremities (limbs) pass 100% to the opposite side. The fibers of the corticospinal tract terminate at different levels in the anterior horn of the grey matter of the spinal cord. Here, the lower motor neurons (LMN) of the corticospinal cord are located. Peripheral motor nerves carry the motor impulses from the anterior horn to the voluntary muscles.
+
+
+== Extrapyramidal motor system ==
+
+The extrapyramidal motor system consists of motor-modulation systems, particularly the basal ganglia and cerebellum. For information, see extrapyramidal system.
+
+
+== See also ==
+Motor skill
+Motor control
+Motor disorder
+
+
+== References ==
+
+
+== External links ==
+ Media related to Motor systems at Wikimedia Commons

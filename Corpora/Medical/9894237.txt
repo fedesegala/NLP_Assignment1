@@ -1,0 +1,177 @@
+Gene nomenclature is the scientific naming of genes, the units of heredity in living organisms. It is also closely associated with protein nomenclature, as genes and the proteins they code for usually have similar nomenclature. An international committee published recommendations for genetic symbols and nomenclature in 1957. The need to develop formal guidelines for human gene names and symbols was recognized in the 1960s and full guidelines were issued in 1979 (Edinburgh Human Genome Meeting). Several other genus-specific research communities (e.g., Drosophila fruit flies, Mus mice) have adopted nomenclature standards, as well, and have published them on the relevant model organism websites and in scientific journals, including the Trends in Genetics Genetic Nomenclature Guide. Scientists familiar with a particular gene family may work together to revise the nomenclature for the entire set of genes when new information becomes available. For many genes and their corresponding proteins, an assortment of alternate names is in use across the scientific literature and public biological databases, posing a challenge to effective organization and exchange of biological information. Standardization of nomenclature thus tries to achieve the benefits of vocabulary control and bibliographic control, although adherence is voluntary. The advent of the information age has brought gene ontology, which in some ways is a next step of gene nomenclature, because it aims to unify the representation of gene and gene product attributes across all species.
+
+
+== Relationship with protein nomenclature ==
+Gene nomenclature and protein nomenclature are not separate endeavors; they are aspects of the same whole. Any name or symbol used for a protein can potentially also be used for the gene that encodes it, and vice versa. But owing to the nature of how science has developed (with knowledge being uncovered bit by bit over decades), proteins and their corresponding genes have not always been discovered simultaneously (and not always physiologically understood when discovered), which is the largest reason why protein and gene names do not always match, or why scientists tend to favor one symbol or name for the protein and another for the gene. Another reason is that many of the mechanisms of life are the same or very similar across species, genera, orders, and phyla (through homology, analogy, or some of both), so that a given protein may be produced in many kinds of organisms; and thus scientists naturally often use the same symbol and name for a given protein in one species (for example, mice) as in another species (for example, humans). Regarding the first duality (same symbol and name for gene or protein), the context usually makes the sense clear to scientific readers, and the nomenclatural systems also provide for some specificity by using italic for a symbol when the gene is meant and plain (roman) for when the protein is meant. Regarding the second duality (a given protein is endogenous in many kinds of organisms), the nomenclatural systems also provide for at least human-versus-nonhuman specificity by using different capitalization, although scientists often ignore this distinction, given that it is often biologically irrelevant.
+Also owing to the nature of how scientific knowledge has unfolded, proteins and their corresponding genes often have several names and symbols that are synonymous. Some of the earlier ones may be deprecated in favor of newer ones, although such deprecation is voluntary. Some older names and symbols live on simply because they have been widely used in the scientific literature (including before the newer ones were coined) and are well established among users. For example, mentions of HER2 and ERBB2 are synonymous.
+Lastly, the correlation between genes and proteins is not always one-to-one (in either direction); in some cases it is several-to-one or one-to-several, and the names and symbols may then be gene-specific or protein-specific to some degree, or overlapping in usage: 
+
+Some proteins and protein complexes are built from the products of several genes (each gene contributing a polypeptide subunit), which means that the protein or complex will not have the same name or symbol as any one gene. For example, a particular protein called "example" (symbol "EXAMP") may have 2 chains (subunits), which are encoded by 2 genes named "example alpha chain" and "example beta chain" (symbols EXAMPA and EXAMPB).
+Some genes encode multiple proteins, because post-translational modification (PTM) and alternative splicing provide several paths for expression. For example, glucagon and similar polypeptides (such as GLP1 and GLP2) all come (via PTM) from proglucagon, which comes from preproglucagon, which is the polypeptide that the GCG gene encodes. When one speaks of the various polypeptide products, the names and symbols refer to different things (i.e., preproglucagon, proglucagon, glucagon, GLP1, GLP2), but when one speaks of the gene, all of those names and symbols are aliases for the same gene. Another example is that the various μ-opioid receptor proteins (e.g., μ1, μ2, μ3) are all splice variants encoded by one gene, OPRM1; this is how one can speak of MORs (μ-opioid receptors) in the plural (proteins) even though there is only one MOR gene, which may be called OPRM1, MOR1, or MOR—all of those aliases validly refer to it, although one of them (OPRM1) is preferred nomenclature.
+
+
+== Species-specific guidelines ==
+The HUGO Gene Nomenclature Committee is responsible for providing human gene naming guidelines and approving new, unique human gene names and symbols (short identifiers typically created by abbreviating). For some nonhuman species, model organism databases serve as central repositories of guidelines and help resources, including advice from curators and nomenclature committees. In addition to species-specific databases, approved gene names and symbols for many species can be located in the National Center for Biotechnology Information's  "Entrez Gene" database.
+
+
+== Bacterial genetic nomenclature ==
+There are generally accepted rules and conventions used for naming genes in bacteria. Standards were proposed in 1966 by Demerec et al.
+
+
+=== General rules ===
+Each bacterial gene is denoted by a mnemonic of three lower case letters which indicate the pathway or process in which the gene-product is involved, followed by a capital letter signifying the actual gene. In some cases, the gene letter may be followed by an allele number. All letters and numbers are underlined or italicised.  For example, leuA is one of the genes of the leucine biosynthetic pathway, and leuA273 is a particular allele of this gene.
+Where the actual protein coded by the gene is known then it may become part of the basis of the mnemonic, thus:
+
+rpoA encodes the α-subunit of RNA polymerase
+rpoB encodes the β-subunit of RNA polymerase
+polA encodes DNA polymerase I
+polC encodes DNA polymerase III
+rpsL encodes ribosomal protein, small S12Some gene designations refer to a known general function:
+
+dna is involved in DNA replication
+
+
+=== Predicted genes ===
+In a 1998 analysis of the E. coli genome, a large number of genes with unknown function were designated names beginning with the letter y, followed by sequentially generated letters without a mnemonic meaning (e.g., ydiO and ydbK). Since being designated, some y-genes have been confirmed to have a function, and assigned a synonym (alternative) name in recognition of this. However, as y-genes are not always re-named after being further characterised, this designation is not a reliable indicator of a gene's significance.
+
+
+=== Common mnemonics ===
+
+
+==== Biosynthetic genes ====
+Loss of gene activity leads to a nutritional requirement (auxotrophy) not exhibited by the wildtype (prototrophy).
+Amino acids:
+
+ala = alanine
+arg = arginine
+asn = asparagineSome pathways produce metabolites that are precursors of more than one pathway. Hence, loss of one of these enzymes will lead to a requirement for more than one amino acid. For example:
+
+ilv: isoleucine and valineNucleotides:
+
+gua = guanine
+pur = purines
+pyr = pyrimidine
+thy = thymineVitamins:
+
+bio = biotin
+nad = NAD
+pan = pantothenic acid
+
+
+==== Catabolic genes ====
+Loss of gene activity leads to loss of the ability to catabolise (use) the compound.
+
+ara = arabinose
+gal = galactose
+lac = lactose
+mal = maltose
+man = mannose
+mel = melibiose
+rha = rhamnose
+xyl = xylose
+
+
+==== Drug and bacteriophage resistance genes ====
+amp = ampicillin resistance
+azi = azide resistance
+bla = beta-lactam resistance
+cat = chloramphenicol resistance
+kan = kanamycin resistance
+rif = rifampicin resistance
+tonA = phage T1 resistance
+
+
+==== Nonsense suppressor mutations ====
+sup = suppressor (for instance, supF suppresses amber mutations)
+
+
+=== Mutant nomenclature ===
+If the gene in question is the wildtype a superscript '+' sign is used:
+
+leuA+If a gene is mutant, it is signified by a superscript '-':
+
+leuA−By convention, if neither is used, it is considered to be mutant.
+There are additional superscripts and subscripts which provide more information about the mutation:
+
+ts = temperature sensitive (leuAts)
+cs = cold sensitive (leuAcs)
+am = amber mutation (leuAam)
+um = umber (opal) mutation (leuAum)
+oc = ochre mutation (leuAoc)
+R = resistant (RifR)Other modifiers:
+
+Δ = deletion (ΔleuA)
+- = fusion (leuA-lacZ)
+: = fusion (leuA:lacZ)
+:: = insertion (leuA::Tn10)
+Ω = a genetic construct introduced by a two-point crossover (ΩleuA)
+Δdeleted gene::replacing gene = deletion with replacement (ΔleuA::nptII(KanR) indicates that the leuA gene has been deleted and replaced with the gene for neomycin phosphotransferase, which confers kanamycin-resistance, as oftentimes parenthetically noted for drug-resistance markers)
+
+
+=== Phenotype nomenclature ===
+When referring to the genotype (the gene) the mnemonic is italicized and not capitalised. When referring to the gene product or phenotype, the mnemonic is first-letter capitalised and not italicized (e.g. DnaA – the protein produced by the dnaA gene; LeuA− – the phenotype of a leuA mutant; AmpR – the ampicillin-resistance phenotype of the β-lactamase gene bla).
+
+
+=== Bacterial protein name nomenclature ===
+Protein names are the same as the gene names, but the protein names are not italicized, and the first letter is upper-case. E.g. the name of RNA polymerase is RpoB, and this protein is encoded by rpoB gene.
+
+
+== Vertebrate gene and protein symbol conventions ==
+The research communities of vertebrate model organisms have adopted guidelines whereby genes in these species are given, whenever possible, the same names as their human orthologs. The use of prefixes on gene symbols to indicate species (e.g., "Z" for zebrafish) is discouraged. The recommended formatting of printed gene and protein symbols varies between species.
+
+
+=== Symbol and name ===
+Vertebrate genes and proteins have names (typically strings of words) and symbols, which are short identifiers (typically 3 to 8 characters). For example, the gene cytotoxic T-lymphocyte-associated protein 4 has the HGNC symbol CTLA4. These symbols are usually, but not always, coined by contraction or acronymic abbreviation of the name. They are pseudo-acronyms, however, in the sense that they are complete identifiers by themselves—short names, essentially. They are synonymous with (rather than standing for) the gene/protein name (or any of its aliases), regardless of whether the initial letters "match". For example, the symbol for the gene v-akt murine thymoma viral oncogene homolog 1, which is AKT1, cannot be said to be an acronym for the name, and neither can any of its various synonyms, which include AKT, PKB, PRKBA, and RAC. Thus, the relationship of a gene symbol to the gene name is functionally the relationship of a nickname to a formal name (both are complete identifiers)—it is not the relationship of an acronym to its expansion. In this sense they are similar to the symbols for units of measurement in the SI system (such as km for the kilometre), in that they can be viewed as true logograms rather than just abbreviations. Sometimes the distinction is academic, but not always. Although it is not wrong to say that "VEGFA" is an acronym standing for "vascular endothelial growth factor A", just as it is not wrong that "km" is an abbreviation for "kilometre", there is more to the formality of symbols than those statements capture.
+The root portion of the symbols for a gene family (such as the "SERPIN" root in SERPIN1, SERPIN2, SERPIN3, and so on) is called a root symbol.
+
+
+=== Human ===
+The HUGO Gene Nomenclature Committee is responsible for providing human gene naming guidelines and approving new, unique human gene names and symbols (short identifiers typically created by abbreviating). All human gene names and symbols can be searched online at the HGNC website, and the guidelines for their formation are available there. The guidelines for humans fit logically into the larger scope of vertebrates in general, and the HGNC's remit has recently expanded to assigning symbols to all vertebrate species without an existing nomenclature committee, to ensure that vertebrate genes are named in line with their human orthologs/paralogs. Human gene symbols generally are italicised, with all letters in uppercase (e.g., SHH, for sonic hedgehog). Italics are not necessary in gene catalogs. Protein designations are the same as the gene symbol except that they are not italicised. Like the gene symbol, they are in all caps because human (human-specific or human homolog). mRNAs and cDNAs use the same formatting conventions as the gene symbol. For naming families of genes, the HGNC recommends using a "root symbol" as the root for the various gene symbols. For example, for the peroxiredoxin family, PRDX is the root symbol, and the family members are PRDX1, PRDX2, PRDX3, PRDX4, PRDX5, and PRDX6.
+
+
+=== Mouse and rat ===
+Gene symbols generally are italicised, with only the first letter in uppercase and the remaining letters in lowercase (Shh). Italics are not required on web pages. Protein designations are the same as the gene symbol, but are not italicised and all are upper case (SHH).
+
+
+=== Chicken (Gallus sp.) ===
+Nomenclature generally follows the conventions of human nomenclature. Gene symbols generally are italicised, with all letters in uppercase (e.g., NLGN1, for neuroligin1). Protein designations are the same as the gene symbol, but are not italicised; all letters are in uppercase (NLGN1). mRNAs and cDNAs use the same formatting conventions as the gene symbol.
+
+
+=== Anole lizard (Anolis sp.) ===
+Gene symbols are italicised and all letters are in lowercase (shh). Protein designations are different from their gene symbol; they are not italicised, and all letters are in uppercase (SHH).
+
+
+=== Frog (Xenopus sp.) ===
+Gene symbols are italicised and all letters are in lowercase (shh). Protein designations are the same as the gene symbol, but are not italicised; the first letter is in uppercase and the remaining letters are in lowercase (Shh).
+
+
+=== Zebrafish ===
+Gene symbols are italicised, with all letters in lowercase (shh). Protein designations are the same as the gene symbol, but are not italicised; the first letter is in uppercase and the remaining letters are in lowercase (Shh).
+
+
+== Gene and protein symbol and description in copyediting ==
+
+
+=== "Expansion" (glossing) ===
+A nearly universal rule in copyediting of articles for medical journals and other health science publications is that abbreviations and acronyms must be expanded at first use, to provide a glossing type of explanation. Typically no exceptions are permitted except for small lists of especially well known terms (such as DNA or HIV). Although readers with high subject-matter expertise do not need most of these expansions, those with intermediate or (especially) low expertise are appropriately served by them.
+One complication that gene and protein symbols bring to this general rule is that they are not, accurately speaking, abbreviations or acronyms, despite the fact that many were originally coined via abbreviating or acronymic etymology. They are pseudoacronyms (as SAT and KFC also are) because they do not "stand for" any expansion. Rather, the relationship of a gene symbol to the gene name is functionally the relationship of a nickname to a formal name (both are complete identifiers)—it is not the relationship of an acronym to its expansion. In fact, many official gene symbol–gene name pairs do not even share their initial-letter sequences (although some do). Nevertheless, gene and protein symbols "look just like" abbreviations and acronyms, which presents the problem that "failing" to "expand" them (even though it is not actually a failure and there are no true expansions) creates the appearance of violating the spell-out-all-acronyms rule.
+One common way of reconciling these two opposing forces is simply to exempt all gene and protein symbols from the glossing rule. This is certainly fast and easy to do, and in highly specialized journals, it is also justified because the entire target readership has high subject matter expertise. (Experts are not confused by the presence of symbols (whether known or novel) and they know where to look them up online for further details if needed.) But for journals with broader and more general target readerships, this action leaves the readers without any explanatory annotation and can leave them wondering what the apparent-abbreviation stands for and why it was not explained. Therefore, a good alternative solution is simply to put either the official gene name or a suitable short description (gene alias/other designation) in parentheses after the first use of the official gene/protein symbol. This meets both the formal requirement (the presence of a gloss) and the functional requirement (helping the reader to know what the symbol refers to). The same guideline applies to shorthand names for sequence variations; AMA says, "In general medical publications, textual explanations should accompany the shorthand terms at first mention." Thus "188del11" is glossed as "an 11-bp deletion at nucleotide 188." This corollary rule (which forms an adjunct to the spell-everything-out rule) often also follows the "abbreviation-leading" style of expansion that is becoming more prevalent in recent years. Traditionally, the abbreviation always followed the fully expanded form in parentheses at first use. This is still the general rule. But for certain classes of abbreviations or acronyms (such as clinical trial acronyms [e.g., ECOG] or standardized polychemotherapy regimens [e.g., CHOP]), this pattern may be reversed, because the short form is more widely used and the expansion is merely parenthetical to the discussion at hand. The same is true of gene/protein symbols.
+
+
+=== Synonyms and previous symbols and names ===
+The HUGO Gene Nomenclature Committee (HGNC) maintains an official symbol and name for each human gene, as well as a list of synonyms and previous symbols and names. For example, for AFF1 (AF4/FMR2 family, member 1), previous symbols and names are MLLT2 ("myeloid/lymphoid or mixed-lineage leukemia (trithorax (Drosophila) homolog); translocated to, 2") and PBM1 ("pre-B-cell monocytic leukemia partner 1"), and synonyms are AF-4 and AF4. Authors of journal articles often use the latest official symbol and name, but just as often they use synonyms and previous symbols and names, which are well established by earlier use in the literature. AMA style is that "authors should use the most up-to-date term"  and that "in any discussion of a gene, it is recommended that the approved gene symbol be mentioned at some point, preferably in the title and abstract if relevant." Because copyeditors are not expected or allowed to rewrite the gene and protein nomenclature throughout a manuscript (except by rare express instructions on particular assignments), the middle ground in manuscripts using synonyms or older symbols is that the copyeditor will add a mention of the current official symbol at least as a parenthetical gloss at the first mention of the gene or protein, and query for confirmation.
+
+
+=== Styling ===
+Some basic conventions, such as (1) that animal/human homolog (ortholog) pairs differ in letter case (title case and all caps, respectively) and (2) that the symbol is italicized when referring to the gene but nonitalic when referring to the protein, are often not followed by contributors to medical journals. Many journals have the copyeditors restyle the casing and formatting to the extent feasible, although in complex genetics discussions only subject-matter experts (SMEs) can effortlessly parse them all. One example that illustrates the potential for ambiguity among non-SMEs is that some official gene names have the word "protein" within them, so the phrase "brain protein I3 (BRI3)" (referring to the gene) and "brain protein I3 (BRI3)" (referring to the protein) are both valid. The AMA Manual gives another example: both "the TH gene" and "the TH gene" can validly be parsed as correct ("the gene for tyrosine hydroxylase"), because the first mentions the alias (description) and the latter mentions the symbol. This seems confusing on the surface, although it is easier to understand when explained as follows: in this gene's case, as in many others, the alias (description) "happens to use the same letter string" that the symbol uses. (The matching of the letters is of course acronymic in origin and thus the phrase "happens to" implies more coincidence than is actually present; but phrasing it that way helps to make the explanation clearer.) There is no way for a non-SME to know this is the case for any particular letter string without looking up every gene from the manuscript in a database such as NCBI Gene, reviewing its symbol, name, and alias list, and doing some mental cross-referencing and double-checking (plus it helps to have biochemical knowledge). Most medical journals do not (in some cases cannot) pay for that level of fact-checking as part of their copyediting service level; therefore, it remains the author's responsibility. However, as pointed out earlier, many authors make little attempt to follow the letter case or italic guidelines; and regarding protein symbols, they often will not use the official symbol at all. For example, although the guidelines would call p53 protein "TP53" in humans or "Trp53" in mice, most authors call it "p53" in both (and even refuse to call it "TP53" if edits or queries try to), not least because of the biologic principle that many proteins are essentially or exactly the same molecules regardless of mammalian species. Regarding the gene, authors are usually willing to call it by its human-specific symbol and capitalization, TP53, and may even do so without being prompted by a query. But the end result of all these factors is that the published literature often does not follow the nomenclature guidelines completely.
+
+
+== References ==
+
+
+== External links ==
+International Protein Nomenclature Guidelines
+The Council of Science Editors (CSE), Resources for Genetic and Cytogenetic Nomenclature
+The Protein Naming Utility, a rules database for protein nomenclature
+Coli Genetic Stock Center is responsible for bacterial genetic nomenclature pertaining to Escherichia coli.
+Escherichia coli genetic nomenclature (rules for gene naming and meaning of other symbols used in Molecular Biology) on EcoliWiki, the community annotation system of EcoliHub.

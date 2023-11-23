@@ -1,0 +1,18 @@
+Chemical genetics is the investigation of the function of proteins and signal transduction pathways in cells by the screening of chemical libraries of small molecules. Chemical genetics is analogous to classical genetic screen where random mutations are introduced in organisms, the phenotype of these mutants is observed, and finally the specific gene mutation (genotype) that produced that phenotype is identified. In chemical genetics, the phenotype is disturbed not by introduction of mutations, but by exposure to small molecule tool compounds. Phenotypic screening of chemical libraries is used to identify drug targets (forward genetics or chemoproteomics) or to validate those targets in experimental models of disease (reverse genetics). Recent applications of this topic have been implicated in signal transduction, which may play a role in discovering new cancer treatments. Chemical genetics can serve as a unifying study between chemistry and biology. The approach was first proposed by Tim Mitchison in 1994 in an opinion piece in the journal Chemistry & Biology entitled "Towards a pharmacological genetics".
+
+
+== Method ==
+Chemical genetic screens are performed using libraries of small molecules that have known activities or simply diverse chemical structures. These screens can be done in a high-throughput mode, using 96 well-plates, where each well contains cells treated with a unique compound.  In addition to cells, Xenopus or zebrafish embryos can also be screened in 96 well format where compounds are dissolved in the media in which embryos grow. Embryos are developed until the stage of interest and then the phenotype can be analyzed. Several concentrations can be tested in order to determine the toxic and the optimal concentrations.
+
+
+== Applications ==
+Adding compounds to developing embryos allow comprehension of mechanism of action of drugs, their toxicity and developmental processes involving their targets. Chemical screens have been mostly performed on either wild type or transgenic Xenopus and zebrafish organisms as they produce a large amount of synchronized, fast-to-develop and transparent eggs easy to visually score. The use of chemicals in developmental biology offers two main advantages. Firstly, it is easy to perform high-throughput screen using wide spectrum or specific target compounds and reveal important genes or pathways involved in developmental processes. Secondly, it allows narrowing the time of action of a particular gene. It can also be used as a tool in drug development to test toxicity in whole organism. Procedures such as FETAX  (Frog Embryo Teratogenesis Assay – Xenopus) are being developed to implement chemical screenings to test toxicity. Zebrafish and Xenopus embryos have also been used to identify new drugs targeting a particular gene of interest.
+
+
+== See also ==
+Chemoproteomics
+Chemical biology
+Chemogenomics
+
+
+== References ==

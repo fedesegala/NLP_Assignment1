@@ -1,0 +1,234 @@
+The Minkowski content (named after Hermann Minkowski), or the boundary measure, of a set is a basic concept that uses concepts from geometry and measure theory to generalize the notions of length of a smooth curve in the plane, and area of a smooth surface in space, to arbitrary measurable sets. 
+It is typically applied to fractal boundaries of domains in the Euclidean space, but it can also be used in the context of general metric measure spaces.
+It is related to, although different from, the Hausdorff measure.
+
+
+== Definition ==
+For 
+  
+    
+      
+        A
+        ⊂
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle A\subset \mathbb {R} ^{n}}
+  , and each integer m with 
+  
+    
+      
+        0
+        ≤
+        m
+        ≤
+        n
+      
+    
+    {\displaystyle 0\leq m\leq n}
+  , the m-dimensional upper Minkowski content is
+
+  
+    
+      
+        
+          M
+          
+            ∗
+            m
+          
+        
+        (
+        A
+        )
+        =
+        
+          lim sup
+          
+            r
+            →
+            
+              0
+              
+                +
+              
+            
+          
+        
+        
+          
+            
+              μ
+              (
+              {
+              x
+              :
+              d
+              (
+              x
+              ,
+              A
+              )
+              <
+              r
+              }
+              )
+            
+            
+              α
+              (
+              n
+              −
+              m
+              )
+              
+                r
+                
+                  n
+                  −
+                  m
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle M^{*m}(A)=\limsup _{r\to 0^{+}}{\frac {\mu (\{x:d(x,A)<r\})}{\alpha (n-m)r^{n-m}}}}
+  and the m-dimensional lower Minkowski content is defined as
+
+  
+    
+      
+        
+          M
+          
+            ∗
+          
+          
+            m
+          
+        
+        (
+        A
+        )
+        =
+        
+          lim inf
+          
+            r
+            →
+            
+              0
+              
+                +
+              
+            
+          
+        
+        
+          
+            
+              μ
+              (
+              {
+              x
+              :
+              d
+              (
+              x
+              ,
+              A
+              )
+              <
+              r
+              }
+              )
+            
+            
+              α
+              (
+              n
+              −
+              m
+              )
+              
+                r
+                
+                  n
+                  −
+                  m
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle M_{*}^{m}(A)=\liminf _{r\to 0^{+}}{\frac {\mu (\{x:d(x,A)<r\})}{\alpha (n-m)r^{n-m}}}}
+  where 
+  
+    
+      
+        α
+        (
+        n
+        −
+        m
+        )
+        
+          r
+          
+            n
+            −
+            m
+          
+        
+      
+    
+    {\displaystyle \alpha (n-m)r^{n-m}}
+   is the volume of the (n−m)-ball of radius r and 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   is an 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -dimensional Lebesgue measure. 
+If the upper and lower m-dimensional Minkowski content of A are equal, then their common value is called the Minkowski content Mm(A).
+
+
+== Properties ==
+The Minkowski content is (generally) not a measure.  In particular, the m-dimensional Minkowski content in Rn is not a measure unless m = 0, in which case it is the counting measure.  Indeed, clearly the Minkowski content assigns the same value to the set A as well as its closure.
+If A is a closed m-rectifiable set in Rn, given as the image of a bounded set from Rm under a Lipschitz function, then the m-dimensional Minkowski content of A exists, and is equal to the m-dimensional Hausdorff measure of A.
+
+
+== See also ==
+Gaussian isoperimetric inequality
+Geometric measure theory
+Isoperimetric inequality in higher dimensions
+Minkowski–Bouligand dimension
+
+
+== Footnotes ==
+
+
+== References ==
+Federer, Herbert (1969), Geometric Measure Theory, Springer-Verlag, ISBN 3-540-60656-4.
+Krantz, Steven G.; Parks, Harold R. (1999), The geometry of domains in space, Birkhäuser Advanced Texts: Basler Lehrbücher, Boston, MA: Birkhäuser Boston, Inc., ISBN 0-8176-4097-5, MR 1730695.

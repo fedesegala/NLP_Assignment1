@@ -1,0 +1,34 @@
+Addiction modules are toxin-antitoxin systems. Each consists of a pair of genes that specify two components: a stable toxin and an unstable antitoxin that interferes with the lethal action of the toxin. Found first in Escherichia coli on low copy number plasmids, addiction modules are responsible for a process called the postsegregational killing effect. When bacteria lose these plasmid(s) (or other extrachromosomal elements), the cured cells are selectively killed because the unstable antitoxin is degraded faster than the more stable toxin. The term "addiction" is used because the cell depends on the de novo synthesis of the antitoxin for cell survival. Thus, addiction modules are implicated in maintaining the stability of extrachromosomal elements.
+
+
+== Proteic addiction modules ==
+Proteic addiction modules use proteins as toxins and antitoxins, as opposed to RNA or other methods. The known proteic addiction modules all have similar shared characteristics, including placement of the antitoxin gene relative to the toxin gene, method of toxin neutralization by the antitoxin, and autoregulation of the addiction module by the antitoxin or toxin:antitoxin complex.
+
+
+=== Transcriptional control of antitoxin:toxin ratios ===
+In protein-based addiction modules, the genes encoding the toxin and antitoxin lie adjacent to each other and are continuously expressed under one operon. To ensure survival of the host when the addiction module is present, more antitoxin must be produced than toxin (to counter the shorter lifespan of the antitoxin molecules). Safe ratios of the toxin and antitoxin are maintained at least in part by both this overexpression and by having the antitoxin-encoding gene encoded upstream from the toxin gene, so that the antitoxin is available to immediately neutralize the toxin. This upstream placement of the antitoxin gene is found in all proteic addiction modules.
+In addition, the transcription of the whole addiction module is often negatively autoregulated (i.e. the presence of its products decreases its transcriptional rate) by the formation of toxin:antitoxin complexes.
+
+
+=== Characteristics of antitoxin molecules ===
+The antitoxin is generally less stable than the toxin due to its degradation by proteases already present in the cell. For example, in the ccdAB proteic addiction module, the Lon protease [1] degrades the antitoxin, but also serves many unrelated proteolytic roles, such as degrading oxidated mitochondrial products. This may indicate that the development of these addiction molecules "co-opted" existing cell utilities.
+The antitoxin in proteic addiction modules functions by binding directly to the toxin and preventing its mode of action. Once the antitoxin has bound to the toxin, the toxin prevents the proteases normally responsible for degrading antitoxin to do so, maintaining the neutralization of that individual toxin molecule.
+
+
+== Antisense RNA addiction modules ==
+Antisense RNA-type addiction modules use a regulatory strand of RNA which is at least partially "antisense" (having complementary base pair encoding) to bind to toxin RNA, and thus prevent toxin translation. This antisense RNA molecule plays the role of antitoxin, similar to the proteic equivalent described above, and is similarly degraded at a faster rate than the toxin mRNA it inhibits. In addition, the transcription of the antitoxin RNA is heavily upregulated by a strong promoter which ensures excess antitoxin in cells which have a functioning addiction module.
+
+
+=== Examples ===
+Hok/sok system: The transcription of sok (suppression of killing) RNA allows it to bind to a region that overlaps the open reading frame of the hok (host killing) toxin RNA.
+Par stability determinant: Two small RNAs are transcribed simultaneously from opposite ends of a gene towards a bi-directional terminator. The two products, RNA I (toxin) and RNA II (antitoxin) immediately form a stable complex where RNA II binds (and occludes) the ribosome binding site of RNA I, preventing translation of RNA I and thus production of toxin.
+
+
+== See also ==
+hok/sok system, an example of addiction module
+Plasmid mediated resistance
+
+
+== References ==
+Engelberg-Kulka, Hanna; Gad Glaser (October 1999). "Addiction modules and programmed cell death and antideath in bacterial cultures". Annual Review of Microbiology. Annual Reviews. 53: 43–70. doi:10.1146/annurev.micro.53.1.43. PMID 10547685.
+Shokeen, Sonia; Greenfield, Tony J; Ehli, Erik A; Rasmussen, Jessica; Perrault, Brian E; Weaver, Keith E. (March 2009). "An Intramolecular Upstream Helix Ensures the Stability of a Toxin-Encoding RNA in Enterococcus faecalis". Journal of Bacteriology. American Society for Microbiology. 191 (5): 1528–1536. doi:10.1128/JB.01316-08. PMC 2648210. PMID 19103923.

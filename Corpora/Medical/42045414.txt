@@ -1,0 +1,60 @@
+Enterovirus D68 (EV-D68) is a member of the Picornaviridae family, an enterovirus. First isolated in California in 1962 and once considered rare, it has been on a worldwide upswing in the 21st century. It is suspected of causing a polio-like disorder called acute flaccid myelitis (AFM).
+
+
+== Virology ==
+EV-D68 is one of the more than one hundred types of enteroviruses, a group of ssRNA viruses containing the polioviruses, coxsackieviruses, and echoviruses. It is unenveloped. Unlike all other enteroviruses, EV-D68 displays acid lability and a lower optimum growth temperature, both characteristic features of the human rhinoviruses. It was previously called human rhinovirus 87 by some researchers.Since the year 2000, the original virus strains diversified and evolved a genetically distinct outbreak strain, clade B1. It is Clade B1, but not older strains, which has been associated with AFM and is neuropathic in animal models.
+
+
+== Epidemiology ==
+Since its discovery in 1962, EV-D68 had been described mostly sporadically in isolated cases. Six clusters (equal to or more than 10 cases) or outbreaks between 2005 and 2011 have been reported from the Philippines, Japan, the Netherlands, and the states of Georgia, Pennsylvania and Arizona in the United States. EV-D68 was found in 2 of 5 children during a 2012/13 cluster of polio-like disease in California. In 2016, 29 cases were reported in Europe (5 in France and Scotland. 3 each in Sweden, Norway and Spain).Cases have been described to occur late in the enterovirus season (roughly the period of time between the spring equinox and autumn equinox), which is typically during August and September in the Northern Hemisphere.
+
+
+=== Predisposing factors ===
+Children less than 5 years old and children with asthma appear to be most at risk for the illness, although illness in adults with asthma and immunosuppression have also been reported.
+
+
+=== 2014 North American outbreak ===
+
+In August 2014, the virus caused clusters of respiratory disease in the United States.
+
+
+== Signs and symptoms ==
+EV-D68 almost exclusively causes respiratory illness, which varies from mild to severe, but can cause a range of symptoms, from none at all, to subtle flu-like symptoms, to debilitating respiratory illness and a suspected rare involvement in a syndrome with polio-like symptoms. Like all enteroviruses, it can cause variable rashes, abdominal pain and soft stools. Initial symptoms are similar to those for the common cold, including a runny nose, sore throat, cough, and fever. As the disease progresses, more serious symptoms may occur, including difficulty breathing as in pneumonia, reduced alertness, a reduction in urine production, and dehydration, and may lead to respiratory failure.The degree of severity of symptoms experienced seems to depend on the demographic population in question. Experts estimate that the majority of the population has, in fact, been exposed to the enterovirus, but that no symptoms are exhibited in healthy adults. In contrast, EV-D68 is disproportionately debilitating in very young children, as well as the very weak. While several hundred people (472), mostly youth, have been exposed to the disease, less than a hundred of those patients have been diagnosed with severe symptoms (such as paralysis), and during the recent outbreak in the US just a single death was recorded over the last weekend of September 2014. The death was of a 10-year-old girl in New Hampshire.
+
+
+=== Acute flaccid myelitis ===
+The virus is one cause of acute flaccid myelitis, a rare muscle weakness, usually due to polio. In 2014, the cases of two California children were described who tested positive for the virus and had paralysis of one or more limbs reaching peak severity within 48 hours of onset. "Recovery of motor function was poor at 6-month follow-up." As of October 2014, the CDC was investigating 10 cases of paralysis and/or cranial dysfunction in Colorado and other reports around the 
+country, coinciding with the increase in enterovirus D68 activity.  As of October 2014 it was believed that the actual number of cases might be 100 or more.
+As of 2018 the link of EV-D68 and the paralysis is strong, meeting six Bradford Hill criteria fully and two partially. The CDC recently issued a statement on 17 October 2018 claiming "Right now, we know that poliovirus is not the cause of these AFM cases. CDC has tested every stool specimen from the AFM patients, none of the specimens have tested positive for the poliovirus."
+In 2019, the CDC has published that AFM is caused by Enterovirus D68.
+
+
+== Diagnosis ==
+In 2014, a real-time PCR test to speed up detection was developed by CDC.
+
+
+== Treatment ==
+There is no specific treatment and no vaccine, so the illness has to run its course; treatment is directed against symptoms (symptomatic treatment). Most people recover completely; however, some need to be hospitalized, and some have died as a result of the virus.
+Five EV-D68 paralysis cases were unsuccessfully treated with steroids, intravenous immunoglobulin and/or plasma exchange. The treatment had no apparent benefit as no recovery of motor function was seen. A 2015 study suggested the antiviral drug pleconaril may be useful for the treatment of EV-D68.
+
+
+== Prevention ==
+The US Centers for Disease Control and Prevention (CDC) recommend "avoiding those who are sick". Since the virus is spread through saliva and phlegm as well as stool, washing hands is important. Sick people can attempt to decrease spreading the virus by basic sanitary measures, such as covering the nose and mouth when sneezing or coughing. Other measures including cleaning surfaces and toys.For hospitalized patients with EV-D68 infection, the CDC recommends transmission-based precautions, i.e. standard precautions, contact precautions, as is recommended for all enteroviruses, and to consider droplet precautions.
+
+
+== Environmental cleaning ==
+According to the CDC in 2003, surfaces in healthcare settings should be cleaned with a hospital-grade disinfectant with an EPA label claim for non-enveloped viruses (e.g. norovirus, poliovirus, rhinovirus).
+
+
+== See also ==
+Acute flaccid myelitis
+Polio-like syndrome
+
+
+== References ==
+
+
+== External links ==
+Enterovirus Portal – Enterovirus portal at the Virus Pathogen Resource (ViPR)
+"Enterovirus D68 (EV-D68) Resources". Non-polio Enteroviruses, CDC.
+"What is the relationship between EVD68 and acute flaccid myelitis?". YouTube. SRNA. 6 November 2018.

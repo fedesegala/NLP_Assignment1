@@ -1,0 +1,86 @@
+In algebraic geometry, the Behrend function of a scheme X, introduced by Kai Behrend, is a constructible function
+
+  
+    
+      
+        
+          ν
+          
+            X
+          
+        
+        :
+        X
+        →
+        
+          Z
+        
+      
+    
+    {\displaystyle \nu _{X}:X\to \mathbb {Z} }
+  such that if X is a quasi-projective proper moduli scheme carrying a symmetric obstruction theory, then the weighted Euler characteristic
+
+  
+    
+      
+        χ
+        (
+        X
+        ,
+        
+          ν
+          
+            X
+          
+        
+        )
+        =
+        
+          ∑
+          
+            n
+            ∈
+            
+              Z
+            
+          
+        
+        n
+        
+        χ
+        (
+        {
+        
+          ν
+          
+            X
+          
+        
+        =
+        n
+        }
+        )
+      
+    
+    {\displaystyle \chi (X,\nu _{X})=\sum _{n\in \mathbb {Z} }n\,\chi (\{\nu _{X}=n\})}
+  is the degree of the virtual fundamental class
+
+  
+    
+      
+        [
+        X
+        
+          ]
+          
+            vir
+          
+        
+      
+    
+    {\displaystyle [X]^{\text{vir}}}
+  of X, which is an element of the zeroth Chow group of X. Modulo some solvable technical difficulties (e.g., what is the Chow group of a stack?), the definition extends to moduli stacks such as the moduli stack of stable sheaves (the Donaldson–Thomas theory) or that of stable maps (the Gromov–Witten theory).
+
+
+== References ==
+Behrend, Kai (2009), "Donaldson–Thomas type invariants via microlocal geometry", Annals of Mathematics, 2nd Ser., 170 (3): 1307–1338, arXiv:math/0507523, doi:10.4007/annals.2009.170.1307, MR 2600874.

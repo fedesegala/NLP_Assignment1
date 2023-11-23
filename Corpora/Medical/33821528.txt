@@ -1,0 +1,16 @@
+There are several models of the Branching order of bacterial phyla, one of these was proposed in 2006 by Ciccarelli et al. for their iTOL project.This tree is based on a concatenated set of conserved protein and not 16S rRNA (cf. Branching order of bacterial phyla (Woese, 1987)).
+
+The arrangement of the various phyla differs from that of 16S, but may be due to long branch attraction and due to the limited sampling (many phyla have a sole sequenced representative, whereas the Firmicutes and the Proteobacteria are over-represented). The Proteobacteria is not monophyletic in this phylogram, but this may be erroneous given the large amount of literature in favour of basal Acidobacteria. Contrary to 16S trees, the deepest branching clade is the Firmicutes. Nevertheless, the last common ancestor was between Bacteria and Archaea+Eukarya.
+
+
+== See also ==
+Branching order of bacterial phyla (Woese, 1987)
+Branching order of bacterial phyla (Rappe and Giovanoni, 2003)
+Branching order of bacterial phyla after ARB Silva Living Tree
+Branching order of bacterial phyla (Ciccarelli et al., 2006)
+Branching order of bacterial phyla (Battistuzzi et al.,2004)
+Branching order of bacterial phyla (Gupta, 2001)
+Branching order of bacterial phyla (Cavalier-Smith, 2002)
+
+
+== References ==

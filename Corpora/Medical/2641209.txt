@@ -1,0 +1,16 @@
+A passenger virus is a virus that is frequently found in samples from diseased tissue, such as tumours, but is not a contributing factor in causing the disease.
+
+
+== Experimental demonstration of passenger status ==
+Proving that a virus has no causative role can be difficult. Although none of the following signs is definitive, evidence that a virus found in diseased tissue might be passenger only rather than a causative agent includes:
+
+injection of the virus into healthy animals without causing disease;
+the absence of the virus at the earliest stages of the disease;
+curing the viral infection using antiviral drugs or vaccination with no effect on the course of the disease.
+
+
+== Examples ==
+A well-established example is lactate dehydrogenase virus, which is often found in mouse tumours. GB virus C and Chandipura virus are possible examples in humans. It has also been suggested that a virus related to Alcelaphine herpesvirus 1 is a passenger virus that, unlike AHV1 itself, does not cause bovine malignant catarrhal fever.  The discredited Duesberg hypothesis posits that HIV is a passenger virus in the etiology of AIDS.
+
+
+== References ==

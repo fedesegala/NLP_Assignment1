@@ -1,0 +1,40 @@
+A functional murmur (innocent murmur, physiologic murmur) is a heart murmur that is primarily due to physiologic conditions outside the heart, as opposed to structural defects in the heart itself. Serious conditions can arise even in the absence of a primary heart defect, and it is possible for peripheral conditions to generate abnormalities in the heart. Therefore, caution should be applied to use of the terms "innocent" or "benign" in this context.Use of the term dates to the mid 19th century.
+
+
+== Benign pediatric heart murmur ==
+Functional murmurs are an important consideration in the precordial examination of an infant or child.
+
+
+=== Presentation ===
+Soft, less than 3/6 in intensity (although note that even when structural heart disease is present, intensity does not predict severity.)
+Often position-dependent. Murmurs heard while supine and may disappear when upright or sitting.
+Otherwise healthy individual, no concerns about growth, no symptoms of heart failure such as dyspnea on exertion. (In infants, ask if the baby cries during feeding, becomes diaphoretic, or develops a rapid respiratory rate. In older children, this can be elucidated by asking whether or not the child can keep up with peers during play.)
+Occurs during systole or continuously during both systole and diastole. (Murmurs occurring only during diastole are usually pathologic, but can also be heard during hyperdynamic states.)
+Physiologic splitting of S2 (A2 and P2 components should only be resolvable during inspiration and should merge during expiration.)
+No palpable thrill (A thrill is a vibration caused by turbulent blood flow.)
+
+
+=== Diagnosis ===
+
+
+==== Types, and DDx ====
+In the adult, hyperdynamic circulation of the blood may also produce a functional murmur, such as in anemia or thyrotoxicosis.
+
+
+=== Prognosis ===
+Innocent murmurs are inconsequential and usually disappear as the child grows. ECG and Chest XRAY are normal.
+
+
+== See also ==
+Heart murmur
+Precordial examination
+Ventricular septal defect
+
+
+== References ==
+
+6. Circulation 2005: Innocent Murmurs http://circ.ahajournals.org/cgi/content/full/111/3/e20
+
+
+== External links ==
+Heart Murmurs in Pediatric Patients: When Do You Refer? Archived 2010-02-10 at the Wayback Machine - AAFP

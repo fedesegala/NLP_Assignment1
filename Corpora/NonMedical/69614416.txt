@@ -1,0 +1,110 @@
+In mathematical logic, geometric logic is an infinitary generalisation of coherent logic, a restriction of first-order logic due to Skolem that is proof-theoretically tractable. Geometric logic is capable of expressing many mathematical theories and has close connections to topos theory.
+
+
+== Definitions ==
+A theory of first-order logic is geometric if it is can be axiomatised using only axioms of the form
+
+  
+    
+      
+        
+          ⋀
+          
+            i
+            ∈
+            I
+          
+        
+        
+          ϕ
+          
+            i
+            ,
+            1
+          
+        
+        ∨
+        ⋯
+        ∨
+        
+          ϕ
+          
+            i
+            ,
+            
+              n
+              
+                i
+              
+            
+          
+        
+        
+        ⟹
+        
+        
+          ⋁
+          
+            j
+            ∈
+            J
+          
+        
+        
+          ϕ
+          
+            j
+            ,
+            1
+          
+        
+        ∨
+        ⋯
+        ∨
+        
+          ϕ
+          
+            j
+            ,
+            
+              m
+              
+                j
+              
+            
+          
+        
+      
+    
+    {\displaystyle \bigwedge _{i\in I}\phi _{i,1}\vee \dots \vee \phi _{i,n_{i}}\implies \bigvee _{j\in J}\phi _{j,1}\vee \dots \vee \phi _{j,m_{j}}}
+  
+where I and J are disjoint collections of formulae indices that each may be infinite and the formulae φ are either atoms or negations of atoms. If all the axioms are finite (i.e., for each axiom, both I and J are finite), the theory is coherent.
+
+
+== Theorem ==
+Every first-order theory has a coherent conservative extension.
+
+
+== Significance ==
+Dyckhoff & Negri (2015) list eight consequences of the above theorem that explain its significance (omitting footnotes and most references):
+In the context of a sequent calculus such as G3c, special coherent implications as axioms can be converted directly to inference rules without affecting the admissibility of the structural rules (Weakening, Contraction and Cut);
+In similar terms, coherent theories are “the theories expressible by natural deduction rules in a certain simple form in which only atomic formulas play a critical part”;
+Coherent implications form sequents that give a Glivenko class. In this case, the result, known as the first-order Barr’s Theorem, states that if each Ii: 0≤i≤n is a coherent implication and the sequent I1, . . . , In ⇒ I0 is classically provable then it is intuitionistically provable;
+There are many examples of coherent/geometric theories: all algebraic theories, such as group theory and ring theory, all essentially algebraic theories, such as category theory, the theory of fields, the theory of local rings, lattice theory, projective geometry, the theory of separably closed local rings (aka “strictly Henselian local rings”) and the infinitary theory of torsion abelian groups;
+Coherent/geometric theories are preserved by pullback along geometric morphisms between topoi (Maclane & Moerdijk 1992, chapter X);
+Filtered colimits in Set of models of a coherent theory T are also models of T;
+Special coherent implications ∀x. C ⊃ D generalise the Horn clauses from logic programming, where D is required to be an atom; in fact, they generalise the “clauses” of disjunctive logic programs, where D is allowed to be a disjunction of atoms.
+Effective theorem-proving for coherent theories can, with (in relation to resolution) relative ease and clarity, be automated. As noted by Bezem et al ...the absence of Skolemisation (introduction of new function symbols) is no real hardship, and the non-conversion to clausal form allows the structure of ordinary mathematical arguments to be better retained.
+
+
+== Notes ==
+
+
+== Bibliography ==
+Dyckhoff, Roy; Negri, Sara (2015), "Geometrisation of first-order logic", Bulletin of Symbolic Logic, 21 (2): 123–163, doi:10.1017/bsl.2015.7, hdl:10023/6818
+Johnstone, Peter (2002), Sketches of an Elephant: A Topos Theory Compendium, Oxford University Press, ISBN 978-0-19-852496-0, Zbl 1071.18002 (Two volumes, Oxford Logic Guides 43 & 44, 3rd volume in preparation)
+Maclane, Saunders Mac; Moerdijk, Ieke (1992), Sheaves in Geometry and Logic, Springer: Berlin, doi:10.1007/978-1-4612-0927-0, ISBN 978-1-4612-0927-0
+
+
+== Further reading ==
+"Why is a geometric theory called "geometric"?". Stack Exchange. November 15, 2020.

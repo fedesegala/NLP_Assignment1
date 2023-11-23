@@ -1,0 +1,62 @@
+Host tropism is the infection specificity of certain pathogens to particular hosts and host tissues. This explains why most pathogens are only capable of infecting a limited range of host organisms.
+Researchers can classify pathogenic organisms by the range of species and cell types that they exhibit host tropism for. For instance, pathogens that are able to infect a wide range of hosts and tissues are said to be amphotropic. Ecotropic pathogens, on the other hand, are only capable of infecting a narrow range of hosts and host tissue. Knowledge of a pathogen's host specificity allows professionals in the research and medical industries to model pathogenesis and develop vaccines, medication, and preventive measures to fight against infection. Methods such as cell engineering, direct engineering and assisted evolution of host-adapted pathogens, and genome-wide genetic screens are currently being used by researchers to better understand the host range of a variety of different pathogenic organisms.
+
+
+== Mechanisms ==
+A pathogen displays tropism for a specific host if it can interact with the host cells in a way that supports pathogenic growth and infection. Various factors affect the ability of a pathogen to infect a particular cell, including: the structure of the cell's surface receptors; the availability of transcription factors that can identify pathogenic DNA or RNA; the ability of the cells and tissue to support viral or bacterial replication; and the presence of physical or chemical barriers within the cells and throughout the surrounding tissue.
+
+
+=== Cell surface receptors ===
+Pathogens frequently enter or adhere to host cells or tissues before causing infection. For this connection to occur, the pathogen must recognize the cell's surface and then bind to it. Viruses, for example, must often bind to specific cell surface receptors to enter a cell. Many viral membranes contain virion surface proteins that are specific to particular host cell surface receptors. If a host cell expresses the complementary surface receptor for the virus, then the virus can attach and enter the cell. If a cell does not express these receptors, then the virus cannot normally infect it. Therefore, if the virus cannot bind to the cell, it does not display tropism for that host.
+Bacteria infect hosts differently than viruses do. Unlike viruses, bacteria can replicate and divide on their own without entry into a host cell. Still, to grow and divide, bacteria require certain nutrients from their environment. These nutrients can often be provided by host tissues, and that is why some bacteria need a host for survival. Once a bacterium recognizes the host cell receptors or nutrient-rich surroundings, it colonizes the cell surface. Bacteria have various mechanisms for colonizing host tissues. For example, biofilm production allows bacteria to adhere to the host tissue surface, and it provides a protective environment ideal for bacterial growth. Some bacteria, such as spirochetes, are capable of proliferating the host cell or tissues. This then allows the bacterium to surround itself in a nutrient-rich environment that protects it from immune responses and other stressors.
+
+
+=== Transcription factors, nutrients, and pathogenic replication ===
+For viruses to replicate within a host cell and for bacteria to carry out the metabolic processes needed to grow and divide, they must first take in necessary nutrients and transcription factors from their surroundings.  Even if a virus is able to bind to a host cell and transfer its genetic material through the cell membrane, the cell may not contain the necessary polymerases and enzymes necessary for viral replication to occur and for pathogenesis to continue.
+Many pathogens also contain important virulence factors within their genomes. In particular, pathogenic bacteria are capable of translating virulence genes located within their plasmids into different virulence factors in order to aid the bacterium in pathogenesis. Many different types of virulence factors exist within pathogens, including:  adherence factors, invasion factors, capsules, siderophores, endotoxins, and exotoxins. All of these virulence factors either aid directly in host colonization or in host cell and tissue damage.
+
+
+=== Host cell defense mechanisms ===
+Host organisms are equipped with a variety of different defense mechanisms used to protect the host from pathogenic infection. Humans in particular possess multiple lines of defense that affect pathogenesis from beginning to end. For a virus or bacterium to display tropism for a specific host, it must first have the means to break through the host organism's line of defense. The first line of defense, known as the innate immune system, is meant to prevent initial pathogenic entry and establishment. The innate immune system is only broadly specific to pathogens and includes: anatomical barriers, inflammation, phagocytosis, and nonspecific inhibitors.An anatomical barrier is any physical or chemical barrier that helps prevent entry of microorganisms into body. This includes the skin, sweat, mucus layer, saliva, tears, endothelial lining, and natural human microbiota. The epidermis of the skin provides a physical barrier against pathogens, but it can easily be compromised by insect bites, animal bites, scratches or other minor skin trauma. Sweat, saliva, and tears are all chemical barriers that contain enzymes, such as lysozymes, that can kill bacteria and viruses. The mucus layer lines the nasopharynx and serves as a physical barrier that encases foreign pathogens and carries them back out of the body through snot and phlegm. A human's microbiota, the other microorganisms living within and on the body, compete with pathogenic organisms and play a large role in pathogenic control. Lastly, a semi-permeable membrane known as the blood-brain-barrier is a lining of endothelial cells separating the blood from the tissues and organs. Without this lining, viruses and bacteria could easily infect vital human organs such as the brain, lungs, and placenta.
+Inflammation is one of the first immune responses to pathogenic infection that many host organisms possess. Inflammation involves an elevated temperature surrounding the site of infection, accumulation of CO2 and organic acids, and a decrease in the infected tissue's oxygen tension in response to pathogen-induced cell damage. Coagulation of blood (clotting) also occurs in an inflamed area, providing a physical barrier against pathogenic infection. These changes ultimately create unfavorable living conditions for the pathogen (i.e. pH changes, decrease in ATP, and changes in cellular metabolism) and prevent further replication and growth.
+Once a bacterium or virus overcomes the body's innate immune system, the host organism's acquired immune system takes over. This immune response is highly specific to pathogens and provides the host with long-lasting immunity against future infection by that specific pathogen. When lymphocytes recognize antigens on a pathogen's surface, they secrete antibodies that bind to the pathogen and alert macrophages and natural killer cells. These cells target the pathogen itself, killing it or rendering it inactive. This process further produces memory B cell and memory T cells that allow long-lasting immunity to occur.
+In conclusion, if a pathogen is capable of overcoming various host defenses, recognizing a host cell for infection, and successfully replicating within a host tissue, then the pathogen is likely to possess tropism for that specific host.
+
+
+== Viral tropism ==
+Viral host tropism is determined by a combination of susceptibility and permissiveness: a host cell must be both permissive (allow viral replication) and susceptible (possess the receptor complement needed for viral entry) for a virus to establish infection. Once a virus binds to a host cell, the host cell must then provide the necessary transcription factors needed for viral replication to occur. When the virus is able to use the cell to replicate its genetic information, the virus can spread infection throughout the body.
+
+
+=== Human immunodeficiency virus (HIV) ===
+The human immunodeficiency virus exhibits host tropism for CD4 related immune cells (e.g. T helper cells, macrophages or dendritic cells). These cells express a CD4 receptor, to which HIV can bind, through the gp120 and gp41 proteins on its surface. HIV also requires a second co-receptor along with the CD4-gp120 complex to enter the target cells - either CCR5 or CXCR4. This demonstrates an example of how cell surface receptors can affect the tropism of a viral pathogen. Since humans are the only organisms that have cells with these receptors, HIV only displays host tropism for humans. Simian immunodeficiency virus (SIV), a virus similar to HIV, is capable of infecting primates.
+
+
+=== Epstein-Barr virus (EBV) ===
+The Epstein–Barr virus (EBV) is one of eight known herpesviruses. It displays host tropism for human B cells through the CD21-gp350/220 complex and is thought to be the cause of infectious mononucleosis, Burkitt's lymphoma, Hodgkin's disease, nasopharyngeal carcinoma, and lymphomas. EBV enters the body through oral transfer of saliva, and it is thought to infect more than 90% of the world's adult population. EBV may also infect epithelial cells, T cells, and natural killer cells through mechanisms different than the CD21 receptor-mediated process in B cells.
+
+
+=== Zika virus (ZIKV) ===
+The Zika virus is a mosquito-borne arbovirus in the genus Flavivirus that exhibits tropism for the human maternal decidua, the fetal placenta, and the umbilical cord. On the cellular level, the Zika virus targets decidual macrophages, decidual fibroblasts, trophoblasts, Hofbauer cells, and mesenchymal stem cells due to their increased capacity to support virion replication. In adults, infection by the Zika virus may lead to Zika fever; and if the infection occurs during the first trimester of pregnancy, neurological complications such as microcephaly may occur.
+
+
+== Bacterial tropism ==
+
+
+=== Mycobacterium tuberculosis ===
+Mycobacterium tuberculosis is a human-tropic bacterium that causes tuberculosis - the second most common cause of death due to an infectious agent. The cell envelope glycoconjugates surrounding M. tuberculosis allow the bacteria to infect human lung tissue while providing an intrinsic resistance to pharmaceuticals. M. tuberculosis enters the lung alveoler passages through aerosol droplets, and it then becomes phagocytosed by macrophages. However, since the macrophages are unable to completely kill M. tuberculosis, granulomas are formed within the lungs, providing an ideal environment for continued bacterial colonization.
+
+
+=== Staphylococcus aureus ===
+More than an estimated 30% of the world population is colonized by Staphylococcus aureus, a microorganism capable of causing skin infections, nosocomial infections, and food poisoning due to its tropism for human skin and soft tissue. The S. aureus clonal complex CC121 is known to exhibit multi-host tropism for both humans and rabbits. This is thought to be due to a single nucleotide mutation that evolved the CC121 complex into ST121 clonal complex, the clone capable of infecting rabbits.
+
+
+=== Escherichia coli ===
+Enteropathogenic and enterohaemorrhagic Escherichia coli  (EPEC and EHEC respectively) exhibit tropism for human gut epithelial cells, leading to food poisoning and digestive problems. Type III secretion is the main mode of pathogenesis for these two pathogenic forms of E. coli, which involves the adherence of intimin to translocated intimin cell surface receptors presented on the surface of epithelial cells in the gut. Along with the Type III secretion system, temperature may also effect the secretion of intimin, which increases E. coli infectivity and tropism for human gut cells.
+
+
+== See also ==
+Tissue tropism
+Endothelial Cell Tropism
+
+
+== References ==

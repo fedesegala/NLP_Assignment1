@@ -1,0 +1,17 @@
+Alkaline lysis or alkaline extraction is a method used in molecular biology to isolate plasmid DNA from bacteria.
+
+
+== Method ==
+Bacteria containing the plasmid of interest are first cultured, then a sample is centrifuged in order to concentrate cellular material (including DNA) into a pellet at the bottom of the containing vessel. The supernatant is discarded, and the pellet is then re-suspended in an EDTA-containing physiological buffer. The purpose of the EDTA is to chelate divalent metal cations such as Mg2+ and Ca2+, which are required for the function of DNA degrading enzymes (DNAses) and also serve to de-stabilise the DNA phosphate backbone and cell wall. Glucose in the buffer will maintain the osmotic pressure of the cell in order to prevent the cell from bursting. Tris in the buffer will retain the pH of the cell with 8.0 and RNase will remove the RNA which will disrupt the experiment.
+Separately, a strong alkaline solution consisting of the detergent sodium dodecyl sulfate (SDS) and a strong base such as sodium hydroxide (NaOH) is prepared and then added. The resulting mixture is incubated for a few minutes. During this time, the detergent disrupts cell membranes and allows the alkali to contact and denature both chromosomal and plasmid DNA.
+After tearing apart the cell membrane by SDS, the cell content will neutralize the NaOH; this is why the pH of the lysis goes down from 12.8 to 12.3. So if there are not enough bacterial cells, the extra NaOH will function to generate small DNA fragments. But 0.5 M L-arginine, which can supply a stable pH, can be used to replace 0.1 M sodium hydroxide.Finally, potassium acetate is added. This acidifies the solution and allows the renaturing of plasmid DNA, but not chromosomal DNA, which is precipitated out of solution. Another function of the potassium is to cause the precipitation of sodium dodecyl sulfate and thus removal of the detergent. A final centrifugation is carried out, and this time the pellet contains only debris and can be discarded. The plasmid-containing supernatant is carefully removed and can be further purified or used for analysis, such as gel electrophoresis.
+
+
+== Other uses ==
+Also, alkaline lysis is sometimes used to extract plant genetic material.  The plant cells are subjected to a strongly alkaline solution containing a detergent (usually a zwitterionic or nonionic detergent such as Tween 20), and the mixture is incubated at high temperature.  This method is not used as often due to the sodium hydroxide's tendency to damage genetic material, reducing DNA fragment size.
+
+
+== References ==
+
+Alkaline Lysis at Mama Ji's Molecular Kitchen
+Birnboim HC, Doly J (November 1979). "A rapid alkaline extraction procedure for screening recombinant plasmid DNA". Nucleic Acids Res. 7 (6): 1513–23. doi:10.1093/nar/7.6.1513. PMC 342324. PMID 388356.

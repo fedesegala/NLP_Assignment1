@@ -1,0 +1,62 @@
+Group-specific antigen, or gag, is the polyprotein that contains the core structural proteins of an Ortervirus (except Caulimoviridae). It was named as such because scientists used to believe it was antigenic. Now it is known that it makes up the inner shell, not the envelope exposed outside. It makes up all the structural units of viral conformation and provides supportive framework for mature virion.
+All orthoretroviral gag proteins are processed by the protease (PR or pro) into MA (matrix), CA (capsid), NC (nucleocapsid) parts, and sometimes more.
+If Gag fails to cleave into its subunits, virion fails to mature and remains uninfective.
+It comprises part of the gag-onc fusion protein.
+
+
+== Gag in HIV ==
+
+
+=== Numbering system ===
+By convention, the HIV genome is numbered according to HIV-1 group M subtype B reference strain HXB2.
+
+
+=== Transcription and mRNA processing ===
+After a virus enters a target cell, the viral genome is integrated into the host cell chromatin. RNA polymerase II then transcribes the 9181 nucleotide full-length viral RNA.  HIV Gag protein is encoded by the HIV gag gene, HXB2 nucleotides 790-2292.
+
+
+=== MA ===
+The HIV p17 matrix protein (MA) is a 17 kDa protein, of 132 amino acids, which comprises the N-terminus of the Gag polyprotein. It is responsible for targeting Gag polyprotein to the plasma membrane via interaction with PI(4,5)P2 through its highly basic region (HBR). HIV MA also makes contacts with the HIV trans-membrane glycoprotein gp41 in the assembled virus and, indeed, may have a critical role in recruiting Env glycoproteins to viral budding sites.Once Gag is translated on ribosomes, Gag polyproteins are myristoylated at their N-terminal glycine residues by N-myristoyltransferase 1. This is a critical modification for plasma membrane targeting. In the membrane-unbound form, the MA myristoyl fatty acid tail is sequestered in a hydrophobic pocket in the core of the MA protein.Recognition of plasma membrane PI(4,5)P2 by the MA HBR activates the "myristoyl switch", wherein the myristoyl group is extruded from its hydrophobic pocket in MA and embedded in the plasma membrane. In parallel to (or possibly concomitant with) myristoyl switch activation, the arachidonic acid moiety of PI(4,5)P2 is extracted from the plasma membrane and binds in a channel on the surface of MA (which is distinct from that previously occupied by the MA myristoyl group. HIV Gag is then tightly bound to the membrane surface via three interactions: 1) that between the MA HBR and the PI(4,5)P2 inositol phosphate, 2) that between the extruded myristoyl tail of MA and the hydrophobic interior of the plasma membrane, and 3) that between the PI(4,5)P2 arachidonic acid moiety and the hydrophobic channel along the MA surface.
+
+
+=== CA ===
+The p24 capsid protein (CA) is a 24 kDa protein fused to the C-terminus of MA in the unprocessed HIV Gag polyprotein. After viral maturation, CA forms the viral capsid. CA has two generally recognized domains, the C-terminal domain (CTD) and the N-terminal domain (NTD). The CA CTD and NTD have distinct roles during HIV budding and capsid structure.When a Western blot test is used to detect HIV infection, p24 is one of the three major proteins tested for, along with gp120/gp160 and gp41.
+While MA, IN, VPR, and cPPT had been previously implicated as factors in HIV's ability to target non-dividing cells, CA has been shown to be the dominant determinant of retrovirus infectivity in non-dividing cells, which is key in helping to avoid insertional mutagenesis in lentiviral gene therapy. 
+
+
+=== SP1 ===
+Spacer peptide 1 (SP1, previously 'p2') is a 14-amino acid polypeptide intervening between CA and NC. Cleavage of the CA-SP1 junction is the final step in viral maturation, which allows CA to condense into the viral capsid. SP1 is unstructured in solution but, in the presence of less polar solvents or at high polypeptide concentrations, it adopts an α-helical structure. In scientific research, western blots for CA (24 kDa) can indicate a maturation defect by the high relative presence of a 25 kDa band (uncleaved CA-SP1). SP1 plays a critical role in HIV particle assembly, although the exact nature of its role and the physiological relevance of SP1 structural dynamics are unknown.
+
+
+=== NC ===
+The HIV nucleocapsid protein (NC) is a 7 kDa zinc finger protein in the Gag polyprotein and which, after viral maturation, forms the viral nucleocapsid. NC recruits full-length viral genomic RNA to nascent virions.
+
+
+=== SP2 ===
+Spacer peptide 2 (SP2, previously 'p1') is a 16-amino acid polypeptide of unknown function which separates Gag proteins NC and p6.
+
+
+=== p6 ===
+HIV p6 is a 6 kDa polypeptide at the C-terminus of the Gag polyprotein. It recruits cellular proteins TSG101 (a component of ESCRT-I) and ALIX to initiate virus particle budding from the plasma membrane. p6 has no known function in the mature virus.
+
+
+== In endogenous retroviruses ==
+Both Human endogenous retrovirus K and Human Endogenous Retrovirus-W copies carry gag genes, usually damaged, that are expressed widely. There is a long history of speculating their involvement in multiple sclerosis and other neurological disorders.
+
+
+== In other viruses ==
+The gag gene of Spumaretrovirinae (e.g. P14349) and Metaviridae (e.g. Q86TG7) only have a recognizable nucleocapsid part. It also lacks a myristoylation sequence.The Spumaretroviral (SV) gag is related to orthoretrovieral gag, as structural work has shown that part of the N-terminal domain shares functional and structural homology with the typical capsid protein. The SV gag is not processed like the orthoretrovieral gag; only a tiny 3kDa cut at the C-terminal is required, and other cleavage sites are generally inefficient.The Metaviral (MV, Ty3/gypsy) gag, too, is known to have a structurally homologous capsid protein. Each capsid is assembled from 540 proteins. Unlike orthoretroviral CA proteins, it does not require dramatic maturation. The animal Activity-regulated cytoskeleton-associated protein (ARC) gene is repurposed from the metaviral gag. This gene is responsible for transporting mRNA among neural cells, a key part of neuroplasticity. It has independently arose in Tetrapoda and Drosophila.Caulimoviridae members rarely get a gag assignment to its capsid-containing ORF, but the CP-PRO-POL layout does show analogy with the canonical gag-pol setup. Whether the parts stick together into a polyprotein depends on the genus.
+
+
+== See also ==
+Gag/pol translational readthrough site
+
+
+== References ==
+
+
+== External links ==
+Diagram at stanford.edu
+gag+Protein at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+gag+Genes at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+gag+Gene+Products,+Human+Immunodeficiency+Virus at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

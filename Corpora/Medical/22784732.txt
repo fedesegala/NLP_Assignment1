@@ -1,0 +1,44 @@
+In molecular biology, and more importantly high-throughput DNA sequencing, a chimera is a single DNA sequence originating when multiple transcripts or DNA sequences get joined. Chimeras can be considered artifacts and be filtered out from the data during processing  to prevent spurious inferences of biological variation. However, chimeras should not be confused with chimeric reads, who are generally used by structural variant callers to detect structural variation events and are not always an indication of the presence of a chimeric transcript or gene.
+In a different context, the deliberate creation of artificial chimeras can also be a useful tool in molecular biology. For example, in protein engineering, "chimeragenesis" (forming chimeras between proteins that are encoded by homologous cDNAs) is one of the "two major techniques used to manipulate cDNA sequences". For gene fusions that occur through natural processes, see chimeric genes and fusion genes.
+
+
+== Description ==
+
+
+=== Transcript chimera ===
+A chimera can occur as a single cDNA sequence originating from two transcripts. It is usually considered to be a contaminant in transcript and expressed sequence tag (which results in the moniker of EST chimera) databases. It is estimated that approximately 1% of all transcripts in the National Center for Biotechnology Information's Unigene database contain a "chimeric sequence".
+
+
+=== PCR chimera ===
+A chimera can also be an artifact of PCR amplification. It occurs when the extension of an amplicon is aborted, and the aborted product functions as a primer in the next PCR cycle. The aborted product anneals to the wrong template and continues to extend, thereby synthesizing a single sequence sourced from two different templates.PCR chimeras are an important issue to take into account during metabarcoding, where DNA sequences from environmental samples are used to determine biodiversity. A chimera is a novel sequence that will most probably not match to any known organism. Hence, it might be interpreted as a new species thereby overinflating the diversity.
+PCR chimeras also occur in DNA sequencing. In this case, the most common mechanism of chimera formation is that incomplete extension during the PCR results in partial sequence strands that can act as primers in subsequent PCR cycles on similar but non identical sequences. Extension of such hybrid priming events causes the formation of chimeric sequences.Some computational methods have been devised to detect and remove chimeras, like:
+
+CHECK_CHIMERA of the Ribosomal Database Project 
+ChimeraSlayer in QIIME
+uchime in usearch
+removeBimeraDenovo() in dada2
+Bellerophon
+CATCh
+DECIPHER
+
+
+=== Chimeric read ===
+A read is a sequence of nucleic acids determined through high-throughput DNA or RNA sequencing, corresponding to a DNA or RNA fragment. A chimeric read or split read means that multiple subsections of that read align to different positions in a reference genome. They are not always a sign of the presence of a PCR chimera and often used to detect structural variations.
+
+
+== Examples ==
+"The first mRNA transcript isolated for..." the human gene C2orf3 "...was part of an artificial chimera..."
+CYP2C17 was thought to be a human gene, but "...is now considered an artefact based on a chimera of CYP2C18 and CYP2C19."
+Researchers have created receptor chimeras in their studies of Oncostatin M.
+
+
+== See also ==
+Ribosome
+Transgene
+Trans-splicing
+Chimera (genetics)
+chimeric gene
+fusion gene
+
+
+== References ==

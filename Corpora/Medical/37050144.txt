@@ -1,0 +1,45 @@
+Cell–cell fusogens are glycoproteins that facilitate the fusion of cell to cell membranes. Cell–cell fusion is critical for the merging of gamete genomes and the development of organs in multicellular organisms. Cell-cell fusion occurs when both actin cytoskeleton and fusogenic proteins properly rearrange across the cell membrane. This process is led by actin-propelled membrane protrusions.
+
+
+== Identifiers ==
+EFF-AFF are the identifiers for type 1 glycoproteins that makeup cell–cell fusogens. They were first identified when EFF-1 mutants were found to "block cell fusion in all epidermal and vulval epithelia" in the roundworm, Caenorhabditis elegans. EFF-AFF is a family of type I membrane glycoproteins that act as cell–cell fusogens, named from ''Anchor cell fusion failure''. Because it was known that EFF-1 mutants successfully fused the anchor cell and (uterine seam) utse syncytium to produce a continuous uterine-vulval tube, where these connections failed, AFF-1 mutants were discovered. AFF-1 was deemed necessary for this process in addition to the fusion of heterologous cells in C. elegans. The transmembrane forms of these proteins, like most viral fusogens, possess an N-terminal signal sequence followed by a long extracellular portion, a predicted transmembrane domain, and a short intracellular tail. " A striking conservation in the position and number of all 16 cysteines in the extracellular portion"  of EFF-AFF proteins from different nematode species suggests that these proteins are folded in a similar 3D structure that is
+essential for their fusogenic activity. C. elegans AFF-1 and EFF-1 proteins are essential for developmental cell-to-cell fusion and can merge insect cells. "Thus FFs comprise an ancient
+family of cellular fusogens that can promote fusion when expressed on a viral particle."
+
+
+== Process ==
+Cell–cell fusogens are proteins that promote plasma membrane fusion among different cells. To be considered a fusogen, it must be required for fusion, fuse unfamiliar membranes, and be present on the fusing membrane when need be. These cells include but are not limited too: gametes, trophoblasts, epithelial, and other developmental cells. These fusogens mediate cell-cell fusion and can perform neuron repairs, auto-fusion, and sealing of the phagosomes. Although these proteins promote similar functions among cells, they have individual mechanisms. These are called unilateral (one fusing membrane needed to be present) and bilateral (same or different fusogens present at both membranes) mechanisms. Most fusogen mechanisms begin with hemifusion, but the mechanism for cell-cell fusogens consists of four separate steps.
+
+
+=== Step ===
+Cells must identify and be near each other.
+Hemifusion occurs.
+Fusion pore in hemifusion structure opens, thus allowing for cell contents to merge.
+Cells completely join from pore expansion.
+
+
+== Applications ==
+
+
+=== Roles in gamete fertilization ===
+Cell–cell fusogens have several different applications. These chemical agents can play a significant part in sexual and asexual reproduction by promoting the fusion of the membrane bilayers. With sexual reproduction, evidence found to prove that in mice, some mandatory sperm-egg fusogens are responsible for fusion; two particular proteins were IZUMO1 and CD9. After comparing the data of experiments done with plants, fungi, and invertebrates, it was seen that several crucial genes could have been responsible for fertilization. However, like yeasts, there were no genes found to be adequate for the fertilization process. As of late, another protein has been classified as a gamete fusogen (HAP2 or GCS1). Like the previous example, this protein is present in plants, protists, and invertebrates. This fusogen resembles the eukaryotic somatic fusogen mentioned earlier, EFF-1. The presence of HAP2 induces hemifusion and the mixing of cell content. Yet when considering asexual reproduction, somatic cells can also undergo cell-cell fusion or self-fusion. Two particular fusogens observed were SO and MAK-2. Evidence supports that these proteins control and regulate efficient protein concentration and localization.
+
+
+=== Roles in neuronal repair ===
+In the medical field, experiments are done to test for the uses of cell-cell fusogens in axonal nerve repairs and to determine their usefulness with other nerve cells. The current method for nerve repair is suturing the cut ends of nerves. This has a long recovery process, with a low functionality rate for the repaired nerves. When considering cell-cell fusogens as a potential answer, researchers divided these fusogens into two groups based on fusion mechanisms: cell aggregation and membrane modification. One fusogen PEG was found to fit in both groups. It was this fusogen that made restoring nerve cells in humans possible. Once operations were within a certain time frame (12 hours for human nerve repair and 24 hours for sciatic rat treatments), patient recovery was almost successful. With this research, there is potential for repairing human nerve grafts. Some potential uses of cell-cell fusogens studied are cancer vaccines and the regeneration of damaged cells. Additionally, any peripheral nerve in the body could be repaired, and transferred tissues could work as soon as the senses return. Finally, any surgery done on nerves could be repaired as well, thus resulting in a quicker recovery.
+
+
+== See also ==
+Cell membrane
+Cellular differentiation
+Fusion mechanism
+Fusion protein
+Interbilayer forces in membrane fusion
+Lipid bilayer fusion
+
+
+== References ==
+
+
+== External links ==
+Biochemistry and Molecular Biology at Curlie

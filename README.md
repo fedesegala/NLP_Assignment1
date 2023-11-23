@@ -40,3 +40,15 @@ non_medical_categories = [
 per ognuna di queste categorie è vengono ritornati al massimo 100 elementi attenenti alla particolare categoria. Si può osservare che in `CorporaBackup` i file in ogni directory prima che vengano divisi in training e test set non sono 600 e 600, come ci si aspetterebbe, questo perché per alcune categorie vengono trovati meno di 100 documenti. 
 
 Per dividere i documenti in training e test set viene utilizzata la funzione `populate_test_set()` del notebook `document_retriever.ipynb`.
+
+## `classifier.py`
+
+Si tratta di una classe che include tutte le utility principali del classificatore. Alla generazione del classificatore vengono svolti i seguenti passi: 
+
+- costruite le due *bag of words* relative alle due categorie **medical** e **non-medical**
+- costruito il *vocabolario*
+- computate le *priors* per ciascuna delle due classi
+
+A questo punto la fase di training si può ritenere completa, e si può procedere alla vera e propria classificazione: `Classifier.classify()`.
+In particolare la classificazione viene effettuata tramite il metodo **Naive Bayes** secondo la formula: 
+
