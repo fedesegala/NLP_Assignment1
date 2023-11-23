@@ -1,8 +1,0 @@
-CaSNP is database for storing data about copy number alterations from SNP arrays for different types of cancer.
-
-
-== References ==
-
-
-== External links ==
-https://web.archive.org/web/20110719204256/http://cistrome.dfci.harvard.edu/CaSNP/

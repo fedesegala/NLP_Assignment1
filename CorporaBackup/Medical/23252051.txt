@@ -1,8 +1,0 @@
-Additive genetic effects occur when two or more genes source a single contribution to the final phenotype, or when alleles of a single gene (in heterozygotes) combine so that their combined effects equal the sum of their individual effects. Non-additive genetic effects involve dominance (of alleles at a single locus) or epistasis (of alleles at different loci).
-
-
-== See also ==
-Quantitative genetics
-
-
-== References ==

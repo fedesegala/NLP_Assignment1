@@ -1,8 +1,0 @@
-The biosynthesis of benzoxazinone, a cyclic hydroxamate and a natural insecticide, has been well-characterized in maize and related grass species. In maize, genes in the pathway are named using the symbol bx. Maize Bx-genes are tightly linked, a feature that has been considered uncommon for plant genes of a biosynthetic pathways. Especially notable are genes encoding the different enzymatic functions BX1, BX2 and BX8 and which are found within about 50 kilobases. Results from wheat and rye indicate that the cluster is an ancient feature. In wheat the cluster is split into two parts. The wheat genes Bx1 and Bx2 are located in close proximity on chromosome 4 and wheat Bx3, Bx4 and Bx5 map to the short arm of chromosome 5; an additional Bx3 copy was detected on the long arm of chromosome 5B. Recently, additional biosynthetic clusters have been detected in other plants for other biosynthetic pathways and this organization might be common in plants.
-
-
-== Maize genes ==
-The bx1 gene encodes a protein, BX1, that forms indol from indol-3-glycerol phosphate in the plastid. It is the first step in the pathway and determines much of the natural variation in levels of DIMBOA in maize. The next steps in the pathway occur in the endoplasmic reticulum, also referred to as the microsomes in cell fractionation experiments, and are carried by proteins encoded by genes bx2, bx3, bx4, and bx5.
-
-
-== References ==
