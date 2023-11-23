@@ -4,6 +4,7 @@ from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 import glob
 import os
+from sklearn import metrics
 
 
 class Classifier:
@@ -123,9 +124,13 @@ if __name__ == "__main__":
         for line in lines:
             true_labels.append(eval(line))
 
-    correct = 0
-    for i in range(len(predicted_labels)):
-        if predicted_labels[i] == true_labels[i]:
-            correct += 1
+    confusion_matrix = metrics.confusion_matrix(true_labels, predicted_labels)
+    print(f"Following will be displayed the confusion matrix: \n{confusion_matrix}")
+    print(f"{np.sum(predicted_labels)} documents have been classified as medical")
 
-    print(f"The total number of correct labels is: {correct} \n\tAccuracy: {correct / len(predicted_labels)}")
+    print(f"\nThe average precision is: {metrics.average_precision_score(true_labels, predicted_labels)}")
+    print(f"The average recall is: {metrics.recall_score(true_labels, predicted_labels)}")
+    print(f"The accuracy is: {metrics.accuracy_score(true_labels, predicted_labels)}")
+
+
+

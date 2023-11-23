@@ -1,5 +1,0 @@
-import wikipediaapi 
-import spacy
-
-
-
