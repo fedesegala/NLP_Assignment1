@@ -1,8 +1,0 @@
-In virology, temperate refers to the ability of some bacteriophages (notably coliphage λ) to display a lysogenic life cycle. Many (but not all) temperate phages can integrate their genomes into their host bacterium's chromosome, together becoming a lysogen as the phage genome becomes a prophage. A temperate phage is also able to undergo a productive, typically lytic life cycle, where the prophage is expressed, replicates the phage genome, and produces phage progeny, which then leave the bacterium.  With phage the term virulent is often used as an antonym to temperate, but more strictly a virulent phage is one that has lost its ability to display lysogeny through mutation rather than a phage lineage with no genetic potential to ever display lysogeny (which more properly would be described as an obligately lytic phage).
-
-
-== Induction ==
-At some point, temperate bacteriophages switch from the lysogenic life cycle to the lytic life cycle. This conversion may happen spontaneously, although at very low frequencies (λ displays spontaneous conversion of 10−8 to 10−5 per cell). In the majority of observed switch events, stressors - such as the cell's SOS response (due to DNA damage) or a change in nutrients - induces the switch.
-
-
-== Notes ==
