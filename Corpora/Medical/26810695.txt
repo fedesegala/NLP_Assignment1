@@ -1,0 +1,28 @@
+In genetics, the coefficient of coincidence (c.o.c.) is a measure of interference in the formation of chromosomal crossovers during meiosis. It is generally the case that, if there is a crossover at one spot on a chromosome, this decreases the likelihood of a crossover in a nearby spot. This is called interference.
+The coefficient of coincidence is typically calculated from recombination rates between three genes. If there are three genes in the order A B C, then we can determine how closely linked they are by frequency of recombination. Knowing the recombination rate between A and B and the recombination rate between B and C, we would naively expect the double recombination rate to be the product of these two rates.
+The coefficient of coincidence is calculated by dividing the actual frequency of double recombinants by this expected frequency:
+c.o.c. = actual double recombinant frequency / expected double recombinant frequencyInterference is then defined as follows:
+interference = 1 − c.o.c.This figure tells us how strongly a crossover in one of the DNA regions (AB or BC) interferes with the formation of a crossover in the other region.
+
+
+== Worked example ==
+Drosophila females of genotype a+a b+b c+c were crossed with males of genotype aa bb cc. This led to 1000 progeny of the following phenotypes:
+
+a+b+c+: 244 (parental genotype, shows no recombination)
+a+b+c: 81 (recombinant between B and C)
+a+bc+: 23 (double recombinant)
+a+bc: 152 (recombinant between A and B)
+ab+c+: 148 (recombinant between A and B)
+ab+c: 27 (double recombinant)
+abc+: 89 (recombinant between B and C)
+abc: 236 (parental genotype, shows no recombination)From these numbers it is clear that the b+/b locus lies between the a+/a locus and the c+/c locus.
+There are 23 + 152 + 148 + 27 = 350 progeny showing recombination between genes A and B. And there are 81 + 23 + 27 + 89 = 220 progeny showing recombination between genes B and C. Thus the expected rate of double recombination is (350 / 1000) * (220 / 1000) = 0.077, or 77 per 1000.
+However, there are actually only 23 + 27 = 50 double recombinants. The coefficient of coincidence is therefore 50 / 77 = 0.65.
+Interference is 1 − 0.65 = 0.35.
+
+
+== High negative interference ==
+When three genetic markers, a, b and c, are all nearby (e.g. within the same gene) the coefficient of coincidence (calculated as in the above example) is generally found to be significantly greater than 1.  This implies that any individual recombination event tends to be more closely associated with another nearby recombination event than would be expected by chance.  This type of association is known as “negative interference”.  When the coefficient of coincidence is substantially greater than 1, it is known as “high negative interference".  High negative interference has been reported in bacteriophage T4 (e.g.  ) and in human immunodeficiency virus (HIV) infections.
+
+
+== References ==

@@ -1,0 +1,15 @@
+ColE1 is a plasmid found in bacteria.  Its name derives from the fact that it carries a gene for colicin E1 (the cea gene).  It also codes for immunity from this product with the imm gene.  In addition, the plasmid has a series of mobility (mob) genes. Its size and the presence of a single EcoRI recognition site caused it to be considered as a vector candidate.
+
+
+== Replication ==
+ColE1 replication begins at the origin.  555bp upstream from this point, RNA polymerase initiates transcription of RNAII which acts as a pre-primer and begins the synthesis of the leader strand.  The transcript folds into a secondary structure which stabilises the interaction between the nascent RNA and the origin's DNA.  This hybrid is attacked by RNase H, which cleaves the RNA strand, exposing a 3' hydroxyl group.  This allows the extension of the leading strand by DNA polymerase I.  Lagging strand synthesis is later initiated by a primase encoded by the host cell.
+Replication is carried out entirely by host proteins (RNA polymerase, DNA polymerase I and RNase H) so that inhibition of translation will stop the growth of the cells, but not the replication of ColE1. Since the translation of Rop protein will also be inhibited, a higher than normal copy number will result in these cells.
+
+
+== Copy number control ==
+RNAI is a counter-transcript to a section of RNAII and so binds to its 5' end.  This alters the folding of RNAII so that the DNA-RNA hybrid is not stabilized and cleavage does not occur.  This ensures that at high copy numbers, replication is slowed down due to increased RNAI concentration.  Rop is a secondary replication repressor, it stabilizes the RNAI-RNAII hybrid.   Rop may be especially important at preventing runaway replication at slow growth rates.
+
+ColE1 has a copy number of 25-30 according to its original publication.
+
+
+== References ==

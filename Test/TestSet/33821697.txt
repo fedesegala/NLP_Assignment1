@@ -1,0 +1,29 @@
+'The All-Species Living Tree' Project is a collaboration between various academic groups/institutes, such as ARB, SILVA rRNA database project, and LPSN, with the aim of assembling a database of 16S rRNA sequences of all validly published species of Bacteria and Archaea. At one stage, 23S sequences were also collected, but this has since stopped.Currently there are over 10,950 species in the aligned dataset and several more are being added either as new species are discovered or species that are not represented in the database are sequenced. Initially the latter group consisted of 7% of species.
+Similar (and more recent) projects include the Genomic Encyclopedia of Bacteria and Archaea (GEBA), which focused  on whole genome sequencing of bacteria and archaea.
+
+
+== Tree ==
+
+The tree was created by maximum likelihood analysis without bootstrap: consequently accuracy is traded off for size and many phylum level clades are not correctly resolved (such as the Firmicutes). (Eukaryotes not present in analysis). This phylogeny is a summary of the 16S rRNA based LTP_01_2022 and contains all type species with validly published names up to January 2022.
+
+
+== See also ==
+Branching order of bacterial phyla (Woese, 1987)
+Branching order of bacterial phyla (Gupta, 2001)
+Branching order of bacterial phyla (Cavalier-Smith, 2002)
+Branching order of bacterial phyla (Rappe and Giovanoni, 2003)
+Branching order of bacterial phyla (Battistuzzi et al., 2004)
+Branching order of bacterial phyla (Ciccarelli et al., 2006)
+Branching order of bacterial phyla (Genome Taxonomy Database, 2018)
+Bacterial phyla
+List of Archaea genera
+List of bacteria genera
+List of bacterial orders
+LPSN, list of accepted bacterial and archaeal names
+
+
+== References ==
+
+
+== External links ==
+http://www.arb-silva.de/projects/living-tree/

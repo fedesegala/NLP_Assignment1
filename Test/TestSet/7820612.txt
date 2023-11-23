@@ -1,0 +1,697 @@
+In mathematics, a Lipschitz domain (or domain with Lipschitz boundary) is a domain in Euclidean space whose boundary is "sufficiently regular" in the sense that it can be thought of as locally being the graph of a Lipschitz continuous function. The term is named after the German mathematician Rudolf Lipschitz.
+
+
+== Definition ==
+Let 
+  
+    
+      
+        n
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle n\in \mathbb {N} }
+  .  Let 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+   be a domain of 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   and let 
+  
+    
+      
+        ∂
+        Ω
+      
+    
+    {\displaystyle \partial \Omega }
+   denote the boundary of 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+  .  Then 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+   is called a Lipschitz domain if for every point 
+  
+    
+      
+        p
+        ∈
+        ∂
+        Ω
+      
+    
+    {\displaystyle p\in \partial \Omega }
+   there exists a hyperplane 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   of dimension 
+  
+    
+      
+        n
+        −
+        1
+      
+    
+    {\displaystyle n-1}
+   through 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  , a Lipschitz-continuous function 
+  
+    
+      
+        g
+        :
+        H
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle g:H\rightarrow \mathbb {R} }
+   over that hyperplane, and reals 
+  
+    
+      
+        r
+        >
+        0
+      
+    
+    {\displaystyle r>0}
+   and 
+  
+    
+      
+        h
+        >
+        0
+      
+    
+    {\displaystyle h>0}
+   such that
+
+  
+    
+      
+        Ω
+        ∩
+        C
+        =
+        
+          {
+          
+            x
+            +
+            y
+            
+              
+                
+                  n
+                  →
+                
+              
+            
+            ∣
+            x
+            ∈
+            
+              B
+              
+                r
+              
+            
+            (
+            p
+            )
+            ∩
+            H
+            ,
+             
+            −
+            h
+            <
+            y
+            <
+            g
+            (
+            x
+            )
+          
+          }
+        
+      
+    
+    {\displaystyle \Omega \cap C=\left\{x+y{\vec {n}}\mid x\in B_{r}(p)\cap H,\ -h<y<g(x)\right\}}
+  
+
+  
+    
+      
+        (
+        ∂
+        Ω
+        )
+        ∩
+        C
+        =
+        
+          {
+          
+            x
+            +
+            y
+            
+              
+                
+                  n
+                  →
+                
+              
+            
+            ∣
+            x
+            ∈
+            
+              B
+              
+                r
+              
+            
+            (
+            p
+            )
+            ∩
+            H
+            ,
+             
+            g
+            (
+            x
+            )
+            =
+            y
+          
+          }
+        
+      
+    
+    {\displaystyle (\partial \Omega )\cap C=\left\{x+y{\vec {n}}\mid x\in B_{r}(p)\cap H,\ g(x)=y\right\}}
+  where 
+
+  
+    
+      
+        
+          
+            
+              n
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {n}}}
+   is a unit vector that is normal to 
+  
+    
+      
+        H
+        ,
+      
+    
+    {\displaystyle H,}
+  
+
+  
+    
+      
+        
+          B
+          
+            r
+          
+        
+        (
+        p
+        )
+        :=
+        {
+        x
+        ∈
+        
+          
+            R
+          
+          
+            n
+          
+        
+        ∣
+        ‖
+        x
+        −
+        p
+        ‖
+        <
+        r
+        }
+      
+    
+    {\displaystyle B_{r}(p):=\{x\in \mathbb {R} ^{n}\mid \|x-p\|<r\}}
+   is the open ball of radius 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  ,
+
+  
+    
+      
+        C
+        :=
+        
+          {
+          
+            x
+            +
+            y
+            
+              
+                
+                  n
+                  →
+                
+              
+            
+            ∣
+            x
+            ∈
+            
+              B
+              
+                r
+              
+            
+            (
+            p
+            )
+            ∩
+            H
+            ,
+             
+            −
+            h
+            <
+            y
+            <
+            h
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle C:=\left\{x+y{\vec {n}}\mid x\in B_{r}(p)\cap H,\ -h<y<h\right\}.}
+  In other words, at each point of its boundary, 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+   is locally the set of points located above the graph of some Lipschitz function.
+
+
+== Generalization ==
+A more general notion is that of weakly Lipschitz domains, which are domains whose boundary is locally flattable by a bilipschitz mapping. Lipschitz domains in the sense above are sometimes called strongly Lipschitz by contrast with weakly Lipschitz domains. 
+A domain 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+   is weakly Lipschitz if for every point 
+  
+    
+      
+        p
+        ∈
+        ∂
+        Ω
+        ,
+      
+    
+    {\displaystyle p\in \partial \Omega ,}
+   there exists a radius 
+  
+    
+      
+        r
+        >
+        0
+      
+    
+    {\displaystyle r>0}
+   and a map 
+  
+    
+      
+        
+          l
+          
+            p
+          
+        
+        :
+        
+          B
+          
+            r
+          
+        
+        (
+        p
+        )
+        →
+        Q
+      
+    
+    {\displaystyle l_{p}:B_{r}(p)\rightarrow Q}
+   such that
+
+  
+    
+      
+        
+          l
+          
+            p
+          
+        
+      
+    
+    {\displaystyle l_{p}}
+   is a bijection;
+
+  
+    
+      
+        
+          l
+          
+            p
+          
+        
+      
+    
+    {\displaystyle l_{p}}
+   and 
+  
+    
+      
+        
+          l
+          
+            p
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle l_{p}^{-1}}
+   are both Lipschitz continuous functions;
+
+  
+    
+      
+        
+          l
+          
+            p
+          
+        
+        
+          (
+          
+            ∂
+            Ω
+            ∩
+            
+              B
+              
+                r
+              
+            
+            (
+            p
+            )
+          
+          )
+        
+        =
+        
+          Q
+          
+            0
+          
+        
+        ;
+      
+    
+    {\displaystyle l_{p}\left(\partial \Omega \cap B_{r}(p)\right)=Q_{0};}
+  
+
+  
+    
+      
+        
+          l
+          
+            p
+          
+        
+        
+          (
+          
+            Ω
+            ∩
+            
+              B
+              
+                r
+              
+            
+            (
+            p
+            )
+          
+          )
+        
+        =
+        
+          Q
+          
+            +
+          
+        
+        ;
+      
+    
+    {\displaystyle l_{p}\left(\Omega \cap B_{r}(p)\right)=Q_{+};}
+  where 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+   denotes the unit ball 
+  
+    
+      
+        
+          B
+          
+            1
+          
+        
+        (
+        0
+        )
+      
+    
+    {\displaystyle B_{1}(0)}
+   in 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   and
+
+  
+    
+      
+        
+          Q
+          
+            0
+          
+        
+        :=
+        {
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        ∈
+        Q
+        ∣
+        
+          x
+          
+            n
+          
+        
+        =
+        0
+        }
+        ;
+      
+    
+    {\displaystyle Q_{0}:=\{(x_{1},\ldots ,x_{n})\in Q\mid x_{n}=0\};}
+  
+
+  
+    
+      
+        
+          Q
+          
+            +
+          
+        
+        :=
+        {
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        ∈
+        Q
+        ∣
+        
+          x
+          
+            n
+          
+        
+        >
+        0
+        }
+        .
+      
+    
+    {\displaystyle Q_{+}:=\{(x_{1},\ldots ,x_{n})\in Q\mid x_{n}>0\}.}
+  A (strongly) Lipschitz domain is always a weakly Lipschitz domain but the converse is not true. An example of weakly Lipschitz domains that fails to be a strongly Lipschitz domain is given by the two-bricks domain 
+
+
+== Applications of Lipschitz domains ==
+Many of the Sobolev embedding theorems require that the domain of study be a Lipschitz domain. Consequently, many partial differential equations and variational problems are defined on Lipschitz domains.
+
+
+== References ==
+
+Dacorogna, B. (2004). Introduction to the Calculus of Variations. Imperial College Press, London. ISBN 1-86094-508-2.
