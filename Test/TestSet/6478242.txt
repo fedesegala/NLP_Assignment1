@@ -1,8 +1,0 @@
-A helper virus is a virus that allows an otherwise-deficient coinfecting virus to replicate. These can be naturally occurring as with Hepatitis D virus, which requires Hepatitis B virus to coinfect cells in order to replicate. Helper viruses are also commonly used to replicate and spread viral vectors for gene expression and gene therapy.
-
-
-== See also ==
-Helper dependent virusVirophage
-
-
-== References ==
