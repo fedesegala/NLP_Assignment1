@@ -1,0 +1,28 @@
+Bacteria collective motion refers to the collective behavior of bacteria observed in the bacteria world.
+
+
+== Collective motion ==
+Collective motion (or collective behavior) is a common phenomenon in our daily life. From bird flocks to the human gathering, and from colonies of army ants to swimming bacteria, collective behaviors happens all the time.
+The definition of collective motion varies slightly in different researches, but the core is the same. According to Tamás Vicsek et al., collective behavior refers to the phenomenon that an individual unit’s action is dominated by the influence of the ‘‘others’’.  
+In a collective motion system, some key characteristics should be included: the units of the system should be similar to each other; the units should be moving with a nearly a constant absolute velocity and are able to change their direction; and the units in the system should be able to interact with fellow units and respond to environmental change.
+
+
+== Bacteria swimming ==
+
+The patterns of bacteria collective motion are very different from the motion pattern of an individual bacterium. When flagellated bacteria are moving in bulk liquid, where the locomotion of one individual doesn’t affect the others, this movement is called swimming. single  Escherichia coli bacterium swims in a ‘run-and-tumble’ motion.
+
+
+== Bacteria swarming ==
+At a moist surface or in a thin liquid film, flagellated bacteria will exert another pattern, which is called swarming motility. Bacteria swarming refers to a rapid cellular bacterial surface movement powered by rotating flagella. Key features of swarming bacteria are large-scale swirling and streaming motions.
+During Escherichia coli swarming, in the edge area, the density of the bacteria is the lowest; in the peak area, the cell density is the highest, followed by falloff, where the density drops, and plateau 1 and 2, where the density remains almost the same.
+
+
+== Visualization tools ==
+Many methods have been applied to visualize the collective motion of bacteria collective motion, but the most popular one is Particle image velocimetry (PIV).
+
+
+== See also ==
+Swarm intelligence
+
+
+== References ==

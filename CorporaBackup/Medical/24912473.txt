@@ -1,0 +1,27 @@
+Baby Hamster Kidney fibroblasts (BHK cells) are an adherent cell line used in molecular biology.
+The cells were derived in 1961 by I. A. Macpherson and M. G. P. Stoker. Nowadays, subclone 13 is occasionally used, which was originally derived by single-cell isolation from the kidneys of five unsexed, 1-day-old hamsters.
+
+
+== BHK and virus infection ==
+BHK-21 cells are susceptible to human adenovirus D, reovirus 3, and vesicular stomatitis virus (Indiana strain).
+BHK-21 cells are resistant to poliovirus 2 and Rabbit vesivirus (RaV). The cells are negative for reverse transcriptase, which means that they lack integral retrovirus genomes.
+
+
+== Utilization ==
+The BHK-21 cells are useful for transformations and for stable and temporary transfections. BHK cells are also used to study viral infections.
+
+
+== Recommended growth medium ==
+High-glucose DMEM
+FBS fetal bovine serum: 5% (15% when freeze)
+GLU glutamine: 1%
+PSA regular antibiotics: 1%
+Splitting: 10 by trypsin
+
+
+== References ==
+
+
+== External links ==
+Cellosaurus entry for BHK-21
+Cellosaurus entry for BHK-21 clone 13 (most used derivative)

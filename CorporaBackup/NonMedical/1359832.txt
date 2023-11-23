@@ -1,0 +1,1794 @@
+Pregeometry, and in full combinatorial pregeometry, are essentially synonyms for "matroid". They were introduced by Gian-Carlo Rota with the intention of providing a less "ineffably cacophonous" alternative term.  Also, the term combinatorial geometry, sometimes abbreviated to geometry, was intended to replace "simple matroid".  These terms are now infrequently used in the study of matroids.
+It turns out that many fundamental concepts of linear algebra – closure, independence, subspace, basis, dimension – are available in the general framework of pregeometries.
+In the branch of mathematical logic called model theory, infinite finitary matroids, there called "pregeometries" (and "geometries" if they are simple matroids), are used in the discussion of independence phenomena. The study of how pregeometries, geometries, and abstract closure operators influence the structure of first-order models is called geometric stability theory.
+
+
+== Motivation ==
+If 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   is a vector space over some field and 
+  
+    
+      
+        A
+        ⊆
+        V
+      
+    
+    {\displaystyle A\subseteq V}
+  , we define 
+  
+    
+      
+        
+          cl
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle {\text{cl}}(A)}
+   to be the set of all linear combinations of vectors from 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , also known as the span of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  . Then we have 
+  
+    
+      
+        A
+        ⊆
+        
+          cl
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle A\subseteq {\text{cl}}(A)}
+   and 
+  
+    
+      
+        
+          cl
+        
+        (
+        
+          cl
+        
+        (
+        A
+        )
+        )
+        =
+        
+          cl
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle {\text{cl}}({\text{cl}}(A))={\text{cl}}(A)}
+   and 
+  
+    
+      
+        A
+        ⊆
+        B
+        ⇒
+        
+          cl
+        
+        (
+        A
+        )
+        ⊆
+        
+          cl
+        
+        (
+        B
+        )
+      
+    
+    {\displaystyle A\subseteq B\Rightarrow {\text{cl}}(A)\subseteq {\text{cl}}(B)}
+  . The Steinitz exchange lemma is equivalent to the statement: if 
+  
+    
+      
+        b
+        ∈
+        
+          cl
+        
+        (
+        A
+        ∪
+        {
+        c
+        }
+        )
+        ∖
+        
+          cl
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle b\in {\text{cl}}(A\cup \{c\})\smallsetminus {\text{cl}}(A)}
+  , then 
+  
+    
+      
+        c
+        ∈
+        
+          cl
+        
+        (
+        A
+        ∪
+        {
+        b
+        }
+        )
+        .
+      
+    
+    {\displaystyle c\in {\text{cl}}(A\cup \{b\}).}
+  
+The linear algebra concepts of independent set, generating set, basis and dimension can all be expressed using the 
+  
+    
+      
+        
+          cl
+        
+      
+    
+    {\displaystyle {\text{cl}}}
+  -operator alone. A pregeometry is an abstraction of this situation: we start with an arbitrary set 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   and an arbitrary operator 
+  
+    
+      
+        
+          cl
+        
+      
+    
+    {\displaystyle {\text{cl}}}
+   which assigns to each subset 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   of 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   a subset 
+  
+    
+      
+        
+          cl
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle {\text{cl}}(A)}
+   of 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  , satisfying the properties above. Then we can define the "linear algebra" concepts also in this more general setting. 
+This generalized notion of dimension is very useful in model theory, where in certain situation one can argue as follows: two models with the same cardinality must have the same dimension and two models with the same dimension must be isomorphic.
+
+
+== Definitions ==
+
+
+=== Pregeometries and geometries ===
+A combinatorial pregeometry (also known as a finitary matroid) is a pair 
+  
+    
+      
+        (
+        S
+        ,
+        
+          cl
+        
+        )
+      
+    
+    {\displaystyle (S,{\text{cl}})}
+  , where 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is a set and 
+  
+    
+      
+        
+          cl
+        
+        :
+        
+          
+            P
+          
+        
+        (
+        S
+        )
+        →
+        
+          
+            P
+          
+        
+        (
+        S
+        )
+      
+    
+    {\displaystyle {\text{cl}}:{\mathcal {P}}(S)\to {\mathcal {P}}(S)}
+   (called the closure map) satisfies the following axioms. For all 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+        ∈
+        S
+      
+    
+    {\displaystyle a,b,c\in S}
+   and 
+  
+    
+      
+        A
+        ,
+        B
+        ⊆
+        S
+      
+    
+    {\displaystyle A,B\subseteq S}
+  :
+
+  
+    
+      
+        
+          cl
+        
+        :
+        (
+        
+          
+            P
+          
+        
+        (
+        S
+        )
+        ,
+        ⊆
+        )
+        →
+        (
+        
+          
+            P
+          
+        
+        (
+        S
+        )
+        ,
+        ⊆
+        )
+      
+    
+    {\displaystyle {\text{cl}}:({\mathcal {P}}(S),\subseteq )\to ({\mathcal {P}}(S),\subseteq )}
+   is monotone increasing and dominates 
+  
+    
+      
+        
+          id
+        
+      
+    
+    {\displaystyle {\text{id}}}
+   (i.e. 
+  
+    
+      
+        A
+        ⊆
+        B
+      
+    
+    {\displaystyle A\subseteq B}
+   implies 
+  
+    
+      
+        A
+        ⊆
+        
+          cl
+        
+        (
+        A
+        )
+        ⊆
+        
+          cl
+        
+        (
+        B
+        )
+      
+    
+    {\displaystyle A\subseteq {\text{cl}}(A)\subseteq {\text{cl}}(B)}
+  ) and is idempotent (i.e. 
+  
+    
+      
+        
+          cl
+        
+        (
+        
+          cl
+        
+        (
+        A
+        )
+        )
+        =
+        
+          cl
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle {\text{cl}}({\text{cl}}(A))={\text{cl}}(A)}
+  )
+Finite character: For each 
+  
+    
+      
+        a
+        ∈
+        
+          cl
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle a\in {\text{cl}}(A)}
+   there is some finite 
+  
+    
+      
+        F
+        ⊆
+        A
+      
+    
+    {\displaystyle F\subseteq A}
+   with 
+  
+    
+      
+        a
+        ∈
+        
+          cl
+        
+        (
+        F
+        )
+      
+    
+    {\displaystyle a\in {\text{cl}}(F)}
+  .
+Exchange principle: If 
+  
+    
+      
+        b
+        ∈
+        
+          cl
+        
+        (
+        A
+        ∪
+        {
+        c
+        }
+        )
+        ∖
+        
+          cl
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle b\in {\text{cl}}(A\cup \{c\})\smallsetminus {\text{cl}}(A)}
+  , then 
+  
+    
+      
+        c
+        ∈
+        
+          cl
+        
+        (
+        A
+        ∪
+        {
+        b
+        }
+        )
+      
+    
+    {\displaystyle c\in {\text{cl}}(A\cup \{b\})}
+   (and hence by monotonicity and idempotence in fact 
+  
+    
+      
+        c
+        ∈
+        
+          cl
+        
+        (
+        A
+        ∪
+        {
+        b
+        }
+        )
+        ∖
+        
+          cl
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle c\in {\text{cl}}(A\cup \{b\})\smallsetminus {\text{cl}}(A)}
+  ).Sets of the form 
+  
+    
+      
+        
+          cl
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle {\text{cl}}(A)}
+   for some 
+  
+    
+      
+        A
+        ⊆
+        S
+      
+    
+    {\displaystyle A\subseteq S}
+   are called closed. It is then clear that finite intersections of closed sets are closed and that 
+  
+    
+      
+        
+          cl
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle {\text{cl}}(A)}
+   is the smallest closed set containing 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  .
+A geometry is a pregeometry in which the closure of singletons are singletons and the closure of the empty set is the empty set.
+
+
+=== Independence, bases and dimension ===
+Given sets 
+  
+    
+      
+        A
+        ,
+        D
+        ⊆
+        S
+      
+    
+    {\displaystyle A,D\subseteq S}
+  , 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is independent over 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   if 
+  
+    
+      
+        a
+        ∉
+        
+          cl
+        
+        (
+        (
+        A
+        ∖
+        {
+        a
+        }
+        )
+        ∪
+        D
+        )
+      
+    
+    {\displaystyle a\notin {\text{cl}}((A\setminus \{a\})\cup D)}
+   for any 
+  
+    
+      
+        a
+        ∈
+        A
+      
+    
+    {\displaystyle a\in A}
+  . We say that 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is independent if it is independent over the empty set.
+A set 
+  
+    
+      
+        B
+        ⊆
+        A
+      
+    
+    {\displaystyle B\subseteq A}
+   is a basis for 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   over 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   if it is independent over 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   and 
+  
+    
+      
+        A
+        ⊆
+        
+          cl
+        
+        (
+        B
+        ∪
+        D
+        )
+      
+    
+    {\displaystyle A\subseteq {\text{cl}}(B\cup D)}
+  . 
+A basis is the same as a maximal independent subset, and using Zorn's lemma one can show that every set has a basis. Since a pregeometry satisfies the Steinitz exchange property all bases are of the same cardinality, hence we may define the  dimension of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   over 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  , written as 
+  
+    
+      
+        
+          
+            dim
+          
+          
+            D
+          
+        
+        A
+      
+    
+    {\displaystyle {\text{dim}}_{D}A}
+  , as the cardinality of any basis of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   over 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  . Again, the dimension 
+  
+    
+      
+        
+          dim
+        
+        A
+      
+    
+    {\displaystyle {\text{dim}}A}
+   of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is defined to be the dimesion over the empty set.
+The sets 
+  
+    
+      
+        A
+        ,
+        B
+      
+    
+    {\displaystyle A,B}
+   are independent over 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   if 
+  
+    
+      
+        
+          
+            dim
+          
+          
+            B
+            ∪
+            D
+          
+        
+        
+          A
+          ′
+        
+        =
+        
+          dim
+          
+            D
+          
+        
+        ⁡
+        
+          A
+          ′
+        
+      
+    
+    {\displaystyle {\text{dim}}_{B\cup D}A'=\dim _{D}A'}
+   whenever 
+  
+    
+      
+        
+          A
+          ′
+        
+      
+    
+    {\displaystyle A'}
+   is a finite subset of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  . Note that this relation is symmetric.
+
+
+=== Automorphisms and homogeneous pregeometries ===
+An automorphism of a pregeometry 
+  
+    
+      
+        (
+        S
+        ,
+        
+          cl
+        
+        )
+      
+    
+    {\displaystyle (S,{\text{cl}})}
+   is a bijection 
+  
+    
+      
+        σ
+        :
+        S
+        →
+        S
+      
+    
+    {\displaystyle \sigma :S\to S}
+   such that 
+  
+    
+      
+        σ
+        (
+        
+          cl
+        
+        (
+        X
+        )
+        )
+        =
+        
+          cl
+        
+        (
+        σ
+        (
+        X
+        )
+        )
+      
+    
+    {\displaystyle \sigma ({\text{cl}}(X))={\text{cl}}(\sigma (X))}
+   for any 
+  
+    
+      
+        X
+        ⊆
+        S
+      
+    
+    {\displaystyle X\subseteq S}
+  .
+A pregeometry 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is said to be homogeneous if for any closed 
+  
+    
+      
+        X
+        ⊆
+        S
+      
+    
+    {\displaystyle X\subseteq S}
+   and any two elements 
+  
+    
+      
+        a
+        ,
+        b
+        ∈
+        S
+        ∖
+        X
+      
+    
+    {\displaystyle a,b\in S\setminus X}
+   there is an automorphism of 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   which maps 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   to 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   and fixes 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   pointwise.
+
+
+=== The associated geometry and localizations ===
+Given a pregeometry 
+  
+    
+      
+        (
+        S
+        ,
+        
+          cl
+        
+        )
+      
+    
+    {\displaystyle (S,{\text{cl}})}
+   its associated geometry (sometimes referred in the literature as the canonical geometry) is the geometry 
+  
+    
+      
+        (
+        
+          S
+          ′
+        
+        ,
+        
+          
+            cl
+          
+          ′
+        
+        )
+      
+    
+    {\displaystyle (S',{\text{cl}}')}
+   where
+
+  
+    
+      
+        
+          S
+          ′
+        
+        =
+        {
+        
+          cl
+        
+        (
+        a
+        )
+        ∣
+        a
+        ∈
+        S
+        ∖
+        
+          cl
+        
+        (
+        ∅
+        )
+        }
+      
+    
+    {\displaystyle S'=\{{\text{cl}}(a)\mid a\in S\setminus {\text{cl}}(\varnothing )\}}
+  , and
+For any 
+  
+    
+      
+        X
+        ⊆
+        S
+      
+    
+    {\displaystyle X\subseteq S}
+  , 
+  
+    
+      
+        
+          
+            cl
+          
+          ′
+        
+        (
+        {
+        
+          cl
+        
+        (
+        a
+        )
+        ∣
+        a
+        ∈
+        X
+        }
+        )
+        =
+        {
+        
+          cl
+        
+        (
+        b
+        )
+        ∣
+        b
+        ∈
+        
+          cl
+        
+        (
+        X
+        )
+        }
+      
+    
+    {\displaystyle {\text{cl}}'(\{{\text{cl}}(a)\mid a\in X\})=\{{\text{cl}}(b)\mid b\in {\text{cl}}(X)\}}
+  Its easy to see that the associated geometry of a homogeneous pregeometry is homogeneous.
+Given 
+  
+    
+      
+        A
+        ⊆
+        S
+      
+    
+    {\displaystyle A\subseteq S}
+   the localization of 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is the pregeometry 
+  
+    
+      
+        (
+        S
+        ,
+        
+          
+            cl
+          
+          
+            A
+          
+        
+        )
+      
+    
+    {\displaystyle (S,{\text{cl}}_{A})}
+   where 
+  
+    
+      
+        
+          
+            cl
+          
+          
+            A
+          
+        
+        (
+        X
+        )
+        =
+        
+          cl
+        
+        (
+        X
+        ∪
+        A
+        )
+      
+    
+    {\displaystyle {\text{cl}}_{A}(X)={\text{cl}}(X\cup A)}
+  .
+
+
+=== Types of pregeometries ===
+The pregeometry 
+  
+    
+      
+        (
+        S
+        ,
+        
+          cl
+        
+        )
+      
+    
+    {\displaystyle (S,{\text{cl}})}
+   is said to be:
+
+trivial (or degenerate) if 
+  
+    
+      
+        
+          cl
+        
+        (
+        X
+        )
+        =
+        ⋃
+        {
+        
+          cl
+        
+        (
+        a
+        )
+        ∣
+        a
+        ∈
+        X
+        }
+      
+    
+    {\displaystyle {\text{cl}}(X)=\bigcup \{{\text{cl}}(a)\mid a\in X\}}
+   for all non-empty 
+  
+    
+      
+        X
+        ⊆
+        S
+      
+    
+    {\displaystyle X\subseteq S}
+  .
+modular if any two closed finite dimensional sets 
+  
+    
+      
+        X
+        ,
+        Y
+        ⊆
+        S
+      
+    
+    {\displaystyle X,Y\subseteq S}
+   satisfy the equation 
+  
+    
+      
+        
+          dim
+        
+        (
+        X
+        ∪
+        Y
+        )
+        =
+        
+          dim
+        
+        (
+        X
+        )
+        +
+        
+          dim
+        
+        (
+        Y
+        )
+        −
+        
+          dim
+        
+        (
+        X
+        ∩
+        Y
+        )
+      
+    
+    {\displaystyle {\text{dim}}(X\cup Y)={\text{dim}}(X)+{\text{dim}}(Y)-{\text{dim}}(X\cap Y)}
+   (or equivalently that 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   is independent of 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   over 
+  
+    
+      
+        X
+        ∩
+        Y
+      
+    
+    {\displaystyle X\cap Y}
+  ).
+locally modular if it has a localization at a singleton which is modular.
+(locally) projective if it is non-trivial and (locally) modular.
+locally finite if closures of finite sets are finite.Triviality, modularity and local modularity pass to the associated geometry and are preserved under localization.
+If 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is a locally modular homogeneous pregeometry and 
+  
+    
+      
+        a
+        ∈
+        S
+        ∖
+        
+          cl
+        
+        (
+        ∅
+        )
+      
+    
+    {\displaystyle a\in S\setminus {\text{cl}}(\varnothing )}
+   then the localization of 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   in 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   is modular.
+The geometry 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is modular if and only if whenever 
+  
+    
+      
+        a
+        ,
+        b
+        ∈
+        S
+      
+    
+    {\displaystyle a,b\in S}
+  , 
+  
+    
+      
+        A
+        ⊆
+        S
+      
+    
+    {\displaystyle A\subseteq S}
+  , 
+  
+    
+      
+        
+          dim
+        
+        {
+        a
+        ,
+        b
+        }
+        =
+        2
+      
+    
+    {\displaystyle {\text{dim}}\{a,b\}=2}
+   and 
+  
+    
+      
+        
+          
+            dim
+          
+          
+            A
+          
+        
+        {
+        a
+        ,
+        b
+        }
+        ≤
+        1
+      
+    
+    {\displaystyle {\text{dim}}_{A}\{a,b\}\leq 1}
+   then 
+  
+    
+      
+        (
+        
+          cl
+        
+        {
+        a
+        ,
+        b
+        }
+        ∩
+        
+          cl
+        
+        (
+        A
+        )
+        )
+        ∖
+        
+          cl
+        
+        (
+        ∅
+        )
+        ≠
+        ∅
+      
+    
+    {\displaystyle ({\text{cl}}\{a,b\}\cap {\text{cl}}(A))\setminus {\text{cl}}(\varnothing )\neq \varnothing }
+  .
+
+
+== Examples ==
+
+
+=== The trivial example ===
+If 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is any set we may define 
+  
+    
+      
+        
+          cl
+        
+        (
+        A
+        )
+        =
+        A
+      
+    
+    {\displaystyle {\text{cl}}(A)=A}
+   for all 
+  
+    
+      
+        A
+        ⊆
+        S
+      
+    
+    {\displaystyle A\subseteq S}
+  . This pregeometry is a trivial, homogeneous, locally finite geometry.
+
+
+=== Vector spaces and projective spaces ===
+Let 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   be a field (a division ring actually suffices) and let 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   be a vector space over 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  . Then 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   is a pregeometry where closures of sets are defined to be their span. The closed sets are the linear subspaces of 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   and the notion of dimension from linear algebra coincides with the pregeometry dimension.
+This pregeometry is homogeneous and modular. Vector spaces are considered to be the prototypical example of modularity.
+
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   is locally finite if and only if 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   is finite.
+
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   is not a geometry, as the closure of any nontrivial vector is a subspace of size at least 
+  
+    
+      
+        2
+      
+    
+    {\displaystyle 2}
+  .
+The associated geometry of a 
+  
+    
+      
+        κ
+      
+    
+    {\displaystyle \kappa }
+  -dimensional vector space over 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   is the 
+  
+    
+      
+        (
+        κ
+        −
+        1
+        )
+      
+    
+    {\displaystyle (\kappa -1)}
+  -dimensional projective space over 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  . It is easy to see that this pregeometry is a projective geometry.
+
+
+=== Affine spaces ===
+Let 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   be a 
+  
+    
+      
+        κ
+      
+    
+    {\displaystyle \kappa }
+  -dimensional affine space over a field 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  . Given a set define its closure to be its affine hull (i.e. the smallest affine subspace containing it).
+This forms a homogeneous 
+  
+    
+      
+        (
+        κ
+        +
+        1
+        )
+      
+    
+    {\displaystyle (\kappa +1)}
+  -dimensional geometry.
+An affine space is not modular (for example, if 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   and 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   are parallel lines then the formula in the definition of modularity fails). However, it is easy to check that all localizations are modular.
+
+
+=== Field extensions and transcendence degree ===
+Let 
+  
+    
+      
+        L
+        
+          /
+        
+        K
+      
+    
+    {\displaystyle L/K}
+   be a field extension. The set 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   becomes a pregeometry if we define 
+  
+    
+      
+        
+          cl
+        
+        (
+        A
+        )
+        =
+        {
+        x
+        ∈
+        L
+        :
+        x
+        
+           is algebraic over 
+        
+        K
+        (
+        A
+        )
+        }
+      
+    
+    {\displaystyle {\text{cl}}(A)=\{x\in L:x{\text{ is algebraic over }}K(A)\}}
+  for 
+  
+    
+      
+        A
+        ⊆
+        L
+      
+    
+    {\displaystyle A\subseteq L}
+  .  The set 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is independent in this pregeometry if and only if it is algebraically independent over 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  . The dimension of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   coincides with the transcendence degree 
+  
+    
+      
+        
+          trdeg
+        
+        (
+        K
+        (
+        A
+        )
+        
+          /
+        
+        K
+        )
+      
+    
+    {\displaystyle {\text{trdeg}}(K(A)/K)}
+  .
+In model theory, the case of 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   being algebraically closed and 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   its prime field is especially important.
+While vector spaces are modular and affine spaces are "almost" modular (i.e. everywhere locally modular), algebraically closed fields are examples of the other extremity, not being even locally modular (i.e. none of the localizations is modular).
+
+
+=== Strongly minimal sets in model theory ===
+Given a countable first-order language L and an L-structure M, any definable subset D of M that is strongly minimal gives rise to a pregeometry on the set D. The closure operator here is given by the algebraic closure in the model-theoretic sense.
+A model of a strongly minimal theory is determined up to isomorphism by its dimension as a pregeometry; this fact is used in the proof of Morley's categoricity theorem.
+In minimal sets over stable theories the independence relation coincides with the notion of forking independence.
+
+
+== References ==
+H.H. Crapo and G.-C. Rota (1970),  On the Foundations of Combinatorial Theory: Combinatorial Geometries.  M.I.T. Press, Cambridge, Mass.
+Pillay, Anand (1996),  Geometric Stability Theory. Oxford Logic Guides.  Oxford University Press.
+Casanovas, Enrique (2008-11-11). "Pregeometries and minimal types" (PDF).

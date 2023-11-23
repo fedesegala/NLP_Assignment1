@@ -1,0 +1,12 @@
+Oncogene addiction is a process in which cancers with genetic, epigenetic, or chromosomal irregularities become dependent on one or several genes for maintenance and survival. As a result, cancer cells rely on continuous signaling from these oncogenes for their survival. The term was coined in 2002 by American physician I. Bernard Weinstein.
+
+
+== Examples ==
+A prime example of a cancer that exhibits oncogene addiction is chronic myelogenous leukemia (CML), which is driven by a mutant oncogene known as the Philadelphia chromosome. CML has been called the "poster-child disease for oncogene addiction". Other examples include gastrointestinal stromal tumor, which can be addicted to the gene KIT; melanoma, which can be addicted to the gene BRAF; and non-small-cell lung carcinoma, which can be addicted to the gene EGFR.
+
+
+== Treatment ==
+Oncogene addiction can be treated by using enzyme inhibitor therapy. Examples of inhibitors that have been used to block oncogenes and disrupt oncogene addiction include imatinib, nilotinib, dasatinib, and ponatinib, among others. While initial treatment may have striking, positive results for controlling the cancer, chronic treatment often results in acquired resistance to the drugs and relapse. Oncogene inhibition typically results progression-free survival of a few months, meaning most cancer treatment ultimately relies on frontline chemotherapy. The notable exception is the success of inhibitor therapy in treating CML. Inhibitor therapy has been so successful in this disease, the average progression-free survival time is still unknown, as it has not been reached in more than ten years of followup.More recent understanding of inhibitor resistance is that inhibition of a single gene can cause the signaling pathways to rewire. This rewiring can rescue the downstream processes that signal to and maintain the cancer.
+
+
+== References ==

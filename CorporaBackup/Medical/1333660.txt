@@ -1,0 +1,32 @@
+Tripartite motif-containing protein 5 also known as RING finger protein 88 is a protein that in humans is encoded by the TRIM5 gene. The alpha isoform of this protein, TRIM5α, is a retrovirus restriction factor, which mediates a species-specific early block to retrovirus infection.
+TRIM5α is composed of 493 amino acids which is found in the cells of most primates. TRIM5α is an intrinsic immune factor important in the innate immune defense against retroviruses, along with the APOBEC family of proteins, tetherin and TRIM22.
+
+
+== Structure ==
+TRIM5α belongs to the TRIM protein family (TRIM stands for TRIpartite Motif); this family was first identified by Reddy in 1992 as a set of proteins which contain a RING type zinc finger domain, a B-box zinc binding domain, followed by a coiled-coil region. TRIM5α bears the C-terminal PRY-SPRY or B30.2 domain in addition to the other domains.
+
+
+== Function and means of action ==
+When a retrovirus enters the host cell cytosol, the retroviral capsid was previously believed to undergo uncoating, though this (the complete uncoating theory) is now doubted; rather the true picture is thought to be that capsid uncoating does indeed take place in the cytosol but that it is a process which takes place progressively as the capsid gets closer and closer to the nucleus, though the uncoating process usually, but not always, completes in the nucleus. Further, the viral genome in the capsid is reverse transcribed inside the viral capsid to enable the production of daughter virions.
+TRIM5α is present in the cytosol. It recognizes motifs within viral capsid proteins, which causes the TRIM5α to smother the (not yet uncoated) capsid in a reticulatory way so as to form a repeating regular hexagonal net, two sides of each hexagon being made up of two spokes of a three-way hub and spoke trimer and consequently to interfere with the viral capsid uncoating process, thereby preventing (1) transport of the viral genome to the host cell nucleus and (2) successful reverse transcription. The exact mechanism of action has not been shown conclusively, but capsid protein from restricted viruses (that is viruses which are the subject of TRIM5α intervention) is removed by proteasome-dependent degradation. The TRIM5α, once formed into its highly regular reticulatory net recruits ubiquitin for this purpose, which, in turn engages the proteasome.The involvement of other cellular proteins in the inhibition mediated by TRIM5α is suspected but as yet not demonstrated. However, Cyclophilin A is important for the inhibition of HIV-1 by TRIM5α in Old World monkey species.The "specificity" of restriction, that is, whether a given retrovirus can be targeted by TRIM5α, is entirely determined by the amino acid sequence of the C-terminal domain of the protein, called the B30.2/PRY-SPRY domain. Amino acid 332, which occurs within this domain, seems to play a critical role in determining the specificity of retrovirus restriction.TRIM5α may have played a critical role in the human immune defense system about 4 million years ago, when the retrovirus PtERV1 was infecting the ancestors of modern chimpanzees. While no trace of PtERV1 has yet been found in the human genome, about 130 traces of PtERV1 DNA have been found in the genome of modern chimpanzees. After recreating part of the PtERV1 retrovirus, it was reported that TRIM5α prevents the virus from entering human cells in vitro. While this cellular defense mechanism may have been very useful 4 million years ago when facing a PtERV1 epidemic, it has the side effect of leaving cells more susceptible to attack by the HIV-1 retrovirus.  Recently, doubt has been cast over these conclusions.  By using a PtERV1 capsid, which produces higher titer virus-like particles, Perez-Caballero et al. reported that PtERV1 is not restricted by either human or chimpanzee TRIM5α.
+
+
+== Clinical significance ==
+Rhesus macaques, a species of Old World monkeys, appeared to be almost completely resistant to HIV-1, the virus that causes AIDS in humans. The Rhesus macaques version of TRIM5α was very quick and had a high enough affinity to the incoming HIV capsule that it could bind and degrade it quickly so that the virus was neutralized.
+Humans also have a TRIM5α, but it is not well enough tuned to mediate a sufficient response. However, the human version of TRIM5α can inhibit strains of the murine leukemia virus (MLV) as well as equine infectious anemia virus (EIAV).Prior to the discovery of TRIM5α as an antiviral protein, the inhibition phenotype had been described and coined Ref1 (in human cells) and Lv1 (in monkey cells). This terminology is now largely abandoned.
+A related protein, named TRIMCyp (or TRIM5-CypA), was isolated in the owl monkey, a species of New World monkey, and shown to potently inhibit infection by HIV-1.  A similar protein has arisen independently in Old World monkeys and has been identified in several species of macaque.It was recently described that interferon-α-mediated stimulation of the immunoproteasome enables human TRIM5α for effective capsid-dependent inhibition of HIV-1 DNA synthesis and infection.
+
+
+== Notes and references ==
+
+
+== External links ==
+"UniProtKB/Swiss-Prot entry Q587N7 (TRIM5_CERAE) Tripartite motif-containing protein 5". Swiss Institute of Bioinformatics. Retrieved 2008-02-19.
+"NCBI Sequence Viewer v2.0". National Center for Biotechnology Information. Retrieved 2008-02-19.
+Minkel JR (2007-06-21). "Defense against Ancient Virus Opened Door to HIV". Scientific American. Retrieved 2008-02-19.
+Hopkin M (2007-06-26). "Access : Ancient disease resistance made us vulnerable to HIV". Nature News. doi:10.1038/news070618-15. S2CID 84816126. Retrieved 2008-02-19.
+Overview of all the structural information available in the PDB for UniProt: Q9C035 (Tripartite motif-containing protein 5) at the PDBe-KB.
+
+
+== See also ==
+Peptidylprolyl isomerase A

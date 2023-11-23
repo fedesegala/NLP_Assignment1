@@ -1,0 +1,12 @@
+Pseudotyping is the process of producing viruses or viral vectors in combination with foreign viral envelope proteins. The result is a pseudotyped virus particle, also called a pseudovirus. With this method, the foreign viral envelope proteins can be used to alter host tropism or increase or decrease the stability of the virus particles. Pseudotyped particles do not carry the genetic material to produce additional viral envelope proteins, so the phenotypic changes cannot be passed on to progeny viral particles. In some cases, the inability to produce viral envelope proteins renders the pseudovirus replication incompetent. In this way, the properties of dangerous viruses can be studied in a lower risk setting.Pseudotyping allows one to control the expression of envelope proteins. A frequently used protein is the glycoprotein G (VSV-G) from the Vesicular stomatitis virus (VSV) which mediates entry via the LDL receptor. Envelope proteins incorporated into the pseudovirus allow the virus to readily enter different cell types with the corresponding host receptor. 
+
+
+== Vaccine development ==
+Pseudotyped virus can be used to vaccinate animals against proteins expressed on the envelope of the virion. This approach has been used to produce vaccine candidates against HIV, Nipah henipavirus, Rabies lyssavirus, SARS-CoV, Zaire ebolavirus,  and SARS-CoV-2. Recombinant vesicular stomatitis virus–Zaire Ebola virus (rVSV-ZEBOV) was created by the Public Health Agency of Canada (PHAC) and is currently licensed in the European Union and United States for the prevention of Ebolavirus Disease (EVD) caused by Zaire ebolavirus.
+
+
+== Serological testing ==
+Pseudotyped viruses, especially pseudotyped viruses carrying a recombinant luciferase gene (rLuc), can be used to test whether a treatment can protect host cells infection. For example, blood is drawn from an animal with serological immunity to a virus. A separate pseudovirus is generated with an envelope protein from the virus that the animal has immunity to. The pseudovirus is further engineered to contain a gene for luciferase. When the blood drawn from the animal is mixed with the pseudovirus, the protective antibodies bind and neutralize the introduced envelope protein. In cell culture, neutralized pseudoviruses will be prevented from infecting cells and producing the luminescent reporter gene product. When analysed, cell culture samples where an effective inhibitor of the virus is present will have reduced luminescence.
+
+
+== References ==

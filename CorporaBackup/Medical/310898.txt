@@ -1,0 +1,82 @@
+Croup, also known as laryngotracheobronchitis, is a type of respiratory infection that is usually caused by a virus. The infection leads to swelling inside the trachea, which interferes with normal breathing and produces the classic symptoms of "barking/brassy" cough, inspiratory stridor and a hoarse voice. Fever and runny nose may also be present. These symptoms may be mild, moderate, or severe. Often it starts or is worse at night and normally lasts one to two days.Croup can be caused by a number of viruses including parainfluenza and influenza virus. Rarely is it due to a bacterial infection. Croup is typically diagnosed based on signs and symptoms after potentially more severe causes, such as epiglottitis or an airway foreign body, have been ruled out. Further investigations, such as blood tests, X-rays and cultures, are usually not needed.Many cases of croup are preventable by immunization for influenza and diphtheria. Most cases of croup are mild and the patient can be treated at home with supportive care. Croup is usually treated with a single dose of steroids by mouth. In more severe cases inhaled epinephrine may also be used. Hospitalization is required in one to five percent of cases.Croup is a relatively common condition that affects about 15% of children at some point. It most commonly occurs between six months and five years of age but may rarely be seen in children as old as fifteen. It is slightly more common in males than females. It occurs most often in autumn. Before vaccination, croup was frequently caused by diphtheria and was often fatal. This cause is now very rare in the Western world due to the success of the diphtheria vaccine.
+
+
+== Signs and symptoms ==
+
+Croup is characterized by a "barking" cough, stridor, hoarseness, and difficult breathing which usually worsens at night. The "barking" cough is often described as resembling the call of a sea lion.  The stridor is worsened by agitation or crying, and if it can be heard at rest, it may indicate critical narrowing of the airways. As croup worsens, stridor may decrease considerably.Other symptoms include fever, coryza (symptoms typical of the common cold), and indrawing of the chest wall–known as Hoover's sign.  Drooling or a very sick appearance can indicate other medical conditions, such as epiglottitis or tracheitis.
+
+
+== Causes ==
+Croup is usually deemed to be due to a viral infection. Others use the term more broadly, to include acute laryngotracheitis (laryngitis and tracheitis together), spasmodic croup, laryngeal diphtheria, bacterial tracheitis, laryngotracheobronchitis, and laryngotracheobronchopneumonitis. The first two conditions involve a viral infection and are generally milder with respect to symptomatology; the last four are due to bacterial infection and are usually of greater severity.
+
+
+=== Viral ===
+Viral croup or acute laryngotracheitis is most commonly caused by parainfluenza virus (a member of the paramyxovirus family), primarily types 1 and 2, in 75% of cases. Other viral causes include influenza A and B, measles, adenovirus and respiratory syncytial virus (RSV). Spasmodic croup is caused by the same group of viruses as acute laryngotracheitis, but lacks the usual signs of infection (such as fever, sore throat, and increased white blood cell count).  Treatment, and response to treatment, are also similar.
+
+
+=== Bacteria and cocci ===
+Croup caused by a bacterial infection is rare. Bacterial croup may be divided into laryngeal diphtheria, bacterial tracheitis, laryngotracheobronchitis, and laryngotracheobronchopneumonitis.  Laryngeal diphtheria is due to Corynebacterium diphtheriae while bacterial tracheitis, laryngotracheobronchitis, and laryngotracheobronchopneumonitis are usually due to a primary viral infection with secondary bacterial growth.  The most common cocci implicated are Staphylococcus aureus and Streptococcus pneumoniae, while the most common bacteria are Haemophilus influenzae, and Moraxella catarrhalis.
+
+
+== Pathophysiology ==
+The viral infection that causes croup leads to swelling of the larynx, trachea, and large bronchi due to infiltration of white blood cells (especially histiocytes, lymphocytes, plasma cells, and neutrophils). Swelling produces airway obstruction which, when significant, leads to dramatically increased work of breathing and the characteristic turbulent, noisy airflow known as stridor.
+
+
+== Diagnosis ==
+Croup is typically diagnosed based on signs and symptoms. The first step is to exclude other obstructive conditions of the upper airway, especially epiglottitis, an airway foreign body, subglottic stenosis, angioedema, retropharyngeal abscess, and bacterial tracheitis.A frontal X-ray of the neck is not routinely performed, but if it is done, it may show a characteristic narrowing of the trachea, called the steeple sign, because of the subglottic stenosis, which resembles a steeple in shape.  The steeple sign is suggestive of the diagnosis, but is absent in half of cases.Other investigations (such as blood tests and viral culture) are discouraged, as they may cause unnecessary agitation and thus worsen the stress on the compromised airway. While viral cultures, obtained via nasopharyngeal aspiration, can be used to confirm the exact cause, these are usually restricted to research settings. Bacterial infection should be considered if a person does not improve with standard treatment, at which point further investigations may be indicated.
+
+
+=== Severity ===
+The most commonly used system for classifying the severity of croup is the Westley score. It is primarily used for research purposes rather than in clinical practice. It is the sum of points assigned for five factors: level of consciousness, cyanosis, stridor, air entry, and retractions. The points given for each factor is listed in the adjacent table, and the final score ranges from 0 to 17.
+A total score of ≤ 2 indicates mild croup. The characteristic barking cough and hoarseness may be present, but there is no stridor at rest.
+A total score of 3–5 is classified as moderate croup.  It presents with easily heard stridor, but with few other signs.
+A total score of 6–11 is severe croup.  It also presents with obvious stridor, but also features marked chest wall indrawing.
+A total score of ≥ 12 indicates impending respiratory failure.  The barking cough and stridor may no longer be prominent at this stage.85% of children presenting to the emergency department have mild disease; severe croup is rare (<1%).
+
+
+== Prevention ==
+Croup is contagious during the first few days of the infection. Basic hygiene including hand washing can prevent transmission. There are no vaccines that have been developed to prevent croup, however, many cases of croup have been prevented by immunization for influenza and diphtheria. At one time, croup referred to a diphtherial disease, but with vaccination, diphtheria is now rare in the developed world.
+
+
+== Treatment ==
+Most children with croup have mild symptoms and supportive care at home is effective. For children with moderate to severe croup, treatment with corticosteroids and nebulized epinephrine may be suggested. Steroids are given routinely, with epinephrine used in severe cases. Children with oxygen saturation less than 92% should receive oxygen, and those with severe croup may be hospitalized for observation. In very rare severe cases of croup that result in respiratory failure, emergency intubation and ventilation may be required. With treatment, less than 0.2% of children require endotracheal intubation. Since croup is usually a viral disease, antibiotics are not used unless secondary bacterial infection is suspected. The use of cough medicines, which usually contain dextromethorphan or guaifenesin, are also discouraged.
+
+
+=== Supportive care ===
+Supportive care for children with croup includes resting and keeping the child hydrated. Infections that are mild are suggested to be treated at home. Croup is contagious so washing hands is important. Children with croup should generally be kept as calm as possible. Over the counter medications for pain and fever may be helpful to keep the child comfortable. There is some evidence that cool or warm mist may be helpful, however, the effectiveness of this approach is not clear. If the child is showing signs of distress while breathing (inspiratory stridor, working hard to breathe, blue (or blue-ish) coloured lips, or decrease in the level of alertness), immediate medical evaluation by a doctor is required.
+
+
+=== Steroids ===
+Corticosteroids, such as dexamethasone and budesonide, have been shown to improve outcomes in children with all severities of croup, however, the benefits may be delayed. Significant relief may be obtained as early as two hours after administration. While effective when given by injection, or by inhalation, giving the medication by mouth is preferred. A single dose is usually all that is required, and is generally considered to be quite safe. Dexamethasone at doses of  0.15, 0.3 and 0.6 mg/kg appear to be all equally effective.
+
+
+=== Epinephrine ===
+Moderate to severe croup (for example, in the case of severe stridor) may be improved temporarily with nebulized epinephrine. While epinephrine typically produces a reduction in croup severity within 10–30 minutes, the benefits are short-lived and last for only about 2 hours. If the condition remains improved for 2–4 hours after treatment and no other complications arise, the child is typically discharged from the hospital. Epinephrine treatment is associated with potential adverse effects (usually related to the dose of epinephrine) including tachycardia, arrhythmias, and hypertension.
+
+
+=== Oxygen ===
+More severe cases of croup may require treatment with oxygen. If oxygen is needed, "blow-by" administration (holding an oxygen source near the child's face) is recommended, as it causes less agitation than use of a mask.
+
+
+=== Other ===
+While other treatments for croup have been studied, none has sufficient evidence to support its use.  There is tentative evidence that breathing heliox (a mixture of helium and oxygen) to decrease the work of breathing is useful in those with severe disease, however, there is uncertainty in the effectiveness and the potential adverse effects and/or side effects are not well known.  In cases of possible secondary bacterial infection, the antibiotics vancomycin and cefotaxime are recommended. In severe cases associated with influenza A or B infections, the antiviral neuraminidase inhibitors may be administered.
+
+
+== Prognosis ==
+Viral croup is usually a self-limiting disease, with half of cases resolving in a day and 80% of cases in two days. It can very rarely result in death from respiratory failure and/or cardiac arrest.  Symptoms usually improve within two days, but may last for up to seven days. Other uncommon complications include bacterial tracheitis, pneumonia, and pulmonary edema.
+
+
+== Epidemiology ==
+Croup affects about 15% of children, and usually presents between the ages of 6 months and 5–6 years. It accounts for about 5% of hospital admissions in this population. In rare cases, it may occur in children as young as 3 months and as old as 15 years. Males are affected 50% more frequently than are females, and there is an increased prevalence in autumn.
+
+
+== History ==
+The word croup comes from the Early Modern English verb croup, meaning "to cry hoarsely." The noun describing the disease originated in southeastern Scotland and became widespread after Edinburgh physician Francis Home published the 1765 treatise An Inquiry into the Nature, Cause, and Cure of the Croup.Diphtheritic croup has been known since the time of Homer's ancient Greece, and it was not until 1826 that viral croup was differentiated from croup due to diphtheria by Bretonneau. Viral croup was then called "faux-croup" by the French and often called "false croup" in English, as "croup" or "true croup" then most often referred to the disease caused by the diphtheria bacterium. False croup has also been known as pseudo croup or spasmodic croup. Croup due to diphtheria has become nearly unknown in affluent countries in modern times due to the advent of effective immunization.One famous fatality of croup was Napoleon's designated heir, Napoléon Charles Bonaparte. His death in 1807 left Napoleon without an heir and contributed to his decision to divorce from his wife, the Empress Josephine de Beauharnais.
+
+
+== References ==
+
+
+== External links ==
+
+"Croup". MedlinePlus. U.S. National Library of Medicine.

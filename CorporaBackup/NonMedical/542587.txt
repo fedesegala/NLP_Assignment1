@@ -1,0 +1,18 @@
+In geometry, coaxial means that several three-dimensional linear or planar forms share a common axis. The two-dimensional analog is concentric.
+Common examples:
+A coaxial cable is a three-dimensional linear structure. It has a wire conductor in the centre (D), a circumferential outer conductor (B), and an insulating medium called the dielectric (C) separating these two conductors. The outer conductor is usually sheathed in a protective PVC outer jacket (A). All these have a common axis.
+The dimension and material of the conductors and insulation determine the cable's characteristic impedance and attenuation at various frequencies.
+Coaxial rotors are a three-dimensional planar structure: a pair of helicopter rotors (wings) mounted one above the other on concentric shafts, with the same axis of rotation (but turning in opposite directions).
+In loudspeaker design, coaxial speakers are a loudspeaker system in which the individual drivers are mounted close to one another on the same axis, and thus radiate sound along the same axis and roughly from the same point.
+A coaxial weapon mount places two weapons on roughly the same axis – as the weapons are usually side-by-side or one on top of the other, and thus oriented in parallel directions – they are technically par-axial rather than coaxial, however the distances involved mean that they are effectively coaxial as far as the operator is concerned.
+
+
+== See also ==
+Orthogonal
+Perpendicular
+
+
+== References ==
+
+
+== External links ==

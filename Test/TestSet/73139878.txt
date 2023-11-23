@@ -1,0 +1,157 @@
+The multicover bifiltration is a two-parameter sequence of nested topological spaces derived from the covering of a finite set in a metric space by growing metric balls. It is a multidimensional extension of the offset filtration that captures density information about the underlying data set by filtering the points of the offsets at each index according to how many balls cover each point. The multicover bifiltration has been an object of study within multidimensional persistent homology and topological data analysis.
+
+
+== Definition ==
+Following the notation of Corbet et al. (2022), given a finite set 
+  
+    
+      
+        A
+        ⊂
+        
+          
+            R
+          
+          
+            d
+          
+        
+      
+    
+    {\displaystyle A\subset \mathbb {R} ^{d}}
+  , the multicover bifiltration on 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is a two-parameter filtration indexed by 
+  
+    
+      
+        
+          R
+        
+        ×
+        
+          
+            N
+          
+          
+            op
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} \times \mathbb {N} ^{\text{op}}}
+   defined index-wise as 
+  
+    
+      
+        
+          Cov
+          
+            r
+            ,
+            k
+          
+        
+        :=
+        {
+        b
+        ∈
+        
+          
+            R
+          
+          
+            d
+          
+        
+        :
+        
+          |
+        
+        
+          |
+        
+        b
+        −
+        a
+        
+          |
+        
+        
+          |
+        
+        ≤
+        r
+        
+           for at least 
+        
+        k
+        
+           points 
+        
+        a
+        ∈
+        A
+        }
+      
+    
+    {\displaystyle \operatorname {Cov} _{r,k}:=\{b\in \mathbb {R} ^{d}:||b-a||\leq r{\text{ for at least }}k{\text{ points }}a\in A\}}
+  , where 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   denotes the non-negative integers. Note that when 
+  
+    
+      
+        k
+        =
+        1
+      
+    
+    {\displaystyle k=1}
+   is fixed we recover the Offset Filtration.
+
+
+== Properties ==
+The multicover bifiltration admits a polynomially-sized simplicial model that is topologically equivalent, called the "rhomboid bifiltration." The rhomboid bifiltration is an extension of the rhomboid tiling introduced by Edelsbrunner and Osang in 2021 for computing the persistent homology of the multicover bifiltration along one axis of the indexing set. The rhomboid bifiltration on a set of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   points in Euclidean space can be computed in time 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            5
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{5})}
+  .
+The multicover bifiltration is also topologically equivalent to a multicover nerve construction due to Sheehy called the subdivision-Čech bifiltration, which considers the barycentric subdivision on the nerve of the offsets. In particular, the subdivision-Čech and multicover bifiltrations are weakly equivalent, and hence have isomorphic homology modules in all dimensions. However, the subdivision-Čech bifiltration has an exponential number of simplices in the size of the data set, and hence is not amenable to efficient direct computations.The multicover bifiltration is also weakly equivalent to the subdivision-Čech bifiltration, though the latter has an exponential number of simplices.
+
+
+== References ==

@@ -1,0 +1,14 @@
+There are several models of the Branching order of bacterial phyla, one of these was proposed in 2001 by Gupta based on conserved indels or protein, termed "protein signatures", an alternative approach to molecular phylogeny. Some problematic exceptions and conflicts are present to these conserved indels, however, they are in agreement with several groupings of classes and phyla. One feature of the cladogram obtained with this method is the clustering of cell wall morphology (with some exceptions) from monoderms to transitional diderms to traditional diderms.In the cladogram below, yellow=pseudopeptidoglycan monoderms (Gram variable), red=thick peptidoglycan monoderms (Gram positive), blue=thin peptidoglycan diderms (Gram negative), green=atypical, see note in parentheses).
+
+
+== See also ==
+Branching order of bacterial phyla (Woese, 1987)
+Branching order of bacterial phyla (Rappe and Giovanoni, 2003)
+Branching order of bacterial phyla after ARB Silva Living Tree
+Branching order of bacterial phyla (Ciccarelli et al., 2006)
+Branching order of bacterial phyla (Battistuzzi et al.,2004)
+Branching order of bacterial phyla (Gupta, 2001)
+Branching order of bacterial phyla (Cavalier-Smith, 2002)
+
+
+== References ==

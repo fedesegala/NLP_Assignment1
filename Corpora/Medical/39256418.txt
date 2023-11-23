@@ -1,0 +1,45 @@
+The human virome is the total collection of viruses in and on the human body. Viruses in the human body may infect both human cells and other microbes such as bacteria (as with bacteriophages). Some viruses cause disease, while others may be asymptomatic. Certain viruses are also integrated into the human genome as proviruses or endogenous viral elements.Viruses evolve rapidly and hence the human virome changes constantly. Every human being has a unique virome with a unique balance of species. Lifestyle, age, geographic location, and even the season of the year can affect an individual's exposure to viruses, and one's susceptibility to any disease that might be caused by those viruses is also affected by pre-existing immunity and both viral and human genetics.The human virome is far from being completely explored and new viruses are discovered frequently. Unlike the roughly 40 trillion bacteria in a typical human microbiome, an estimate of the number of viral particles in a healthy adult human is not yet available, although virions generally outnumber individual bacteria 10:1 in nature. Studying the virome is thought to provide an understanding of microbes in general and how they affect human health and disease.
+
+
+== Methods and tools ==
+Multiple methods are available for the isolation and study of human viruses:
+
+Deep sequencing is a rapid DNA sequencing technique that is useful for characterizing virome richness, stability, gene function and the association with disease phenotypes. This technology creates large amounts of sequence information and is capable of detecting rare components of a microbial community. Current methods combining the removal of human and bacterial DNA from samples, large scale sequencing, and bioinformatics are very efficient in the identification of unknown viruses. Unlike other discovery methods, viruses do not need to be grown in cell cultures. Without any prior knowledge of genome sequence or growth methods, novel viruses can be discovered. Therefore, deep sequencing is well suited for rapid identification of an unknown or unexpected viruses involved in a disease outbreak or associated with conditions not thought to be caused by viruses. Deep sequencing also allows for large scale screenings with minimal hands on effort. A systematic exploration of the viruses that infect humans (the human virome) is important and feasible with these methods.
+Polymerase chain reaction is a tool to amplify and detect specific DNA sequences. It can be used to help characterize the virome, but it is limited by the need for at least partial DNA sequence information.
+The human metagenome includes all organisms that live on or in the human body. Viruses contribute to the metagenome and establish chronic infection that infest chromosomes; this method will formulate new estimate of the number of genes that confer susceptibility to a given virus and specify alleles for some viruses.
+Large scale antibody studies with ELISA using donated blood could help to determine human exposure to particular viruses in different geographic regions.
+
+
+== Diversity of human viruses ==
+The human virome is not stable and may change over time. In fact, new viruses are discovered constantly. With an increasing number of known viruses, diagnosis and treatment of novel viral-associated conditions will become easier as well. Studying the virome could help improve drug development and limit antibiotic usage.One of the first studies that used high-throughput DNA sequencing to describe the diversity of eukaryotic dsDNA viruses in normal individuals included 706 samples from 102 subjects. This study detected an average of 5.5 viral genera in each individual and these viruses included herpesviruses, papillomaviruses, polyomaviruses, adenoviruses, anelloviruses, parvoviruses, and circoviruses.
+Each individual had a distinct viral profile, demonstrating the high interpersonal diversity of the virome. One to 15 viral genera (average 5.5) were detected  in 92% of the 102 individuals sampled (Figure 2). Figure 3 illustrates the viromes of the 102 individuals defined by sampling up to five major body habitats, showing that a broad range of viruses was detected in healthy people (Figure 3).The 102 individuals carried seven distinct families of human DNA viruses (Figure 4A). Sequences were detected predominantly in the nose and skin, similarity to 17 papillomavirus genera(Figure 4B). Roseoloviruses, predominantly HHV-7 and to a lesser extent HHV-6, were present among 98% of the individuals who provided mouth samples.In addition, the same viruses were prevalent in multiple body habitats within individuals. For instance, the beta- and gamma-papillomaviruses were the viruses most commonly found in the skin and the nose (anterior nares; see Figure 4A,B), which may reflect proximity and similarities in microenvironments that support infection with these viruses.
+
+
+=== The human blood virome ===
+Whole-genome sequencing data of blood from 8,240 individuals without any clear infectious disease revealed 94 different viruses in 42% of the study participants. The sequences included 19 human DNA viruses, proviruses and RNA viruses (herpesviruses, anelloviruses, papillomaviruses, three polyomaviruses, adenovirus, HIV, HTLV, hepatitis B, hepatitis C, parvovirus B19, and influenza virus). Of possible relevance to transfusion medicine, this study  identified Merkel cell polyomavirus in 49 individuals, papillomavirus in blood of 13 individuals, parvovirus B19 in 6 individuals, and the presence of herpesvirus 8 in 3 individuals.
+
+
+== Impact on human health ==
+The human virome is a part of human bodies and will not always cause harm. Many latent and asymptomatic viruses are present in the human body all the time. Viruses infect all life forms; therefore the bacterial, plant, and animal cells and material in the gut also carry viruses. When viruses cause harm by infecting the cells in the body, a symptomatic disease may develop. 
+Contrary to common belief, harmful viruses may be in the minority, compared to benign viruses in the human body. It is much harder to identify viruses than it is to identify bacteria, therefore the understanding of benign viruses in the human body is very rudimentary. The collection of all viruses in the human body which do not cause disease in healthy individuals is often referred to as the 'healthy human virome'. The healthy virome consists of three distinct components: (i) viruses that systematically enter the human organism, primarily, with food, but do not replicate in humans; (ii) viruses infecting prokaryotes and, possibly, unicellular eukaryotes that comprise the healthy human microbiome; and (iii) viruses that actually replicate and persist in human cells.The health effects of viruses on an individual are dependent on the individual's immune system.
+
+
+=== The hygiene hypothesis ===
+Recent research has linked the emerging idea of the hygiene hypothesis to viruses. This hypothesis attempts to explain some of the high incidences of diseases such as asthma and eczema in the Western world by Western societies' overuse of antibiotic and antiviral agents. 
+This overuse potentially disrupts not only the bacteria of the gut but also the viruses that have long lived in harmony with the human body and now play a role in regulation of human health. 
+The hypothesis generally refers to microorganisms, but is now being extended to include airborne viruses and common viral infections of childhood that are becoming increasingly less common.
+
+
+=== Effect of skin location ===
+Diverse viruses colonize the human skin and differ by skin site. This skin virome includes human viruses (i.e. human papillomavirus) and bacteriophages (bacterial viruses) that infect commensal skin bacteria such as Staphylococci.Virus communities differ by moisture levels and degree of protection from the external environment.
+
+
+=== Effect of diet ===
+Many studies have demonstrated that the bacteria and viruses in the human gut (the gut microbiome) can be altered by changes in diet. One study that focused on bacterial viruses, called bacteriophages, in the gut found a significant relationship between diet and the type of bacteriophages present. This was done by comparing the distance between bacteriophage gut communities in individuals both before and after they started a controlled diet. The results were that the distance between the bacteriophage gut communities of individuals on the same diet was significantly smaller at the end of their dietary treatment than it was at the start, while there was no increase in community similarity for individuals on different diets over time.
+
+
+== References ==
+
+
+== Further reading ==
+David Pride, "The Viruses inside You: Trillions of viruses make up the human virome. Some can harm us, but some could help us, if we can figure out how to use them", Scientific American, vol. 323, no. 6 (December 2020), pp. 46–53.

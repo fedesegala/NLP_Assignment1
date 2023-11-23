@@ -1,0 +1,54 @@
+Prone position () is a body position in which the person lies flat with the chest down and the back up. In anatomical terms of location, the dorsal side is up, and the ventral side is down. The supine position is the 180° contrast.
+
+
+== Etymology ==
+The word prone, meaning "naturally inclined to something, apt, liable," has been recorded in English since 1382; the meaning "lying face-down" was first recorded in 1578, but is also referred to as "lying down" or "going prone."
+Prone derives from the Latin pronus, meaning "bent forward, inclined to," from the adverbial form of the prefix pro- "forward." Both the original, literal, and the derived figurative sense were used in Latin, but the figurative is older in English.
+
+
+== Anatomy ==
+In anatomy, the prone position is a position of the body lying face down. It is opposed to the supine position which is face up. Using the terms defined in the anatomical position, the ventral side is down, and the dorsal side is up.
+Concerning the forearm, prone refers to that configuration where the palm of the hand is directed posteriorly, and the radius and ulna are crossed.
+Researchers observed that the expiratory reserve volume measured at relaxation volume increased from supine to prone by the factor of 0.15.
+
+
+== Shooting ==
+In competitive shooting, the prone position is the position of a shooter lying face down on the ground. It is considered the easiest and most accurate position as the ground provides extra stability.  It is one of the positions in three positions events. For many years (1932-2016), the only purely prone Olympic event was the 50 meter rifle prone; however, this has since been dropped from the Olympic program. Both men and women still have the 50 meter rifle three positions as an Olympic shooting event.
+Prone position is often used in military combat as, like in competitive shooting, the prone position provides the best accuracy and stability.
+Many first-person shooter video games also allow the player character to go into the prone position, again with similar benefits. In other types of video games where this is not a factor, such as platformers, the prone position may be used to dodge attacks or crawl under obstacles.
+
+
+=== ISSF 50 meter ===
+
+Female and male shooters shoot a .22 LR calibre ("smallbore") rifle over a course of fire of 60 shots to count in 50 minutes (when using electronic targets). These are shot after an unlimited number of sighting shots, which must be shot during the 15-minute preparation and sighting period. If necessary, an 'elimination' course of fire may be undertaken to reduce the number of shooters to the number that may fire simultaneously in a 'qualification' round. Up until 2013, each shot could score from 0 to 10 points, with no decimal points (e.g. 0,1,2,3,4,5,6,7,8,9,10, but not 3.2 or 9.8, etc.) making the maximum score for elimination or qualification round 600 points. After 2013, shots are scored as decimal values (e.g. 9.8 rather than what would have been a 9 under integer scoring), so the maximum score from a 60 shot match is 654.0.
+Up until 2018, the top eight shooters in the qualification round were selected to shoot 'shot-for-shot' in an 'Olympic' final. Prior to 2013, this consisted of ten additional shots scored to one decimal place, so the maximum possible score was 109.0. This score was then added to the score for the qualification round; this summed score was used to determine final rankings and thus medallists. Starting in the 2013 season and continuing to the beginning of the 2018 season, a new finals format was introduced, where again the top 8 shooters in the qualification round shot against each other, only this time with the qualification scored being discarded and the number of shots being raised to 24. These shots were still scored decimally, so the maximum possible score under this new format was 261.6. From January 2018, the final for this event was discarded entirely; competition rankings were determined by the score obtained in the 60 shot match only.
+
+
+=== Fullbore Target Rifle ===
+
+The non-ISSF fullbore disciplines governed by the International Confederation of Fullbore Rifle Associations (ICFRA) are exclusively shot from the prone position over distances of 300yards to 1200yards. These disciplines are popular in Commonwealth countries, and are heavily influenced by the British National Rifle Association.
+
+
+=== Biathlon ===
+
+In Biathlon, prone is one of two positions that athletes shoot from, along with standing. Shooting takes place at "knock down" targets which indicate a simple hit or miss with no scoring rings.
+
+
+=== UK ===
+In the UK, the National Smallbore Rifle Association (NSRA) governs "smallbore" shooting with .22LR calibre rifles. "Short-range" is defined as distances between 15 yards and 25 metres 'indoors'. Targets are generally outward gauging (touching a ring on the target scores the lower of the two adjacent scores), except on some of the Schools and older targets (e.g. 5 bull targets). Being indoors, no allowance is necessary for wind, light or other changes. Shots are scored as integer values from 0 to 10, with no decimal places. "Long-range" smallbore shooting is generally over either 50 yards, 50 metres or 100 yards distance outdoors. Targets vary, but generally, the ISSF 50M (scaled) is used for 50 yards or 50 metres, and a proportionally sized target is used for 100 yards. A 50-yard, 50-metre or 100-yard target is generally constructed to allow 20 shots to count, to be executed during one 'detail' of 20 minutes duration. Sighting shots are included in that time period.
+Outdoors, variables such as light, wind, temperature, humidity and mirage affect the target image and bullet trajectory. To help shooters, most ranges have wind flags placed at useful positions around the range to display the wind conditions.
+
+
+== Pilots ==
+The prone position is also used to describe the way pilots and other crew may be positioned in an aircraft; lying on their stomachs rather than seated in a normal upright position. During World War II, the bomb aimer in some bombers would be positioned this way to be better able to view the ground through a transparent panel or bubble in the nose of a bomber. Later, it was suggested that a pilot in the prone position might be more effective in some kinds of high-speed aircraft, because it would permit the pilot to withstand a greater g-force in the upward and downward direction with respect to the plane, and many speculative designs of the 1950s featured this arrangement. However, it never became mainstream, as testing revealed that the increased difficulty of operating aircraft controls in the prone position outweighed the advantages. Two examples of this approach are seen in the Savoia-Marchetti SM.93 and the Gloster Meteor F8 "Prone Pilot". Modern hang gliders are typically piloted in the prone position.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Sources ==
+
+Etymonline

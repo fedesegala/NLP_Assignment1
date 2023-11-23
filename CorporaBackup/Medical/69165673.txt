@@ -1,0 +1,49 @@
+In the management of HIV/AIDS, HIV capsid inhibitors are antiretroviral medicines that target the capsid shell of the virus. Most current antiretroviral drugs used to treat HIV do not directly target the viral capsid. These have also been termed "Capsid-targeting Antivirals", "Capsid Effectors", and "Capsid Assembly Modulators (CAMs)". Because of this, drugs that specifically inhibit the HIV capsid are being developed in order to reduce the replication of HIV, and treat infections that have become resistant to current antiretroviral therapies.
+
+
+== History and background ==
+
+
+=== HIV capsid ===
+The mechanism of HIV infection involves the transport and integration of the viral genome into the DNA of the host cell. This process involves both viral and cellular proteins which reverse transcribe the viral RNA to double-stranded DNA, and incorporate the viral DNA into the host cell genome.The capsid surrounding the viral RNA, nucleocapsids, reverse transcriptase, and integrase plays a key role in the infection process. The capsid is composed of amino- and carboxy-terminal domains that form hexameric and pentameric rings. These rings assemble to form a cone-shaped structure surrounding the viral RNA and proteins. Upon entering the cytoplasm of a host cell, the capsid goes through an unfolding process that releases the viral RNA and proteins into the cell.The uncoating process is a highly ordered multistep process in which the capsid is weakened and most or all capsid proteins are removed from the shell. Upsetting this process can have downstream effects that significantly reduce the infectivity of the virus. Because of this, capsid uncoating is a favorable target for antiretroviral medicines.
+
+
+=== HIV treatment ===
+Current drugs administered in the treatment of HIV do not target the capsid. Instead, patients are given a cocktail of reverse transcriptase inhibitors, protease inhibitors, integrase inhibitors, and entry inhibitors. These drugs have been successful on an epidemiologic and individual basis. With treatment, people infected by HIV are able to live long and healthy lives.As current treatments significantly reduce the mortality and morbidity of HIV, the disease is incurable but chronically manageable. Because patients typically need to take antiretroviral medications for the rest of their lives, long-term effects of HIV treatment are important to consider. Long term toxicological effects of antiretroviral treatments can sometimes cause secondary morbidities even when the viral count is low. Additionally, drug resistances can be acquired or transmitted due to suboptimal pharmokinetics or lack of patient adherence to treatment.
+
+
+== Therapeutic applications ==
+
+
+=== Lenacapavir ===
+Lenacapavir is a capsid inhibitor developed by Gilead Sciences. It functions by binding to the hydrophobic pocket formed by two neighboring protein subunits in the capsid shell. This bond stabilizes the capsid structure and inhibits the functional disassembly of the capsid in infected cells.Lenacapavir was approved for medical use in the European Union in August 2022, in Canada in November 2022, and in the United States in December 2022. Lenacapavir is the first capsid inhibitor to be FDA-approved for treating HIV/AIDS.
+
+
+== Research ==
+
+
+=== History ===
+In 2003, the first compound to bind the HIV-1 capsid was in reported and termed "CAP-1". Since then, over 40 molecules have been reported to inhibit HIV-1 by binding capsid, with five distinct chemotypes described. The binding pocket for Lenacapavir was first described in 2009, with the small molecule PF-3450074 (PF74) developed by Pfizer. PF74 was not developed clinically due to its fast metabolic breakdown and poor Bioavailability, but its binding pocket has been well characterized and frequently targeted.
+
+
+=== GS-CA1 ===
+GS-CA1 is an experimental small-molecule capsid inhibitor developed by Gilead Sciences. CS-CA1 and GS-6207 are analogues, with both molecules showing promising anti-HIV activity.GS-CA1 functions by binding directly to the HIV capsid. This bonding disrupts the uncoating process which inhibits both the release of viral RNA and proteins into the cytoplasm, and also inhibits the production of new capsid shells within the cell.
+
+
+=== Ebselen ===
+Ebselen was identified as a capsid inhibitor using a fluorescence assay on a library of pharmacological compounds. Ebselen covalently bonds to the C-terminal domain of the HIV-1 capsid, which inhibits the uncoating process. Ebselen shows anti-HIV activity in infected cell lines.
+
+
+=== Peptides ===
+Phage display was used to identify peptides that bind the HIV-1 capsid protein, and the most promising peptide inhibitor was the Capsid Assembly Inhibitor (CAI) peptide. CAI prevented the formation of mature capsids, but its poor permeability in cells limited its use. Other peptide inhibitors have been reported, as well as next generation inhibitors with increased stability, permeability, and antiviral activity.  These peptides interact at the C-terminal domain of the HIV-1 capsid, similar to Ebselen.
+
+
+=== Uracil-based drugs ===
+Uracil based scaffolds such as bispyrimidine dione and tetrapyrimidine dione derivatives have shown activity as HIV-1 p24 capsid inhibitors in an in vitro setting but need further exploration.
+
+
+== See also ==
+Management of HIV/AIDS
+
+
+== References ==

@@ -1,0 +1,6 @@
+A mating bridge, also known as a conjugation or population bridge, is a connection between two bacterial cells that provides a passageway for DNA in bacterial conjugation. 
+
+A mating bridge is different from a sex pilus, which is a structure made by an F+ strain bacterium in bacterial conjugation. The pili (plural) act as attachment sites that promote the binding of bacteria to each other. In this way, an F+ strain makes physical contact with an F− strain. Once contact is made, the pili shorten and thereby draw the donor and recipient cells closer together. A conjugation bridge is then formed between the two cells, which provides a passageway for DNA transfer.
+
+
+== References ==

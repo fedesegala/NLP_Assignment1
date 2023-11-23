@@ -1,0 +1,51 @@
+The bacterial capsule is a large structure common to many bacteria. It is a polysaccharide layer that lies outside the cell envelope, and is thus deemed part of the outer envelope of a bacterial cell. It is a well-organized layer, not easily washed off, and it can be the cause of various diseases.The capsule—which can be found in both gram negative and gram-positive bacteria—is different from the second lipid membrane – bacterial outer membrane, which contains lipopolysaccharides and lipoproteins and is found only in gram-negative bacteria.
+When the amorphous viscid secretion (that makes up the capsule) diffuses into the surrounding medium and remains as a loose undemarcated secretion, it is known as a slime layer. Capsule and slime layer are sometimes summarized under the term glycocalyx.
+
+
+== Composition ==
+
+Most bacterial capsules are composed of polysaccharide, but some species use other materials, such as poly-D-glutamic acid in Bacillus anthracis. Because most capsules are so tightly packed, they are difficult to stain because most standard stains cannot penetrate the capsule. To visualize encapsulated bacteria using a microscope, a sample is treated with a dark stain, such as India ink. The structure of the capsule prevents the stain from penetrating the cell. When viewed, bacterial capsules appear as a bright halo around the cell on a dark background.
+
+
+== Function ==
+The bacterial capsule serves as a shield, giving protection from toxins, and from drying out. Capsules allow adhesion to surfaces and help enable the bacteria to evade the host immune system. The water content in the capsule gives the protection against drying out.
+The capsule is considered a virulence factor because it enhances the ability of bacteria to cause disease (e.g. prevents phagocytosis). The capsule can protect cells from engulfment by eukaryotic cells, such as macrophages. A capsule-specific antibody may be required for phagocytosis to occur.  They also exclude bacterial viruses and most hydrophobic toxic materials such as detergents. Immunity to one capsule type does not result in immunity to the other types. Capsules also help cells adhere to surfaces. As a group where the capsule is present they are known as polysaccharide encapsulated bacteria or encapsulated bacteria.
+
+
+== Diversity ==
+The capsule is found most commonly among gram-negative bacteria:
+
+Escherichia coli (in some strains)
+Neisseria meningitidis
+Klebsiella pneumoniae
+Haemophilus influenzae
+Pseudomonas aeruginosa
+Salmonella
+Acinetobacter baumanniiHowever, some gram-positive bacteria may also have a capsule:
+
+Bacillus megaterium for example, synthesizes a capsule composed of polypeptide and polysaccharides.
+Bacillus anthracis
+Streptococcus pyogenes synthesizes a hyaluronic acid capsule.
+Streptococcus pneumoniae has at least 91 different capsular serotypes. These serotypes are the basis for the pneumococcal vaccines.
+Streptococcus agalactiae produces a polysaccharide capsule of nine antigenic types that all contain sialic acid (Ia, Ib, II, III, IV, V, VI, VII, VIII).
+Staphylococcus epidermidis
+Staphylococcus aureus
+Lactococcus garvieae synthesizes capsular gene clusters and some time synthesizes a hyaluronic acid capsule.The yeast Cryptococcus neoformans, though not a bacterium, has a similar capsule.Capsules too small to be seen with an ordinary microscope, such as the M protein of Streptococcus pyogenes, are called microcapsules.
+
+
+== Demonstration of capsule ==
+India ink staining: the capsule appears as a clear halo around the bacterium as the ink can't penetrate the capsule.: 87 
+Maneval's capsule stain: the capsule appears as a clear halo between the pink-stained bacterium and the bluish-grey stained background. The background stain is the acidic stain Congo red (which changes color to bluish-grey due to the pH), and the pink stain is fuchsine.
+Serological methods: Capsular material is antigenic and can be demonstrated by mixing it with a specific anticapsular serum. When examined under the microscope, the capsule appears 'swollen' due to an increase in its refractivity. This phenomenon is the basis of quellung reaction.
+
+
+== Use in vaccination ==
+Vaccination using capsular material is effective against some organisms (e.g., H. influenzae type b, S. pneumoniae, and N. meningitidis). However, polysaccharides are not highly antigenic, especially in children, so many capsular vaccines contain polysaccharides conjugated with protein carriers, such as the tetanus toxoid or diphtheria toxoid. This stimulates a much more robust immune response.
+
+
+== See also ==
+Bacterial cell structure
+Quellung reaction, a method to visualize capsule under a microscope
+
+
+== References ==

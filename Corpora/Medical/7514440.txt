@@ -1,0 +1,40 @@
+In virology, a spike protein or peplomer protein is a protein that forms a large structure known as a spike or peplomer projecting from the surface of an enveloped virus.: 29–33  The proteins are usually glycoproteins that form dimers or trimers.: 29–33  
+
+
+== History and etymology ==
+The term "peplomer" refers to an individual spike from the viral surface; collectively the layer of material at the outer surface of the virion has been referred to as the "peplos". The term is derived from the Greek peplos, "a loose outer garment", "robe or cloak", or "woman['s] mantle". Early systems of viral taxonomy, such as the Lwoff-Horne-Tournier system proposed in the 1960s, used the appearance and morphology of the "peplos" and peplomers as important characteristics for classification. More recently, the term "peplos" is considered a synonym for viral envelope.: 362 
+
+
+== Properties ==
+Spikes or peplomers are usually rod- or club-shaped projections from the viral surface. Spike proteins are membrane proteins with typically large external ectodomains, a single transmembrane domain that anchors the protein in the viral envelope, and a short tail in the interior of the virion. They may also form protein–protein interactions with other viral proteins, such as those forming the nucleocapsid.: 51–2   They are usually glycoproteins, more commonly via N-linked than O-linked glycosylation.: 33 
+
+
+== Functions ==
+Spikes typically have a role in viral entry. They may interact with cell-surface receptors located on the host cell and may have hemagglutinizing activity as a result, or in other cases they may be enzymes.: 362  For example, influenza virus has two surface proteins with these two functions, hemagglutinin and neuraminidase.: 329  The binding site for the cell-surface receptor is usually located at the tip of the spike.: 33   Many spike proteins are membrane fusion proteins. Being exposed on the surface of the virion, spike proteins can be antigens.: 362 
+
+
+== Examples ==
+Spikes or peplomers can be visible in electron micrograph images of enveloped viruses such as orthomyxoviruses, paramyxoviruses, rhabdoviruses, filoviruses, coronaviruses, bunyaviruses, arenaviruses, and retroviruses.: 33 
+
+
+=== Coronaviruses ===
+Coronaviruses exhibit coronavirus spike protein, also known as the S protein, on their surfaces; S is a class I fusion protein and is responsible for mediating viral entry as the first step in viral infection. It is highly antigenic and accounts for most antibodies produced by the immune system in response to infection. For this reason the spike protein has been the focus of development for COVID-19 vaccines in response to the COVID-19 pandemic caused by the virus SARS-CoV-2. A subgenus of the betacoronaviruses, known as embecoviruses (not including SARS-like coronaviruses), have an additional shorter surface protein known as hemagglutinin esterase.The COVID-19 pandemic necessitated identification of viral particles in electron micrographs of patient tissue samples. A number of reports misidentified normal subcellular structures as coronaviruses due to their superficial resemblance to coronavirus morphology, and because the distinctive spikes of coronaviruses are apparent by negative stain but much less visible in thin section.
+
+
+=== Influenza viruses ===
+Most influenza virus subgroups have two surface proteins described as peplomers, neuraminidase (an enzyme) and hemagglutinin (also a class I fusion protein). Some instead have a single hemagglutinin esterase protein with both functions.: 356–9 
+
+
+=== Retroviruses ===
+Retroviruses such as the human immunodeficiency virus (HIV) have surface peplomers.: 318–25  These are protein complexes formed by two proteins, gp41 and gp120, both expressed from the env gene, collectively forming a spike protein complex that mediates viral entry.
+
+
+=== Gallery ===
+
+
+== See also ==
+Viral entry
+Viral life cycle
+
+
+== References ==

@@ -1,0 +1,43 @@
+In geographic information systems (GIS) and spatial analysis, buffer analysis is the determination of a zone around a geographic feature containing locations that are within a specified distance of that feature, the buffer zone (or just buffer). A buffer is likely the most commonly used tool within the proximity analysis methods.
+
+
+== History ==
+The buffer operation has been a core part of GIS functionality since the original integrated GIS software packages of the late 1970s and early 1980s, such as ARC/INFO, Odyssey, and MOSS. Although it has been one of the most widely used GIS operations in subsequent years, in a wide variety of applications, there has been little published research on the tool itself, except for the occasional development of a more efficient algorithm.
+
+
+== Basic algorithm ==
+The fundamental method to create a buffer around a geographic feature stored in a  vector data model, with a given radius r is as follows:
+Single point: Create a circle around the point with radius r.
+Polyline, which consists of an ordered list of points (vertices) connected by straight lines. This is also used for the boundary of a polygon.Create a circle buffer around each vertex
+Create a rectangle along each line segment by creating a duplicate line segment offset the distance r perpendicular to each side.
+Merge or dissolve the rectangles and circles into a single polygon.Software implementations of the buffer operation typically use alterations of this strategy to process more efficiently and accurately.
+In Mathematics, GIS Buffer operation is a Minkowski Sum (or difference) of a geometry and a disk. Other terms used: Offsetting a Polygon.
+
+
+=== Planar vs. geodesic distance ===
+Traditional implementations assumed the buffer was being created on a planar  cartesian coordinate space (i.e., created by a map projection) using Euclidean geometry, because the mathematics and computation involved is relatively simple, which was important given the computing power available in the late 1970s. Due to the inherent distortions caused by map projections, the buffer computed this way will not be identical to one drawn on the surface of the Earth; at a local scale, the difference is negligible, but at larger scales, the error can be significant. 
+Some current software, such as Esri ArcGIS Pro, offer the option to compute buffers using geodesic distance, using a similar algorithm but calculated using spherical trigonometry, including representing the lines between vertices as great circles. Other implementations use a workaround by first reprojecting the feature to a projection that minimizes distortion in that location, then computing the planar buffer.
+
+
+=== Options ===
+GIS software may offer variations on the basic algorithm, which may be useful in different applications:
+Endcaps at the end of linear buffers are rounded by default, but may be squared off or a butt end (truncated at the final vertex).
+Side preference may be important, such as needing the buffer on only one side of a line, or on a polygon, selecting only the outer buffer or the inner buffer (sometimes called a setback).
+Variable width, in which the features in a layer may be buffered using different radii, usually given by an attribute.
+Common buffers, in which the buffers for each feature in a layer are dissolved into a single polygon. This is most commonly used when one is not concerned about which feature is near each point in space, only that a point is nearby some (anonymous) feature.
+
+
+== See also ==
+Dilation (morphology) (positive buffer)
+Erosion (morphology) (negative buffer)
+
+
+== External links ==
+OGC ST_Buffer function (PostGIS implementation)
+buffer function in turfjs
+BufferOp in JTS, the library at the foundation of many open-source GIS implementations
+v.buffer command in GRASS
+Buffer (Analysis) tool in Esri ArcGIS Pro
+
+
+== References ==

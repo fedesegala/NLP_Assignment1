@@ -1,0 +1,160 @@
+In mathematics, physics, and art, moiré patterns (UK:  MWAR-ay, US:  mwar-AY, French: [mwaʁe] ) or moiré fringes are large-scale interference patterns that can be produced when a partially opaque ruled pattern with transparent gaps is overlaid on another similar pattern. For the moiré interference pattern to appear, the two patterns must not be completely identical, but rather displaced, rotated, or have slightly different pitch.
+Moiré patterns appear in many situations. In printing, the printed pattern of dots can interfere with the image. In television and digital photography, a pattern on an object being photographed can interfere with the shape of the light sensors to generate unwanted artifacts. They are also sometimes created deliberately – in micrometers they are used to amplify the effects of very small movements.
+In physics, its manifestation is wave interference such as that seen in the double-slit experiment and the beat phenomenon in acoustics.
+
+
+== Etymology ==
+The term originates from moire (moiré in its French adjectival form), a type of textile, traditionally made of silk but now also made of cotton or synthetic fiber, with a rippled or "watered" appearance. Moire, or "watered textile", is made by pressing two layers of the textile when wet. The similar but imperfect spacing of the threads creates a characteristic pattern which remains after the fabric dries.
+In French, the noun moire is in use from the 17th century, for "watered silk". It was a loan of the English mohair (attested 1610). In French usage, the noun gave rise to the verb  moirer, "to produce a watered textile by weaving or pressing", by the 18th century. The adjective moiré formed from this verb is in use from at least 1823.
+
+
+== Pattern formation ==
+Moiré patterns are often an artifact of images produced by various digital imaging and computer graphics techniques, for example when scanning a halftone picture or ray tracing a checkered plane (the latter being a special case of aliasing, due to undersampling a fine regular pattern).  This can be overcome in texture mapping through the use of mipmapping and anisotropic filtering.
+The drawing on the upper right shows a moiré pattern.  The lines could represent fibers in moiré silk, or lines drawn on paper or on a computer screen. The nonlinear interaction of the optical patterns of lines creates a real and visible pattern of roughly parallel dark and light bands, the moiré pattern, superimposed on the lines.The moiré effect also occurs between overlapping transparent objects. For example, an invisible phase mask is made of a transparent polymer with a wavy thickness profile. As light shines through two overlaid masks of similar phase patterns, a broad moiré pattern occurs on a screen some distance away. This phase moiré effect and the classical moiré effect from opaque lines are two ends of a continuous spectrum in optics, which is called the universal moiré effect. The phase moiré effect is the basis for a type of broadband interferometer in x-ray and particle wave applications. It also provides a way to reveal hidden patterns in invisible layers.
+
+
+=== Line moiré ===
+
+Line moiré is one type of moiré pattern; a pattern that appears when superposing two transparent layers containing correlated opaque patterns. Line moiré is the case when the superposed patterns comprise straight or curved lines. When moving the layer patterns, the moiré patterns transform or move at a faster speed. This effect is called optical moiré speedup.
+More complex line moiré patterns are created if the lines are curved or not exactly parallel.
+
+
+=== Shape moiré ===
+
+Shape moiré is one type of moiré pattern demonstrating the phenomenon of moiré magnification. 1D shape moiré is the particular simplified case of 2D shape moiré. One-dimensional patterns may appear when superimposing an opaque layer containing tiny horizontal transparent lines on top of a layer containing a complex shape which is periodically repeating along the vertical axis.
+Moiré patterns revealing complex shapes, or sequences of symbols embedded in one of the layers (in form of periodically repeated compressed shapes) are created with shape moiré, otherwise called band moiré patterns. One of the most important properties of shape moiré is its ability to magnify tiny shapes along either one or both axes, that is, stretching. A common 2D example of moiré magnification occurs when viewing a chain-link fence through a second chain-link fence of identical design.  The fine structure of the design is visible even at great distances.
+
+
+== Calculations ==
+
+
+=== Moiré of parallel patterns ===
+
+
+==== Geometrical approach ====
+
+Consider two patterns made of parallel and equidistant lines, e.g., vertical lines. The step of the first pattern is p, the step of the second is p + δp, with 0 < δp < p.
+If the lines of the patterns are superimposed at the left of the figure, the shift between the lines increases when going to the right. After a given number of lines, the patterns are opposed: the lines of the second pattern are between the lines of the first pattern. If we look from a far distance, we have the feeling of pale zones when the lines are superimposed (there is white between the lines), and of dark zones when the lines are "opposed".
+The middle of the first dark zone is when the shift is equal to p/2. The nth line of the second pattern is shifted by n δp compared to the nth line of the first network. The middle of the first dark zone thus corresponds to
+
+that is
+
+The distance d between the middle of a pale zone and a dark zone is
+
+the distance between the middle of two dark zones, which is also the distance between two pale zones, is
+
+From this formula, we can see that:
+
+the bigger the step, the bigger the distance between the pale and dark zones;
+the bigger the discrepancy δp, the closer the dark and pale zones; a great spacing between dark and pale zones mean that the patterns have very close steps.The principle of the moiré is similar to the Vernier scale.
+
+
+==== Mathematical function approach ====
+The essence of the moiré effect is the (mainly visual) perception of a distinctly different third pattern which is caused by inexact superimposition of two similar patterns. The mathematical representation of these patterns is not trivially obtained and can seem somewhat arbitrary. In this section we shall give a mathematical example of two parallel patterns whose superimposition forms a moiré pattern, and show one way (of many possible ways) these patterns and the moiré effect can be rendered mathematically.
+The visibility of these patterns is dependent on the medium or substrate in which they appear, and these may be opaque (as for example on paper) or transparent (as for example in plastic film). For purposes of discussion we shall assume the two primary patterns are each printed in greyscale ink on a white sheet, where the opacity (e.g., shade of grey) of the "printed" part is given by a value between 0 (white) and 1 (black) inclusive, with 1/2 representing neutral grey. Any value less than 0 or greater than 1 using this grey scale is essentially "unprintable".
+We shall also choose to represent the opacity of the pattern resulting from printing one pattern atop the other at a given point on the paper as the average (i.e. the arithmetic mean) of each pattern's opacity at that position, which is half their sum, and, as calculated, does not exceed 1. (This choice is not unique. Any other method to combine the functions that satisfies keeping the resultant function value within the bounds [0,1] will also serve; arithmetic averaging has the virtue of simplicity—with hopefully minimal damage to one's concepts of the printmaking process.)
+We now consider the "printing" superimposition of two almost similar, sinusoidally varying, grey-scale patterns to show how they produce a moiré effect in first printing one pattern on the paper, and then printing the other pattern over the first, keeping their coordinate axes in register. We represent the grey intensity in each pattern by a positive opacity function of distance along a fixed direction (say, the x-coordinate) in the paper plane, in the form
+
+where the presence of 1 keeps the function positive definite, and the division by 2 prevents function values greater than 1.
+The quantity k represents the periodic variation (i.e., spatial frequency) of the pattern's grey intensity, measured as the number of intensity cycles per unit distance. Since the sine function is cyclic over argument changes of 2π, the distance increment Δx per intensity cycle (the wavelength) obtains when k Δx = 2π, or Δx = 2π/k.
+Consider now two such patterns, where one has a slightly different periodic variation from the other:
+
+such that k1 ≈ k2.
+The average of these two functions, representing the superimposed printed image, evaluates as follows (see reverse identities here :Prosthaphaeresis ):
+
+where it is easily shown that
+
+and
+
+This function average, f3, clearly lies in the range [0,1]. Since the periodic variation A is the average of and therefore close to k1 and k2, the moiré effect is distinctively demonstrated by the sinusoidal envelope "beat" function cos(Bx), whose periodic variation is half the difference of the periodic variations k1 and k2 (and evidently much lower in frequency).
+Other one-dimensional moiré effects include the classic beat frequency tone which is heard when two pure notes of almost identical pitch are sounded simultaneously. This is an acoustic version of the moiré effect in the one dimension of time: the original two notes are still present—but the listener's perception is of two pitches that are the average of and half the difference of the frequencies of the two notes. Aliasing in sampling of time-varying signals also belongs to this moiré paradigm.
+
+
+=== Rotated patterns ===
+Consider two patterns with the same step p, but the second pattern is rotated by an angle α. Seen from afar, we can also see darker and paler lines: the pale lines correspond to the lines of nodes, that is, lines passing through the intersections of the two patterns.
+If we consider a cell of the lattice formed, we can see that it is a rhombus with the four sides equal to d = p/sin α; (we have a right triangle whose hypotenuse is d and the side opposite to the angle α is p).
+
+The pale lines correspond to the small diagonal of the rhombus. As the diagonals are the bisectors of the neighbouring sides, we can see that the pale line makes an angle equal to α/2 with the perpendicular of each pattern's line.
+Additionally, the spacing between two pale lines is D, half of the long diagonal. The long diagonal 2D is the hypotenuse of a right triangle and the sides of the right angle are d(1 + cos α) and p. The Pythagorean theorem gives:
+
+that is:
+
+thus
+
+When α is very small (α < π/6) the following small-angle approximations can be made:
+
+thus
+
+We can see that the smaller α is, the farther apart the pale lines; when both patterns are parallel (α = 0), the spacing between the pale lines is infinite (there is no pale line).
+There are thus two ways to determine α: by the orientation of the pale lines and by their spacing
+
+If we choose to measure the angle, the final error is proportional to the measurement error. If we choose to measure the spacing, the final error is proportional to the inverse of the spacing. Thus, for the small angles, it is best to measure the spacing.
+
+
+== Implications and applications ==
+
+
+=== Printing full-color images ===
+In graphic arts and prepress, the usual technology for printing full-color images involves the superimposition of halftone screens. These are regular rectangular dot patterns—often four of them, printed in cyan, yellow, magenta, and black. Some kind of moiré pattern is inevitable, but in favorable circumstances the pattern is "tight"; that is, the spatial frequency of the moiré is so high that it is not noticeable. In the graphic arts, the term moiré means an excessively visible moiré pattern. Part of the prepress art consists of selecting screen angles and halftone frequencies which minimize moiré. The visibility of moiré is not entirely predictable. The same set of screens may produce good results with some images, but visible moiré with others.
+
+
+=== Television screens and photographs ===
+
+Moiré patterns are commonly seen on television screens when a person is wearing a shirt or jacket of a particular weave or pattern, such as a houndstooth jacket. This is due to interlaced scanning in televisions and non-film cameras, referred to as interline twitter. As the person moves about, the moiré pattern is quite noticeable. Because of this, newscasters and other professionals who regularly appear on TV are instructed to avoid clothing which could cause the effect.
+Photographs of a TV screen taken with a digital camera often exhibit moiré patterns. Since both the TV screen and the digital camera use a scanning technique to produce or to capture pictures with horizontal scan lines, the conflicting sets of lines cause the moiré patterns. To avoid the effect, the digital camera can be aimed at an angle of 30 degrees to the TV screen.
+
+
+=== Marine navigation ===
+The moiré effect is used in shoreside beacons called "Inogon leading marks" or "Inogon lights", manufactured by Inogon Licens AB, Sweden, to designate the safest path of travel for ships heading to locks, marinas, ports, etc., or to indicate underwater hazards (such as pipelines or cables). The moiré effect creates arrows that point towards an imaginary line marking the hazard or line of safe passage; as navigators pass over the line, the arrows on the beacon appear to become vertical bands before changing back to arrows pointing in the reverse direction. An example can be found in the UK on the eastern shore of Southampton Water, opposite Fawley oil refinery (50°51′21.63″N 1°19′44.77″W). Similar moiré effect beacons can be used to guide mariners to the centre point of an oncoming bridge; when the vessel is aligned with the centreline, vertical lines are visible.
+Inogon lights are deployed at airports to help pilots on the ground keep to the centreline while docking on stand.
+
+
+=== Strain measurement ===
+
+In manufacturing industries, these patterns are used for studying microscopic strain in materials: by deforming a grid with respect to a reference grid and measuring the moiré pattern, the stress levels and patterns can be deduced. This technique is attractive because the scale of the moiré pattern is much larger than the deflection that causes it, making measurement easier.
+The moiré effect can be used in strain measurement: the operator just has to draw a pattern on the object, and superimpose the reference pattern to the deformed pattern on the deformed object.
+A similar effect can be obtained by the superposition of a holographic image of the object to the object itself: the hologram is the reference step, and the difference with the object are the deformations, which appear as pale and dark lines.
+
+
+=== Image processing ===
+Some image scanner computer programs provide an optional filter, called a "descreen" filter, to remove moiré pattern artifacts which would otherwise be produced when scanning printed halftone images to produce digital images.
+
+
+=== Banknotes ===
+Many banknotes exploit the tendency of digital scanners to produce moiré patterns by including fine circular or wavy designs that are likely to exhibit a moiré pattern when scanned and printed.
+
+
+=== Microscopy ===
+In super-resolution microscopy, the moiré pattern can be used to obtain images with a resolution higher than the diffraction limit, using a technique known as structured illumination microscopy.In scanning tunneling microscopy, moiré fringes appear if surface atomic layers have a different crystal structure than the bulk crystal. This can for example be due to surface reconstruction of the crystal, or when a thin layer of a second crystal is on the surface, e.g. single-layer, double-layer graphene, or Van der Waals heterostructure of graphene and hBN, or bismuth and antimony nanostructures.In transmission electron microscopy (TEM), translational moiré fringes can be seen as parallel contrast lines formed in phase-contrast TEM imaging by the interference of diffracting crystal lattice planes that are overlapping, and which might have different spacing and/or orientation. Most of the moiré contrast observations reported in the literature are obtained using high-resolution phase contrast imaging in TEM. However, if probe aberration-corrected high-angle annular dark field scanning transmission electron microscopy (HAADF-STEM) imaging is used, more direct interpretation of the crystal structure in terms of atom types and positions is obtained.
+
+
+=== Materials science and condensed matter physics ===
+
+In condensed matter physics, the moiré phenomenon is commonly discussed for two-dimensional materials. The effect occurs when there is mismatch between the lattice parameter or angle of the 2D layer and that of the underlying substrate, or another 2D layer, such as in 2D material heterostructures. The phenomenon is exploited as a means of engineering the electronic structure or optical properties of materials, which some call moiré materials. The often significant changes in electronic properties when twisting two atomic layers and the prospect of electronic applications has led to the name twistronics of this field. A prominent example is in twisted bi-layer graphene, which forms a moiré pattern and at a particular magic angle exhibits superconductivity and other important electronic properties.
+In materials science, known examples exhibiting moiré contrast are thin films or nanoparticles of MX-type (M = Ti, Nb; X = C, N) overlapping with austenitic matrix. Both phases, MX and the matrix, have face-centered cubic crystal structure and cube-on-cube orientation relationship. However, they have significant lattice misfit of about 20 to 24% (based on the chemical composition of alloy), which produces a moiré effect.
+
+
+== See also ==
+Aliasing
+Angle-sensitive pixel
+Barrier grid animation and stereography (kinegram)
+Beat (acoustics)
+Euclid's orchard
+Guardian (sculpture)
+Kell factor
+Lenticular printing
+Moiré Phase Tracking
+Multidimensional sampling
+
+
+== References ==
+
+
+== External links ==
+
+A series of oil paintings based on moiré principles by British artist, Pip Dickens
+A live demonstration of the moiré effect that stems from interferences between circles
+An interactive example of various moiré patterns Archived 2011-07-24 at the Wayback Machine Use arrow keys and mouse to manipulate layers.
+A universal moiré effect and application in X-ray phase-contrast imaging
+"The Moiré Effect Lights That Guide Ships Home", an article on YouTube by Tom Scott about the Moiré Inogon light in Southampton
+"The Moiré Museum", interactive vector graphics with links to the physics and mathematics of the Moiré effect and artistic contributions

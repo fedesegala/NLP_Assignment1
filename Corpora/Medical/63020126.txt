@@ -1,0 +1,50 @@
+Anaplastic oligodendroglioma is a neuroepithelial tumor which is believed to originate from oligodendrocytes, a cell type of the glia. In the World Health Organization (WHO) classification of brain tumors, anaplastic oligodendrogliomas are classified as grade III. In the course of the disease, it can degenerate into highly malignant oligodendroglioma, grade IV. The vast majority of oligodendrogliomas occur sporadically, without a confirmed cause and without inheritance within a family.
+
+
+== Signs ==
+
+
+== Pathogenesis ==
+The (malignant) anaplastic oligodendroglioma belongs to the group of diffuse glioma and arises in the central nervous system (brain and spinal cord) from precursor stem cells of the oligodendrocytes. This tumor occurs primarily in middle adulthood with a frequency peak in the 4th and 5th decade of life.
+
+
+== Diagnosis ==
+The most important diagnostic procedure is magnetic resonance imaging (MRI). Occasionally, outside of routine diagnostics, the metabolism in the tissue is shown using positron emission tomography (PET). The diagnosis is confirmed by a fine tissue examination following an 
+operation. Anaplastic oligodendrogliomas often show a loss of genetic material. About 50 to 70% of WHO grade III anaplastic oligodendrogliomas have combined allele losses on the short arm of chromosome 1 (1p) and the long arm of chromosome 19 (19q).
+This change is mostly referred to as "1p / 19q Co Deletion". It can be seen as favorable for the patient and makes a response to radiation or chemotherapy more likely. The designation of grade III oligodendroglioma (high grade) generally subsumes the previous diagnoses of anaplastic or malignant oligodendroglioma.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Treatment ==
+Surgery can help reduce symptoms caused by the tumor. As complete as possible removal of the tumor visible on the MRI is preferred, provided the location of the tumor allows this. Since typically the cells of an anaplastic oligodendroglioma have already migrated into the surrounding healthy brain tissue at the time of diagnosis, a complete surgical removal of all tumor cells is not possible. The "1p / 19q Codeletion" marker plays an increasingly important role in the selection of therapy and therapy combinations.
+Because this tumor is an "indolent condition" (a slowly progressive medical condition associated with little or no pain) and the potential morbidity associated with neurosurgery, chemotherapy and radiation therapy, most neuro-oncologists will initially pursue a course of watchful waiting and treat patients symptomatically. Symptomatic treatment often includes the use of anticonvulsants for seizures and steroids for brain swelling. For further treatment, radiation or chemotherapy with temozolomide or a chemotherapy with Procarbazine, CCNU and Vincristine (PCV) has been shown to be effective and was the most commonly used chemotherapy regimen used for treating anaplastic oligodendrogliomas.
+
+
+== Prognosis ==
+5–Year relative survival rate: Age 20–44, 76%. Age 45–54, 67%. Age 55–64, 45%. Procarbazine, lomustine and vincristine have been used since May 1975. For 48 years, new therapeutic options have been regularly tested as part of therapy studies to improve the treatment of anaplastic oligodendroglioma.
+
+
+== Research ==
+As of 2022, a definitive cure is not possible with anaplastic oligodendrogliomas of WHO grade III. A retrospective study on 1054 patients with anaplastic oligodendroglioma, presented during the 2009 ASCO Annual Meeting, suggests that PCV therapy may be effective. Median time to progression for patients with 1p19q co-deletion was longer following PCV alone (7.6 years) than with temozolomide alone (3.3 years); median overall survival was also longer with PCV treatment versus temozolomide treatment (not reached, vs. 7.1 years). A recent long-term study does affirm that radiation combined with adjuvant chemotherapy is significantly more efficacious for anaplastic oligodendroglioma patients with 1p 19q co-deleted tumors and has become the new standard of care. It is possible that radiotherapy may prolong the overall time to progression for non-deleted tumors. If the tumor mass compresses adjacent brain structures, a neurosurgeon will typically remove as much of the tumor as he or she can without damaging other critical, healthy brain structures. Recent studies suggest that radiation does not improve overall survival (even when age, clinical data, histological grading, and type of surgery are considered).
+
+
+== Literature ==
+Weller M, van den Bent M, Preusser M, Le Rhun E, Tonn JC, Minniti G, Bendszus M, Balana C, Chinot O, Dirven L, French P, Hegi ME, A. S. Jakola, M. Platten, P. Roth, R. Rudà, S. Short, M. Smits, M. J. Taphoorn, A. von Deimling, M. Westphal, R. Soffietti, G. Reifenberger, W. Wick: EANO guidelines on the diagnosis and treatment of diffuse gliomas of adulthood. In: Nature reviews. Clinical oncology. Volume 18, Number 3, 03 2021, pp. 170-186, doi:10.1038/s41571-020-00447-z, PMID 33293629, PMC 7904519 (Review).
+
+
+== References ==
+
+
+== External links ==
+"Molekulare Diagnostik". Center for Neuropathology and Prion Research – Ludwig Maximilian University of Munich. Retrieved 2021-10-23.

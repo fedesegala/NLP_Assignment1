@@ -1,0 +1,28 @@
+A slow virus is a virus, or a viruslike agent, etiologically associated with a slow virus disease. A slow virus disease is a disease that, after an extended period of latency, follows a slow, progressive course spanning months to years, frequently involves the central nervous system, and in most cases progresses to death. Examples of slow virus diseases include HIV/AIDS, caused by the HIV virus, subacute sclerosing panencephalitis, the rare result of a measles virus infection, and Paget's disease of bone (osteitis deformans), which may be associated with paramyxoviruses, especially the measles virus and the human respiratory syncytial virus.
+
+
+== Characteristics ==
+Every infectious agent is different, but in general, slow viruses:
+Cause an asymptomatic primary infection
+Have a long incubation period ranging from months to years
+Follow a slow but relentless progressive course leading to death
+Tend to have a genetic predisposition
+Often re-emerge from latency if the host becomes immuno-compromisedAdditionally, the immune system seems to plays a limited role, or no role, in protection from many of these slow viruses. This may be due to the slow replication rates some of these agents exhibit, preexisting immunosuppression (as in the cases of JC virus and BK virus), or, in the case of prions, the identity of the agent involved.
+
+
+== Scope ==
+Slow viruses cause a variety of diseases, including cancer.
+
+§JC virus & BK virus only cause disease in immunocompromised patients
+
+
+== Kuru- A form of Transmissible spongiform encephalopathy ==
+Was once thought to be due to a slow virus but is now known to be the result of Prion disease.
+
+
+== See also ==
+Clinical latency
+Virus latency
+
+
+== References ==

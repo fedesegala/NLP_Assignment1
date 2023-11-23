@@ -1,0 +1,44 @@
+The Denver Developmental Screening Test (DDST) was introduced in 1967 to identify young children, up to age six, with developmental problems. A revised version, Denver II, was released in 1992 to provide needed improvements. These screening tests provide information about a range of ages during which normally developing children acquire certain abilities and skills. By comparing a child’s development to the developmental age ranges in this tool, it allows providers to identify young children with developmental problems so that they can be referred for help.
+The tests address four domains of child development:  personal-social (for example, waves bye-bye), fine motor and adaptive (puts block in cup), language (combines words), and gross motor (hops). They are meant to be used by medical assistants or other trained workers in programs serving children. Both tests differ from other common developmental screening tests in that the examiner directly tests the child.  This is a strength if parents communicate poorly or are poor observers or reporters.  Other tools, for example the Age and Stages Questionnaires, depend on parent report.
+As of 2021, the American Academy of Pediatrics (AAP) recommends developmental and behavioral screening for all children during regular well-child visits at 9, 18, and 30 months of age. The AAP also recommends screening children for autism spectrum disorder during well-child visits at 18 and 24 months of age. However, the AAP does not approve nor endorse any specific tool for screening purposes, but rather endorses the use of any formal, validated screening tool, such as the Ages and Stages Questionnaire or others provided by the US Human Health and Services Department.
+
+
+== Denver Developmental Screening Test ==
+The Denver Developmental Screening Test was developed in Denver, Colorado, by Frankenburg and Dodds and published in 1967. As the first tool used for developmental screening in normal situations like pediatric well-child care, the test became widely known and was used in 54 countries and standardized in 15.Use of the Denver Developmental Screening Test has raised various concerns: the applicability of 1967 norms in the 1990s and onwards, the difficulty of administering and scoring several of the test’s language items, and the limited validity in cultures that differ from the normative sample in Denver (ethnic groups, varying levels of maternal education, groups with differing genders), potentially leading to under- or over-referrals for mental health services.
+
+
+== Denver II ==
+
+
+=== Research basis ===
+The Denver Developmental Screening Test was revised in order to increase its detection of language delays, replace items found difficult to use, and address the other concerns listed.  There are 125 items over the age range from birth to six years. An examiner administers the age-appropriate items to the child, although some can be passed by parental report.  Each item is scored as pass, fail, or refused.  Items that can be completed by 75%-90% of children but are failed are called cautions; items that can be completed by 90% of children but are failed are referred to as delays.   A normal score means no delay in any domain and no more than one caution; a suspect score means one or more delays or two or more cautions; a score of untestable means enough refused items that the score would be suspect if they had been delays. If a child receives a concerning screening score, the next step is an extensive evaluation via medical professionals to identify the developmental disorders. The Denver II is available in various languages.  Videotapes and two manuals describe 14 hours of structured instruction and recommend testing a dozen children for practice.  Beyond this a professional degree is not required.  As with all developmental testing, one must follow the instructions in detail.
+
+
+=== Standardization ===
+The standardization sample of 2,096 children was selected to represent the children of the state of Colorado.  The test has been criticized because that population is slightly different from that of the U.S. as a whole.  However, the authors found no clinically significant differences when results were weighted to reflect the distribution of demographic factors in the whole U.S. population. Globally, other countries have standardized the Denver II to fit their respective populations. Significant differences were defined as differences of more than 10% in the age at which 90% of children could perform any given item.  Separate norms were provided for the 16 items whose scores varied by race, maternal education, or rural-urban residence.
+
+
+=== Interpretation ===
+The author of the test, William K. Frankenburg, likened it to a growth chart of height and weight and encouraged users to consider factors other than test results in working with an individual child.  Such factors could include the parents’ education and opinions, the child’s health, family history, and available services.  Frankenburg did not recommend criteria for referral; rather, he recommended that screening programs and communities review their results and decide whether they are satisfied.In 2020 the AAP Council on Children with Disabilities; Section on Developmental Behavioral Pediatrics published a list of screening tests for clinicians to consider when selecting a test to use in their practice. This list did not include Denver II among its choices. However, as stated earlier, the AAP does not approve or endorse any specific tool for screening purposes. Rather they advise on how to approach a child with a concerning screening result and provide further work up via medical evaluations to identify the developmental disorders and/or related medical problems. The chairman of the committee wrote: “In the practice of developmental screening and surveillance, we recommend the incorporation of parent-completed questionnaires or directly administered screening tests into the process of surveillance and screening. However, their results should be combined with attention to parental concerns and the pediatrician’s opinion, rather than replacing them, to augment the screening process and increase identification of children with developmental disorders”.
+
+
+=== Studies in practice ===
+One study evaluated the Denver II in terms of how its results matched those of a psychologist in five child-care centers:  two serving the children of college-educated white parents and three serving low-income African-American children.   The psychologist evaluated 104 children, of whom 18 were judged to be delayed ). The Denver II yielded a high sensitivity rate, correctly identifying 83% of the previously noted delayed children. However, the screening test also identified more than half of the developmentally normal children as delayed, so its specificity (46%) was low. This study posits that the Denver II was not accurately standardized.
+Because the Denver II screening tool was standardized using solely a population of children from Colorado, USA, many other nations attempted to reduce inaccuracy in screening by standardizing the test to its own populations. The DDST-II was adapted for use in Sri Lankan Children after a study was conducted in 2011, standardizing values among 4,251 children between the ages of 0–80 months. Other countries that have conducted studies in order to standardize the DDST to their populations include Singapore, Georgia, and Brazil  where it was surveyed to be the most commonly used developmental screening tool nationwide.
+Because of the growing number of non-native English speakers in the United States, in 2015, a group of researchers sought to present the utility of translations for the 9 screening tools recommended by the Academy of Pediatrics – Ages and Stages Questionnaire, Bayley Infant Neurodevelopmental Screener, Denver II, Brigance II, CDI, Child Development Review—Parent Questionnaire, IDI, Parents Evaluation of Developmental Status, and the Battelle Developmental Inventory. The Denver II had the largest number of translations (21) with each of them being standardized in the nation of origin for that language. The authors postulate that the Denver II will have greater utility as more children require non-English screening tests.
+
+
+== See also ==
+Brigance Inventory of Early Development (IED ii)
+Developmental disability
+Early Childhood Intervention
+EPSDT
+
+
+== References ==
+
+
+== External links ==
+Homepage of Denver Developmental Materials, Inc.
+Developmental and Behavioral Pediatrics at American Academy of Pediatrics
+HealthyChildren.org American Academy of Pediatrics

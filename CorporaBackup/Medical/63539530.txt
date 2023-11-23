@@ -1,0 +1,53 @@
+Distyly is a type of heterostyly in which a plant demonstrates reciprocal herkogamy. This breeding system is characterized by two separate flower morphs, where individual plants produce flowers that either have long styles and short stamens (L-morph flowers), or that have short styles and long stamens (S-morph flowers).  However, distyly can refer to any plant that shows some degree of self-incompatibility and has two morphs if at least one of the following characteristics is true; there is a difference in style length, filament length, pollen size or shape, or the surface of the stigma. Specifically these plants exhibit intra-morph self-incompatibility, flowers of the same style morph are incompatible. Distylous species that do not exhibit true self-incompatibility generally show a bias towards inter-morph crosses - meaning they exhibit higher success rates when reproducing with an individual of the opposite morph.
+
+
+== Background ==
+The first scientific account of distyly can be found in Stephan Bejthe's Caroli book Clusii Atrebatis Rariorum aliquot stirpium .  Bejthe describes the two floral morphs of Primula veris. Charles Darwin popularized distyly with his account of it in his book The Different Forms of Flowers on Plants of the Same Species. Darwin's book represents the first account of intramorphic self-incompatibility in distylous plants and focuses on garden experiments in which he looks at seed set of different distylous Primula. Darwin names the two floral morphs S- and L-morph, moving away from the vernacular names, Pin (for L-morph) and Thrum (for S-morph), which he states were initially assigned by florist.
+Distylous species have been identified in 28 families of Angiosperm, likely evolving independently in each family. This means, the system has evolved at least 28 times, though it has been suggested the system has evolved multiple times within some families. Since distyly has evolved more than once, it is considered a case of convergent evolution.
+
+
+== Reciprocal herkogamy ==
+Reciprocal herkogamy likely evolved to prevent the pollen of the same flower from landing on its own stigma. This in turn promotes outcrossing.
+In a study of Primula veris it was found that pin flowers exhibit higher rates of self-pollination and capture more pollen than the thrum morph. Different pollinators show varying levels of success while pollinating the different Primula morphs, the head or proboscis length of a pollinator is positively correlated to the uptake of pollen from long styled flowers and negatively correlated for pollen uptake on short styled flowers. The opposite is true for pollinators with smaller heads, such as bees, they uptake more pollen from short styled morphs than long styled ones. The differentiation in pollinators allows the plants to reduce levels of intra-morph pollination.
+
+
+== Models of evolution ==
+There are two main hypothetical models for the order in which the traits of distyly evolved, the 'selfing avoidance model'  and the 'pollen transfer model'.
+The selfing avoidance model suggests self-incompatibility (SI) evolved first, followed by the morphological difference. It was suggested that the male component of SI would evolve first via a recessive mutation, followed by female characteristics via a dominant mutation, and finally male morphological differences would evolve via a third mutation.
+The pollen transfer model argues that morphological differences evolved first, and if a species is facing inbreeding depression, it may evolve SI. This model can be used to explain the presence of reciprocal herkogamy in self-compatible species.
+
+
+== Genetic control of distyly ==
+A supergene, called the self-incompatibility (or S-) locus, is responsible for the occurrence of distyly. The S-locus is composed of three tightly linked genes (S-genes) which segregate as a single unit.Traditionally it was hypothesized that one S-gene controls all female aspects of distyly, one gene that controls the male morphological aspects, and one gene that determines the male mating type. While this hypothesis appears to be true in Turnera, it is not true in  Primula  nor Linum.  The S-morph is hemizygous for the S-locus and the L-morph does not have an allelic counterpart . The hemizygotic nature of the S-locus has been shown in Primula  , Gelsemium, Linum , Fagopyrum , Turnera, and Nymphoides.The presence of the S-locus results in changes to gene expression between the two floral morphs, as has been demonstrated using transcriptomic analyses of Lithospermum multiflorum  , Primula veris, Primula oreodoxa , Primula vulgaris  and Turnera subulata.
+
+
+=== The S-locus of Fagopyrum ===
+The S-morph of Fagopyrum contains ~2.8 Mb hemizygous region which likely represents the S-locus as it contains S-ELF4 which establishes female morphology and mating type.
+
+
+=== The S-locus of Gelsemium ===
+In Gelsemium, the S-locus is composed of four genes, GeCYP, GeFRS6, and GeGA3OX are hemizygous and TAF2 appears to be allelic with a truncated copy in the L-morph. GeCYP appears to share a last common ancestor (or ortholog) with the Primula S-gene CYPT.  It is currently hypothesized that the for S-genes in Gelsemium were inherited as a group rather than separately. This is the only known case of the S-genes being inherited as a group rather than individually.
+
+
+=== The S-locus of Linum ===
+In Linum the S-locus is composed of nine genes, two are LtTSS1 and LtWDR-44 the other seven are unnamed and are of unknown function. LtTSS1 is hypothesized to regulate style length in the S-morph. Synonymous substitution analysis of three of the S-genes suggest the S-locus in Linum evolved in a step by step manner, though only three of the nine genes were analyzed.
+
+
+=== The S-locus of Nymphoides ===
+The S-locus of Nymphoides contains three genes NinS1, NinKHZ2, and NinBAS1. NinBAS1 is only expressed in the style and is hypothetical involved in regulation of brassinosteroids, NinS1 is only expressed in the stamen, NinKHZ2 is expressed in both stamen and style. Similar to other S-loci, the Nymphoides S-locus appears to have evolved via stepwise duplication events.
+
+
+=== The S-locus of Primula ===
+In Primula the S-locus is composed of five genes, CYPT(or CYP734A50), GLOT (or GLOBOSA2), KFBT, PUMT, and CCMT. The supergene evolved in a step-by-step manner, meaning each S-gene duplicated and move to the pre-S-locus independently of the others. Synonymous substitution analysis of the S-genes suggest the oldest S-gene in Primula is likely KFBT which likely duplicated about 104 million years ago, followed by CYPT(42.7 MYA),GLOT (37.4 MYA), CCMT(10.3 MYA). It is unknown when PUMT evolved as it does not have a paralog within the Primula genome.
+Of the five S-genes, two have been characterized. CYPT, a cytochrome P450 family member, is the female morphology and it is the female self-incompatibility gene, meaning it promotes rejection of self pollen. CYPT  is likely producing these phenotypes via inactivation of brassinosteroids. Inactivation of brassinosteroids in the S-morph by CYPT results in repression of cell elongation in the style, ultimately producing the short pistil phenotype.  GLOT , a MADS-BOX family member, is the male morphology gene as it promotes corolla tube growth under the stamen. It is unknown how the other three S-genes are contributing to distyly in Primula.
+
+
+=== The S-locus of Turnera ===
+In Turnera the S-locus is composed of three genes, BAHD, SPH1, and YUC6. BAHD is likely an acyltransferase involved in inactivation of brassinosteroids; it is both the female morphology and female self-incompatibility gene. YUC6 is likely involved in auxin biosynthesis based on homology; it is the male self-incompatibility gene and establishes pollen size dimorphisms. SPH1 is likely involved in filament elongation based on short filament mutant analysis.
+
+
+== List of families with distylous species ==
+Source:
+
+
+== References ==

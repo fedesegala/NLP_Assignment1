@@ -1,0 +1,280 @@
+In geometry, the Gram–Euler theorem, Gram-Sommerville, Brianchon-Gram or Gram relation (named after Jørgen Pedersen Gram, Leonhard Euler, Duncan Sommerville and Charles Julien Brianchon) is a generalization of the internal angle sum formula of polygons to higher-dimensional polytopes. The equation constrains the sums of the interior angles of a polytope in a manner analogous to the Euler relation on the number of d-dimensional faces. 
+
+
+== Statement ==
+Let 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   be an 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -dimensional convex polytope. For each k-face 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  , with 
+  
+    
+      
+        k
+        =
+        dim
+        ⁡
+        (
+        F
+        )
+      
+    
+    {\displaystyle k=\dim(F)}
+   its dimension (0 for vertices, 1 for edges, 2 for faces, etc., up to n for P itself), its interior (higher-dimensional) solid angle 
+  
+    
+      
+        ∠
+        (
+        F
+        )
+      
+    
+    {\displaystyle \angle (F)}
+   is defined by choosing a small enough 
+  
+    
+      
+        (
+        n
+        −
+        1
+        )
+      
+    
+    {\displaystyle (n-1)}
+  -sphere centered at some point in the interior of 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   and finding the surface area contained inside 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  . Then the Gram–Euler theorem states: In non-Euclidean geometry of constant curvature (i.e. spherical, 
+  
+    
+      
+        ϵ
+        =
+        1
+      
+    
+    {\displaystyle \epsilon =1}
+  , and hyperbolic, 
+  
+    
+      
+        ϵ
+        =
+        −
+        1
+      
+    
+    {\displaystyle \epsilon =-1}
+  , geometry) the relation gains a volume term, but only if the dimension n is even:Here, 
+  
+    
+      
+        Vol
+        ⁡
+        (
+        P
+        )
+      
+    
+    {\displaystyle \operatorname {Vol} (P)}
+   is the normalized (hyper)volume of the polytope (i.e, the fraction of the n-dimensional spherical or hyperbolic space); the angles 
+  
+    
+      
+        ∠
+        (
+        F
+        )
+      
+    
+    {\displaystyle \angle (F)}
+   also have to be expressed as fractions (of the (n-1)-sphere).When the polytope is simplicial additional angle restrictions known as Perles relations hold, analogous to the Dehn-Sommerville equations for the number of faces.
+
+
+== Examples ==
+For a two-dimensional polygon, the statement expands into:where the first term 
+  
+    
+      
+        A
+        =
+        
+          ∑
+          
+            α
+            
+              v
+            
+          
+        
+      
+    
+    {\displaystyle A=\textstyle \sum \alpha _{v}}
+   is the sum of the internal vertex angles, the second sum is over the edges, each of which has internal angle 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  , and the final term corresponds to the entire polygon, which has a full internal angle 
+  
+    
+      
+        2
+        π
+      
+    
+    {\displaystyle 2\pi }
+  . For a polygon with 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   faces, the theorem tells us that 
+  
+    
+      
+        A
+        −
+        π
+        n
+        +
+        2
+        π
+        =
+        0
+      
+    
+    {\displaystyle A-\pi n+2\pi =0}
+  , or equivalently, 
+  
+    
+      
+        A
+        =
+        π
+        (
+        n
+        −
+        2
+        )
+      
+    
+    {\displaystyle A=\pi (n-2)}
+  . For a polygon on a sphere, the relation gives the spherical surface area or solid angle as the spherical excess: 
+  
+    
+      
+        Ω
+        =
+        A
+        −
+        π
+        (
+        n
+        −
+        2
+        )
+      
+    
+    {\displaystyle \Omega =A-\pi (n-2)}
+  .
+For a three-dimensional polyhedron the theorem reads:where 
+  
+    
+      
+        
+          Ω
+          
+            v
+          
+        
+      
+    
+    {\displaystyle \Omega _{v}}
+   is the solid angle at a vertex, 
+  
+    
+      
+        
+          θ
+          
+            e
+          
+        
+      
+    
+    {\displaystyle \theta _{e}}
+   the dihedral angle at an edge (the solid angle of the corresponding lune is twice as big), the third sum counts the faces (each with an interior hemisphere angle of 
+  
+    
+      
+        2
+        π
+      
+    
+    {\displaystyle 2\pi }
+  ) and the last term is the interior solid angle (full sphere or 
+  
+    
+      
+        4
+        π
+      
+    
+    {\displaystyle 4\pi }
+  ).
+
+
+== History ==
+The n-dimensional relation was first proven by Sommerville, Heckman and Grünbaum for the spherical, hyperbolic and Euclidean case, respectively.
+
+
+== See also ==
+Euler characteristic
+Dehn-Sommerville equations
+Angular defect
+Gauss-Bonnet theorem
+
+
+== References ==

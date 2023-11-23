@@ -126,7 +126,9 @@ if __name__ == "__main__":
 
     confusion_matrix = metrics.confusion_matrix(true_labels, predicted_labels)
     print(f"Following will be displayed the confusion matrix: \n{confusion_matrix}")
-    print(f"{np.sum(predicted_labels)} documents have been classified as medical")
+
+    print(f"\nTrue medicals: {confusion_matrix[1][1]}\nTrue non medicals: {confusion_matrix[0][0]}")
+    print(f"False negatives: {confusion_matrix[1][0]}\nFalse positives: {confusion_matrix[0][1]}")
 
     print(f"\nThe average precision is: {metrics.average_precision_score(true_labels, predicted_labels)}")
     print(f"The average recall is: {metrics.recall_score(true_labels, predicted_labels)}")

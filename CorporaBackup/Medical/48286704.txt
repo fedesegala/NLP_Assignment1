@@ -1,0 +1,5 @@
+Szybalski's rule says that lower-protein particles like viruses contain more purines than pyrimidine in their nucleic acid sequence.
+This is to prevent double-stranded RNA formation of one or two separate RNA strand that have complementary regions. The formation of a double-stranded RNA is not efficient for viruses as it may delay or stop RNA replication or protein formation.  The rule is named for Wacław Szybalski.
+
+
+== References ==

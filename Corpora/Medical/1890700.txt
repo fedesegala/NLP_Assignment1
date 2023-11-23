@@ -1,0 +1,21 @@
+Amelogenins are a group of protein isoforms produced by alternative splicing or proteolysis from the AMELX gene, on the X chromosome, and also the AMELY gene in males, on the Y chromosome. They are involved in amelogenesis, the development of enamel. Amelogenins are type of extracellular matrix protein, which, together with ameloblastins, enamelins and tuftelins, direct the mineralization of enamel to form a highly organized matrix of rods, interrod crystal and proteins.
+Although the precise role of amelogenin(s) in regulating the mineralization process is unknown, it is known that amelogenins are abundant during amelogenesis. Developing human enamel contains about 70% protein, 90% of which are amelogenins.
+
+
+== Function ==
+Amelogenins are believed to be involved in the organizing of enamel rods during tooth development. The latest research indicates that these proteins regulate the initiation and growth of hydroxyapatite crystals during the mineralization of enamel. In addition, amelogenins appear to aid in the development of cementum by directing cementoblasts to the tooth's root surface.
+
+
+== Variants ==
+The amelogenin gene has been most widely studied in humans, where it is a single copy gene, located on the X and Y chromosomes at Xp22.1–Xp22.3 and Yp 11.2 [5]. The amelogenin gene's location on sex chromosomes has implications for variability both between the X chromosome form (AMELX) and the Y chromosome form (AMELY), and between alleles of AMELY among different populations. This is because AMELY exists in the non-recombining region of chromosome Y, effectively isolating it from normal selection pressures. Other sources of amelogenin variation arise from the various isoforms of AMELX obtained from alternative splicing of mRNA transcripts. Specific roles for isoforms have yet to be established. Among other organisms, amelogenin is well conserved among eutherians, and has homologs in monotremes, reptiles and amphibians.
+
+
+== Application in sex determination ==
+Differences between the X chromosome and Y chromosome versions of the amelogenin gene (AMELX and AMELY respectively) enable it to be used in sex determination of unknown human samples. AMELX’s intron 1 contains a 6-base-pair deletion relative to intron 1 of AMELY. This can be detected at low cost using polymerase chain reaction (PCR) of intron 1, followed by gel electrophoresis. Two bands of DNA, at 555 bps and 371 bps, are resolved if both the AMELX and AMELY versions of the gene are present (i.e. the sample is from a male) or one band of DNA, at 555 bps, if the AMELX version only is present (i.e. the sample is from a female).However, because of AMELY variation among individuals and populations, this method of sex determination is not 100% accurate. Mutation in regions of AMELY intron 1 commonly used as primer annealing sites may disable PCR amplification. A 6bp insertion to AMELY intron 1 results in an amplicon identical in length to that of AMELX. In some males AMELY may be deleted entirely. In any of these cases only one band is visualized during gel electrophoresis of PCR products, causing misidentification of the sample as female. The misidentification rate may vary among populations, but in general appears to be low. In one study in Spain, the amelogenin sex determination test using AMELX (977bps) and AMELY (790bps) bands was performed for 1224 individuals of known gender with a 99.84% (1222/1224) accuracy rate. Another study in India, however, found 5 of its 270 men studied (1.85%) possessed an AMELY deletion, terming them "deleted-amelogenin males" (DAMs). In response the authors suggested that while the amelogenin sex test may be accurate in general, other Y chromosome markers such as SRY, STR, or 50f2 can be used for less ambiguous gender identification.
+
+
+== Clinical significance ==
+Mutations in AMELX can cause amelogenesis imperfecta, a disorder of tooth enamel development.
+
+
+== References ==

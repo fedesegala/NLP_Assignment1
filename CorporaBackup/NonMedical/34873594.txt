@@ -1,0 +1,501 @@
+In geometry, the exsphere of a face of a regular polyhedron is the sphere outside the polyhedron which touches the face and the planes defined by extending the adjacent faces outwards. It is tangent to the face externally and tangent to the adjacent faces internally.
+It is the 3-dimensional equivalent of the excircle.
+The sphere is more generally well-defined for any face which is a regular
+polygon and delimited by faces with the same dihedral angles
+at the shared edges. Faces of semi-regular polyhedra often 
+have different types of faces, which define exspheres of different size with each type of face.
+
+
+== Parameters ==
+The exsphere touches the face of the regular polyedron at the center
+of the incircle of that face. If the exsphere radius is denoted rex, the radius of this incircle rin
+and the dihedral angle between the face and the extension of the 
+adjacent face δ, the center of the exsphere
+is located from the viewpoint at the middle of one edge of the
+face by bisecting the dihedral angle. Therefore
+
+  
+    
+      
+        tan
+        ⁡
+        
+          
+            δ
+            2
+          
+        
+        =
+        
+          
+            
+              r
+              
+                
+                  e
+                  x
+                
+              
+            
+            
+              r
+              
+                
+                  i
+                  n
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \tan {\frac {\delta }{2}}={\frac {r_{\mathrm {ex} }}{r_{\mathrm {in} }}}.}
+  δ is the 180-degree complement of the 
+internal face-to-face angle.
+
+
+=== Tetrahedron ===
+Applied to the geometry of the Tetrahedron of edge length a,
+we have an incircle radius rin = a/(2√3) (derived by dividing twice the face area (a2√3)/4 through the
+perimeter 3a), a dihedral angle δ = π - arccos(1/3), and in consequence rex = a/√6.
+
+
+=== Cube ===
+The radius of the exspheres of the 6 faces of the Cube
+is the same as the radius of the inscribed
+sphere, since δ and its complement are the same, 90 degrees.
+
+
+=== Icosahedron ===
+The dihedral angle applicable to the Icosahedron is derived by
+considering the coordinates of two triangles with a common edge,
+for example one face with vertices
+at
+
+  
+    
+      
+        (
+        0
+        ,
+        −
+        1
+        ,
+        g
+        )
+        ,
+        (
+        g
+        ,
+        0
+        ,
+        1
+        )
+        ,
+        (
+        0
+        ,
+        1
+        ,
+        g
+        )
+        ,
+      
+    
+    {\displaystyle (0,-1,g),(g,0,1),(0,1,g),}
+  the other at
+
+  
+    
+      
+        (
+        1
+        ,
+        −
+        g
+        ,
+        0
+        )
+        ,
+        (
+        g
+        ,
+        0
+        ,
+        1
+        )
+        ,
+        (
+        0
+        ,
+        −
+        1
+        ,
+        g
+        )
+        ,
+      
+    
+    {\displaystyle (1,-g,0),(g,0,1),(0,-1,g),}
+  where g is the golden ratio. Subtracting vertex coordinates
+defines edge vectors,
+
+  
+    
+      
+        (
+        g
+        ,
+        1
+        ,
+        1
+        −
+        g
+        )
+        ,
+        (
+        −
+        g
+        ,
+        1
+        ,
+        g
+        −
+        1
+        )
+      
+    
+    {\displaystyle (g,1,1-g),(-g,1,g-1)}
+  of the first face and
+
+  
+    
+      
+        (
+        g
+        −
+        1
+        ,
+        g
+        ,
+        1
+        )
+        ,
+        (
+        −
+        g
+        ,
+        −
+        1
+        ,
+        g
+        −
+        1
+        )
+      
+    
+    {\displaystyle (g-1,g,1),(-g,-1,g-1)}
+  of the other. Cross products of the edges of the first face and second
+face yield (not normalized) face normal vectors
+
+  
+    
+      
+        (
+        2
+        g
+        −
+        2
+        ,
+        0
+        ,
+        2
+        g
+        )
+        ∼
+        (
+        g
+        −
+        1
+        ,
+        0
+        ,
+        g
+        )
+      
+    
+    {\displaystyle (2g-2,0,2g)\sim (g-1,0,g)}
+  of the first and
+
+  
+    
+      
+        (
+        
+          g
+          
+            2
+          
+        
+        −
+        g
+        +
+        1
+        ,
+        −
+        g
+        −
+        (
+        g
+        −
+        1
+        
+          )
+          
+            2
+          
+        
+        ,
+        1
+        −
+        g
+        +
+        
+          g
+          
+            2
+          
+        
+        )
+        =
+        (
+        2
+        ,
+        −
+        2
+        ,
+        2
+        )
+        ∼
+        (
+        1
+        ,
+        −
+        1
+        ,
+        1
+        )
+      
+    
+    {\displaystyle (g^{2}-g+1,-g-(g-1)^{2},1-g+g^{2})=(2,-2,2)\sim (1,-1,1)}
+  of the second face, using g2=1+g.
+The dot product between these two face normals yields the cosine
+of the dihedral angle,
+
+  
+    
+      
+        cos
+        ⁡
+        δ
+        =
+        
+          
+            
+              (
+              g
+              −
+              1
+              )
+              ⋅
+              1
+              +
+              g
+              ⋅
+              1
+            
+            
+              
+                
+                  (
+                  g
+                  −
+                  1
+                  
+                    )
+                    
+                      2
+                    
+                  
+                  +
+                  
+                    g
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  3
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              2
+              g
+              −
+              1
+            
+            3
+          
+        
+        =
+        
+          
+            
+              √
+              5
+            
+            3
+          
+        
+        ≈
+        0.74535599.
+      
+    
+    {\displaystyle \cos \delta ={\frac {(g-1)\cdot 1+g\cdot 1}{{\sqrt {(g-1)^{2}+g^{2}}}{\sqrt {3}}}}={\frac {2g-1}{3}}={\frac {\surd 5}{3}}\approx 0.74535599.}
+   OEIS: A208899
+
+  
+    
+      
+        ∴
+        δ
+        ≈
+        0.72973
+        
+        
+          r
+          a
+          d
+        
+        ≈
+        
+          41.81
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle \therefore \delta \approx 0.72973\,\mathrm {rad} \approx 41.81^{\circ }}
+  
+
+  
+    
+      
+        ∴
+        tan
+        ⁡
+        
+          
+            δ
+            2
+          
+        
+        =
+        
+          
+            
+              sin
+              ⁡
+              δ
+            
+            
+              1
+              +
+              cos
+              ⁡
+              δ
+            
+          
+        
+        =
+        
+          
+            2
+            
+              3
+              +
+              √
+              5
+            
+          
+        
+        ≈
+        0.3819660
+      
+    
+    {\displaystyle \therefore \tan {\frac {\delta }{2}}={\frac {\sin \delta }{1+\cos \delta }}={\frac {2}{3+\surd 5}}\approx 0.3819660}
+   OEIS: A132338For an icosahedron of edge length a, the incircle radius of the triangular faces is rin = a/(2√3), and finally the radius of the 20 exspheres
+
+  
+    
+      
+        
+          r
+          
+            
+              e
+              x
+            
+          
+        
+        =
+        
+          
+            a
+            
+              (
+              3
+              +
+              
+                
+                  5
+                
+              
+              )
+              
+                
+                  3
+                
+              
+            
+          
+        
+        ≈
+        0.1102641
+        a
+        .
+      
+    
+    {\displaystyle r_{\mathrm {ex} }={\frac {a}{(3+{\sqrt {5}}){\sqrt {3}}}}\approx 0.1102641a.}
+  
+
+
+== See also ==
+Insphere
+
+
+== External links ==
+Gerber, Leon (1977). "Associated and skew-orthologic simplexes". Trans. Am. Math. Soc. 231 (1): 47–63. doi:10.1090/S0002-9947-1977-0445393-6. JSTOR 1997867. MR 0445393.
+Hajja, Mowaffaq (2005). "The Gergonne and Nagel centers of an n-dimensional simplex". J. Geom. 83 (1–2): 46–56. doi:10.1007/s00022-005-0011-3. S2CID 123076195.

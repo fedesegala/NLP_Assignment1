@@ -1,0 +1,31 @@
+Aminoacylase 1 deficiency is a rare inborn error of metabolism. To date only 21 cases have been described.
+
+
+== Signs and symptoms ==
+The clinical picture is heterogeneous and includes motor delay, seizures, moderate to severe mental retardation, absent speech, growth delay, muscular hypotonia and autistic features.
+
+
+== Genetics ==
+This disorder in inherited in an autosomal recessive fashion.
+
+
+== Molecular biology ==
+Aminoacylase 1 (ACY1: EC 3.5.14) is a zinc binding enzyme which hydrolyzes N-acetyl amino acids into the free amino acid and acetic acid. Of the N-acetyl amino hydrolyzing enzymes, aminoacylase 1 is the most common.
+The ACY1 gene is located on the short arm of chromosome 3 (3p21.2).
+
+
+== Diagnosis ==
+There is a specific pattern of N-acetyl amino acid excretion in the urine. The diagnosis can be confirmed by sequencing of the aminoacylase 1 gene.
+
+
+== Treatment ==
+
+
+== History ==
+This disorder was first reported in 2005.
+
+
+== References ==
+
+
+== External links ==

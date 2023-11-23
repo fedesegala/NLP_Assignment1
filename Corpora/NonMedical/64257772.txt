@@ -1,0 +1,1957 @@
+The Laguerre transformations or axial homographies are an analogue of Möbius transformations over the dual numbers. When studying these transformations, the dual numbers are often interpreted as representing oriented lines on the plane. The Laguerre transformations map lines to lines, and include in particular all isometries of the plane.
+Strictly speaking, these transformations act on the 
+dual number projective line, which adjoins to the dual numbers a set of points at infinity. Topologically, this projective line is equivalent to a cylinder. Points on this cylinder are in a natural one-to-one correspondence with oriented lines on the plane.
+
+
+== Definition ==
+A Laguerre transformation is a linear fractional transformation 
+  
+    
+      
+        z
+        ↦
+        
+          
+            
+              a
+              z
+              +
+              b
+            
+            
+              c
+              z
+              +
+              d
+            
+          
+        
+      
+    
+    {\displaystyle z\mapsto {\frac {az+b}{cz+d}}}
+   where 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+        ,
+        d
+      
+    
+    {\displaystyle a,b,c,d}
+   are all dual numbers, 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   lies on the dual number projective line, and 
+  
+    
+      
+        a
+        d
+        −
+        b
+        c
+      
+    
+    {\displaystyle ad-bc}
+   is not a zero divisor.
+A dual number is a hypercomplex number of the form 
+  
+    
+      
+        x
+        +
+        y
+        ε
+      
+    
+    {\displaystyle x+y\varepsilon }
+   where 
+  
+    
+      
+        
+          ε
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \varepsilon ^{2}=0}
+   but 
+  
+    
+      
+        ε
+        ≠
+        0
+      
+    
+    {\displaystyle \varepsilon \neq 0}
+  . This can be compared to the complex numbers which are of the form 
+  
+    
+      
+        x
+        +
+        y
+        i
+      
+    
+    {\displaystyle x+yi}
+   where 
+  
+    
+      
+        
+          i
+          
+            2
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle i^{2}=-1}
+  .
+The points of the dual number projective line can be defined equivalently in two ways:
+
+The usual set of dual numbers, but with some additional "points at infinity". Formally, the set is 
+  
+    
+      
+        {
+        x
+        +
+        y
+        ε
+        ∣
+        x
+        ∈
+        
+          R
+        
+        ,
+        y
+        ∈
+        
+          R
+        
+        }
+        ∪
+        
+          {
+          
+            
+              
+                1
+                
+                  x
+                  ε
+                
+              
+            
+            ∣
+            x
+            ∈
+            
+              R
+            
+          
+          }
+        
+      
+    
+    {\displaystyle \{x+y\varepsilon \mid x\in \mathbb {R} ,y\in \mathbb {R} \}\cup \left\{{\frac {1}{x\varepsilon }}\mid x\in \mathbb {R} \right\}}
+  . The points at infinity can be expressed as 
+  
+    
+      
+        
+          
+            1
+            
+              x
+              ε
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{x\varepsilon }}}
+   where 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is an arbitrary real number. Different values of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   correspond to different points at infinity. These points are infinite because 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   is often understood as being an infinitesimal number, and so 
+  
+    
+      
+        1
+        
+          /
+        
+        ε
+      
+    
+    {\displaystyle 1/\varepsilon }
+   is therefore infinite.
+The homogeneous coordinates [x : y] with x and y dual numbers such that the ideal that they generate is the whole ring of dual numbers. The ring is viewed through the injection x ↦ [x : 1]. The projective line includes points [1 : yε].
+
+
+== Line coordinates ==
+A line which makes an angle 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   with the x-axis, and whose x-intercept is denoted 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  , is represented by the dual number
+
+  
+    
+      
+        z
+        =
+        tan
+        ⁡
+        (
+        θ
+        
+          /
+        
+        2
+        )
+        (
+        1
+        +
+        ε
+        s
+        )
+        .
+      
+    
+    {\displaystyle z=\tan(\theta /2)(1+\varepsilon s).}
+  The above doesn't make sense when the line is parallel to the x-axis. In that case, if 
+  
+    
+      
+        θ
+        =
+        π
+      
+    
+    {\displaystyle \theta =\pi }
+   then set 
+  
+    
+      
+        z
+        =
+        
+          
+            
+              −
+              2
+            
+            
+              ε
+              R
+            
+          
+        
+      
+    
+    {\displaystyle z={\frac {-2}{\varepsilon R}}}
+   where 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   is the y-intercept of the line. This may not appear to be valid, as one is dividing by a zero divisor, but this is a valid point on the projective dual line. If 
+  
+    
+      
+        θ
+        =
+        2
+        π
+      
+    
+    {\displaystyle \theta =2\pi }
+   then set 
+  
+    
+      
+        z
+        =
+        
+          
+            1
+            2
+          
+        
+        ε
+        R
+      
+    
+    {\displaystyle z={\frac {1}{2}}\varepsilon R}
+  .
+Finally, observe that these coordinates represent oriented lines. An oriented line is an ordinary line with one of two possible orientations attached to it. This can be seen from the fact that if 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   is increased by 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   then the resulting dual number representative is not the same.
+
+
+== Matrix representations ==
+It's possible to express the above line coordinates as homogeneous coordinates 
+  
+    
+      
+        z
+        =
+        
+          [
+          
+            sin
+            ⁡
+            
+              (
+              
+                
+                  
+                    θ
+                    +
+                    ε
+                    R
+                  
+                  2
+                
+              
+              )
+            
+            :
+            cos
+            ⁡
+            
+              (
+              
+                
+                  
+                    θ
+                    +
+                    ε
+                    R
+                  
+                  2
+                
+              
+              )
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle z=\left[\sin \left({\frac {\theta +\varepsilon R}{2}}\right):\cos \left({\frac {\theta +\varepsilon R}{2}}\right)\right]}
+   where 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   is the perpendicular distance of the line from the origin. This representation has numerous advantages: One advantage is that there is no need to break into different cases, such as parallel to the 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  -axis and non-parallel. The other advantage is that these homogeneous coordinates can be interpreted as vectors, allowing us to multiply them by matrices.
+Every Laguerre transformation can be represented as a 2×2 matrix whose entries are dual numbers. The matrix representation of 
+  
+    
+      
+        z
+        ↦
+        
+          
+            
+              p
+              z
+              +
+              q
+            
+            
+              r
+              z
+              +
+              s
+            
+          
+        
+      
+    
+    {\displaystyle z\mapsto {\frac {pz+q}{rz+s}}}
+   is 
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  p
+                
+                
+                  q
+                
+              
+              
+                
+                  r
+                
+                
+                  s
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle {\begin{pmatrix}p&q\\r&s\end{pmatrix}}}
+   (but notice that any non-nilpotent scalar multiple of this matrix represents the same Laguerre transformation). Additionally, as long as the determinant of a 2×2 matrix with dual-number entries is not nilpotent, then it represents a Laguerre transformation.
+(Note that in the above, we represent the homogeneous vector 
+  
+    
+      
+        [
+        z
+        :
+        w
+        ]
+      
+    
+    {\displaystyle [z:w]}
+   as a column vector in the obvious way, instead of as a row vector.)
+
+
+== Points, oriented lines and oriented circles ==
+Laguerre transformations do not act on points. This is because if three oriented lines pass through the same point, their images under a Laguerre transformation do not have to meet at one point.
+Laguerre transformations can be seen as acting on oriented circles as well as oriented lines. An oriented circle is an ordinary circle with a binary value attached to it, which is either 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+   or 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+  . The only exception is a circle of radius zero, which has orientation equal to 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  . A point is defined to be an oriented circle of radius zero. If an oriented circle has orientation equal to 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  , then the circle is said to be "anti-clockwise" oriented; if it has orientation equal to 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+   then it is "clockwise" oriented. The radius of an oriented circle is defined to be the radius 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   of the underlying unoriented circle multiplied by the orientation.
+The image of an oriented circle under a Laguerre transformation is another oriented circle. If two oriented figures – either circles or lines – are tangent to each other then their images under a Laguerre transformation are also tangent. Two oriented circles are defined to be tangent if their underlying circles are tangent and their orientations are equal at the point of contact. Tangency between lines and circles is defined similarly. A Laguerre transformation might map a point to an oriented circle which is no longer a point.
+An oriented circle can never be mapped to an oriented line. Likewise, an oriented line can never be mapped to an oriented circle. This is opposite to Möbius geometry, where lines and circles can be mapped to each other, but neither can be mapped to points. Both Möbius geometry and Laguerre geometry are subgeometries of Lie sphere geometry, where points and oriented lines can be mapped to each other, but tangency remains preserved.
+The matrix representations of oriented circles (which include points but not lines) are precisely the invertible 
+  
+    
+      
+        2
+        ×
+        2
+      
+    
+    {\displaystyle 2\times 2}
+   skew-Hermitian dual number matrices. These are all of the form 
+  
+    
+      
+        H
+        =
+        
+          
+            (
+            
+              
+                
+                  ε
+                  a
+                
+                
+                  b
+                  +
+                  c
+                  ε
+                
+              
+              
+                
+                  −
+                  b
+                  +
+                  c
+                  ε
+                
+                
+                  ε
+                  d
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle H={\begin{pmatrix}\varepsilon a&b+c\varepsilon \\-b+c\varepsilon &\varepsilon d\end{pmatrix}}}
+   (where all the variables are real, and 
+  
+    
+      
+        b
+        ≠
+        0
+      
+    
+    {\displaystyle b\neq 0}
+  ). The set of oriented lines tangent to an oriented circle is given by 
+  
+    
+      
+        {
+        v
+        ∈
+        
+          
+            D
+            P
+          
+          
+            1
+          
+        
+        ∣
+        
+          v
+          
+            ∗
+          
+        
+        H
+        v
+        =
+        0
+        }
+      
+    
+    {\displaystyle \{v\in \mathbb {DP} ^{1}\mid v^{*}Hv=0\}}
+   where 
+  
+    
+      
+        
+          
+            D
+            P
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbb {DP} ^{1}}
+   denotes the projective line over the dual numbers 
+  
+    
+      
+        
+          D
+        
+      
+    
+    {\displaystyle \mathbb {D} }
+  . Applying a Laguerre transformation represented by 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   to the oriented circle represented by 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   gives the oriented circle represented by 
+  
+    
+      
+        (
+        
+          M
+          
+            −
+            1
+          
+        
+        
+          )
+          
+            ∗
+          
+        
+        H
+        
+          M
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle (M^{-1})^{*}HM^{-1}}
+  . The radius of an oriented circle is equal to the half the trace. The orientation is then the sign of the trace.
+
+
+== Profile ==
+Note that the animated figures below show some oriented lines, but without any visual indication of a line's orientation (so two lines that differ only in orientation are displayed in the same way); oriented circles are shown as a set of oriented tangent lines, which results in a certain visual effect.
+The following can be found in Isaak Yaglom's Complex numbers in geometry and a paper by Gutin entitled Generalizations of singular value decomposition to dual-numbered matrices.
+
+
+=== Unitary matrices ===
+Mappings of the form 
+  
+    
+      
+        z
+        ↦
+        
+          
+            
+              p
+              z
+              −
+              q
+            
+            
+              
+                
+                  
+                    q
+                    ¯
+                  
+                
+              
+              z
+              +
+              
+                
+                  
+                    p
+                    ¯
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle z\mapsto {\frac {pz-q}{{\bar {q}}z+{\bar {p}}}}}
+   express rigid body motions (sometimes called direct Euclidean isometries). The matrix representations of these transformations span a subalgebra isomorphic to the planar quaternions.
+The mapping 
+  
+    
+      
+        z
+        ↦
+        −
+        z
+      
+    
+    {\displaystyle z\mapsto -z}
+   represents a reflection about the x-axis.
+The transformation 
+  
+    
+      
+        z
+        ↦
+        1
+        
+          /
+        
+        z
+      
+    
+    {\displaystyle z\mapsto 1/z}
+   expresses a reflection about the y-axis.
+Observe that if 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   is the matrix representation of any combination of the above three transformations, but normalised so as to have determinant 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  , then 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   satisfies 
+  
+    
+      
+        U
+        
+          U
+          
+            ∗
+          
+        
+        =
+        
+          U
+          
+            ∗
+          
+        
+        U
+        =
+        I
+      
+    
+    {\displaystyle UU^{*}=U^{*}U=I}
+   where 
+  
+    
+      
+        
+          U
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle U^{*}}
+   means 
+  
+    
+      
+        
+          
+            
+              U
+              ¯
+            
+          
+          
+            
+              T
+            
+          
+        
+      
+    
+    {\displaystyle {\overline {U}}^{\mathrm {T} }}
+  . We will call these unitary matrices. Notice though that these are unitary in the sense of the dual numbers and not the complex numbers. The unitary matrices express precisely the Euclidean isometries.
+
+
+=== Axial dilation matrices ===
+An axial dilation by 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   units is a transformation of the form 
+  
+    
+      
+        
+          
+            
+              z
+              +
+              (
+              ε
+              t
+              
+                /
+              
+              2
+              )
+            
+            
+              (
+              −
+              ε
+              t
+              
+                /
+              
+              2
+              )
+              z
+              +
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {z+(\varepsilon t/2)}{(-\varepsilon t/2)z+1}}}
+  . An axial dilation by 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   units increases the radius of all oriented circles by 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   units while preserving their centres. If a circle has negative orientation, then its radius is considered negative, and therefore for some positive values of 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   the circle actually shrinks. An axial dilation is depicted in Figure 1, in which two circles of opposite orientations undergo the same axial dilation.
+On lines, an axial dilation by 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   units maps any line 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   to a line 
+  
+    
+      
+        
+          z
+          ′
+        
+      
+    
+    {\displaystyle z'}
+   such that 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   and 
+  
+    
+      
+        
+          z
+          ′
+        
+      
+    
+    {\displaystyle z'}
+   are parallel, and the perpendicular distance between 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   and 
+  
+    
+      
+        
+          z
+          ′
+        
+      
+    
+    {\displaystyle z'}
+   is 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  . Lines that are parallel but have opposite orientations move in opposite directions.
+
+
+=== Real diagonal matrices ===
+The transformation 
+  
+    
+      
+        z
+        ↦
+        k
+        z
+      
+    
+    {\displaystyle z\mapsto kz}
+   for a value of 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   that's real preserves the x-intercept of a line, while changing its angle to the x-axis. See Figure 2 to observe the effect on a grid of lines (including the x axis in the middle) and Figure 3 to observe the effect on two circles that differ initially only in orientation (to see that the outcome is sensitive to orientation).
+
+
+=== A general decomposition ===
+Putting it all together, a general Laguerre transformation in matrix form can be expressed as 
+  
+    
+      
+        U
+        S
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle USV^{*}}
+   where 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   and 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   are unitary, and 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is a matrix either of the form 
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  b
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle {\begin{pmatrix}a&0\\0&b\end{pmatrix}}}
+   or 
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  −
+                  b
+                  ε
+                
+              
+              
+                
+                  b
+                  ε
+                
+                
+                  a
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle {\begin{pmatrix}a&-b\varepsilon \\b\varepsilon &a\end{pmatrix}}}
+   where 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   are real numbers. The matrices 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   and 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   express Euclidean isometries. The matrix 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   either represents a transformation of the form 
+  
+    
+      
+        z
+        ↦
+        k
+        z
+      
+    
+    {\displaystyle z\mapsto kz}
+   or an axial dilation. The resemblance to Singular Value Decomposition should be clear.Note: In the event that 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is an axial dilation, the factor 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   can be set to the identity matrix. This follows from the fact that if 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   is unitary and 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is an axial dilation, then it can be seen that 
+  
+    
+      
+        S
+        V
+        =
+        
+          
+            {
+            
+              
+                
+                  V
+                  S
+                  ,
+                
+                
+                  det
+                  (
+                  V
+                  )
+                  =
+                  +
+                  1
+                
+              
+              
+                
+                  V
+                  
+                    S
+                    
+                      
+                        T
+                      
+                    
+                  
+                  ,
+                
+                
+                  det
+                  (
+                  V
+                  )
+                  =
+                  −
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle SV={\begin{cases}VS,&\det(V)=+1\\VS^{\mathrm {T} },&\det(V)=-1\end{cases}}}
+  , where 
+  
+    
+      
+        
+          S
+          
+            
+              T
+            
+          
+        
+      
+    
+    {\displaystyle S^{\mathrm {T} }}
+   denotes the transpose of 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  . So 
+  
+    
+      
+        U
+        S
+        
+          V
+          
+            ∗
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  (
+                  U
+                  
+                    V
+                    
+                      ∗
+                    
+                  
+                  )
+                  S
+                  ,
+                
+                
+                  det
+                  (
+                  V
+                  )
+                  =
+                  +
+                  1
+                
+              
+              
+                
+                  (
+                  U
+                  
+                    V
+                    
+                      ∗
+                    
+                  
+                  )
+                  
+                    S
+                    
+                      
+                        T
+                      
+                    
+                  
+                  ,
+                
+                
+                  det
+                  (
+                  V
+                  )
+                  =
+                  −
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle USV^{*}={\begin{cases}(UV^{*})S,&\det(V)=+1\\(UV^{*})S^{\mathrm {T} },&\det(V)=-1\end{cases}}}
+  .
+
+
+== Other number systems and the parallel postulate ==
+
+
+=== Complex numbers and elliptic geometry ===
+A question arises: What happens if the role of the dual numbers above is changed to the complex numbers? In that case, the complex numbers represent oriented lines in the elliptic plane (the plane which elliptic geometry takes places over). This is in contrast to the dual numbers, which represent oriented lines in the Euclidean plane. The elliptic plane is essentially a sphere (but where antipodal points are identified), and the lines are thus great circles. We can choose an arbitrary great circle to be the equator. The oriented great circle which intersects the equator at longitude 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  , and makes an angle 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   with the equator at the point of intersection, can be represented by the complex number 
+  
+    
+      
+        tan
+        ⁡
+        (
+        θ
+        
+          /
+        
+        2
+        )
+        (
+        cos
+        ⁡
+        (
+        s
+        )
+        +
+        i
+        sin
+        ⁡
+        (
+        s
+        )
+        )
+      
+    
+    {\displaystyle \tan(\theta /2)(\cos(s)+i\sin(s))}
+  . In the case where 
+  
+    
+      
+        θ
+        =
+        π
+      
+    
+    {\displaystyle \theta =\pi }
+   (where the line is literally the same as the equator, but oriented in the opposite direction as when 
+  
+    
+      
+        θ
+        =
+        0
+      
+    
+    {\displaystyle \theta =0}
+  ) the oriented line is represented as 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+  . Similar to the case of the dual numbers, the unitary matrices act as isometries of the elliptic plane. The set of "elliptic Laguerre transformations" (which are the analogues of the Laguerre transformations in this setting) can be decomposed using Singular Value Decomposition of complex matrices, in a similar way to how we decomposed Euclidean Laguerre transformations using an analogue of Singular Value Decomposition for dual-number matrices.
+
+
+=== Split-complex numbers and hyperbolic geometry ===
+If the role of the dual numbers or complex numbers is changed to the split-complex numbers, then a similar formalism can be developed for representing oriented lines on the hyperbolic plane instead of the Euclidean or elliptic planes: A split-complex number can be written in the form 
+  
+    
+      
+        (
+        a
+        ,
+        −
+        
+          b
+          
+            −
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle (a,-b^{-1})}
+   because the algebra in question is isomorphic to 
+  
+    
+      
+        
+          R
+        
+        ⊕
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} \oplus \mathbb {R} }
+  . (Notice though that as a *-algebra, as opposed to a mere algebra, the split-complex numbers are not decomposable in this way). The terms 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   in 
+  
+    
+      
+        (
+        a
+        ,
+        −
+        
+          b
+          
+            −
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle (a,-b^{-1})}
+   represent points on the boundary of the hyperbolic plane; they are respectively the starting and ending points of an oriented line. Since the boundary of the hyperbolic plane is homeomorphic to the projective line 
+  
+    
+      
+        
+          
+            R
+            P
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbb {RP} ^{1}}
+  , we need 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   to belong to the projective line 
+  
+    
+      
+        
+          
+            R
+            P
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbb {RP} ^{1}}
+   instead of the affine line 
+  
+    
+      
+        
+          
+            R
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{1}}
+  . Indeed, this hints that 
+  
+    
+      
+        (
+        
+          R
+        
+        ⊕
+        
+          R
+        
+        )
+        
+          
+            P
+          
+          
+            1
+          
+        
+        ≅
+        
+          R
+        
+        
+          
+            P
+          
+          
+            1
+          
+        
+        ⊕
+        
+          R
+        
+        
+          
+            P
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle (\mathbb {R} \oplus \mathbb {R} )\mathbb {P} ^{1}\cong \mathbb {R} \mathbb {P} ^{1}\oplus \mathbb {R} \mathbb {P} ^{1}}
+  .
+The analogue of unitary matrices over the split-complex numbers are the isometries of the hyperbolic plane. This is shown by Yaglom. Furthermore, the set of linear fractional transformations can be decomposed in a way that resembles Singular Value Decomposition, but which also unifies it with the Jordan decomposition.
+
+
+=== Summary ===
+We therefore have a correspondence between the three planar number systems (complex, dual and split-complex numbers) and the three non-Euclidean geometries. The number system that corresponds to Euclidean geometry is the dual numbers.
+
+
+== In higher dimensions ==
+
+
+=== Euclidean ===
+n-dimensional Laguerre space is isomorphic to n + 1 Minkowski space. To associate a point 
+  
+    
+      
+        P
+        =
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        ,
+        r
+        )
+      
+    
+    {\displaystyle P=(x_{1},x_{2},\dotsc ,x_{n},r)}
+   in Minkowski space to an oriented hypersphere, intersect the light cone centred at 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   with the 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    {\displaystyle t=0}
+   hyperplane. The group of Laguerre transformations is isomorphic then to the Poincaré group 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+            ,
+            1
+          
+        
+        ⋊
+        O
+        ⁡
+        (
+        n
+        ,
+        1
+        )
+      
+    
+    {\displaystyle \mathbb {R} ^{n,1}\rtimes \operatorname {O} (n,1)}
+  . These transformations are exactly those which preserve a kind of squared distance between oriented circles called their Darboux product. The direct Laguerre transformations are defined as the subgroup 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+            ,
+            1
+          
+        
+        ⋊
+        
+          O
+          
+            +
+          
+        
+        ⁡
+        (
+        n
+        ,
+        1
+        )
+      
+    
+    {\displaystyle \mathbb {R} ^{n,1}\rtimes \operatorname {O} ^{+}(n,1)}
+  . In 2 dimensions, the direct Laguerre transformations can be represented by 2×2 dual number matrices. If the 2×2 dual number matrices are understood as constituting the Clifford algebra 
+  
+    
+      
+        
+          Cl
+          
+            2
+            ,
+            0
+            ,
+            1
+          
+        
+        ⁡
+        (
+        
+          R
+        
+        )
+      
+    
+    {\displaystyle \operatorname {Cl} _{2,0,1}(\mathbb {R} )}
+  , then analogous Clifford algebraic representations are possible in higher dimensions.
+If we embed Minkowski space 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+            ,
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n,1}}
+   in the projective space 
+  
+    
+      
+        
+          
+            R
+            P
+          
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbb {RP} ^{n+1}}
+   while keeping the transformation group the same, then the points at infinity are oriented flats. We call them "flats" because their shape is flat. In 2 dimensions, these are the oriented lines.
+As an aside, there are two non-equivalent definitions of a Laguerre transformation: Either as a Lie sphere transformation that preserves oriented flats, or as a Lie sphere transformation that preserves the Darboux product. We use the latter convention in this article. Note that even in 2 dimensions, the former transformation group is more general than the latter: A homothety for example maps oriented lines to oriented lines, but does not in general preserve the Darboux product. This can be demonstrated using the homothety centred at 
+  
+    
+      
+        (
+        0
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (0,0)}
+   by 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   units. Now consider the action of this transformation on two circles: One simply being the point 
+  
+    
+      
+        (
+        0
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (0,0)}
+  , and the other being a circle of raidus 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+   centred at 
+  
+    
+      
+        (
+        0
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (0,0)}
+  . These two circles have a Darboux product equal to 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+  . Their images under the homothety have a Darboux product equal to 
+  
+    
+      
+        −
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle -t^{2}}
+  . This therefore only gives a Laguerre transformation when 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle t^{2}=1}
+  .
+
+
+== Conformal interpretation ==
+In this section, we interpret Laguerre transformations differently from in the rest of the article. When acting on line coordinates, Laguerre transformations are not understood to be conformal in the sense described here. This is clearly demonstrated in Figure 2.
+The Laguerre transformations preserve  angles when the  proper angle for the dual number plane is identified. When a ray y = mx, x ≥ 0, and the positive x-axis are taken for sides of an angle, the slope m is the magnitude of this angle.
+This number m corresponds to the signed area of the right triangle with base on the interval [(√2,0), (√2, m √2)]. The line {1 + aε: a ∈ ℝ}, with the dual number multiplication, forms a subgroup of the unit dual numbers, each element being a shear mapping when acting on the dual number plane. Other angles in the plane are generated by such action, and since shear mapping preserves area, the size  of these angles is the same as the original.
+Note that the inversion z to 1/z leaves angle size invariant. As the general Laguerre transformation is generated by translations, dilations, shears, and inversions, and all of these leave angle invariant, the general Laguerre transformation is conformal in the sense of these angles.: 81 
+
+
+== See also ==
+Edmond Laguerre
+Laguerre plane
+Isaak Yaglom
+Line coordinates
+
+
+== References ==
+
+
+== External links ==
+"Oriented circles and 3D relativistic geometry" An elementary video introducing concepts in Laguerre geometry. The video is presented from the rational trigonometry perspective

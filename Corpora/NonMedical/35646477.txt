@@ -1,0 +1,41 @@
+'Fast fit (often capitalized and written as Fast Fit,) refers to a method of handling the shipping and sampling processes typical of multinational organizations who primarily manufacture offshore, specifically in the fashion and textile industry. The Fast Fit philosophy centers on the sharing of 360-degree, annotatable images intended to reduce the costs and lead times associated with shipping physical samples. The term is particularly prevalent among companies that fit the Fast Fashion model, as Fast Fit is considered to be a vital component in the reduction of time between design inspiration and final production of a garment or product.
+
+
+== Philosophy ==
+
+
+=== Relationship to Fast Fashion ===
+The goal of Fast Fashion (a philosophy that drives high street retailers and brands like Zara, H&M, Topshop, Benetton, American Apparel and Peacocks) is to create demand for – and deliver to market – garments “closer to trend” and at a lower price point than was possible using traditional design, sampling, manufacturing and logistics methods. This is typically achieved through a combination of technology, supply chain agility, inventory monitoring and replenishment.
+The Fast Fashion model, with its emphasis on the rapid release of mini-collections, can only operate when superlative efficiency is achieved at each stage of the product development process.  According to recent research, garment quality and cost are still the primary factors in consumers buying decisions, and while catwalk-inspired designs may seem to appear quickly on store shelves under the Fast Fashion model, each garment or accessory is required to undergo the same iterative sampling, fitting, quality assurance and pricing processes as it would under any other model.
+Traditionally, those processes are handled by the physical shipping of sample garments from one continent to another. The Fast Fit philosophy is intended to replace at least a portion of this costly and time-consuming process with detailed, 360-degree images of those samples, recognizing the fact that images are the most universal and efficient form of communication.
+
+
+=== International manufacture and collaboration ===
+With the rise of offshore manufacture and distributed working, the cost and time implications of traditional fitting and sampling processes have become increasingly ill-suited to the industrial and commercial requirements of the Fast Fashion model.
+Fast Fit is designed to be the most efficient method of fitting, sampling and international collaboration – delivering for each process lead time and cost savings comparable to those seen in design, manufacture and logistics under the Fast Fashion model. By reducing the need for international sample shipping – replacing it with a centralized, platform-agnostic database of 360-degree, annotatable images, Fast Fit aims to reduce the traditional 4-9 month product cycle seen under traditional methods to 4–8 weeks.
+
+
+=== The Luxury Market & Unique Projects ===
+While Fast Fit is used as a component of the Fast Fashion model, the methodology is also suited to the development of different collections that do not fit the mini-season, rapid replenishment definition that is typical of that model.
+As seen in Ralph Lauren’s adoption of the FastFit360 solution for the creation of its Olympic Collection, (the brand being tasked with the design of Team USA's uniforms for the 2012 Olympics,) the benefits of analyzing and annotating comprehensive, detailed product images are as applicable to long-term projects with meticulous quality requirements as they are to the rapid creation of new, short-term styles for the consumer market.
+
+
+== The History ==
+Although Spanish-headquartered chain Zara is often held as the model for Fast Fashion (manufacturing more than 30,000 units each year, and delivering to 1,600 stores in 58 countries), the company actually conducts their own design and production at a complex in La Coruna, Spain.  This is in contrast to many brands and manufacturers, who moved the bulk of their manufacturing offshore in the first decade of the twenty-first century and today conduct manufacturing in a wide variety of locations.
+As of 2008, the world's most prominent manufacturers and exporters of apparel were China, the twenty-seven countries comprising the EU, Turkey, Bangladesh, India, Vietnam, Indonesia and Mexico.  This trend arose as a method of reducing the cost of manufacturing garments, and followed the founding of what had become known as the Quick Response method.
+Quick Response was intended to protect the domestic manufacturing industries of the US and Europe when it was established in the 1980s. A far-reaching term, it encompassed a variety of methods that were designed to reduce the lead time of products manufactured within those domestic markets.  Today those same methods – adapted in some cases - have become the cornerstones of Fast Fashion.
+As of 2012, a larger portion of manufacture is undertaken domestically, but the largest and highest-profiled retailers and brands still source from a mixture of international and domestic partners – whether or not they fit the Fast Fashion model. This has given rise to a complex situation whereby fashion is inspired and designed domestically, manufactured by partners who are variously located domestically or offshore (with the associated language and customs difficulties this entails), before being imported and sold to the domestic market. As a result, the savings derived from working internationally are, for many brands, being outweighed by the new costs of shipping garment samples from one continent to another.  As a way of reducing these costs, teams on opposite sides of the world had, by 2005, begun to share images rather than physical samples where possible, but the quality of these varied wildly and there was little in the way of standardization.
+It was in that landscape of offshore manufacturing and inconsistent visual communication that the first Fast Fit solution, dubbed FastFit360, was developed by Nevada-based Visuals In Motion.  The company identified the need for an accurate, consistent way for multinational teams to collaborate on the design and creation of garments and products.  Initially the company's software focused on that need - allowing designers and garment technicians to share and annotate 360-degree images of their samples (the essence of Fast Fit), but in 2009 Visuals In Motion spearheaded its development into a cloud-based, social platform that has driven adoption of the Fast Fit model in both the luxury and Fast Fashion markets.
+
+
+== Traditional Production and Sampling Process ==
+Irrespective of the production model under which they are created, all products in the apparel industry undergo a similar cycle:
+
+Inspiration is gleaned from catwalk shows, design-led publications, competitors and other industry sources;
+Design and garment-technical work is undertaken in-house or by designated freelance contractors;
+The resulting industrialized design is then put out to tender (using what is called a tech pack), with several supply chain partners being given the opportunity to demonstrate their ability to produce the garment to the desired standard and at an acceptable cost;
+The selected manufacturer then begins the iterative process of constructing samples, shipping those samples to the brand's designed office until one is approved for final production;
+Finally, logistics partners deliver the garment to stores or to intermediary warehouses, where quality assurance typically takes place.Under the traditional model, garments and lines are compiled into fixed inventories for a particular season before delivery to store; the price of those garments is fixed, and remains relatively static until clearance-sale markdowns are employed to make way for new stock. The Fast Fashion model is more flexible, and the concept of seasons is often sub-divided, with mini-collections being delivered to stores on a more regular basis. This is designed to mitigate some of the impact of season-ending clearance sales (and the associated markdown cost implications).
+
+
+== References ==

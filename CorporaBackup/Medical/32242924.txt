@@ -1,0 +1,8 @@
+The term co-option refers to the capacity of intracellular parasites to use host-cell proteins to complete their vital cycle. Viruses use this mechanism, as their genome is small.It is also used in a different sense to refer to characters that have been exapted.
+
+
+== Flu virus ==
+Because of its medical importance, the influenza A virus has been characterized to a large extent, and is mentioned here as an example of co-option.  Its genome encodes only for 11 proteins, and it needs to use host-cell genes and proteins to carry out its lytic cycle. In 2010, a study was realized to determine which host-cell factors are necessary for the entry and replication of Influenza A virus. Using siRNA techniques, the effect of the disruption of more than 19,000 human genes on influenza life cycle was studied. That allowed identifying 295 host-cell genes needed for the virus to complete its lytic cycle, 23 of which are used during the entry steps, and the 219 remaining for the post-entry steps. Of all these genes implicated on the virus vital cycle, 168 might be targets for developing antiviral drugs for the treatment of H1N1 infection. It is important to emphasize that these targets are not virus proteins, but host-cell proteins.
+
+
+== References ==

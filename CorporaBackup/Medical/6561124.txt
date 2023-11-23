@@ -1,0 +1,40 @@
+Allelic exclusion is a process by which only one allele of a gene is expressed while the other allele is silenced. This phenomenon is most notable for playing a role in the development of B lymphocytes, where allelic exclusion allows for each mature B lymphocyte to express only one type of immunoglobulin. This subsequently results in each B lymphocyte being able to recognize only one antigen. This is significant as the co-expression of both alleles in B lymphocytes is associated with autoimmunity and the production of autoantibodies.Many regulatory processes can lead to allelic exclusion. In one instance, one allele of the gene can become transcriptionally silent, resulting in the transcription and expression of only the other allele. This could be caused in part by decreased methylation of the expressed allele. Conversely, allelic exclusion can also be regulated through asynchronous allelic rearrangement. In this case, both alleles are transcribed but only one becomes a functional protein.
+
+
+== In B-lymphocytes ==
+Allelic exclusion has been observed most often in genes for cell surface receptors and has been extensively studied in immune cells such as B lymphocytes. Allelic exclusion of immunoglobulin (Ig) heavy chain and light chain genes in B cells forms the genetic basis for the presence of only a single type of antigen receptor on a given B lymphocyte, which is central in explaining the ‘one B cell — one antibody’ rule. The variable domain of the B-cell antigen receptor is encoded by the V, (D), and J gene segments, the recombination of which gives rise to Ig gene allelic exclusion. V(D)J recombination occurs imprecisely, so that while transcripts from both alleles are expressed, only one is able to give rise to a functional surface antigen receptor. If no successful rearrangement occurs on either chromosome, the cell dies.
+
+
+=== Models ===
+
+
+==== Stochastic ====
+In the stochastic model, while the Ig rearrangement is proposed to be very efficient, the probability of functional allelic rearrangement is assumed to be very low as compared to the probability of non-functional rearrangement. As a result, successful recombination of more than one functional Ig allele in one B cell statistically occurs very infrequently.
+
+
+==== Asynchronous recombination ====
+In the asynchronous recombination models, the recombination process is controlled by timing of recombination-activating gene (RAG) recombinase and accessibility of each Ig allele within the chromatin structure.
+Asynchronous Probabilistic Recombination Model: This probabilistic model relies on the mechanisms which control chromatin accessibility. The limited accessibility of Ig alleles due to chromatin structure leads to low efficiency of recombination therefore, the probability of biallelic rearrangement is negligible.
+Asynchronous Instructive Recombination Model: The instructive model is based on the difference in timing of allele replication, wherein the alleles undergo recombination sequentially. In this model the second allele undergoes rearrangement only if the first rearrangement was unsuccessful.
+
+
+==== Classic feedback inhibition ====
+The feedback inhibition model is similar to the asynchronous recombination mode, but it emphasizes the mechanisms that maintain the rearrangement asynchrony. This model suggests that a recombination which gives rise to a functional B cell surface receptor will cause a series of signals which suppress further recombination. Without these signals, allelic rearrangement will carry on.  The classic feedback model is empirically corroborated by observed recombination ratios.
+
+
+== In Igκ and Igλ light chain genes ==
+The allelic exclusion of light chain genes Igκ and Igλ is a process that is controlled by the monoallelic initiation of V(D)J recombination. While little is known about the mechanism leading to the allelic exclusion of Igλ genes, the Igκ locus is generally inactivated by RAG-mediated deletion of the exon Cκ. The V(D)J recombination step is a random and non-specific process that occurs one allele at a time where segments V, (D) and J are rearranged to encode the variable region, resulting in a fraction of functional genes with a productive V(D)J region. Allelic exclusion is then enforced via feedback inhibition where the functional Ig gene inhibits V(D)J rearrangement of the second allele. While this feedback mechanism is mainly achieved through inhibition of the juxtaposition of V and D-J segments, the down-regulation of transcription and suppression of RAG accessibility also plays a role.
+
+
+== In sensory neurons ==
+Vomeronasal sensory neurons are found in the vomeronasal organ at the nasal septum base and their specialty is in pheromone detection. A vomeronasal receptor, V1R, exhibits allelic exclusion. When a V1R receptor gene is expressed, an odorant receptor gives negative feedback that prevents transcription of other V1R receptor genes. In mice vomeronasal sensory neurons, an odorant receptor coding sequence's exogenous transcription from a V1R promoter can stop endogenous V1R genes from being transcribed. They also obtained data supporting monoallelic expression of V1rb2mv and V1rb2vg alleles and monogenic expression of the V1rb2 locus.Monoallelic expression was also found in mice olfactory receptor genes in olfactory sensory neurons. An upstream cis-acting DNA region controls an olfactory receptor gene cluster's activation and resulted in monogenic expression of one olfactory receptor gene. The expressed coding region's disruption or deletion resulted in expression of a second olfactory receptor gene. Based on this, they hypothesized that in order to enforce the "one receptor-one neuron rule” (Serizawa et al, 2003), one olfactory receptor gene's random activation and the expressed gene product's negative feedback are necessary.
+
+
+== Recent research ==
+Intracellular GATA3 expression is a crucial component of T cell receptor beta (TCR𝛽) allelic exclusion in mammalian cells. GATA3 transgenic overexpression by a 2.5- to 5-fold increase partly due to Gata3 transcriptional activation from monoallelic to biallelic primarily resulted in both alleles of TCR𝛽 recombining. Intracellular GATA3 expression can divide wild-type immature thymocyte cell populations. Although cells regardless of GATA3 expression level yielded functional TCR𝛽 sequences, there was nearly sole recombination of one Tcrb locus in lowly expressed GATA3 cells and constant recombination of both alleles in highly expressed GATA3 cells.V𝛽 Recombination signal sequences (RSSs) with poor qualities suppressed one allele's expression of two TCR𝛽 genes. These poor quality V𝛽 RSSs decreased the chances of upstream V𝛽 and V31 recombination on the same allele, which in turn enabled functional TCR𝛽 genes’ monoallelic assembly and expression. However, poor quality V𝛽 RSSs were unlikely to result in monogenic TCR𝛽 expression alone and might have involved other epigenetic processes. RSSs is involved in mammalian TCR𝛽 genes’ monogenic assembly and expression and may also be involved in other mammalian TCR-related genes. Low quality V𝛽 recombinase targets randomly constrain two functional rearrangements’ production which imposes TCR𝛽 allelic exclusion.
+
+
+== References ==
+
+
+== Further reading ==

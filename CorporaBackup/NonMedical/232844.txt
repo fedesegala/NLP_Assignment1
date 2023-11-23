@@ -1,0 +1,1343 @@
+The Huzita–Justin axioms or Huzita–Hatori axioms are a set of rules related to the mathematical principles of origami, describing the operations that can be made when folding a piece of paper. The axioms assume that the operations are completed on a plane (i.e. a perfect piece of paper), and that all folds are linear. These are not a minimal set of axioms but rather the complete set of possible single folds.
+The first seven axioms were first discovered by French folder and mathematician Jacques Justin in 1986. Axioms 1 through 6 were rediscovered by Japanese-Italian mathematician Humiaki Huzita and reported at the First International Conference on Origami in Education and Therapy in 1991. Axioms 1 though 5 were rediscovered by Auckly and Cleveland in 1995. Axiom 7 was rediscovered by Koshiro Hatori in 2001; Robert J. Lang also found axiom 7.
+
+
+== The seven axioms ==
+The first 6 axioms are known as Justin's axioms or Huzita's axioms. Axiom 7 was discovered by Jacques Justin. Koshiro Hatori and Robert J. Lang also found axiom 7. The axioms are as follows:
+
+Given two distinct points p1 and p2, there is a unique fold that passes through both of them.
+Given two distinct points p1 and p2, there is a unique fold that places p1 onto p2.
+Given two lines l1 and l2, there is a fold that places l1 onto l2.
+Given a point p1 and a line l1, there is a unique fold perpendicular to l1 that passes through point p1.
+Given two points p1 and p2 and a line l1, there is a fold that places p1 onto l1 and passes through p2.
+Given two points p1 and p2 and two lines l1 and l2, there is a fold that places p1 onto l1 and p2 onto l2.
+Given one point p and two lines l1 and l2, there is a fold that places p onto l1 and is perpendicular to l2.Axiom 5 may have 0, 1, or 2 solutions, while Axiom 6 may have 0, 1, 2, or 3 solutions. In this way, the resulting geometries of origami are stronger than the geometries of compass and straightedge, where the maximum number of solutions an axiom has is 2. Thus compass and straightedge geometry solves second-degree equations, while origami geometry, or origametry, can solve third-degree equations, and solve problems such as angle trisection and doubling of the cube. The construction of the fold guaranteed by Axiom 6 requires "sliding" the paper, or neusis, which is not allowed in classical compass and straightedge constructions. Use of neusis together with a compass and straightedge does allow trisection of an arbitrary angle.
+
+
+== Details ==
+
+
+=== Axiom 1 ===
+Given two points p1 and p2, there is a unique fold that passes through both of them.
+
+In parametric form, the equation for the line that passes through the two points is :
+
+  
+    
+      
+        F
+        (
+        s
+        )
+        =
+        
+          p
+          
+            1
+          
+        
+        +
+        s
+        (
+        
+          p
+          
+            2
+          
+        
+        −
+        
+          p
+          
+            1
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle F(s)=p_{1}+s(p_{2}-p_{1}).}
+  
+
+
+=== Axiom 2 ===
+Given two points p1 and p2, there is a unique fold that places p1 onto p2.
+
+This is equivalent to finding the perpendicular bisector of the line segment p1p2. This can be done in four steps:
+
+Use Axiom 1 to find the line through p1 and p2, given by 
+  
+    
+      
+        P
+        (
+        s
+        )
+        =
+        
+          p
+          
+            1
+          
+        
+        +
+        s
+        (
+        
+          p
+          
+            2
+          
+        
+        −
+        
+          p
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle P(s)=p_{1}+s(p_{2}-p_{1})}
+  
+Find the midpoint of pmid of P(s)
+Find the vector vperp perpendicular to P(s)
+The parametric equation of the fold is then:
+  
+    
+      
+        F
+        (
+        s
+        )
+        =
+        
+          p
+          
+            
+              m
+              i
+              d
+            
+          
+        
+        +
+        s
+        ⋅
+        
+          
+            v
+          
+          
+            
+              p
+              e
+              r
+              p
+            
+          
+        
+        .
+      
+    
+    {\displaystyle F(s)=p_{\mathrm {mid} }+s\cdot \mathbf {v} ^{\mathrm {perp} }.}
+  
+
+
+=== Axiom 3 ===
+Given two lines l1 and l2, there is a fold that places l1 onto l2.
+
+This is equivalent to finding a bisector of the angle between l1 and l2. Let p1 and p2 be any two points on l1, and let q1 and q2 be any two points on l2. Also, let u and v be the unit direction vectors of l1 and l2, respectively; that is:
+
+  
+    
+      
+        
+          u
+        
+        =
+        (
+        
+          p
+          
+            2
+          
+        
+        −
+        
+          p
+          
+            1
+          
+        
+        )
+        
+          /
+        
+        
+          |
+          
+            (
+            
+              p
+              
+                2
+              
+            
+            −
+            
+              p
+              
+                1
+              
+            
+            )
+          
+          |
+        
+      
+    
+    {\displaystyle \mathbf {u} =(p_{2}-p_{1})/\left|(p_{2}-p_{1})\right|}
+  
+
+  
+    
+      
+        
+          v
+        
+        =
+        (
+        
+          q
+          
+            2
+          
+        
+        −
+        
+          q
+          
+            1
+          
+        
+        )
+        
+          /
+        
+        
+          |
+          
+            (
+            
+              q
+              
+                2
+              
+            
+            −
+            
+              q
+              
+                1
+              
+            
+            )
+          
+          |
+        
+        .
+      
+    
+    {\displaystyle \mathbf {v} =(q_{2}-q_{1})/\left|(q_{2}-q_{1})\right|.}
+  If the two lines are not parallel, their point of intersection is:
+
+  
+    
+      
+        
+          p
+          
+            
+              i
+              n
+              t
+            
+          
+        
+        =
+        
+          p
+          
+            1
+          
+        
+        +
+        
+          s
+          
+            
+              i
+              n
+              t
+            
+          
+        
+        ⋅
+        
+          u
+        
+      
+    
+    {\displaystyle p_{\mathrm {int} }=p_{1}+s_{\mathrm {int} }\cdot \mathbf {u} }
+  where
+
+  
+    
+      
+        
+          s
+          
+            i
+            n
+            t
+          
+        
+        =
+        −
+        
+          
+            
+              
+                
+                  v
+                
+                
+                  ⊥
+                
+              
+              ⋅
+              (
+              
+                p
+                
+                  1
+                
+              
+              −
+              
+                q
+                
+                  1
+                
+              
+              )
+            
+            
+              
+                
+                  v
+                
+                
+                  ⊥
+                
+              
+              ⋅
+              
+                u
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle s_{int}=-{\frac {\mathbf {v} ^{\perp }\cdot (p_{1}-q_{1})}{\mathbf {v} ^{\perp }\cdot \mathbf {u} }}.}
+  The direction of one of the bisectors is then:
+
+  
+    
+      
+        
+          w
+        
+        =
+        
+          
+            
+              
+                |
+                
+                  u
+                
+                |
+              
+              
+                v
+              
+              +
+              
+                |
+                
+                  v
+                
+                |
+              
+              
+                u
+              
+            
+            
+              
+                |
+                
+                  u
+                
+                |
+              
+              +
+              
+                |
+                
+                  v
+                
+                |
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {w} ={\frac {\left|\mathbf {u} \right|\mathbf {v} +\left|\mathbf {v} \right|\mathbf {u} }{\left|\mathbf {u} \right|+\left|\mathbf {v} \right|}}.}
+  And the parametric equation of the fold is:
+
+  
+    
+      
+        F
+        (
+        s
+        )
+        =
+        
+          p
+          
+            
+              i
+              n
+              t
+            
+          
+        
+        +
+        s
+        ⋅
+        
+          w
+        
+        .
+      
+    
+    {\displaystyle F(s)=p_{\mathrm {int} }+s\cdot \mathbf {w} .}
+  A second bisector also exists, perpendicular to the first and passing through pint. Folding along this second bisector will also achieve the desired result of placing l1 onto l2. It may not be possible to perform one or the other of these folds, depending on the location of the intersection point.
+If the two lines are parallel, they have no point of intersection. The fold must be the line midway between l1 and l2 and parallel to them.
+
+
+=== Axiom 4 ===
+Given a point p1 and a line l1, there is a unique fold perpendicular to l1 that passes through point p1.
+
+This is equivalent to finding a perpendicular to l1 that passes through p1. If we find some vector v that is perpendicular to the line l1, then the parametric equation of the fold is:
+
+  
+    
+      
+        F
+        (
+        s
+        )
+        =
+        
+          p
+          
+            1
+          
+        
+        +
+        s
+        ⋅
+        
+          v
+        
+        .
+      
+    
+    {\displaystyle F(s)=p_{1}+s\cdot \mathbf {v} .}
+  
+
+
+=== Axiom 5 ===
+Given two points p1 and p2 and a line l1, there is a fold that places p1 onto l1 and passes through p2.
+
+This axiom is equivalent to finding the intersection of a line with a circle, so it may have 0, 1, or 2 solutions. The line is defined by l1, and the circle has its center at p2, and a radius equal to the distance from p2 to p1. If the line does not intersect the circle, there are no solutions. If the line is tangent to the circle, there is one solution, and if the line intersects the circle in two places, there are two solutions.
+If we know two points on the line, (x1, y1) and (x2, y2), then the line can be expressed parametrically as:
+
+  
+    
+      
+        x
+        =
+        
+          x
+          
+            1
+          
+        
+        +
+        s
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle x=x_{1}+s(x_{2}-x_{1})}
+  
+
+  
+    
+      
+        y
+        =
+        
+          y
+          
+            1
+          
+        
+        +
+        s
+        (
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            1
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle y=y_{1}+s(y_{2}-y_{1}).}
+  Let the circle be defined by its center at p2=(xc, yc), with radius 
+  
+    
+      
+        r
+        =
+        
+          |
+          
+            
+              p
+              
+                1
+              
+            
+            −
+            
+              p
+              
+                2
+              
+            
+          
+          |
+        
+      
+    
+    {\displaystyle r=\left|p_{1}-p_{2}\right|}
+  . Then the circle can be expressed as:
+
+  
+    
+      
+        (
+        x
+        −
+        
+          x
+          
+            c
+          
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        y
+        −
+        
+          y
+          
+            c
+          
+        
+        
+          )
+          
+            2
+          
+        
+        =
+        
+          r
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle (x-x_{c})^{2}+(y-y_{c})^{2}=r^{2}.}
+  In order to determine the points of intersection of the line with the circle, we substitute the x and y components of the equations for the line into the equation for the circle, giving:
+
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        +
+        s
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            1
+          
+        
+        )
+        −
+        
+          x
+          
+            c
+          
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        
+          y
+          
+            1
+          
+        
+        +
+        s
+        (
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            1
+          
+        
+        )
+        −
+        
+          y
+          
+            c
+          
+        
+        
+          )
+          
+            2
+          
+        
+        =
+        
+          r
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle (x_{1}+s(x_{2}-x_{1})-x_{c})^{2}+(y_{1}+s(y_{2}-y_{1})-y_{c})^{2}=r^{2}.}
+  Or, simplified:
+
+  
+    
+      
+        a
+        
+          s
+          
+            2
+          
+        
+        +
+        b
+        s
+        +
+        c
+        =
+        0
+      
+    
+    {\displaystyle as^{2}+bs+c=0}
+  where:
+
+  
+    
+      
+        a
+        =
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            1
+          
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            1
+          
+        
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a=(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}}
+  
+
+  
+    
+      
+        b
+        =
+        2
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            1
+          
+        
+        )
+        (
+        
+          x
+          
+            1
+          
+        
+        −
+        
+          x
+          
+            c
+          
+        
+        )
+        +
+        2
+        (
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            1
+          
+        
+        )
+        (
+        
+          y
+          
+            1
+          
+        
+        −
+        
+          y
+          
+            c
+          
+        
+        )
+      
+    
+    {\displaystyle b=2(x_{2}-x_{1})(x_{1}-x_{c})+2(y_{2}-y_{1})(y_{1}-y_{c})}
+  
+
+  
+    
+      
+        c
+        =
+        
+          x
+          
+            c
+          
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            c
+          
+          
+            2
+          
+        
+        +
+        
+          x
+          
+            1
+          
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            1
+          
+          
+            2
+          
+        
+        −
+        2
+        (
+        
+          x
+          
+            c
+          
+        
+        
+          x
+          
+            1
+          
+        
+        +
+        
+          y
+          
+            c
+          
+        
+        
+          y
+          
+            1
+          
+        
+        )
+        −
+        
+          r
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle c=x_{c}^{2}+y_{c}^{2}+x_{1}^{2}+y_{1}^{2}-2(x_{c}x_{1}+y_{c}y_{1})-r^{2}.}
+  Then we simply solve the quadratic equation:
+
+  
+    
+      
+        
+          
+            
+              −
+              b
+              ±
+              
+                
+                  
+                    b
+                    
+                      2
+                    
+                  
+                  −
+                  4
+                  a
+                  c
+                
+              
+            
+            
+              2
+              a
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}.}
+  If the discriminant b2 − 4ac < 0, there are no solutions. The circle does not intersect or touch the line. If the discriminant is equal to 0, then there is a single solution, where the line is tangent to the circle. And if the discriminant is greater than 0, there are two solutions, representing the two points of intersection. Let us call the solutions d1 and d2, if they exist. We have 0, 1, or 2 line segments:
+
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+        =
+        
+          
+            
+              
+                p
+                
+                  1
+                
+              
+              
+                d
+                
+                  1
+                
+              
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle m_{1}={\overline {p_{1}d_{1}}}}
+  
+
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+        =
+        
+          
+            
+              
+                p
+                
+                  1
+                
+              
+              
+                d
+                
+                  2
+                
+              
+            
+            ¯
+          
+        
+        .
+      
+    
+    {\displaystyle m_{2}={\overline {p_{1}d_{2}}}.}
+  A fold F1(s) perpendicular to m1 through its midpoint will place p1 on the line at location d1. Similarly, a fold F2(s) perpendicular to m2 through its midpoint will place p1 on the line at location d2. The application of Axiom 2 easily accomplishes this. The parametric equations of the folds are thus:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  F
+                  
+                    1
+                  
+                
+                (
+                s
+                )
+              
+              
+                
+                =
+                
+                  p
+                  
+                    1
+                  
+                
+                +
+                
+                  
+                    1
+                    2
+                  
+                
+                (
+                
+                  d
+                  
+                    1
+                  
+                
+                −
+                
+                  p
+                  
+                    1
+                  
+                
+                )
+                +
+                s
+                (
+                
+                  d
+                  
+                    1
+                  
+                
+                −
+                
+                  p
+                  
+                    1
+                  
+                
+                
+                  )
+                  
+                    ⊥
+                  
+                
+              
+            
+            
+              
+                
+                  F
+                  
+                    2
+                  
+                
+                (
+                s
+                )
+              
+              
+                
+                =
+                
+                  p
+                  
+                    1
+                  
+                
+                +
+                
+                  
+                    1
+                    2
+                  
+                
+                (
+                
+                  d
+                  
+                    2
+                  
+                
+                −
+                
+                  p
+                  
+                    1
+                  
+                
+                )
+                +
+                s
+                (
+                
+                  d
+                  
+                    2
+                  
+                
+                −
+                
+                  p
+                  
+                    1
+                  
+                
+                
+                  )
+                  
+                    ⊥
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}F_{1}(s)&=p_{1}+{\frac {1}{2}}(d_{1}-p_{1})+s(d_{1}-p_{1})^{\perp }\\[8pt]F_{2}(s)&=p_{1}+{\frac {1}{2}}(d_{2}-p_{1})+s(d_{2}-p_{1})^{\perp }.\end{aligned}}}
+  
+
+
+=== Axiom 6 ===
+Given two points p1 and p2 and two lines l1 and l2, there is a fold that places p1 onto l1 and p2 onto l2.
+
+This axiom is equivalent to finding a line simultaneously tangent to two parabolas, and can be considered equivalent to solving a third-degree equation as there are in general three solutions. The two parabolas have foci at p1 and p2, respectively, with directrices defined by l1 and l2, respectively.
+This fold is called the Beloch fold after Margharita P. Beloch, who in 1936 showed using it that origami can be used to solve general cubic equations.
+
+
+=== Axiom 7 ===
+Given one point p and two lines l1 and l2 that aren't parallel, there is a fold that places p onto l1 and is perpendicular to l2.
+
+This axiom was originally discovered by Jacques Justin in 1989 but was overlooked and was rediscovered by Koshiro Hatori in 2002. Robert J. Lang has proven that this list of axioms completes the axioms of origami.
+
+
+== Constructibility ==
+Subsets of the axioms  can be used to construct different sets of numbers. The first three can be used with three given points not on a line to do what Alperin calls Thalian constructions.The first four axioms with two given points define a system weaker than compass and straightedge constructions: every shape that can be folded with those axioms can be constructed with compass and straightedge, but some things can be constructed by compass and straightedge that cannot be folded with those axioms. The numbers that can be constructed are called the origami or pythagorean numbers, if the distance between the two given points is 1 then the constructible points are all of the form 
+  
+    
+      
+        (
+        α
+        ,
+        β
+        )
+      
+    
+    {\displaystyle (\alpha ,\beta )}
+   where 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   and 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   are Pythagorean numbers. The Pythagorean numbers are given by the smallest field containing the rational numbers and 
+  
+    
+      
+        
+          
+            1
+            +
+            
+              α
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {1+\alpha ^{2}}}}
+   whenever 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is such a number.
+Adding the fifth axiom gives the Euclidean numbers, that is the points constructible by compass and straightedge construction.
+Adding the neusis axiom 6, all compass-straightedge constructions, and more, can be made.  In particular, the constructible regular polygons with these axioms are those with 
+  
+    
+      
+        
+          2
+          
+            a
+          
+        
+        
+          3
+          
+            b
+          
+        
+        ρ
+        ≥
+        3
+      
+    
+    {\displaystyle 2^{a}3^{b}\rho \geq 3}
+   sides, where 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is a product of distinct Pierpont primes.  Compass-straightedge constructions allow only those with  
+  
+    
+      
+        
+          2
+          
+            a
+          
+        
+        ϕ
+        ≥
+        3
+      
+    
+    {\displaystyle 2^{a}\phi \geq 3}
+   sides, where 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   is a product of distinct Fermat primes.  (Fermat primes are a subset of Pierpont primes.)
+The seventh axiom does not allow construction of further axioms. The seven axioms give all the single-fold constructions that can be done rather than being a minimal set of axioms.
+
+
+== An eighth axiom ==
+The existence of an eighth axiom was claimed by Lucero in 2017, which may be stated as: there is a fold along a given line l1. The new axiom was found after enumerating all possible incidences between constructible points and lines on a plane. Although it does not create a new line, it is nevertheless needed in actual paper folding when it is required to fold a layer of paper along a line marked on the layer immediately below.
+
+
+== References ==
+
+
+== External links ==
+Origami Geometric Constructions by Thomas Hull
+A Mathematical Theory of Origami Constructions and Numbers by Roger C. Alperin
+Lang, Robert J. (2003). "Origami and Geometric Constructions" (PDF). Robert J. Lang. Retrieved 2007-04-12. {{cite journal}}: Cite journal requires |journal= (help)

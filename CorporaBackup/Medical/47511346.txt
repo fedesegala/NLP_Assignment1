@@ -1,0 +1,345 @@
+This glossary of virology is a list of definitions of terms and concepts used in virology, the study of viruses, particularly in the description of viruses and their actions. Related fields include microbiology, molecular biology, and genetics.
+
+
+== A ==
+animal virus
+Any virus capable of infecting one or more animal species.
+
+antigenic drift
+A gradual change in the antigenicity of a virus arising from the accumulation of mutations in the genes that code for surface proteins, which may result in new strains of the virus that are not as effectively inhibited by the same host antibodies that prevented infection by the original strain. Antigenic drift is often enabled by the natural selection of mutant strains under pressure from an immune response. Contrast antigenic shift.
+
+antigenic imprinting
+See original antigenic sin.
+
+antigenic shift
+Any sudden and major change in the antigenicity of a virus, particularly as the result of a reassortment event between two or more different strains of a virus, or two or more different viruses, which exchange genetic material and thereby combine to form a new subtype having a mixture of the surface antigens of the original strains. Contrast antigenic drift.
+
+antiviral drug
+Often simply called an antiviral.
+A class of antimicrobial medication used specifically for treating diseases caused by viral infections rather than ones caused by bacteria or other infectious agents. Unlike most antibiotics, antivirals typically do not destroy their target viruses but instead inhibit their development. They are distinct from virucides.
+
+assembly
+The construction of the virus within the host cell, powered by the host's metabolism.
+
+attachment
+The first stage of infection of a host cell by a virus, in which a chance collision occurs between a viral particle and a suitable receptor area on the cell's surface, allowing the viral particle to physically attach to the cell by electrostatic forces. Absence of suitable attachment areas can give a cell immunity from infection.
+
+attenuated strain
+A mutant viral strain which has low virulence or is avirulent in one or more of its natural host species, and in which it can thus be used as an attenuated vaccine. Attenuated strains are obtained by passage in cell culture or by sampling from a different host species than the one in which the virus usually causes disease.
+
+
+== B ==
+bacteriophage
+Also simply called a phage.
+Any virus that infects and replicates within bacteria or archaea.
+Baltimore classification
+
+base pair (bp)
+
+
+== C ==
+cap
+
+cap snatching
+
+capsid
+The outer shell of protein that encloses and protects the genetic material of a virus.
+
+capsomere
+A subunit of the viral capsid which self-assembles with other capsomeres to form the capsid.
+
+co-option
+
+coinfection
+The simultaneous infection of a cell or host by more than one pathogen, i.e. by more than one species or strain of virus, or by a virus and another type of microorganism such as a bacterium.
+
+complex
+
+cytopathic effect (CPE)
+Also cytopathogenic effect.
+Any change in the structure, morphology, or physiology of a host cell that is caused by viral invasion. Common examples of CPEs include rounding of the infected cell, fusion with adjacent cells to form syncytia, and the appearance of nuclear or cytoplasmic inclusion bodies. These changes may or may not cause lysis and cell death.
+
+
+== D ==
+dalton (Da)
+A unit of weight frequently used to describe the size of a virus or viral particle.
+DNA virus
+A type of virus that has DNA as its genetic material and replicates using a DNA-dependent DNA polymerase. In the Baltimore classification system, DNA viruses belong to either Group I (double-stranded DNA viruses) or Group II (single-stranded DNA viruses); Group VII viruses also have a DNA genome, but are classified separately because they replicate through an RNA intermediate.
+dsDNA virus
+A double-stranded DNA virus; i.e. a virus whose genome is encoded in two complementary strands of DNA, which usually exist as one or more circular molecules. dsDNA viruses constitute Group I in the Baltimore classification system and use methods of replication and transcription that are broadly similar to those of larger organisms such as bacteria.
+dsDNA-RT virus
+
+dsRNA virus
+
+
+== E ==
+ecovirology
+
+emergent virus
+Any virus that has recently adapted and emerged as a novel causative disease agent. Emergent viruses are often the result of transmission between different species or a rapid increase in the incidence or severity of the associated disease within a host population.
+endogenous viral element (EVE)
+
+entry
+
+enveloped
+
+
+== G ==
+giant virus
+A very large virus, especially one of the so-called nucleocytoplasmic large DNA viruses (NCLDVs), which have extremely large genomes compared to the average virus and contain many unique genes not found in other organisms. Some of these viruses are larger than a typical bacterium.
+Global Virus Network (GVN)
+
+group-specific antigen
+Also called a gag.
+
+
+== H ==
+helical
+
+helper dependent virus
+
+helper virus
+Any virus which aids or allows the replication of a coinfecting virus that is incapable of replicating on its own.
+host
+Any larger organism which harbors a virus in some kind of symbiotic relationship, whether parasitic or otherwise. Though some viruses can survive for short periods outside of a host, all viruses are obligate parasites and therefore ultimately depend upon a host in order to reproduce. Their reproduction is by definition harmful to the host in which it occurs, though viruses may also passively infect and be transmitted by intermediate hosts to whom they do little or no harm.
+host tropism
+The specificity with which certain pathogens, including most viruses, infect particular hosts and host tissues. Host tropism results in most pathogens being capable of infecting only a limited range of host organisms.
+Human Immunodeficiency Virus (HIV)
+
+
+== I ==
+icosahedral
+Having the symmetry of an icosahedron.
+inclusion body
+
+integrase (IN)
+
+intrinsic immunity
+
+
+== K ==
+kilobase (kb)
+One kilobase is equal to 1000 base pairs.
+
+
+== L ==
+latency
+1.  The ability of a pathogenic virus to lie dormant or latent within a cell for a period of time before reactivating and producing new, independent virions.
+2.  The phase in the life cycle of certain viruses in which, after initial infection, proliferation of virus particles ceases while the viral genome remains silently assimilated into the host cell's genome, sometimes indefinitely. The latent period ends when the virus reactivates and begins producing large amounts of viral progeny without the host cell being infected by additional external virions. Latency is a defining element of the lysogenic form of viral replication.
+live virus reference strain (LVRS)
+
+lysogenic cycle
+
+lytic cycle
+
+
+== M ==
+maturation
+
+molecular virology
+
+multiplicity of infection (MOI)
+The ratio of the number of infectious agents (e.g. individual viral particles) to the number of infection targets (e.g. cells of a particular host) within a defined space.
+mycovirus
+Also sometimes called a mycophage.
+Any virus capable of infecting one or more species of fungi.
+
+
+== N ==
+nanometer (nm)
+A unit of length frequently used in describing the size of a virus or viral particle. One nanometer is equal to 10−9 meter.
+negative-sense ssRNA virus
+
+neurotropic virus
+A virus that is capable of infecting cells of the nervous system.
+neurovirology
+
+novel virus
+
+nucleocapsid
+The capsid of a virus together with the viral genome contained within it.
+
+
+== O ==
+oncovirus
+
+original antigenic sin
+Also called antigenic imprinting and the Hoskins effect.
+The tendency of the human body's immune system to preferentially utilize immunological memory of a previous infection when a second, slightly different version of the pathogen (e.g. a virus or bacterium) is encountered in subsequent infections. The success of antibodies developed against the dominant antigens of the original infection establishes an "imprint" on the immune system which governs antibody responses to later infections, even if later infections are caused by variants with different dominant antigens. The result is that the immune system is unable to mount potentially more effective responses to the later infections, and any disease caused by the infection is more serious than before.
+orphan virus
+
+
+== P ==
+paleovirology
+
+parasite
+
+passaging
+See serial passage.
+passenger virus
+A virus that is frequently found in samples from diseased tissue, such as tumors, but does not contribute to causing the disease.
+penetration
+See entry.
+phenotype mixing
+A non-genetic interaction in which viral particles produced by a cell that is coinfected with two or more viruses are constructed with a common set of coat proteins shared between all of the infecting agents, but nevertheless retain their own unique viral genomes. This admixture results in viruses which possess similar assortments of identifying surface proteins despite having different genetic material, and as such is exclusively phenotypic, in the sense that if one of these viruses were to proceed to infect another cell alone (i.e. without coinfection), its genetic material would not be capable of reproducing the same set of shared proteins in its own progeny.
+plant virus
+Any virus capable of infecting one or more plant species.
+positive-sense ssRNA virus
+
+prolate
+
+prophage
+A bacteriophage genome that has been inserted and integrated into a circular bacterial chromosome or which exists as an extrachromosomal plasmid inside the host bacterium, specifically while it remains in a latent form that is present inside the host cell but has not yet been activated by it.
+provirus
+
+pseudotyping
+
+
+== Q ==
+Q-number
+
+
+== R ==
+reassortment
+The mixing of genetic material from different species or strains into new combinations in different individuals. Reassortment may occur when two or more similar viruses (e.g. two different strains of influenza virus) infect a single host cell, permitting the assembly of new viral particles from segments of each parental lineage.
+recombinant virus
+
+release
+
+rep
+An abbreviation for replication protein.
+replication
+Any of the various processes by which a virus reproduces.
+retrovirus
+
+reverse transcriptase
+
+RNA interference
+
+RNA virus
+
+rolling circle replication
+
+
+== S ==
+satellite
+A subviral agent that depends entirely upon a coinfecting helper virus for its own replication. Satellites may occur as independent virions which encode structural proteins but nevertheless cannot replicate without the helper virus, or as simple segments of nucleic acids which have "hitchhiked" using proteins encoded by the helper virus.
+sense
+
+serial passage
+Also called passaging.
+A laboratory technique by which bacteria or viruses are cultured in serial iterations (e.g. viral particles of a virus grown in one environment are transferred into a new environment, often with slightly different conditions) in order to induce the virus to adapt to novel environments over a period of time. The technique is often used to study viral evolution and to genetically engineer viruses with reduced virulence which can be used in vaccines.
+slow virus
+Any virus or virus-like agent that is etiologically associated with a so-called slow virus disease: a disease which, after an extended period of latency, follows a slow, progressive course ranging from months to years before in most cases inevitably progressing to death.
+ssDNA virus
+
+ssRNA-RT virus
+
+strain
+
+subviral agent
+
+superinfection
+The process by which a cell that has previously been infected by a virus becomes co-infected by a different strain or species of virus as a consequence of the treatment being used to manage the first virus. The second virus has often evolved a resistance to antiviral drugs used to treat the original infection, or an ability to overcome the host's immune response.
+synthetic virology
+
+
+== T ==
+T-number
+
+temperate
+
+tissue tropism
+
+transduction
+
+triangulation number
+
+
+== U ==
+uncoating
+
+
+== V ==
+virological failure
+Occurs when an antiviral therapy (ART, nucloes(t)ide analogs, etc.) fails to suppress and sustain a person's viral load below a predetermined threshold.
+viral culture
+
+viral disease
+Any disease that occurs when an organism's body is invaded by infectious viral particles of one or more pathogenic viruses which attach to, enter, and parasitize susceptible cells.
+viral dynamics
+
+viral envelope
+A lipid casing present in some viruses which surrounds the capsid and helps to penetrate the host's cell wall.
+viral interference
+
+viral load
+Also called viral burden and viral titre.
+A numerical expression of the quantity of virus in a given volume, typically expressed as the number of individual viral particles per unit volume but also by quantifying other factors that are closely related to or influenced by viral concentration. Viral load often correlates with the severity of an active viral infection.
+viral matrix
+
+viral particle
+See virion.
+viral plaque
+
+viral protein
+
+viral shedding
+
+viral transformation
+
+viral vector
+
+viremia
+
+virion
+Also called a viral particle.
+A singular, stable particle that is the independent form in which a virus exists while not inside an infected cell or in the process of infecting a cell. Virions are the products of a completed viral replication cycle; upon release from the infected cell, they are fully capable of infecting other cells of the same type.
+viroid
+
+viroinformatics
+
+virokine
+A viral gene product which has a functional homology with a host's cytokines and affects cellular function in a similar way.
+virology
+The study of viruses and virus-like agents, which seeks to understand and explain their structure, classification, evolution, and mechanisms of infection, as well as the diseases they cause, techniques to isolate and culture them, and their use in research and therapy. Virology is often considered a subfield of microbiology or of medical science.
+virome
+
+viropexis
+The active uptake by a host cell of viral particles (typically bound to receptors on the cell surface) by a non-specific pinocytic process. Viropexis is an important method of viral penetration of host cells.
+virophage
+
+viroplasm
+
+virostatic
+Able to prevent viral replication.
+virotherapy
+
+virucide
+
+virulence
+The capacity of a pathogen to cause disease, defined broadly in terms of the severity of symptoms experienced by an infected host. Other factors being equal, a viral strain which causes severe symptoms in a susceptible individual may be considered highly virulent, while a different strain which produces less severe or no symptoms in the same individual may be considered relatively less virulent. In practice the concept of virulence can be of ambiguous interpretation, because a particular strain is not itself solely responsible for the severity of the disease which actually develops; equally important are the degree of infectivity expressed by the strain and the state of the host's immunity, either natural or acquired, with respect to that particular strain.
+virus
+A submicroscopic infectious agent that replicates only inside the living cells of other organisms. As obligate intracellular parasites, viruses must infect cellular hosts in order to complete their life cycles, which they achieve by co-opting or "hijacking" the host cell's molecular machinery for their own reproduction. While not inside an infected cell or in the process of infecting a cell, viruses exist in the form of independent virions. Most virions are exceedingly simple in structure and physically minute, averaging just 1⁄100 the size of the typical bacterium. Viruses are found in almost every ecosystem on Earth and infect all types of life forms, from animals and plants to microorganisms such as bacteria and archaea.
+virus attachment protein
+Any protein which helps to facilitate the binding of a virus to a receptor on a host cell.
+virus counter
+A specialized type of flow cytometer used to rapidly quantify the number of individual virions or viral particles in a liquid sample.
+virus-like particle
+
+virusoid
+
+
+== Z ==
+zygotic induction
+
+
+== See also ==
+Glossary of biology
+Glossary of genetics
+Glossary of scientific naming
+Introduction to viruses
+List of viruses
+
+
+== References ==

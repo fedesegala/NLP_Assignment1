@@ -1,0 +1,27 @@
+Direct repeats are a type of genetic sequence that consists of two or more repeats of a specific sequence. In other words, the direct repeats are nucleotide sequences present in multiple copies in the genome. Generally, a direct repeat occurs when a sequence is repeated with the same pattern downstream.  There is no inversion and no reverse complement associated with a direct repeat. It may or may not have intervening nucleotides. The nucleotide sequence written in bold characters signifies the repeated sequence. 
+
+5´ TTACGnnnnnnTTACG 3´
+3´ AATGCnnnnnnAATGC 5´Linguistically, a typical direct repeat is comparable to saying "bye-bye".
+
+
+== Types ==
+There are several types of repeated sequences :
+
+Interspersed (or dispersed) DNA repeats (interspersed repetitive sequences) are copies of transposable elements interspersed throughout the genome.
+Flanking (or terminal) repeats (terminal repeat sequences) are sequences that are repeated on both ends of a sequence, for example, the long terminal repeats (LTRs) on retroviruses. Direct terminal repeats are in the same direction and inverted terminal repeats are opposite to each other in direction.
+Tandem repeats (tandem repeat sequences) are repeated copies which lie adjacent to each other. These can also be direct or inverted repeats. The ribosomal RNA and transfer RNA genes belong to the class of middle repetitive DNA.
+
+
+=== Microsatellite DNA ===
+A tract of repetitive DNA in which a motif of a few base pairs is tandemly repeated numerous times (e.g. 5 to 50 times) is referred to as microsatellite DNA.  Thus direct repeat tandem sequences are a form of microsattelite DNA.  The process of DNA mismatch repair plays a prominent role in the formation of direct trinucleotide repeat expansions.  Such repeat expansions underlie several neurological and developmental disorders in humans.
+
+
+== Homologous recombination ==
+In directly repeated sequences of the tobacco plant genome, DNA double-strand breaks can be efficiently repaired by homologous recombination between the repeated sequences.
+
+
+== See also ==
+Inverted repeat
+
+
+== References ==

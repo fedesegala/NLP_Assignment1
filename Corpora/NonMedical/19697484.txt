@@ -1,0 +1,6 @@
+In geometry, an axis-aligned object (axis-parallel, axis-oriented) is an object in n-dimensional space whose shape is aligned with the coordinate axes of the space.
+Examples are axis-aligned rectangles (or hyperrectangles), the ones with edges parallel to the coordinate axes. Minimum bounding boxes are often implicitly assumed to be axis-aligned. A more general case is rectilinear polygons, the ones with all sides parallel to coordinate axes or rectilinear polyhedra.
+Many problems in computational geometry allow for faster algorithms when restricted to (collections of) axis-oriented objects, such as axis-aligned rectangles or axis-aligned line segments.A different kind of example are axis-aligned ellipsoids, i.e., the ellipsoids with principal axes parallel to the coordinate axes.
+
+
+== References ==

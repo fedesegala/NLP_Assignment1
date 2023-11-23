@@ -1,0 +1,32 @@
+An exonic splicing silencer (ESS) is a short region (usually 4-18 nucleotides) of an exon and is a cis-regulatory element. A set of 103 hexanucleotides known as FAS-hex3 has been shown to be abundant in ESS regions. ESSs inhibit or silence splicing of the pre-mRNA and contribute to constitutive and alternate splicing. To elicit the silencing effect, ESSs recruit proteins that will negatively affect the core splicing machinery.
+
+
+== Mechanism of action ==
+Exonic splicing silencers work by inhibiting the splicing of pre-mRNA strands or promoting exon skipping. The single stranded pre-mRNA molecules need to have their intronic and exonic regions spliced in order to be translated. ESSs silence splice sites adjacent to them by interfering with the components of the core splicing complex, such as the snRNP's, U1 and U2. This causes proteins that negatively influence splicing to be recruited to the splicing machinery.
+ESSs have four general roles:
+inhibiting exon inclusion
+inhibiting intron retention
+regulating alternative 5' splice site usage
+regulating alternative 3' splice site usage
+
+
+== Role in genetic diseases ==
+
+
+=== Myotonic dystrophy ===
+Myotonic dystrophy (MD) is most noticeably caused by inheriting an unstable CTG triplet expansion in the DMPK gene. In healthy genotypes two isoforms of an insulin receptor mRNA transcript exist. The isoform IR-A lacks exon 11 and is expressed ubiquitously in cells. Isoform IR-B contains exon 11 and is expressed in cells of the liver, muscles, kidney, and adipocytes. In individuals with MD, IR-A is upregulated in high amounts in skeletal muscle leading to the disease phenotype.The ESS nucleotide sequence exists within intron 10 and is thought to be dependent on the CUG triplet repeat in order to silence the splicing of exon 11. Silencing exon 11 splicing leads to the increased transcription of the IR-A isoform.
+
+
+=== Cystic fibrosis ===
+Mutations in the CFTR gene are responsible for causing cystic fibrosis. A particular mutation occurs in the CFTR pre-mRNA and leads to the exclusion of exon 9, mRNA lacking this exon folds a truncated protein (a protein shortened by a mutation).Exclusion of exon 9 is mediated by a polymorphic locus with variable TG repeats and stretches of T nucleotides – this is abbreviated as (TG)mT(n). This locus is an exonic splicing silencer and is located upstream of the exon 9 splice site (site 3c). The silencing is related to the high number of TG repeats and decreased stretches of T repeats (T tracts). A combination of both these factors is shown to increase levels of exon skipping.The TDP-43 protein is responsible for physically silencing the exon splicing site once it is recruited by the exonic splicing silencer (TG)mT(n). TDP-43 is a DNA binding protein and repressor, it binds to the TG repeat to cause exon 9 skipping. The role of the T tracts is not well understood.
+
+
+=== Spinal muscular atrophy ===
+Spinal muscular atrophy is caused by the homozygous loss of the SMN1 gene. Humans have two isoforms of the SMN (survival motor neuron) gene, SMN1 and SMN2. The SMN1 gene produces a complete transcript, while SMN2 produces a transcript without exon 7 which results in a truncated protein.The ESS that contributes to the disease phenotype is the UAGACA nucleotide sequence. This sequence arises when a C-to-T mutation occurs at position +6 in exon 7 of the SMN2 gene. This transition point mutation leads to the exclusion of exon 7 from the mRNA transcript, it is also the only difference between the SMN2 and SMN1 gene.The UAGACA ESS is thought to work by disrupting an exonic splicing enhancer and attracting proteins that inhibit splicing by binding sequences on exon 7.
+
+
+=== Ataxia telangiectasia ===
+Mutations in the ATM gene are responsible for ataxia telangiectasia. These mutations are generally single base pair substitutions, deletions, or micro-insertions. A 4-nucleotide deletion within intron 20 of the ATM gene disrupts an exonic splicing silencer and causes the inclusion of a 65-nucleotide cryptic exon in the mature transcript. The inclusion of the cryptic exon results in protein truncation and atypical splicing patterns.
+
+
+== References ==

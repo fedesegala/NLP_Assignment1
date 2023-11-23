@@ -1,0 +1,42 @@
+In mathematics, geometry and topology is an umbrella term for the historically distinct disciplines of geometry and topology, as general frameworks allow both disciplines to be manipulated uniformly, most visibly in local to global theorems in Riemannian geometry, and results like the Gauss–Bonnet theorem and Chern–Weil theory.
+Sharp distinctions between geometry and topology can be drawn, however, as discussed below.It is also the title of a journal Geometry & Topology that covers these topics.
+
+
+== Scope ==
+It is distinct from "geometric topology", which more narrowly involves applications of topology to geometry.
+It includes:
+
+Differential geometry and topology
+Geometric topology (including low-dimensional topology and surgery theory)It does not include such parts of algebraic topology as homotopy theory, but some areas of geometry and topology (such as surgery theory, particularly algebraic surgery theory) are heavily algebraic.
+
+
+== Distinction between geometry and topology ==
+Geometry has local structure (or infinitesimal), while topology only has global structure. Alternatively, geometry has continuous moduli, while topology has discrete moduli.
+By examples, an example of geometry is Riemannian geometry, while an example of topology is homotopy theory. The study of metric spaces is geometry, the study of topological spaces is topology.
+The terms are not used completely consistently: symplectic manifolds are a boundary case, and coarse geometry is global, not local.
+
+
+=== Local versus global structure ===
+By definition, differentiable manifolds of a fixed dimension are all locally diffeomorphic to Euclidean space, so aside from dimension, there are no local invariants. Thus, differentiable structures on a manifold are topological in nature.
+By contrast, the curvature of a Riemannian manifold is a local (indeed, infinitesimal) invariant (and is the only local invariant under isometry).
+
+
+=== Moduli ===
+If a structure has a discrete moduli (if it has no deformations, or if a deformation of a structure is isomorphic to the original structure), the structure is said to be rigid, and its study (if it is a geometric or topological structure) is topology. If it has non-trivial deformations, the structure is said to be flexible, and its study is geometry.
+The space of homotopy classes of maps is discrete, so studying maps up to homotopy is topology.
+Similarly, differentiable structures on a manifold is usually a discrete space, and hence an example of topology, but exotic R4s have continuous moduli of differentiable structures.
+Algebraic varieties have continuous moduli spaces, hence their study is algebraic geometry. These are finite-dimensional moduli spaces.
+The space of Riemannian metrics on a given differentiable manifold is an infinite-dimensional space.
+
+
+=== Symplectic manifolds ===
+Symplectic manifolds are a boundary case, and parts of their study are called symplectic topology and symplectic geometry.
+By Darboux's theorem, a symplectic manifold has no local structure, which suggests that their study be called topology.
+By contrast, the space of symplectic structures on a manifold form a continuous moduli, which suggests that their study be called geometry.
+However, up to isotopy, the space of symplectic structures is discrete (any family of symplectic structures are isotopic).
+
+
+== Notes ==
+
+
+== References ==

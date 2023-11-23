@@ -1,0 +1,14 @@
+The pre-integration complex (PIC) is a nucleoprotein complex of viral genetic material and associated viral and host proteins which is capable of inserting a viral genome into a host genome.  The PIC forms after uncoating of a viral particle after entry into the host cell. In the case of the human immunodeficiency virus (HIV), the PIC forms after the Reverse Transcription Complex (RTC) has reverse transcribed the viral RNA into DNA.  The PIC consists of viral proteins (including Vpr, matrix and integrase), host proteins (including Barrier to autointegration factor 1) and the viral DNA.  The PIC enters the cellular nucleus through the nuclear pore complex without disrupting the nuclear envelope, thus allowing HIV and related retroviruses to replicate in non-dividing cells. Following nuclear entry, the PIC's DNA payload may be integrated into the host DNA as a "provirus".
+
+
+== See also ==
+HIV
+Barrier to autointegration factor 1
+
+
+== References ==
+
+
+== External links ==
+http://www.mcld.co.uk/hiv/?q=preintegration%20complex
+Suzuki Y, Craigie R (March 2007). "The road to chromatin - nuclear entry of retroviruses". Nature Reviews. Microbiology. 5 (3): 187–96. doi:10.1038/nrmicro1579. PMID 17304248. S2CID 6789517.

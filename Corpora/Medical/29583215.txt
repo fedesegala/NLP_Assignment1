@@ -1,0 +1,13 @@
+Cotransformation is the simultaneous transformation of two or more genes.
+Only genes in the same chromosomal vicinity can be transformed; the closer together the genes lie, the more frequently they will be cotransformed. By contrast, genes sufficiently far apart that they cannot appear together on a fragment of foreign DNA will almost never be cotransformed, because transformation is so inefficient that recipient cells usually take up only a single DNA.
+
+
+== Example ==
+In one study of natural transformation, investigators isolated B. subtilis bacteria with two mutations—trpC2 and hisB2—that made them Trp- , His- auxotrophs. These double auxotrophs served as the recipient in the study, wild-type cells (Trp+ , His+ ) were the donors. In this study, the numbers of Trp+ and His+  transformants were equal. Further tests showed that 40 of every 100 Trp+ transferred colonies were also His+. Similarly, tests of the His+ transformants showed that roughly 40% are also Trp+ . Thus, in 40% of the analyzed colonies, the trpC+ and hisB+ genes had been cotransformed.
+
+
+=== Explanation ===
+Since during transformation, donor DNA replaces only a small percentage of the recipient's chromosome, why are the two B.subtilis genes cotransformed with such high frequency? Because the trpC and hisB genes lie very close together on the chromosome and are thus genetically linked. Although the donor chromosome is fragmented into small pieces of about 20 kb during its extraction for the transformation process, the wild-type trpC+ and hisB+ alleles are so close that they often appear in the same donor DNA molecule. Sequence analysis shows that trpC and hisB genes are only about 7 kb apart.
+
+
+== References ==

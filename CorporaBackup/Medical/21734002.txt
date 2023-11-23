@@ -1,0 +1,15 @@
+Eurybacteria is a taxon created by Cavalier-Smith, which includes several groups of Gram-negative bacteria. In this model, it is the ancestor of gram positive bacteria. Their endospores are characterized by producing and presenting external flagella or mobility by bacterial displacement.
+
+
+== Members ==
+Specifically, it includes:
+
+Fusobacteria. For example, Leptotrichia and Fusobacterium
+Togobacteria. For example, Thermotoga.In the standard classification, Selenobacteria are usually included in the phylum Bacillota, whereas fusobacteria and togobacteria are classified as their own groups.
+
+
+== Relationships ==
+The following graph shows Cavalier-Smith's version of the tree of life, indicating the status of eurybacteria.
+
+
+== References ==
