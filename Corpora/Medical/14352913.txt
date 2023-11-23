@@ -1,9 +1,0 @@
-A permissive cell or host is one that allows a virus to circumvent its defenses and replicate. Usually this occurs when the virus has modulated one or several of the host cellular intrinsic defenses and the host immune system.  The permissive state of a host has now been determined to be the primary factor in determining whether a virus will cause pathological symptoms in a host.
-
-
-== Susceptible versus permissive ==
-A virus can enter a susceptible cell, but it may or may not be able to replicate. A virus may only replicate in a permissive cell. Viral replication will therefore occur in a susceptible cell which is also a permissive cell that 1) facilitates entry (susceptibility) and 2) supports intracellular replication (permissive cell). The significance of the difference between the two has now been elucidated with study of the rabbit-lethal myxoma virus. Many species of rabbit cells in culture (without the presence of any antiviral defenses that would normally be in a host) can be infected by the myxoma virus, causing infection and cell death.  However, inoculation of the myxoma virus in many species of rabbit shows that only one species of rabbit is affected, the rest being completely unharmed by the virus (lack of even viral shedding).  This has been determined to be a result of the myxoma virus's inability to suppress other species' interferon expression, and hence resulting in the interferon in turn suppressing the myxoma virus.
-This is a result of the positive susceptibility of many species of rabbit's cells, but negative permissibility of all but one of the rabbit species' cells.
-
-
-== Literature ==

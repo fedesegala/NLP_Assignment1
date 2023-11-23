@@ -1,5 +1,0 @@
-Phenotype mixing is a form of interaction between two viruses each of which holds its own unique genetic material.  The two particles "share" coat proteins, therefore each has a similar assortment of identifying surface proteins, while having different genetic material.
-In other words; non-genetic interaction in which virus particles released from a cell that is infected with two different viruses have components from both the infecting agents, but with a genome from one of them.
-
-
-== References ==
