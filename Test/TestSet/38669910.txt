@@ -1,0 +1,27 @@
+In genetics, DNase I hypersensitive sites (DHSs) are regions of chromatin that are sensitive to cleavage by the DNase I enzyme.  In these specific regions of the genome, chromatin has lost its condensed structure, exposing the DNA and making it accessible. This raises the availability of DNA to degradation by enzymes, such as DNase I. These accessible chromatin zones are functionally related to transcriptional activity, since this remodeled state is necessary for the binding of proteins such as transcription factors.
+Since the discovery of DHSs 30 years ago, they have been used as markers of regulatory DNA regions.  These regions have been shown to map many types of cis-regulatory elements including promoters, enhancers, insulators, silencers and locus control regions. A high-throughput measure of these regions is available through DNase-Seq.
+
+
+== Massive analysis ==
+The ENCODE project proposes to map all of the DHSs in the human genome with the intention of cataloging human regulatory DNA.
+DHSs mark transcriptionally active regions of the genome, where there will be cellular selectivity.  So, they used 125 different human cell types.  This way, using the massive sequencing technique, they obtained the DHSs profiles of every cellular type.  Through an analysis of the data, they identified almost 2.9 million distinct DHSs.  34% were specific to each cell type, and only a small minority (3,692) were detected in all cell types.  Also, it was confirmed that only 5% of DHSs were found in TSS (Transcriptional Start Site) regions.  The remaining 95% represented distal DHSs, divided in a uniform way between intronic and intergenic regions.  The data gives an idea of the great complexity regulating the genetic expression in the human genome and the quantity of elements that control this regulation.
+The high-resolution mapping of DHSs in the model plant Arabidopsis thaliana has been reported. Total 38,290 and 41,193 DHSs in leaf and flower tissues have been identified, respectively.
+
+
+== Regulatory DNA tools ==
+The study of DHS profiles combined with other techniques allows analysis of regulatory DNA in humans:
+
+Transcription factor: Using the ChIP-Seq technique, the binding sites to DNA in certain transcription factor groups are determined, and the DHS profiles are compared.  The results confirm a high correlation, which show that the coordinated union of certain factors is implicated in the remodeling and accessibility of chromatin.
+DNA methylation patterns: CpG methylation has been closely linked with transcriptional silencing.  This methylation causes a rearrangement of the chromatin, condensing and inactivating it transcriptionally.  Methylated CpG falling within DHSs impedes the association of transcription factor to DNA, inhibiting the accessibility of chromatin.  Data argue that methylation patterning paralleling cell-selective chromatin accessibility results from passive deposition after the vacation of transcription factors from regulatory DNA.
+Promoter chromatin signature:  The H3K4me3 modification is related with transcriptional activity.  This modification takes place in adjacent nucleosome to the transcription start site (TSS), relaxing the chromatin structure.  This histone modification is used as a marker of promoters, using it to map these elements in the human genome.
+Promoter/enhancer connections: distal cis-regulatory elements, such as enhancers are in charge of modulating the activity of the promoters.  In this way, the distal cis-regulatory elements are actively synchronized with their promoter in the cellular lines which is active the expression of the gene controlled.  Using the DHS profiles, were looked for correlations between DHS to identify promoter/enhancer connections.  Thus, it was able to create a map of candidate enhancers controlling specific genes.The data obtained were validated with the chromosome conformation capture carbon copy (5C) technique.  This technique is based in the physical association that exists between the promoter and the enhancers, determining the regions of chromatin that enter in contact in the promoter/enhancer connections.
+It was confirmed that the majority of promoters were related with more than one enhancer, which indicates the existence of a complicated network of regulation for the immense majority of genes.  Surprisingly, they also found that approximately half of the enhancers were found to be associated with more than one promoter.  This discovery shows that the human cis-regulatory system is much more complicated than initially thought.
+The number of distal cis-regulatory elements connected to a promoter is related to the quantitative average of the regulation complexity of a gene.  In this way, it was determined that human genes with more interactions with distal DHSs, and with at least one more complex regulation, corresponded with those genes with functions in the immune system.  This indicates that the complexly of cellular and environmental signals processed by the immune system is directly encoded in the cis-regulatory architecture of its constituent genes.
+
+
+== Database ==
+ENCODE Project: Regulatory Elements DB
+Plant DHSs : PlantDHS
+
+
+== References ==

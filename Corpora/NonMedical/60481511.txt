@@ -1,0 +1,86 @@
+In mathematics, a genus g surface (also known as a g-torus or g-holed torus) is a surface formed by the connected sum of g many tori: the interior of a disk is removed from each of g many tori and the boundaries of the g many disks are identified (glued together), forming a g-torus. The genus of such a surface is g.
+A genus g surface is a two-dimensional manifold. The classification theorem for surfaces states that every compact connected two-dimensional manifold is homeomorphic to either the sphere, the connected sum of tori, or the connected sum of real projective planes.
+
+
+== Definition of genus ==
+
+The genus of a connected orientable surface is an integer representing the maximum number of cuttings along non-intersecting closed simple curves without rendering the resultant manifold disconnected. It is equal to the number of handles on it. Alternatively, it can be defined in terms of the Euler characteristic χ, via the relationship χ = 2 − 2g for closed surfaces, where g is the genus. 
+The genus (sometimes called the demigenus or Euler genus) of a connected non-orientable closed surface is a positive integer representing the number of cross-caps attached to a sphere. Alternatively, it can be defined for a closed surface in terms of the Euler characteristic χ, via the relationship χ = 2 − g, where g is the non-orientable genus.
+
+
+== Genus 0 ==
+An orientable surface of genus zero is the sphere S2. Another surface of genus zero is the disc.
+
+Representations of genus 0 surfaces
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Genus 1 ==
+A genus one orientable surface is the ordinary torus. A non-orientable surface of genus one is the projective plane.Elliptic curves over the complex numbers can be identified with genus 1 surfaces. The formulation of elliptic curves as the embedding of a torus in the complex projective plane follows naturally from a property of Weierstrass's elliptic functions that allows elliptic curves to be obtained from the quotient of the complex plane by a lattice.
+Representations of genus 1 surfaces
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Genus 2 ==
+The term double torus is occasionally used to denote a genus 2 surface.
+A non-orientable surface of genus two is the Klein bottle.
+The Bolza surface is the most symmetric Riemann surface of genus 2, in the sense that it has the largest possible conformal automorphism group.
+Representations of genus 2 surfaces
+		
+			
+			
+		
+
+
+== Genus 3 ==
+
+The term triple torus is also occasionally used to denote a genus 3 surface.The Klein quartic is a compact Riemann surface of genus 3 with the highest possible order automorphism group for compact Riemann surfaces of genus 3. It has namely order 168 orientation-preserving automorphisms, and 336 automorphisms if orientation may be reversed.
+
+Several genus 3 surfaces
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Three-torus
+g-torus knot
+
+
+== References ==
+
+
+== Sources ==
+James R. Munkres, Topology, Second Edition, Prentice-Hall, 2000, ISBN 0-13-181629-2.
+William S. Massey, Algebraic Topology: An Introduction, Harbrace, 1967.

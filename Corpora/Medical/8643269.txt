@@ -1,0 +1,30 @@
+DPVweb is a database for virologists working on plant viruses combining taxonomic, bioinformatic and symptom data.
+
+
+== Description ==
+DPVweb is a central web-based source of information about viruses, viroids and satellites of plants, fungi and protozoa.It provides comprehensive taxonomic information, including brief descriptions of each family and genus, and classified lists of virus sequences. It makes use of a large database that also holds detailed, curated, information for all sequences of viruses, viroids and satellites of plants, fungi and protozoa that are complete or that contain at least one complete gene. There are currently about 10,000 such sequences. For comparative purposes, DPVweb also contains a representative sequence of all other fully sequenced virus species with an RNA or single-stranded DNA genome. For each curated sequence the database contains the start and end positions of each feature (gene, non-translated region, etc.), and these have been checked for accuracy. As far as possible, the nomenclature for genes and proteins are standardized within genera and families. Sequences of features (either as DNA or amino acid sequences) can be directly downloaded from the website in FASTA format.The sequence information can also be accessed via client software for personal computers.
+
+
+== History ==
+The Descriptions of Plant Viruses (DPVs) were first published by the Association of Applied Biologists in 1970 as a series of leaflets, each one written by an expert describing a particular plant virus. In 1998 all of the 354 DPVs published in paper were scanned, and converted into an electronic format in a database and distributed on CDROM. In 2001 the descriptions were made available on the new DPVweb site, providing open access to the now 400+ DPVs (currently 415) as well as taxonomic and sequence data on all plant viruses.
+
+
+== Uses ==
+DPVweb is an aid to researchers in the field of plant virology as well as an educational resource for students of virology and molecular biology.
+The site provides a single point of access for all known plant virus genome sequences making it easy to collect these sequences together for further analysis and comparison. Sequence data from the DPVweb database have proved valuable for a number of projects:
+
+survey of codon usage bias amongst all plant viruses,
+two-way comparisons between comprehensive sets of sequences from the families Flexiviridae and Potyviridae that have helped inform taxonomy and clarify genus and species discrimination criteria,
+a survey and verification of the polyprotein cleavage sites within the family Potyviridae.
+
+
+== See also ==
+Transmission of plant viruses
+
+
+== References ==
+
+
+== External links ==
+Official website
+DPVweb EDAM bioinformatics ontology

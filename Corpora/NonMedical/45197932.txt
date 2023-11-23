@@ -1,0 +1,73 @@
+In geometry, the Cramer–Castillon problem is a problem stated by the Swiss mathematician Gabriel Cramer solved by the Italian mathematician, resident in Berlin, Jean de Castillon in 1776.The problem consists of (see the image):
+Given a circle 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   and three points 
+  
+    
+      
+        A
+        ,
+        B
+        ,
+        C
+      
+    
+    {\displaystyle A,B,C}
+   in the same plane and not on 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  , to construct every possible triangle inscribed in 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   whose sides (or their elongations) pass through 
+  
+    
+      
+        A
+        ,
+        B
+        ,
+        C
+      
+    
+    {\displaystyle A,B,C}
+   respectively.
+Centuries before, Pappus of Alexandria had solved a special case: when the three points are collinear. But the general case had the reputation of being very difficult.After the geometrical construction of Castillon, Lagrange found an analytic solution, easier than Castillon's. In the beginning of the 19th century, Lazare Carnot generalized it to 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   points.
+
+
+== References ==
+
+
+== Bibliography ==
+Dieudonné, Jean (1992). "Some problems in Classical Mathematics". Mathematics — The Music of Reason. Springer. pp. 77–101. doi:10.1007/978-3-662-35358-5_5. ISBN 978-3-642-08098-2.
+Ostermann, Alexander; Wanner, Gerhard (2012). "6.9 The Cramer–Castillon problem". Geometry by Its History. Springer. pp. 175–178. ISBN 978-3-642-29162-3.
+Wanner, Gerhard (2006). "The Cramer–Castillon problem and Urquhart's 'most elementary´ theorem". Elemente der Mathematik. 61 (2): 58–64. doi:10.4171/EM/33. ISSN 0013-6018.
+
+
+== External links ==
+ Media related to Cramer–Castillon problem at Wikimedia Commons
+Stark, Maurice (2002). "Castillon's problem" (PDF). Archived from the original (PDF) on 2011-07-06.

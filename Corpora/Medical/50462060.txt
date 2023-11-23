@@ -1,0 +1,69 @@
+Brief resolved unexplained event (BRUE), previously apparent life-threatening event (ALTE), is a medical term in pediatrics that describes an event that occurs during infancy. The event is noted by an observer, typically the infant's caregiver. It is characterized by one or more concerning symptoms such as change in skin color, lack of breathing, weakness, or poor responsiveness. By definition, by the time they are assessed in a healthcare environment they must be back to normal without obvious explanation after the clinician takes the appropriate clinical history and physical examination.The American Academy of Pediatrics (AAP) clarified the use of both terms in a 2016 consensus statement that recommended the term BRUE be used whenever possible as it is more specifically defined. Thus, it is more useful for assessing risk of further events. The cause for BRUEs is often unknown, although some of the more common causes include gastroesophageal reflux, seizure, and child maltreatment.  Evaluation after an ALTE or BRUE is diagnostically important, as some events represent the first sign or symptom of an underlying medical condition.  In most cases, assuming the infants are otherwise healthy and no underlying medical issue is found, the infants who have a BRUE are unlikely to have a second event and have an even smaller risk of death.
+
+
+== Presentation ==
+A BRUE is a description of a self-limited episode. Usually a BRUE lasts for less than 1 minute. By definition, the episode must have resolved by the time the infant is evaluated by a medical professional. The caregiver may report observation of bluish skin discoloration, called cyanosis. Breathing abnormalities, such as lack of breathing, slow breathing, or irregular breathing may be noted. Differences in muscle tone, such as transient floppiness or rigidity can also be characterized as a BRUE. Changes in level of responsiveness such as abnormal eye contact or inability to interact can also fulfill the classification.
+A BRUE is a term used by a clinician to characterize an infant's self-limited episode witnessed by someone else. The AAP defines a BRUE as a sudden, brief episode that occurs to infants less than 1 year of age, lasts less than one minute, and resolves completely on its own prior to being evaluated by a health professional. The event must include at least one of the following:
+
+skin color change to blue (cyanosis) or pale (pallor)
+abnormal breathing
+muscle weakness
+decreased responsiveness
+
+
+== Causes ==
+Most infants who have a BRUE are never diagnosed with a definitive cause for the event. However, we use the literature on ALTEs, which is more extensive, to help explain the cause of a BRUE.  These causes may also be considered conditions that can be confused with a BRUE.
+
+
+=== Gastroesophageal reflux ===
+Vomiting or choking during feeding can trigger laryngospasm that leads to a BRUE or ALTE. This is a likely cause if the infant had vomiting or regurgitation just prior to the event, or if the event occurred while the infant was awake and lying down. In healthy infants with a suggestive GER event, no additional testing is typically done. In infants with repeated episodes of choking or repeated acute events, evaluation with a swallowing study can be helpful.
+
+
+=== Seizure ===
+An event can be suggestive of a seizure if the infant was noted to have muscle rigidity or abnormal eye movements without choking or gagging. Evaluation with video electroencephalography (EEG) is useful.
+
+
+=== Child maltreatment ===
+Concerning history or physical examination findings can result in discovery of child abuse. Unexplained bruises in an infant (especially if the infant is not crawling yet) or other trauma should trigger a more thorough medical evaluation. This may include x-rays, social work involvement, or child protective services.
+
+
+=== Other causes ===
+Other causes that are less common include meningitis, urinary tract infection, breath-holding spells, congenital central hypoventilation syndrome, cancer, intracranial bleed, apnea of infancy, periodic breathing of infancy, choking, obstructive sleep apnea, factitious disorder imposed on another (formerly Munchausen syndrome).
+
+
+== Diagnosis ==
+Taking the history of the event is vital in the evaluation of a BRUE.  The first step is determining whether this is truly a BRUE by looking for presence of abnormal symptoms or vital signs.  If this is the case, then it cannot be labelled as a BRUE and the healthcare professional should treat accordingly.
+
+
+=== Low-risk infants ===
+The next step in evaluation is distinguishing whether this BRUE is low- or high-risk. The American Academy of Pediatrics classifies an infant as low risk if they have a BRUE and meet the following characteristics:
+infant is of age greater than 60 days
+gestational age greater than or equal to 32 weeks
+infant has had no prior BRUEs
+this BRUE did not occur in a cluster
+cardiopulmonary resuscitation (CPR) by a medical provider was not required
+no concerning features on history
+no concerning physical examination findings
+duration less than 20 seconds
+
+
+=== High-risk infants ===
+If the infant does not meet all of these criteria, the BRUE is considered high-risk, and more likely represents an underlying medical condition. Characteristics of the infant that make this more likely include history of similar events or clustering, history of unexpected death in a sibling, need for CPR by a trained medical professional, ongoing lethargy, suspicion for child abuse or maltreatment, or existence of genetic syndrome or congenital anomalies.
+
+
+== Management ==
+If the infant meets criteria for a low-risk BRUE and the clinician feels there are no concerning findings otherwise, treatment often involves simple short observation in the emergency department with pulse oximetry. For the cases where parents complain of specific symptoms at the time of the event, then follow-up testing may be done for the related conditions or diseases.  Other tests are not typically recommended for low-risk infants.For infants that have concerning features on history or physical, and are thus categorized as high-risk, further evaluation is warranted. This will vary greatly depending on the infants symptoms, but may include, urinalysis, complete blood count, imaging with chest x-ray, and laboratory screening for ingestion of medications or poisons.  Also, for infants in the high-risk category, clinicians should consider admission to the hospital for extended observation, depending on the benefits and risk of the case.  The course of the admission provides an opportunity to witness a second event to better characterize it and narrow the list of possible diagnoses.  The observation of infants at home with the help of medical devices after discharge is not recommended.  CPR training for families of patients who have a BRUE, however, is recommended.  Most cases, whether low or high-risk, warrant a follow-up visit to the pediatrician.
+
+
+== Prognosis ==
+The risk of death of patients who have a BRUE has been studied by using the literature about ALTEs, since this data is more abundant.  The studies concluded that there is no increased risk of death for these patients compared to the rest of the infant population.  As for the prognosis of these infants into adulthood, research still needs to be conducted to assess for any long-term health effects.
+
+
+== History ==
+In 1986, the National Institute of Health defined an apparent life-threatening event (ALTE ) as an observed frightening event of an infant that includes at least one component of lack of breathing (apnea), skin color change (such as cyanosis), weakness, choking, or gagging. The term was invented to avoid previously used terms such as "near-miss SIDS" to dissociate the event from SIDS, a separate condition in infancy.  There had been literature discussion in the past about the increased risk of SIDS in these infants, but more recently the research has concluded that there is no direct relationship between an ALTE and SIDS. It also was defined as part of an attempt to characterize the different forms of apnea, or sudden lack of breathing, in infants.In 2016, the American Academy of Pediatrics (AAP) published a clinical practice guideling recommending the replacement of ALTE with a new term, brief resolved unexplained event (BRUE).  The guidelines state that the term ALTE is still applicable with key differences between ALTE and BRUE.  The biggest difference is whether the infant is symptomatic at time of presentation to a health professional.  If the infant is still showing symptoms, then the condition is termed an ALTE.  In order to be considered a BRUE, the infant should be completely asymptomatic at time of presentation, which is more common.  Because of this, a BRUE can also be considered as a subset of ALTE.  The term change was also recommended in large part due to the "life-threatening" suggestion from the older term.  The rate of death in infants following a BRUE has been studied and is relatively rare, about 1 in 800. Thus, the AAP felt the new term would relieve the stress on clinicians and parents of these infants.
+
+
+== References ==
+
+
+== External links ==

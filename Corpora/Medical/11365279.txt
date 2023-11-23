@@ -1,0 +1,111 @@
+An attenuated vaccine (or a live attenuated vaccine, LAV) is a vaccine created by reducing the virulence of a pathogen, but still keeping it viable (or "live"). Attenuation takes an infectious agent and alters it so that it becomes harmless or less virulent. These vaccines contrast to those produced by "killing" the pathogen (inactivated vaccine).
+Attenuated vaccines stimulate a strong and effective immune response that is long-lasting. In comparison to inactivated vaccines, attenuated vaccines produce a stronger and more durable immune response with a quick immunity onset. They are generally avoided in patients with severe immunodeficiencies. Attenuated vaccines function by encouraging the body to create antibodies and memory immune cells in response to the specific pathogen which the vaccine protects against. Common examples of live attenuated vaccines are measles, mumps, rubella, yellow fever, and some influenza vaccines.
+
+
+== Development ==
+
+
+=== Attenuated viruses ===
+Viruses may be attenuated using the principles of evolution via serial passage of the virus through a foreign host species, such as:
+Tissue culture
+Embryonated eggs (often chicken)
+Live animalsThe initial virus population is applied to a foreign host. Through natural genetic variability or induced mutation, a small percentage of the viral particles should have the capacity to infect the new host. These strains will continue to evolve within the new host and the virus will gradually lose its efficacy in the original host, due to lack of selection pressure. This process is known as "passage" in which the virus becomes so well adapted to the foreign host that it is no longer harmful to the subject that is to receive the vaccine. This makes it easier for the host immune system to eliminate the agent and create the immunological memory cells which will likely protect the patient if they are infected with a similar version of the virus in "the wild".Viruses may also be attenuated via reverse genetics. Attenuation by genetics is also used in the production of oncolytic viruses.
+
+
+=== Attenuated bacteria ===
+Bacteria is typically attenuated by passage, similar to the method used in viruses. Gene knockout guided by reverse genetics is also used.
+
+
+== Administration ==
+Attenuated vaccines can be administered in a variety of ways:
+
+Injections:
+Subcutaneous (e.g. measles, mumps and rubella vaccine, varicella vaccine, yellow fever vaccine)
+Intradermal (e.g. tuberculosis vaccine, smallpox vaccine)
+Mucosal:
+Nasal (e.g. live attenuated influenza vaccine)
+Oral (e.g. oral polio vaccine, recombinant live attenuated cholera vaccine, oral typhoid vaccine, oral rotavirus vaccine)Oral vaccines or subcutaneous/intramuscular injection are for individuals older than 12 months. Live attenuated vaccines, with the exception of the rotavirus vaccine given at 6 weeks, is not indicated for infants younger than 9 months.
+
+
+== Mechanism ==
+Vaccines function by encouraging the creation of cells, such as CD8+ and CD4+ T lymphocytes, or molecules, such as antibodies, that are specific to the pathogen. The cells and molecules can either prevent or reduce infection by killing infected cells or by producing interleukins. The specific effectors evoked can be different based on the vaccine. Live attenuated vaccines tend to help with the production of CD8+ cytotoxic T lymphocytes and T-dependent antibody responses. A vaccine is only effective for as long as the body maintains a population of these cells.Attenuated vaccines are “weakened” version of pathogens (virus or bacteria). They are modified so that it cannot cause harm or disease in the body but are still able to activate the immune system. This type of vaccine works by activating both the cellular and humoral immune responses of the adaptive immune system. When a person receives an oral or injection of the vaccine, B cells, which help make antibodies, are activated in two ways: T cell-dependent and T-cell independent.In T-cell dependent activation of B cells, B cells first recognize and present the antigen on MHCII receptors. T-cells can then recognize this presentation and bind to the B cell, resulting in clonal proliferation. This also helps IgM and plasma cells production as well as immunoglobulin switching. On the other hand, T-cell independent activation of B cells is due to non-protein antigens. This can lead to production of IgM antibodies. Being able to produce a B-cell response as well as memory killer T cells is a key feature of attenuated virus vaccines that help induce a potent immunity.
+
+
+== Safety ==
+Live-attenuated vaccines are safe and stimulate a strong and effective immune response that is long-lasting. Given pathogens are attenuated, it is extremely rare for pathogens to revert to their pathogenic form and subsequently cause disease. Additionally, within the five WHO-recommended live attenuated vaccines (tuberculosis, oral polio, measles, rotavirus, and yellow fever), severe adverse reactions are extremely rare.Individuals with severely compromised immune systems (e.g., HIV-infection, chemotherapy, immunosuppressive therapy, lymphoma, leukemia, combined immunodeficiencies) typically should not receive live-attenuated vaccines as they may not be able to produce an adequate and safe immune response. Household contacts of immunodeficient individuals are still able to receive most attenuated vaccines since there is no increased risk of infection transmission, with the exception being the oral polio vaccine.As precaution, live-attenuated vaccines are not typically administered during pregnancy. This is due to the risk of transmission of virus between mother and fetus. In particular, the varicella and yellow fever vaccines have been shown to have adverse effects on fetuses and nursing babies.Some live attenuated vaccines have additional common, mild adverse effects due to their administration route. For example, the live attenuated influenza vaccine is given nasally and is associated with nasal congestion.Compared to inactivated vaccines, live-attenuated vaccines are more prone to immunization errors as they must be kept under strict conditions during the cold chain and carefully prepared (e.g., during reconstitution).
+
+
+== History ==
+The history of vaccine development started with the creation of the smallpox vaccine by Edward Jenner in the late 18th century. Jenner discovered that inoculating a human with an animal pox virus would grant immunity against smallpox, a disease considered to be one of the most devastating in human history. Although the original smallpox vaccine is sometimes considered to be an attenuated vaccine due to its live nature, it was not strictly-speaking attenuated since it was not derived directly from smallpox. Instead, it was based on the related and milder cowpox disease. The discovery that diseases could be artificially attenuated came in the late 19th century when Louis Pasteur was able to derive an attenuated strain of chicken cholera. Pasteur applied this knowledge to develop an attenuated anthrax vaccine and demonstrating its effectiveness in a public experiment. The first rabies vaccine was subsequently produced by Pasteur and Emile Roux by growing the virus in rabbits and drying the affected nervous tissue.The technique of cultivating a virus repeatedly in artificial media and isolating less virulent strains was pioneered in the early 20th century by Albert Calmette and Camille Guérin who developed an attenuated tuberculosis vaccine called the BCG vaccine. This technique was later used by several teams when developing the vaccine for yellow fever, first by Sellards and Laigret, and then by Theiler and Smith. The vaccine developed by Theiler and Smith proved to be hugely successful and helped establish recommended practices and regulations for many other vaccines. These include the growth of viruses in primary tissue culture (e.g., chick embryos), as opposed to animals, and the use of the seed stock system which uses the original attenuated viruses as opposed to derived viruses (done to reduce variance in vaccine development and decrease the chance of adverse effects). The middle of the 20th century saw the work of many prominent virologists including Sabin, Hilleman, and Enders, and the introduction of several successful attenuated vaccines, such as those against polio, measles, mumps, and rubella.
+
+
+== Advantages and disadvantages ==
+
+
+=== Advantages ===
+Accurately imitate natural infections.
+Are effective at evoking both strong antibody and cell-mediated immune reactions.
+Can elicit long-lasting or life-long immunity.
+Often only one or two doses are required.
+Quick immunity onset.
+Cost-effective (compared to some other health interventions).
+Can have strong beneficial non-specific effects.
+
+
+=== Disadvantages ===
+In rare cases, particularly when there is inadequate vaccination of the population, natural mutations during viral replication, or interference by related viruses, can cause an attenuated virus to revert to its wild-type form or mutate to a new strain, potentially resulting in the new virus being infectious or pathogenic.
+Often not recommended for severely immunocompromised patients due to the risk of potential complications.
+Live strains typically require advanced maintenance, such as refrigeration and fresh media, making transport to remote areas difficult and costly.
+
+
+== List of attenuated vaccines ==
+
+
+=== Currently in-use ===
+For many of the pathogens listed below there are many vaccines, the list below simply indicates that there are one (or more) attenuated vaccines for that particular pathogen, not that all vaccines for that pathogen are attenuated.
+
+
+==== Bacterial vaccines ====
+Anthrax vaccine
+Cholera vaccine
+Plague vaccine
+Salmonella vaccine
+Tuberculosis vaccine
+Typhoid vaccine
+
+
+==== Viral vaccines ====
+Live attenuated influenza vaccine (LAIV)
+Japanese encephalitis vaccine
+Measles vaccine
+Mumps vaccine
+Measles and rubella (MR) vaccine
+Measles, mumps, and rubella (MMR) vaccine
+Measles, mumps, rubella and varicella (MMRV) vaccine
+Polio vaccine
+Rotavirus vaccine
+Rubella vaccine
+Smallpox vaccine
+Varicella vaccine
+Yellow fever vaccine
+Zoster/shingles vaccine
+
+
+=== In development ===
+
+
+==== Bacterial vaccines ====
+Enterotoxigenic Escherichia coli vaccine
+
+
+==== Viral vaccines ====
+Tick-borne encephalitis vaccine
+COVID-19
+
+
+== References ==
+
+
+== External links ==
+Global Polio Eradication Initiative: Advantages and Disadvantages of Vaccine Types
+CDC H1N1 Flu / 2009 H1N1 Nasal Spray Vaccine Q&A at the website of the US Centers for Disease Control and Prevention

@@ -1,0 +1,58 @@
+The agouti gene, the  Agouti-signaling protein (ASIP) is responsible for variations in color in many species. Agouti works with extension to regulate the color of melanin which is produced in hairs. The agouti protein causes red to yellow pheomelanin to be produced, while the competing molecule α-MSH signals production of brown to black eumelanin. In wildtype mice, alternating cycles of agouti and α-MSH production cause agouti coloration. Each hair has bands of yellow which grew during agouti production, and black which grew during α-MSH production. Wildtype mice also have light-colored bellies. The hairs there are a creamy color the whole length because the agouti protein was produced the whole time the hairs were growing.In mice and other species, loss of function mutations generally cause a darker color, while gain of function mutations cause a yellower coat.
+
+
+== Mice ==
+As of 1979, there were 17 known alleles of agouti in mice.
+Lethal yellow Ay causes yellow coloration and obesity. It is dominant to all other alleles in the series. When homozygous, it is lethal early in development.
+Viable yellow Avy looks similar to lethal yellow and also causes obesity, but is not lethal when homozygous. Homozygous viable yellow mice can be variable in color from clear yellow through mottled black and yellow to a darker color similar to the agouti color.
+Intermediate yellow aiy causes a mottled yellow coloration, which like viable yellow can sometimes resemble agouti.
+Sienna yellow Asy heterozygotes are a dark yellow, while homozygotes are generally a clearer yellow.
+White-bellied agouti AW mice have agouti coloration, with hairs that are black at the tips, then yellow, then black again, and white to tan bellies.
+Agouti A looks like AW but the belly is dark like the back.
+Black and tan at causes a black back with a tan belly. A/at heterozygotes look like AW mice.
+Nonagouti a mice are almost completely black, with only a few yellow hairs around the ears and the genitals.
+Extreme nonagouti ae mice are fully black, and is recessive to all other alleles in the series.This is not a complete list of mouse agouti alleles.
+Lethal yellow and viable yellow cause obesity, features of type II diabetes, and a higher likelihood of tumors. In normal mice Agouti is only expressed in the skin during hair growth, but these dominant yellow mutations cause it to be expressed in other tissues including liver, muscle, and fat. The mahogany locus interacts with Agouti and a mutation there can override the pigmentation and body weight effects of lethal yellow.The mouse agouti gene is found on chromosome 2.
+
+
+== Dogs ==
+
+In dogs, the agouti gene is associated with various coat colors and patterns.The alleles at the A locus are related to the production of agouti-signaling protein (ASIP) and determine whether an animal expresses an agouti appearance and, by controlling the distribution of pigment in individual hairs, what type of agouti. There are four known alleles that occur at the A locus:
+
+Ay = Fawn or sable (tan with black whiskers and varying amounts of black-tipped and/or all-black hairs dispersed throughout) - fawn typically referring to dogs with clearer tan and sable to those with more black shading
+aw = Wild-type agouti (each hair with 3-6 bands alternating black and tan) - also called wolf sable
+at = Tan point (black with tan patches on the face and underside) - including saddle tan (tan with a black saddle or blanket) 
+a = Recessive black (black, inhibition of phaeomelanin)
+ayt = Recombinant fawn (expresses a varied phenotype depending on the breed) has been identified in numerous Tibetan Spaniels and individuals in other breeds, including the Dingo. Its hierarchical position is not yet understood.Most texts suggest that the dominance hierarchy for the A locus alleles appears to be as follows: Ay > aw > at > a; however, research suggests the existence of pairwise dominance/recessiveness relationships in different families and not the existence of a single hierarchy in one family.
+Ay is incompletely dominant to at, so that heterozygous individuals have more black sabling, especially as puppies and Ayat can resemble the awaw phenotype. Other genes also affect how much black is in the coat.
+aw is the only allele present in many Nordic spitzes, and is not present in most other breeds.
+at includes tan point and saddle tan, both of which look tan point at birth. Modifier genes in saddle tan puppies cause a gradual reduction of the black area until the saddle tan pattern is achieved.
+a is only present in a handful of breeds. Most black dogs are black due to a K locus allele.A 2021 study found distinct genetic causes for fawn and sable, which it refers to as "dominant yellow" and "shaded yellow". Both have a more active hair cycle promoter than the wildtype agouti, but dominant yellow also has a more active ventral promoter. The hair cycle promoter involved in these colors is thought to have arisen about 2 million years ago in an extinct species of canid, which later hybridized with wolves.
+
+
+== Cats ==
+The dominant, wild-type A allows hairs to be banded with black and red (revealing the underlying tabby pattern), while the recessive non-agouti or "hypermelanistic" allele, a, causes black pigment production throughout the growth cycle of the hair. Thus, the non-agouti genotype (aa) masks or hides the tabby pattern, although sometimes a suggestion of the underlying pattern can be seen (called "ghost striping"), especially in kittens. The sex-linked orange coloration is epistatic over agouti, and prevents the production of black pigment.
+
+
+== Horses ==
+In normal horses, ASIP restricts the production of eumelanin to the "points": the legs, mane, tail, ear edges, etc. In 2001, researchers discovered a recessive mutation on ASIP that, when homozygous, left the horse without any functional ASIP. As a result, horses capable of producing true black pigment had uniformly black coats. The dominant, wildtype allele producing bay is symbolized as A, while the recessive allele producing black is symbolized as a. Extension is epistatic over agouti and will cause chestnut coloration regardless of what agouti alleles are present.
+
+
+=== History ===
+The cause behind the various shades of bay, particularly the genetic factors responsible for wild bay and seal brown, have been contested for over 50 years. In 1951, zoologist Miguel Odriozola published "A los colores del caballo" in which he suggested four possible alleles for the "A" gene, A+, A, At, and a, in order of most dominant to least.
+This was accepted until the 1990s, when a different hypothesis became popular. It proposed that shades of bay were caused by many different genes, some which lightened the coat, some which darkened it. This theory also suggested that seal brown horses were black horses with a trait called pangare. Pangaré is an ancestral trait also called "mealy", which outlines the soft or communicative parts of the horse in buff tan.
+The combination of black and pangaré was dismissed as the cause of seal brown in 2001, when a French research team published Mutations in the agouti (ASIP), the extension (MC1R), and the brown (TYRP1) loci and their association to coat color phenotypes in horses (Equus caballus). This study used a DNA test to identify the recessive a allele on the Agouti locus, and found that none of the horses fitting the phenotype of seal brown were homozygous for the a allele.In 2007 one genetics lab began offering a test for what they believed was a marker for seal brown, and later for an agouti allele which they believed caused the brown color. However, the underlying research was never published and the test was suspended by 2015 due to unreliable results.The genetic alleles that create seal brown and wildtype bay remain unknown. It is still hypothesized that to some extent, the darkening of coat color in some bays may be regulated by unrelated genes for traits like "sooty".
+
+
+== Donkeys ==
+Most donkeys have creamy to gray-white areas on the belly and around the muzzle and eyes, called light points or pangare. However, a recessive variant of agouti causes those areas to be the same color as the body in a pattern called no light points or NLP, which is similar to recessive black in other mammals. This allele can be found in Norman donkeys and American miniature donkeys.
+
+
+== Rabbits ==
+In rabbits, the wildtype is agouti with a light belly, and a recessive non-agouti allele causes a black coat. A third allele, possibly a mutation to a regulator or promoter region, is thought to cause black and tan color. The nonagouti allele is estimated to have first appeared before 1700.Agouti is linked to the wideband gene, with about a 30% crossover rate.Like white bellied agouti mice, rabbits with wildtype agouti produce transcripts with different untranslated 5' ends that have different dorsal and ventral expression. The 1A exon is only expressed in the belly region and may be responsible for the lighter color there.
+
+
+== References ==
+
+
+== Further reading ==

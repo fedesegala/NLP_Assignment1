@@ -1,0 +1,27 @@
+The chaperone code refers to post-translational modifications of molecular chaperones that control protein folding. Whilst the genetic code specifies how DNA makes proteins, and the histone code regulates histone-DNA interactions, the chaperone code controls how proteins are folded to produce a functional proteome.The chaperone code refers to the combinatorial array of post-translational modifications (enzymes add chemical modifications to amino acids that change their properties)  —i.e. phosphorylation, acetylation, ubiquitination, methylation, etc.—that are added to molecular chaperones to modulate their activity. Molecular chaperones are proteins specialized in folding and unfolding of the other cellular proteins, and the assembly and dismantling of protein complexes. This is critical in the regulation of protein-protein interactions and many cellular functions. Because post-translational modifications are marks that can be added and removed rapidly, they provide an efficient mechanism to explain the plasticity observed in proteome organization during cell growth and development.
+The chaperone code concept posits that combinations of post-translational modifications at the surface of chaperones, including phosphorylation, acetylation, methylation, ubiquitination, control protein folding/unfolding and protein complex assembly/disassembly by modulating:
+1) chaperone-substrate affinity and specificity
+2) chaperone ATPase and therefore its refolding activity 
+3) chaperone localization
+4) chaperone-co-chaperone interaction.
+
+
+== Levels of the Chaperone Code ==
+The Chaperone code is incredibly complex with multiple layers of potential regulation. Studies of the chaperone code may include:
+Level 1: Understanding the role and regulation of single PTMs on a single chaperone
+Level 2: Cross-talk of different PTMs on a single amino acid or between PTMs on different amino acids (on a single chaperone)
+Level 3: Understanding of why chaperone paralogs have different PTMs
+Level 4: Cross-talk of PTMs between different chaperones i.e. between Hsp90 and Hsp70
+Level 5: Understanding the role and regulation of single PTMs on a single co-chaperone molecule
+Level 6: Understanding the entire chaperone code-all the PTMs on all major chaperones, co-chaperones that control all aspects of life.
+
+
+== Phosphorylation ==
+Site-specific phosphorylation of chaperone proteins can affect their activity. In some cases phosphorylation may disrupt the interaction with a co-chaperone protein thus negatively affecting its activity. In other instances it may promote the activation of particular chaperone targets (referred to as clients). Enzymes such as protein kinase A, casein kinase 1 and 2 (CK1 and CK2), and glycogen synthase kinase B serve as kinases for chaperone proteins. HSP70, a major chaperone protein, was identified in 2012 as a hotspot of phospho-regulation. Subsequently, phosphorylation of chaperone protein HSP70 by a cyclin dependent kinase was shown to delay cell cycle progression in yeast and mammals by altering cyclin D1 stability (a key regulator of the cell cycle). Phosphorylation of HSP90 (another major chaperone) at threonine 22, was shown to disrupt its interaction with co-chaperone proteins Aha1 and CD37 (interacting proteins required for function) and decrease its activity. Certain pathogenic bacteria may manipulate host chaperone phosphorylation through bacterial effectors to promote their survival. HoPBF1, a family of bacterial effector protein kinases, phosphorylates HSP90 at Serine 99 to dampen immunity.
+
+
+== Methylation ==
+Chaperone proteins are also regulated by methylation. This can occur through a conformational change (or a change in the structure of the protein), such that the interactions and activity of the protein are changed.  For instance, the monomethylation of HSP90 lysine 616 by Smyd2, and its reversal by LSD1, regulate enzymatic activity of HSP90.
+
+
+== References ==

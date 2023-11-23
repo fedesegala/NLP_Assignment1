@@ -1,0 +1,59 @@
+A custom-made medical device, commonly referred to as a custom-made device (CMD) (Canada, the European Union, the United Kingdom) or a custom device (United States), is a medical device designed and manufactured for the sole use of a particular patient. Examples of custom-made medical devices include auricular splints, dentures, orthodontic appliances, orthotics and prostheses.
+
+
+== Definition ==
+There is no globally agreed definition, but a custom-made medical device can be broadly defined as a medical device that has been designed and manufactured in accordance with a prescription from an appropriately qualified person for the sole use of a particular patient to meet their specific needs. Mass-produced medical devices that have been adapted for specific patient requirements such as customised wheelchairs, hearing aids, and spectacle frames do not typically fall within the definition of a custom-made medical device.
+
+
+=== Definitions by jurisdiction ===
+
+
+== Types ==
+Depending on the jurisdiction, custom-made medical devices can be prescribed by various healthcare professionals working within numerous medical specialties such as dentists, hearing aid dispensers, ocularists/orbital prosthetists, orthotists, medical practitioners/physicians and prosthetists. Manufacturers of custom-made medical devices include anaplastologists, audiologists,
+clinical dental technicians/dental prosthetists/denturists, dental assistants/dental nurses, dental technicians, dentists, ocularists/orbital prosthetists, ophthalmologists, optometrists, orthopaedic shoe fitters, orthopedic technicians, orthotists and prosthetists.
+
+
+== Legislative requirements ==
+
+
+=== Australia ===
+In Australia manufacturers of custom-made medical devices are exempt from registering with the Australian Register of Therapeutic Goods (ARTG). Manufacturers of custom-made medical devices cannot advertise such devices directly to patients and are required to:
+
+Notify the Therapeutic Goods Administration that they are providing custom-made medical devices.
+Comply with the ARTG exemption conditions concerning inspection and review.
+Provide appropriate documentation with devices that they manufacture and/or supply.
+Maintain records relating to the devices that they have manufactured and/or supplied in Australia for at least five years.
+Submit an annual report with details of the custom-made medical devices that they have manufactured and/or supplied to the Therapeutic Goods Administration.
+
+
+=== Canada ===
+In Canada, custom-made medical devices are subject to Part 2 of the Medical Devices Regulations (SOR/98-282) under the Food and Drugs Act. Serious adverse incidents with medical devices must be reported to Health Canada within 72 hours.
+
+
+=== European Union ===
+Custom-made devices manufactured in the European Union are subject to Regulation (EU) 2017/745 (Medical Device Regulation [EU MDR]), which replaced and repealed Directive 93/42/EEC (Medical Devices Directive [MDD]). Under the MDD, manufacturers of custom-made devices were required to follow the relevant Essential Requirements set out in Annex I and the procedure set out in Annex VIII.The EU MDR was published on 5 April 2017, came into force on 25 May 2017 and, following a three-year transition period, was expected to replace and repeal the MDD on 26 May 2020. But on 23 April 2020, Regulation (EU) 2020/561 was adopted which deferred the full implementation of the EU MDR for one year until 26 May 2021 so that efforts could be concentrated on the response to the coronavirus disease 2019 (COVID-19) pandemic. Under the EU MDR, manufacturers of custom-made devices are required to:
+
+Establish, document, implement and maintain, keep up to date and continually improve a quality management system. These requirements are provided in EU MDR Article 10(9) and are aligned with certain clauses of ISO 13485, the  International Organization for Standardization (ISO) quality management system requirements for the design and manufacture of medical devices.
+Comply with the relevant General Safety and Performance Requirements set out in Annex I. These obligations are comparable with the MDD Annex I Essential Requirements but are expanded and include the requirement to establish, implement, document and maintain a risk management system, the requirements of which are in alignment with ISO 14971, the ISO standard for the application of risk management to medical devices.
+The procedure set out in Annex XIII, which is comparable with MDD Annex VIII but with some enhanced requirements.
+Review and document experience gained in the post-production phase and report serious incidents and field safety corrective actions.
+Manufacturers outside the EU who are placing medical devices on the EU market are obligated to appoint a European Authorized Representative.Custom-made devices are not required to carry the CE marking.
+
+
+=== United Kingdom ===
+In the UK manufacturers of custom-made devices are required to register with the Medicines and Healthcare products Regulatory Agency. Until the UK left the European Union on 31 January 2020, custom-made devices were governed by the MDD, which was given effect in UK law by The Medical Devices Regulations 2002 (Statutory Instrument 2002/618 [UK MDR 2002]). Immediately after the UK's departure, the UK entered an 11-month implementation period (IP), during which EU law continued to apply.
+In preparation for the UK's departure from the EU, the EU MDR was essentially transposed into The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019, (Statutory Instrument 2019/791 [UK MDR 2019]), an amendment of the UK MDR 2002) and was expected to be fully implemented on exit day. The UK MDR 2002 was further amended by The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (Statutory Instrument 2020/1478 [UK MDR 2020]), which removed the provisions of the EU MDR and substituted 'exit day' for 'IP completion day'.
+In Great Britain medical devices can conform to either the UK MDR 2002 (as amended) or the EU MDR until 30 June 2023. Northern Ireland remains in line with EU law under the terms of the Protocol on Ireland/Northern Ireland.Custom-made devices are not required to carry the CE marking or the UK Conformity Assessed (UKCA) marking.
+
+
+=== United States ===
+Custom devices are subject to requirements including labelling (21 CFR Part 801), reporting (21 CFR Part 803), corrections and removals (21 CFR Part 806), registration and listing (21 CFR Part 807) and quality systems regulation (21 CFR 820). Manufacturers of custom devices are obligated to submit an annual report of custom devices to the Food and Drug Administration but are exempt from Premarket Approval (PMA) requirements and conformance to mandatory performance standards.
+
+
+== See also ==
+Medical device
+Canada: Marketed Health Products Directorate
+United States: Medical Device Regulation Act
+
+
+== References ==

@@ -1,0 +1,102 @@
+Plant viruses are viruses that affect plants. Like all other viruses, plant viruses are obligate intracellular parasites that do not have the molecular machinery to replicate without a host. Plant viruses can be pathogenic to vascular plants ("higher plants").
+Most plant viruses are rod-shaped, with protein discs forming a tube surrounding the viral genome; isometric particles are another common structure. They rarely have an envelope. The great majority have an RNA genome, which is usually small and single stranded (ss), but some viruses have double-stranded (ds) RNA, ssDNA or dsDNA genomes. Although plant viruses are not as well understood as their animal counterparts, one plant virus has become very recognizable: tobacco mosaic virus (TMV), the first virus to be discovered. This and other viruses cause an estimated US$60 billion loss in crop yields worldwide each year. Plant viruses are grouped into 73 genera and 49 families. However, these figures relate only to cultivated plants, which represent only a tiny fraction of the total number of plant species. Viruses in wild plants have not been well-studied, but the interactions between wild plants and their viruses often do not appear to cause disease in the host plants.To transmit from one plant to another and from one plant cell to another, plant viruses must use strategies that are usually different from animal viruses. Most plants do not move, and so plant-to-plant transmission usually involves vectors (such as insects). Plant cells are surrounded by solid cell walls, therefore transport through plasmodesmata is the preferred path for virions to move between plant cells. Plants have specialized mechanisms for transporting mRNAs through plasmodesmata, and these mechanisms are thought to be used by RNA viruses to spread from one cell to another. Plant defenses against viral infection include, among other measures, the use of siRNA in response to dsRNA. Most plant viruses encode a protein to suppress this response. Plants also reduce transport through plasmodesmata in response to injury.
+
+
+== History ==
+The discovery of plant viruses causing disease is often accredited to A. Mayer (1886) working in the Netherlands demonstrated that the sap of mosaic obtained from tobacco leaves developed mosaic symptom when injected in healthy plants. However the infection of the sap was destroyed when it was boiled. He thought that the causal agent was bacteria. However, after larger inoculation with a large number of bacteria, he failed to develop a mosaic symptom.
+In 1898, Martinus Beijerinck, who was a Professor of Microbiology at the Technical University the Netherlands, put forth his concepts that viruses were small and determined that the "mosaic disease" remained infectious when passed through a Chamberland filter-candle. This was in contrast to bacteria microorganisms, which were retained by the filter. Beijerinck referred to the infectious filtrate as a "contagium vivum fluidum", thus the coinage of the modern term "virus".
+After the initial discovery of the 'viral concept' there was need to classify any other known viral diseases based on the mode of transmission even though microscopic observation proved fruitless. In 1939 Holmes published a classification list of 129 plant viruses. This was expanded and in 1999 there were 977 officially recognized, and some provisional, plant virus species.
+The purification (crystallization) of TMV was first performed by Wendell Stanley, who published his findings in 1935, although he did not determine that the RNA was the infectious material. However, he received the Nobel Prize in Chemistry in 1946. In the 1950s a discovery by two labs simultaneously proved that the purified RNA of the TMV was infectious which reinforced the argument. The RNA carries genetic information to code for the production of new infectious particles.
+More recently virus research has been focused on understanding the genetics and molecular biology of plant virus genomes, with a particular interest in determining how the virus can replicate, move and infect plants. Understanding the virus genetics and protein functions has been used to explore the potential for commercial use by biotechnology companies. In particular, viral-derived sequences have been used to provide an understanding of novel forms of resistance. The recent boom in technology allowing humans to manipulate plant viruses may provide new strategies for production of value-added proteins in plants.
+
+
+== Structure ==
+Viruses are extremely small and can only be observed under an electron microscope. The structure of a virus is given by its coat of proteins, which surround the viral genome. Assembly of viral particles takes place spontaneously.
+Over 50% of known plant viruses are rod-shaped (flexuous or rigid). The length of the particle is normally dependent on the genome but it is usually between 300 and 500 nm with a diameter of 15–20 nm. Protein subunits can be placed around the circumference of a circle to form a disc. In the presence of the viral genome, the discs are stacked, then a tube is created with room for the nucleic acid genome in the middle.The second most common structure amongst plant viruses are isometric particles. They are 25–50 nm in diameter. In cases when there is only a single coat protein, the basic structure consists of 60 T subunits, where T is an integer. Some viruses may have 2 coat proteins that associate to form an icosahedral shaped particle.
+There are three genera of Geminiviridae that consist of particles that are like two isometric particles stuck together.
+A very small number of plant viruses have, in addition to their coat proteins, a lipid envelope. This is derived from the plant cell membrane as the virus particle buds off from the cell.
+
+
+== Transmission of plant viruses ==
+
+
+=== Through sap ===
+Viruses can be spread by direct transfer of sap by contact of a wounded plant with a healthy one. Such contact may occur during agricultural practices, as by damage caused by tools or hands, or naturally, as by an animal feeding on the plant. Generally TMV, potato viruses and cucumber mosaic viruses are transmitted via sap.
+
+
+=== Insects ===
+Plant viruses need to be transmitted by a vector, most often insects such as leafhoppers. One class of viruses, the Rhabdoviridae, has been proposed to actually be insect viruses that have evolved to replicate in plants. The chosen insect vector of a plant virus will often be the determining factor in that virus's host range: it can only infect plants that the insect vector feeds upon. This was shown in part when the old world white fly made it to the United States, where it transferred many plant viruses into new hosts. Depending on the way they are transmitted, plant viruses are classified as non-persistent, semi-persistent and persistent. In non-persistent transmission, viruses become attached to the distal tip of the stylet of the insect and on the next plant it feeds on, it inoculates it with the virus. Semi-persistent viral transmission involves the virus entering the foregut of the insect. Those viruses that manage to pass through the gut into the haemolymph and then to the salivary glands are known as persistent. There are two sub-classes of persistent viruses: propagative and circulative. Propagative viruses are able to replicate in both the plant and the insect (and may have originally been insect viruses), whereas circulative can not. Circulative viruses are protected inside aphids by the chaperone protein symbionin, produced by bacterial symbionts.  Many plant viruses encode within their genome polypeptides with domains essential for transmission by insects. In non-persistent and semi-persistent viruses, these domains are in the coat protein and another protein known as the helper component. A bridging hypothesis has been proposed to explain how these proteins aid in insect-mediated viral transmission. The helper component will bind to the specific domain of the coat protein, and then the insect mouthparts – creating a bridge. In persistent propagative viruses, such as tomato spotted wilt virus (TSWV), there is often a lipid coat surrounding the proteins that is not seen in other classes of plant viruses. In the case of TSWV, 2 viral proteins are expressed in this lipid envelope. It has been proposed that the viruses bind via these proteins and are then taken into the insect cell by receptor-mediated endocytosis.
+
+
+=== Nematodes ===
+Soil-borne nematodes also have been shown to transmit viruses. They acquire and transmit them by feeding on infected roots. Viruses can be transmitted both non-persistently and persistently, but there is no evidence of viruses being able to replicate in nematodes. The virions attach to the stylet (feeding organ) or to the gut when they feed on an infected plant and can then detach during later feeding to infect other plants. Examples of viruses that can be transmitted by nematodes include tobacco ringspot virus and tobacco rattle virus.
+
+
+=== Plasmodiophorids ===
+A number of virus genera are transmitted, both persistently and non-persistently, by soil borne zoosporic protozoa. These protozoa are not phytopathogenic themselves, but parasitic. Transmission of the virus takes place when they become associated with the plant roots. Examples include Polymyxa graminis, which has been shown to transmit plant viral diseases in cereal crops and Polymyxa betae which transmits Beet necrotic yellow vein virus. Plasmodiophorids also create wounds in the plant's root through which other viruses can enter.
+
+
+=== Seed and pollen borne viruses ===
+Plant virus transmission from generation to generation occurs in about 20% of plant viruses. When viruses are transmitted by seeds, the seed is infected in the generative cells and the virus is maintained in the germ cells and sometimes, but less often, in the seed coat. When the growth and development of plants is delayed because of situations like unfavorable weather, there is an increase in the amount of virus infections in seeds.  There does not seem to be a correlation between the location of the seed on the plant and its chances of being infected. [5] Little is known about the mechanisms involved in the transmission of plant viruses via seeds, although it is known that it is environmentally influenced and that seed transmission occurs because of a direct invasion of the embryo via the ovule or by an indirect route with an attack on the embryo mediated by infected gametes. [5] [6] These processes can occur concurrently or separately depending on the host plant. It is unknown how the virus is able to directly invade and cross the embryo and boundary between the parental and progeny generations in the ovule. [6]
+Many plants species can be infected through seeds including but not limited to the families Leguminosae, Solanaceae, Compositae, Rosaceae, Cucurbitaceae, Gramineae. [5] Bean common mosaic virus is transmitted through seeds.
+
+
+=== Direct plant-to-human transmission ===
+Researchers from the University of the Mediterranean in Marseille, France have found tenuous evidence that suggest a virus common to peppers, the Pepper Mild Mottle Virus (PMMoV) may have moved on to infect humans. This is a very rare and highly unlikely event as, to enter a cell and replicate, a virus must "bind to a receptor on its surface, and a plant virus would be highly unlikely to recognize a receptor on a human cell. One possibility is that the virus does not infect human cells directly. Instead, the naked viral RNA may alter the function of the cells through a mechanism similar to RNA interference, in which the presence of certain RNA sequences can turn genes on and off," according to Virologist Robert Garry from the Tulane University in New Orleans, Louisiana.
+
+
+== Effects on hosts ==
+The intracellular life of plant viruses in hosts is still understudied especially the earliest stages of infection. Many membranous structures which viruses induce plant cells to produce are motile, often being used to traffic new virions within the producing cell and into their neighbors. Viruses also induce various changes to plants' own intracellular membranes. The work of Perera et al. 2012 in mosquito virus infection and various others studying yeast models of plant viruses find this to be due to changes in homeostasis of the lipids that compose their intracellular membranes, including increasing synthesis. These comparable lipid alterations inform our expectations and research directions for the lesser understood area of plant viruses.
+
+
+== Translation of plant viral proteins ==
+75% of plant viruses have genomes that consist of single stranded RNA (ssRNA). 65% of plant viruses have +ssRNA, meaning that they are in the same sense orientation as messenger RNA but 10% have -ssRNA, meaning they must be converted to +ssRNA before they can be translated. 5% are double stranded RNA and so can be immediately translated as +ssRNA viruses. 3% require a reverse transcriptase enzyme to convert between RNA and DNA. 17% of plant viruses are ssDNA and very few are dsDNA, in contrast a quarter of animal viruses are dsDNA and three-quarters of bacteriophage are dsDNA. Viruses use the plant ribosomes to produce the 4-10 proteins encoded by their genome. However, since many of the proteins are encoded on a single strand (that is, they are polycistronic) this will mean that the ribosome will either only produce one protein, as it will terminate translation at the first stop codon, or that a polyprotein will be produced. Plant viruses have had to evolve special techniques to allow the production of viral proteins by plant cells.
+
+
+=== 5' Cap ===
+For translation to occur, eukaryotic mRNAs require a 5' Cap structure. This means that viruses must also have one. This normally consists of 7MeGpppN where N is normally adenine or guanine. The viruses encode a protein, normally a replicase, with a methyltransferase activity to allow this.
+Some viruses are cap-snatchers. During this process, a 7mG-capped host mRNA is recruited by the viral transcriptase complex and subsequently cleaved by a virally encoded endonuclease. The resulting capped leader RNA is used to prime transcription on the viral genome.However some plant viruses do not use cap, yet translate efficiently due to cap-independent translation enhancers present in 5' and 3' untranslated regions of viral mRNA.
+
+
+=== Readthrough ===
+Some viruses (e.g. tobacco mosaic virus (TMV)) have RNA sequences that contain a "leaky" stop codon. In TMV 95% of the time the host ribosome will terminate the synthesis of the polypeptide at this codon but the rest of the time it continues past it. This means that 5% of the proteins produced are larger than and different from the others normally produced, which is a form of translational regulation. In TMV, this extra sequence of polypeptide is an RNA polymerase that replicates its genome.
+
+
+=== Production of sub-genomic RNAs ===
+Some viruses use the production of subgenomic RNAs to ensure the translation of all proteins within their genomes. In this process the first protein encoded on the genome, and is the first to be translated, is a replicase. This protein will act on the rest of the genome producing negative strand sub-genomic RNAs then act upon these to form positive strand sub-genomic RNAs that are essentially mRNAs ready for translation.
+
+
+=== Segmented genomes ===
+Some viral families, such as the Bromoviridae instead opt to have multipartite genomes, genomes split between multiple viral particles. For infection to occur, the plant must be infected with all particles across the genome. For instance Brome mosaic virus has a genome split between 3 viral particles, and all 3 particles with the different RNAs are required for infection to take place.
+
+
+=== Polyprotein processing ===
+Polyprotein processing is adopted by 45% of plant viruses, such as the Potyviridae and Tymoviridae. The ribosome translates a single protein from the viral genome. Within the polyprotein is an enzyme (or enzymes) with proteinase function that is able to cleave the polyprotein into the various single proteins or just cleave away the protease, which can then cleave other polypeptides producing the mature proteins.
+
+
+=== Genome packaging ===
+Besides involvement in the infection process, viral replicase is a directly necessary part of the packaging of RNA viruses' genetic material. This was expected due to replicase involvement already being confirmed in various other viruses.
+
+
+== Applications of plant viruses ==
+Plant viruses can be used to engineer viral vectors, tools commonly used by molecular biologists to deliver genetic material into plant cells; they are also sources of biomaterials and nanotechnology devices. Knowledge of plant viruses and their components has been instrumental for the development of modern plant biotechnology. The use of plant viruses to enhance the beauty of ornamental plants can be considered the first recorded application of plant viruses. Tulip breaking virus is famous for its dramatic effects on the color of the tulip perianth, an effect highly sought after during the 17th-century Dutch "tulip mania." Tobacco mosaic virus (TMV) and cauliflower mosaic virus (CaMV) are frequently used in plant molecular biology. Of special interest is the CaMV 35S promoter, which is a very strong promoter most frequently used in plant transformations. Viral vectors based on tobacco mosaic virus include those of the magnICON® and TRBO plant expression technologies.
+Representative applications of plant viruses are listed below.
+
+
+== References ==
+
+
+=== Further reading ===
+Zaitlin, Milton; Palukaitis, Peter (2000). "Advances in Understanding Plant Viruses and Virus Diseases". Annual Review of Phytopathology. 38: 117–143. doi:10.1146/annurev.phyto.38.1.117. PMID 11701839.
+Zaitlin, Milton (1998), Discoveries in Plant Biology, New York 14853, USA. pp. 105–110. S. D. Kung and S. F. Yang (eds).
+Dickinson, M. (2003), Molecular Plant Pathology. BIOS Scientific Publishers.
+https://web.archive.org/web/20080529082637/http://stinet.dtic.mil/oai/oai?&verb=getRecord&metadataPrefix=html&identifier=Plant
+Wang Daowen; Maule Andrew J (1994). "A Model for Seed Transmission of a Plant Virus: Genetic and Structural Analyses of Pea Embryo Invasion by Pea Seed-Borne Mosaic Virus". The Plant Cell. 6 (6): 777–787. doi:10.2307/3869957. JSTOR 3869957. PMC 160477. PMID 12244258.
+http://www.plantcell.org/cgi/reprint/6/6/777
+
+
+== External links ==
+
+Plant Viruses Online, a full list of plant viruses
+DPVweb, on-line plant virus database
+Plant virus symptoms Danish Institute of Agricultural Sciences

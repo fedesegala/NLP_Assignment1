@@ -1,0 +1,19 @@
+The Cragie tube or Craigie tube is a method used in microbiology for determining bacterial motility.
+
+
+== Technique ==
+A hollow tube with some culture medium is placed in semi-solid agar inside a bottle. A sample of the bacterium to be tested is inoculated into the medium in the hollow tube and the setup is incubated at 37 °C overnight.
+
+
+== Observation ==
+On examining the areas where bacterial growth has occurred there are several observations to be made:
+
+the colonies of the non-motile bacteria remain confined within the tube at the site of inoculation
+the motile bacteria swim out from the bottom of the tube and colonize the surrounding medium as wellConfirmation may be obtained by subculture and retesting.
+
+
+== References ==
+
+
+== See also ==
+Kauffman-White classification

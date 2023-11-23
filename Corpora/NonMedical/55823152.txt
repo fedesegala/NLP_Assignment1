@@ -1,0 +1,3102 @@
+Diffeomorphometry is the metric study of imagery, shape and form in the discipline of computational anatomy (CA) in medical imaging. The study of images in computational anatomy rely on high-dimensional diffeomorphism groups 
+  
+    
+      
+        φ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+      
+    
+    {\displaystyle \varphi \in \operatorname {Diff} _{V}}
+   which generate orbits of the form  
+  
+    
+      
+        
+          
+            I
+          
+        
+        ≐
+        {
+        φ
+        ⋅
+        I
+        ∣
+        φ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+        }
+      
+    
+    {\displaystyle {\mathcal {I}}\doteq \{\varphi \cdot I\mid \varphi \in \operatorname {Diff} _{V}\}}
+  , in which images 
+  
+    
+      
+        I
+        ∈
+        
+          
+            I
+          
+        
+      
+    
+    {\displaystyle I\in {\mathcal {I}}}
+   can be dense scalar magnetic resonance or computed axial tomography images. For deformable shapes these are the collection of manifolds 
+  
+    
+      
+        
+          
+            M
+          
+        
+        ≐
+        {
+        φ
+        ⋅
+        M
+        ∣
+        φ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+        }
+      
+    
+    {\displaystyle {\mathcal {M}}\doteq \{\varphi \cdot M\mid \varphi \in \operatorname {Diff} _{V}\}}
+  ,  points, curves and surfaces. The diffeomorphisms move the images and shapes through the orbit according to 
+  
+    
+      
+        (
+        φ
+        ,
+        I
+        )
+        ↦
+        φ
+        ⋅
+        I
+      
+    
+    {\displaystyle (\varphi ,I)\mapsto \varphi \cdot I}
+   which are defined as the group actions of computational anatomy.
+The orbit of shapes and forms  is made into a metric space by inducing a metric on the group of diffeomorphisms.  The study of metrics on groups of diffeomorphisms and the study of metrics between manifolds and surfaces has been an area of significant investigation. In Computational anatomy, the diffeomorphometry metric measures how close and far two shapes or images are from each other. Informally, the metric  is constructed by defining a flow of diffeomorphisms 
+  
+    
+      
+        
+          
+            
+              
+                ϕ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        ,
+        t
+        ∈
+        [
+        0
+        ,
+        1
+        ]
+        ,
+        
+          ϕ
+          
+            t
+          
+        
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+      
+    
+    {\displaystyle {\dot {\phi }}_{t},t\in [0,1],\phi _{t}\in \operatorname {Diff} _{V}}
+   which connect the group elements from one to another, so for 
+  
+    
+      
+        φ
+        ,
+        ψ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+      
+    
+    {\displaystyle \varphi ,\psi \in \operatorname {Diff} _{V}}
+   then 
+  
+    
+      
+        
+          ϕ
+          
+            0
+          
+        
+        =
+        φ
+        ,
+        
+          ϕ
+          
+            1
+          
+        
+        =
+        ψ
+      
+    
+    {\displaystyle \phi _{0}=\varphi ,\phi _{1}=\psi }
+  .  The metric between two coordinate systems or diffeomorphisms is then the shortest length or geodesic flow connecting them. The metric on the space associated to the geodesics is given by
+  
+    
+      
+        ρ
+        (
+        φ
+        ,
+        ψ
+        )
+        =
+        
+          inf
+          
+            ϕ
+            :
+            
+              ϕ
+              
+                0
+              
+            
+            =
+            φ
+            ,
+            
+              ϕ
+              
+                1
+              
+            
+            =
+            ψ
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        ‖
+        
+          
+            
+              
+                ϕ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        
+          ‖
+          
+            
+              ϕ
+              
+                t
+              
+            
+          
+        
+        
+        d
+        t
+      
+    
+    {\displaystyle \rho (\varphi ,\psi )=\inf _{\phi :\phi _{0}=\varphi ,\phi _{1}=\psi }\int _{0}^{1}\|{\dot {\phi }}_{t}\|_{\phi _{t}}\,dt}
+  . The metrics on the orbits 
+  
+    
+      
+        
+          
+            I
+          
+        
+        ,
+        
+          
+            M
+          
+        
+      
+    
+    {\displaystyle {\mathcal {I}},{\mathcal {M}}}
+    are inherited from the metric induced on the diffeomorphism group.
+The group 
+  
+    
+      
+        φ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+      
+    
+    {\displaystyle \varphi \in \operatorname {Diff} _{V}}
+   is thusly made into a smooth Riemannian manifold with Riemannian metric 
+  
+    
+      
+        ‖
+        ⋅
+        
+          ‖
+          
+            φ
+          
+        
+      
+    
+    {\displaystyle \|\cdot \|_{\varphi }}
+    associated to the tangent spaces at all 
+  
+    
+      
+        φ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+      
+    
+    {\displaystyle \varphi \in \operatorname {Diff} _{V}}
+  . The  Riemannian metric satisfies at every point of the manifold 
+  
+    
+      
+        ϕ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+      
+    
+    {\displaystyle \phi \in \operatorname {Diff} _{V}}
+   there is an  inner product inducing the norm  on the tangent space 
+  
+    
+      
+        ‖
+        
+          
+            
+              
+                ϕ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        
+          ‖
+          
+            
+              ϕ
+              
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle \|{\dot {\phi }}_{t}\|_{\phi _{t}}}
+    that varies smoothly across 
+  
+    
+      
+        
+          Diff
+          
+            V
+          
+        
+      
+    
+    {\displaystyle \operatorname {Diff} _{V}}
+  .
+Oftentimes, the familiar Euclidean metric is not directly applicable because the patterns of shapes and images don't form a vector space. In the Riemannian orbit model of Computational anatomy, diffeomorphisms acting on the forms 
+  
+    
+      
+        φ
+        ⋅
+        I
+        ∈
+        
+          
+            I
+          
+        
+        ,
+        φ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+        ,
+        M
+        ∈
+        
+          
+            M
+          
+        
+      
+    
+    {\displaystyle \varphi \cdot I\in {\mathcal {I}},\varphi \in \operatorname {Diff} _{V},M\in {\mathcal {M}}}
+   don't act linearly. There are many ways to define metrics, and for the sets associated to shapes the Hausdorff metric is another. The method used to induce the Riemannian metric is to induce the metric on the orbit of shapes by defining it in terms of the metric length between diffeomorphic coordinate system transformations of the flows. Measuring the lengths of the geodesic flow between coordinates systems in the orbit of shapes is called diffeomorphometry.
+
+
+== The diffeomorphisms group generated as Lagrangian and Eulerian flows ==
+The diffeomorphisms in computational anatomy are generated to satisfy the Lagrangian and Eulerian specification of the flow fields, 
+  
+    
+      
+        
+          φ
+          
+            t
+          
+        
+        ,
+        t
+        ∈
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle \varphi _{t},t\in [0,1]}
+  , generated via the ordinary differential equation
+with the Eulerian vector fields 
+  
+    
+      
+        v
+        ≐
+        (
+        
+          v
+          
+            1
+          
+        
+        ,
+        
+          v
+          
+            2
+          
+        
+        ,
+        
+          v
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle v\doteq (v_{1},v_{2},v_{3})}
+   in 
+  
+    
+      
+        
+          
+            
+              R
+            
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle {\mathbb {R} }^{3}}
+    for 
+  
+    
+      
+        
+          v
+          
+            t
+          
+        
+        =
+        
+          
+            
+              
+                φ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        ∘
+        
+          φ
+          
+            t
+          
+          
+            −
+            1
+          
+        
+        ,
+        t
+        ∈
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle v_{t}={\dot {\varphi }}_{t}\circ \varphi _{t}^{-1},t\in [0,1]}
+  . The inverse for the flow is given by
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        
+          φ
+          
+            t
+          
+          
+            −
+            1
+          
+        
+        =
+        −
+        (
+        D
+        
+          φ
+          
+            t
+          
+          
+            −
+            1
+          
+        
+        )
+        
+          v
+          
+            t
+          
+        
+        ,
+         
+        
+          φ
+          
+            0
+          
+          
+            −
+            1
+          
+        
+        =
+        id
+        ,
+      
+    
+    {\displaystyle {\frac {d}{dt}}\varphi _{t}^{-1}=-(D\varphi _{t}^{-1})v_{t},\ \varphi _{0}^{-1}=\operatorname {id} ,}
+  
+and the 
+  
+    
+      
+        3
+        ×
+        3
+      
+    
+    {\displaystyle 3\times 3}
+   Jacobian matrix for flows in 
+  
+    
+      
+        
+          
+            R
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{3}}
+    given as 
+  
+    
+      
+         
+        D
+        φ
+        ≐
+        
+          (
+          
+            
+              
+                ∂
+                
+                  φ
+                  
+                    i
+                  
+                
+              
+              
+                ∂
+                
+                  x
+                  
+                    j
+                  
+                
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \ D\varphi \doteq \left({\frac {\partial \varphi _{i}}{\partial x_{j}}}\right).}
+  
+
+To ensure smooth flows of diffeomorphisms with inverse,  the vector fields 
+  
+    
+      
+        
+          
+            
+              R
+            
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle {\mathbb {R} }^{3}}
+   must be at least 1-time continuously differentiable in space which are modelled as elements of the Hilbert space  
+  
+    
+      
+        (
+        V
+        ,
+        ‖
+        ⋅
+        
+          ‖
+          
+            V
+          
+        
+        )
+      
+    
+    {\displaystyle (V,\|\cdot \|_{V})}
+   using the Sobolev embedding theorems so that each element 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+        ∈
+        
+          H
+          
+            0
+          
+          
+            3
+          
+        
+        ,
+        i
+        =
+        1
+        ,
+        2
+        ,
+        3
+        ,
+      
+    
+    {\displaystyle v_{i}\in H_{0}^{3},i=1,2,3,}
+   has 3-square-integrable derivatives thusly implies 
+  
+    
+      
+        (
+        V
+        ,
+        ‖
+        ⋅
+        
+          ‖
+          
+            V
+          
+        
+        )
+      
+    
+    {\displaystyle (V,\|\cdot \|_{V})}
+   embeds smoothly in 1-time continuously differentiable functions.  The diffeomorphism group are flows with vector fields absolutely integrable in Sobolev norm:
+
+
+== The Riemannian orbit model ==
+Shapes in Computational Anatomy (CA) are studied via the use of diffeomorphic mapping for establishing correspondences between anatomical coordinate systems. In this setting, 3-dimensional medical images are modelled as diffemorphic transformations of some exemplar, termed the template 
+  
+    
+      
+        
+          I
+          
+            t
+            e
+            m
+            p
+          
+        
+      
+    
+    {\displaystyle I_{temp}}
+  , resulting in the observed images to be elements of the random orbit model of CA. For images these are defined as 
+  
+    
+      
+        I
+        ∈
+        
+          
+            I
+          
+        
+        ≐
+        {
+        I
+        =
+        
+          I
+          
+            t
+            e
+            m
+            p
+          
+        
+        ∘
+        φ
+        ,
+        φ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+        }
+      
+    
+    {\displaystyle I\in {\mathcal {I}}\doteq \{I=I_{temp}\circ \varphi ,\varphi \in \operatorname {Diff} _{V}\}}
+  , with for charts representing sub-manifolds denoted as 
+  
+    
+      
+        
+          
+            M
+          
+        
+        ≐
+        {
+        φ
+        ⋅
+        
+          M
+          
+            t
+            e
+            m
+            p
+          
+        
+        :
+        φ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+        }
+      
+    
+    {\displaystyle {\mathcal {M}}\doteq \{\varphi \cdot M_{temp}:\varphi \in \operatorname {Diff} _{V}\}}
+  .
+
+
+=== The Riemannian metric ===
+The orbit of shapes and forms in Computational Anatomy  are generated by the group action 
+  
+    
+      
+        
+          
+            I
+          
+        
+        ≐
+        {
+        φ
+        ⋅
+        I
+        :
+        φ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+        }
+      
+    
+    {\displaystyle {\mathcal {I}}\doteq \{\varphi \cdot I:\varphi \in \operatorname {Diff} _{V}\}}
+   , 
+  
+    
+      
+        
+          
+            M
+          
+        
+        ≐
+        {
+        φ
+        ⋅
+        M
+        :
+        φ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+        }
+      
+    
+    {\displaystyle {\mathcal {M}}\doteq \{\varphi \cdot M:\varphi \in \operatorname {Diff} _{V}\}}
+  .   These are made into a Riemannian orbits by introducing a metric associated to each point and associated tangent space. For this a metric is defined on the group which induces the metric on the orbit. Take as the metric for Computational anatomy at each element of the tangent space 
+  
+    
+      
+        φ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+      
+    
+    {\displaystyle \varphi \in \operatorname {Diff} _{V}}
+   in the group of diffeomorphisms
+
+  
+    
+      
+        ‖
+        
+          
+            
+              φ
+              ˙
+            
+          
+        
+        
+          ‖
+          
+            φ
+          
+        
+        ≐
+        ‖
+        
+          
+            
+              φ
+              ˙
+            
+          
+        
+        ∘
+        
+          φ
+          
+            −
+            1
+          
+        
+        
+          ‖
+          
+            V
+          
+        
+        =
+        ‖
+        v
+        
+          ‖
+          
+            V
+          
+        
+        ,
+      
+    
+    {\displaystyle \|{\dot {\varphi }}\|_{\varphi }\doteq \|{\dot {\varphi }}\circ \varphi ^{-1}\|_{V}=\|v\|_{V},}
+  with the vector fields modelled to be in a Hilbert space with the norm in the Hilbert space 
+  
+    
+      
+        (
+        V
+        ,
+        ‖
+        ⋅
+        
+          ‖
+          
+            V
+          
+        
+        )
+      
+    
+    {\displaystyle (V,\|\cdot \|_{V})}
+  . We model 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   as a reproducing kernel Hilbert space (RKHS) defined by a 1-1, differential operator 
+  
+    
+      
+        A
+        :
+        V
+        →
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle A:V\rightarrow V^{*}}
+  , where 
+  
+    
+      
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle V^{*}}
+   is the dual-space. In general,   
+  
+    
+      
+        σ
+        ≐
+        A
+        v
+        ∈
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \sigma \doteq Av\in V^{*}}
+   is a generalized function or distribution, the linear form  associated to the inner-product and norm for generalized functions are interpreted by integration by parts according to for 
+  
+    
+      
+        v
+        ,
+        w
+        ∈
+        V
+      
+    
+    {\displaystyle v,w\in V}
+  ,
+
+  
+    
+      
+        ⟨
+        v
+        ,
+        w
+        
+          ⟩
+          
+            V
+          
+        
+        ≐
+        
+          ∫
+          
+            X
+          
+        
+        A
+        v
+        ⋅
+        w
+        
+        d
+        x
+        ,
+         
+        ‖
+        v
+        
+          ‖
+          
+            V
+          
+          
+            2
+          
+        
+        ≐
+        
+          ∫
+          
+            X
+          
+        
+        A
+        v
+        ⋅
+        v
+        
+        d
+        x
+        ,
+         
+        v
+        ,
+        w
+        ∈
+        V
+         
+        .
+      
+    
+    {\displaystyle \langle v,w\rangle _{V}\doteq \int _{X}Av\cdot w\,dx,\ \|v\|_{V}^{2}\doteq \int _{X}Av\cdot v\,dx,\ v,w\in V\ .}
+  When 
+  
+    
+      
+        A
+        v
+        ≐
+        μ
+        
+        d
+        x
+      
+    
+    {\displaystyle Av\doteq \mu \,dx}
+  , a vector density, 
+  
+    
+      
+        ∫
+        A
+        v
+        ⋅
+        v
+        
+        d
+        x
+        ≐
+        ∫
+        μ
+        ⋅
+        v
+        
+        d
+        x
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            3
+          
+        
+        
+          μ
+          
+            i
+          
+        
+        
+          v
+          
+            i
+          
+        
+        
+        d
+        x
+        .
+      
+    
+    {\displaystyle \int Av\cdot v\,dx\doteq \int \mu \cdot v\,dx=\sum _{i=1}^{3}\mu _{i}v_{i}\,dx.}
+  
+The differential operator is selected so that the Green's kernel associated to the inverse is sufficiently smooth so that the vector fields support 1-continuous derivative. The Sobolev embedding theorem arguments were made in demonstrating that 1-continuous derivative is required for smooth flows. The Green's operator generated from the Green's function(scalar case) associated to the differential operator smooths.
+For proper choice of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   then 
+  
+    
+      
+        (
+        V
+        ,
+        ‖
+        ⋅
+        
+          ‖
+          
+            V
+          
+        
+        )
+      
+    
+    {\displaystyle (V,\|\cdot \|_{V})}
+   is an RKHS with the operator 
+  
+    
+      
+        K
+        =
+        
+          A
+          
+            −
+            1
+          
+        
+        :
+        
+          V
+          
+            ∗
+          
+        
+        →
+        V
+      
+    
+    {\displaystyle K=A^{-1}:V^{*}\rightarrow V}
+  .  The Green's kernels associated to the differential operator smooths since for controlling enough derivatives in the square-integral sense the kernel  
+  
+    
+      
+        k
+        (
+        ⋅
+        ,
+        ⋅
+        )
+      
+    
+    {\displaystyle k(\cdot ,\cdot )}
+   is continuously differentiable in both variables implying
+
+  
+    
+      
+        K
+        A
+        v
+        (
+        x
+        
+          )
+          
+            i
+          
+        
+        ≐
+        
+          ∑
+          
+            j
+          
+        
+        
+          ∫
+          
+            
+              
+                
+                  R
+                
+              
+              
+                3
+              
+            
+          
+        
+        
+          k
+          
+            i
+            j
+          
+        
+        (
+        x
+        ,
+        y
+        )
+        A
+        
+          v
+          
+            j
+          
+        
+        (
+        y
+        )
+        
+        d
+        y
+        ∈
+        V
+         
+        .
+      
+    
+    {\displaystyle KAv(x)_{i}\doteq \sum _{j}\int _{{\mathbb {R} }^{3}}k_{ij}(x,y)Av_{j}(y)\,dy\in V\ .}
+  
+
+
+== The diffeomorphometry of the space of shapes and forms ==
+
+
+=== The right-invariant metric on diffeomorphisms ===
+The metric on the group of diffeomorphisms is defined by the distance as defined on pairs of elements in the group of diffeomorphisms according to
+
+This distance provides a right-invariant metric of diffeomorphometry, invariant to reparameterization of space since for all 
+  
+    
+      
+        ϕ
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+      
+    
+    {\displaystyle \phi \in \operatorname {Diff} _{V}}
+  ,
+
+  
+    
+      
+        
+          d
+          
+            
+              Diff
+              
+                V
+              
+            
+          
+        
+        (
+        ψ
+        ,
+        φ
+        )
+        =
+        
+          d
+          
+            
+              Diff
+              
+                V
+              
+            
+          
+        
+        (
+        ψ
+        ∘
+        ϕ
+        ,
+        φ
+        ∘
+        ϕ
+        )
+        .
+      
+    
+    {\displaystyle d_{\operatorname {Diff} _{V}}(\psi ,\varphi )=d_{\operatorname {Diff} _{V}}(\psi \circ \phi ,\varphi \circ \phi ).}
+  
+
+
+=== The metric on shapes and forms ===
+The distance on images, 
+  
+    
+      
+        
+          d
+          
+            
+              I
+            
+          
+        
+        :
+        
+          
+            I
+          
+        
+        ×
+        
+          
+            I
+          
+        
+        →
+        
+          
+            R
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle d_{\mathcal {I}}:{\mathcal {I}}\times {\mathcal {I}}\rightarrow \mathbb {R} ^{+}}
+  ,
+
+The distance on shapes and forms, 
+  
+    
+      
+        
+          d
+          
+            
+              M
+            
+          
+        
+        :
+        
+          
+            M
+          
+        
+        ×
+        
+          
+            M
+          
+        
+        →
+        
+          
+            R
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle d_{\mathcal {M}}:{\mathcal {M}}\times {\mathcal {M}}\rightarrow \mathbb {R} ^{+}}
+  ,
+
+
+== The metric on geodesic flows of landmarks, surfaces, and volumes within the orbit ==
+For calculating the metric, the geodesics are a dynamical system, the flow of coordinates 
+  
+    
+      
+        t
+        ↦
+        
+          ϕ
+          
+            t
+          
+        
+        ∈
+        
+          Diff
+          
+            V
+          
+        
+      
+    
+    {\displaystyle t\mapsto \phi _{t}\in \operatorname {Diff} _{V}}
+   and the control the vector field 
+  
+    
+      
+        t
+        ↦
+        
+          v
+          
+            t
+          
+        
+        ∈
+        V
+      
+    
+    {\displaystyle t\mapsto v_{t}\in V}
+   related via 
+  
+    
+      
+        
+          
+            
+              
+                ϕ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        =
+        
+          v
+          
+            t
+          
+        
+        ⋅
+        
+          ϕ
+          
+            t
+          
+        
+        ,
+        
+          ϕ
+          
+            0
+          
+        
+        =
+        id
+        .
+      
+    
+    {\displaystyle {\dot {\phi }}_{t}=v_{t}\cdot \phi _{t},\phi _{0}=\operatorname {id} .}
+    The Hamiltonian view
+ reparameterizes the momentum distribution 
+  
+    
+      
+        A
+        v
+        ∈
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle Av\in V^{*}}
+   in terms of the Hamiltonian momentum, a Lagrange multiplier 
+  
+    
+      
+        p
+        :
+        
+          
+            
+              ϕ
+              ˙
+            
+          
+        
+        ↦
+        (
+        p
+        ∣
+        
+          
+            
+              ϕ
+              ˙
+            
+          
+        
+        )
+      
+    
+    {\displaystyle p:{\dot {\phi }}\mapsto (p\mid {\dot {\phi }})}
+   constraining the Lagrangian velocity 
+  
+    
+      
+        
+          
+            
+              
+                ϕ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        =
+        
+          v
+          
+            t
+          
+        
+        ∘
+        
+          ϕ
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\dot {\phi }}_{t}=v_{t}\circ \phi _{t}}
+  .accordingly:
+
+  
+    
+      
+        H
+        (
+        
+          ϕ
+          
+            t
+          
+        
+        ,
+        
+          p
+          
+            t
+          
+        
+        ,
+        
+          v
+          
+            t
+          
+        
+        )
+        =
+        
+          ∫
+          
+            X
+          
+        
+        
+          p
+          
+            t
+          
+        
+        ⋅
+        (
+        
+          v
+          
+            t
+          
+        
+        ∘
+        
+          ϕ
+          
+            t
+          
+        
+        )
+        
+        d
+        x
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          ∫
+          
+            X
+          
+        
+        A
+        
+          v
+          
+            t
+          
+        
+        ⋅
+        
+          v
+          
+            t
+          
+        
+        
+        d
+        x
+        .
+      
+    
+    {\displaystyle H(\phi _{t},p_{t},v_{t})=\int _{X}p_{t}\cdot (v_{t}\circ \phi _{t})\,dx-{\frac {1}{2}}\int _{X}Av_{t}\cdot v_{t}\,dx.}
+  The Pontryagin maximum principle gives the Hamiltonian 
+  
+    
+      
+        H
+        (
+        
+          ϕ
+          
+            t
+          
+        
+        ,
+        
+          p
+          
+            t
+          
+        
+        )
+        ≐
+        
+          max
+          
+            v
+          
+        
+        H
+        (
+        
+          ϕ
+          
+            t
+          
+        
+        ,
+        
+          p
+          
+            t
+          
+        
+        ,
+        v
+        )
+         
+        .
+      
+    
+    {\displaystyle H(\phi _{t},p_{t})\doteq \max _{v}H(\phi _{t},p_{t},v)\ .}
+  
+The optimizing vector field 
+  
+    
+      
+        
+          v
+          
+            t
+          
+        
+        ≐
+        
+          argmax
+          
+            v
+          
+        
+        ⁡
+        H
+        (
+        
+          ϕ
+          
+            t
+          
+        
+        ,
+        
+          p
+          
+            t
+          
+        
+        ,
+        v
+        )
+      
+    
+    {\displaystyle v_{t}\doteq \operatorname {argmax} _{v}H(\phi _{t},p_{t},v)}
+   with dynamics 
+  
+    
+      
+        
+          
+            
+              
+                ϕ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        =
+        
+          
+            
+              ∂
+              H
+              (
+              
+                ϕ
+                
+                  t
+                
+              
+              ,
+              
+                p
+                
+                  t
+                
+              
+              )
+            
+            
+              ∂
+              p
+            
+          
+        
+        ,
+        
+          
+            
+              
+                p
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        =
+        −
+        
+          
+            
+              ∂
+              H
+              (
+              
+                ϕ
+                
+                  t
+                
+              
+              ,
+              
+                p
+                
+                  t
+                
+              
+              )
+            
+            
+              ∂
+              ϕ
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {\phi }}_{t}={\frac {\partial H(\phi _{t},p_{t})}{\partial p}},{\dot {p}}_{t}=-{\frac {\partial H(\phi _{t},p_{t})}{\partial \phi }}}
+  . Along the geodesic the Hamiltonian is constant:
+  
+    
+      
+        H
+        (
+        
+          ϕ
+          
+            t
+          
+        
+        ,
+        
+          p
+          
+            t
+          
+        
+        )
+        =
+        H
+        (
+        id
+        ,
+        
+          p
+          
+            0
+          
+        
+        )
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          ∫
+          
+            X
+          
+        
+        
+          p
+          
+            0
+          
+        
+        ⋅
+        
+          v
+          
+            0
+          
+        
+        
+        d
+        x
+      
+    
+    {\displaystyle H(\phi _{t},p_{t})=H(\operatorname {id} ,p_{0})={\frac {1}{2}}\int _{X}p_{0}\cdot v_{0}\,dx}
+  . The metric distance between coordinate systems connected via the geodesic determined by the induced distance between identity and group element:
+
+  
+    
+      
+        
+          d
+          
+            
+              
+                D
+                i
+                f
+                f
+              
+              
+                V
+              
+            
+          
+        
+        (
+        id
+        ,
+        φ
+        )
+        =
+        ‖
+        
+          v
+          
+            0
+          
+        
+        
+          ‖
+          
+            V
+          
+        
+        =
+        
+          
+            2
+            H
+            (
+            id
+            ,
+            
+              p
+              
+                0
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle d_{\mathrm {Diff} _{V}}(\operatorname {id} ,\varphi )=\|v_{0}\|_{V}={\sqrt {2H(\operatorname {id} ,p_{0})}}}
+  
+
+
+=== Landmark or pointset geodesics ===
+For landmarks, 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        ,
+        i
+        =
+        1
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle x_{i},i=1,\dots ,n}
+  , the Hamiltonian momentum
+
+  
+    
+      
+        p
+        (
+        i
+        )
+        ,
+        i
+        =
+        1
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle p(i),i=1,\dots ,n}
+  with Hamiltonian  dynamics taking the form
+
+  
+    
+      
+        H
+        (
+        
+          ϕ
+          
+            t
+          
+        
+        ,
+        
+          p
+          
+            t
+          
+        
+        )
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          
+            ∑
+            
+              j
+            
+          
+          
+            ∑
+            
+              i
+            
+          
+          
+            
+              p
+              
+                t
+              
+            
+            (
+            i
+            )
+            ⋅
+            K
+            (
+            
+              ϕ
+              
+                t
+              
+            
+            (
+            
+              x
+              
+                i
+              
+            
+            )
+            ,
+            
+              ϕ
+              
+                t
+              
+            
+            (
+            
+              x
+              
+                j
+              
+            
+            )
+            )
+            
+              p
+              
+                t
+              
+            
+            (
+            j
+            )
+          
+        
+      
+    
+    {\displaystyle H(\phi _{t},p_{t})={\frac {1}{2}}\textstyle \sum _{j}\sum _{i}\displaystyle p_{t}(i)\cdot K(\phi _{t}(x_{i}),\phi _{t}(x_{j}))p_{t}(j)}
+  with
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    v
+                    
+                      t
+                    
+                  
+                  =
+                  
+                    
+                      ∑
+                      
+                        i
+                      
+                    
+                    
+                      K
+                      (
+                      ⋅
+                      ,
+                      
+                        ϕ
+                        
+                          t
+                        
+                      
+                      (
+                      
+                        x
+                        
+                          i
+                        
+                      
+                      )
+                      )
+                      
+                        p
+                        
+                          t
+                        
+                      
+                      (
+                      i
+                      )
+                      ,
+                       
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          p
+                          ˙
+                        
+                      
+                    
+                    
+                      t
+                    
+                  
+                  (
+                  i
+                  )
+                  =
+                  −
+                  (
+                  D
+                  
+                    v
+                    
+                      t
+                    
+                  
+                  
+                    )
+                    
+                      
+                        
+                          |
+                        
+                        
+                          
+                            ϕ
+                            
+                              t
+                            
+                          
+                          (
+                          
+                            x
+                            
+                              i
+                            
+                          
+                          )
+                        
+                      
+                    
+                    
+                      T
+                    
+                  
+                  
+                    p
+                    
+                      t
+                    
+                  
+                  (
+                  i
+                  )
+                  ,
+                  i
+                  =
+                  1
+                  ,
+                  2
+                  ,
+                  …
+                  ,
+                  n
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}v_{t}=\textstyle \sum _{i}\displaystyle K(\cdot ,\phi _{t}(x_{i}))p_{t}(i),\ \\{\dot {p}}_{t}(i)=-(Dv_{t})_{|_{\phi _{t}(x_{i})}}^{T}p_{t}(i),i=1,2,\dots ,n\\\end{cases}}}
+  The metric between landmarks 
+  
+    
+      
+        
+          d
+          
+            2
+          
+        
+        =
+        
+          
+            ∑
+            
+              i
+            
+          
+          
+            p
+            
+              0
+            
+          
+          (
+          i
+          )
+          ⋅
+          
+            ∑
+            
+              j
+            
+          
+          
+            K
+            (
+            
+              x
+              
+                i
+              
+            
+            ,
+            
+              x
+              
+                j
+              
+            
+            )
+            
+              p
+              
+                0
+              
+            
+            (
+            j
+            )
+            .
+          
+        
+      
+    
+    {\displaystyle d^{2}=\textstyle \sum _{i}p_{0}(i)\cdot \sum _{j}\displaystyle K(x_{i},x_{j})p_{0}(j).}
+  
+The dynamics associated to these geodesics is shown in the accompanying figure.
+
+
+=== Surface geodesics ===
+For surfaces, the Hamiltonian momentum is defined across the surface has Hamiltonian
+
+  
+    
+      
+        H
+        (
+        
+          ϕ
+          
+            t
+          
+        
+        ,
+        
+          p
+          
+            t
+          
+        
+        )
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          ∫
+          
+            U
+          
+        
+        
+          ∫
+          
+            U
+          
+        
+        
+          p
+          
+            t
+          
+        
+        (
+        u
+        )
+        ⋅
+        K
+        (
+        
+          ϕ
+          
+            t
+          
+        
+        (
+        m
+        (
+        u
+        )
+        )
+        ,
+        
+          ϕ
+          
+            t
+          
+        
+        (
+        m
+        (
+        v
+        )
+        )
+        )
+        
+          p
+          
+            t
+          
+        
+        (
+        v
+        )
+        
+        d
+        u
+        
+        d
+        v
+      
+    
+    {\displaystyle H(\phi _{t},p_{t})={\frac {1}{2}}\int _{U}\int _{U}p_{t}(u)\cdot K(\phi _{t}(m(u)),\phi _{t}(m(v)))p_{t}(v)\,du\,dv}
+  and dynamics
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    v
+                    
+                      t
+                    
+                  
+                  =
+                  
+                    
+                      ∫
+                      
+                        U
+                      
+                    
+                    
+                      K
+                      (
+                      ⋅
+                      ,
+                      
+                        ϕ
+                        
+                          t
+                        
+                      
+                      (
+                      m
+                      (
+                      u
+                      )
+                      )
+                      )
+                      
+                        p
+                        
+                          t
+                        
+                      
+                      (
+                      u
+                      )
+                      
+                      d
+                      u
+                       
+                      ,
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          p
+                          ˙
+                        
+                      
+                    
+                    
+                      t
+                    
+                  
+                  (
+                  u
+                  )
+                  =
+                  −
+                  (
+                  D
+                  
+                    v
+                    
+                      t
+                    
+                  
+                  
+                    )
+                    
+                      
+                        
+                          |
+                        
+                        
+                          
+                            ϕ
+                            
+                              t
+                            
+                          
+                          (
+                          m
+                          (
+                          u
+                          )
+                          )
+                        
+                      
+                    
+                    
+                      T
+                    
+                  
+                  
+                    p
+                    
+                      t
+                    
+                  
+                  (
+                  u
+                  )
+                  ,
+                  u
+                  ∈
+                  U
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}v_{t}=\textstyle \int _{U}\displaystyle K(\cdot ,\phi _{t}(m(u)))p_{t}(u)\,du\ ,\\{\dot {p}}_{t}(u)=-(Dv_{t})_{|_{\phi _{t}(m(u))}}^{T}p_{t}(u),u\in U\end{cases}}}
+  
+The metric between surface coordinates 
+  
+    
+      
+        
+          d
+          
+            2
+          
+        
+        =
+        (
+        
+          p
+          
+            0
+          
+        
+        ∣
+        
+          v
+          
+            0
+          
+        
+        )
+        =
+        
+          ∫
+          
+            U
+          
+        
+        
+          p
+          
+            0
+          
+        
+        (
+        u
+        )
+        ⋅
+        
+          ∫
+          
+            U
+          
+        
+        K
+        (
+        m
+        (
+        u
+        )
+        ,
+        m
+        (
+        
+          u
+          
+            ′
+          
+        
+        )
+        )
+        
+          p
+          
+            0
+          
+        
+        (
+        
+          u
+          
+            ′
+          
+        
+        )
+        
+        d
+        u
+        
+        d
+        
+          u
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle d^{2}=(p_{0}\mid v_{0})=\int _{U}p_{0}(u)\cdot \int _{U}K(m(u),m(u^{\prime }))p_{0}(u^{\prime })\,du\,du^{\prime }}
+  
+
+
+=== Volume geodesics ===
+For volumes the Hamiltonian
+
+  
+    
+      
+        H
+        (
+        
+          ϕ
+          
+            t
+          
+        
+        ,
+        
+          p
+          
+            t
+          
+        
+        )
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          ∫
+          
+            
+              
+                
+                  R
+                
+              
+              
+                3
+              
+            
+          
+        
+        
+          ∫
+          
+            
+              
+                
+                  R
+                
+              
+              
+                3
+              
+            
+          
+        
+        
+          p
+          
+            t
+          
+        
+        (
+        x
+        )
+        ⋅
+        K
+        (
+        
+          ϕ
+          
+            t
+          
+        
+        (
+        x
+        )
+        ,
+        
+          ϕ
+          
+            t
+          
+        
+        (
+        y
+        )
+        )
+        
+          p
+          
+            t
+          
+        
+        (
+        y
+        )
+        
+        d
+        x
+        
+        d
+        y
+        
+      
+    
+    {\displaystyle H(\phi _{t},p_{t})={\frac {1}{2}}\int _{{\mathbb {R} }^{3}}\int _{{\mathbb {R} }^{3}}p_{t}(x)\cdot K(\phi _{t}(x),\phi _{t}(y))p_{t}(y)\,dx\,dy\displaystyle }
+  with dynamics
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    v
+                    
+                      t
+                    
+                  
+                  =
+                  
+                    
+                      ∫
+                      
+                        X
+                      
+                    
+                    
+                      K
+                      (
+                      ⋅
+                      ,
+                      
+                        ϕ
+                        
+                          t
+                        
+                      
+                      (
+                      x
+                      )
+                      )
+                      
+                        p
+                        
+                          t
+                        
+                      
+                      (
+                      x
+                      )
+                      
+                      d
+                      x
+                       
+                      ,
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          p
+                          ˙
+                        
+                      
+                    
+                    
+                      t
+                    
+                  
+                  (
+                  x
+                  )
+                  =
+                  −
+                  (
+                  D
+                  
+                    v
+                    
+                      t
+                    
+                  
+                  
+                    )
+                    
+                      
+                        
+                          |
+                        
+                        
+                          
+                            ϕ
+                            
+                              t
+                            
+                          
+                          (
+                          x
+                          )
+                        
+                      
+                    
+                    
+                      T
+                    
+                  
+                  
+                    p
+                    
+                      t
+                    
+                  
+                  (
+                  x
+                  )
+                  ,
+                  x
+                  ∈
+                  
+                    
+                      
+                        R
+                      
+                    
+                    
+                      3
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}v_{t}=\textstyle \int _{X}\displaystyle K(\cdot ,\phi _{t}(x))p_{t}(x)\,dx\ ,\\{\dot {p}}_{t}(x)=-(Dv_{t})_{|_{\phi _{t}(x)}}^{T}p_{t}(x),x\in {\mathbb {R} }^{3}\end{cases}}}
+  
+The metric between volumes 
+  
+    
+      
+        
+          
+            d
+            
+              2
+            
+          
+          =
+          (
+          
+            p
+            
+              0
+            
+          
+          ∣
+          
+            v
+            
+              0
+            
+          
+          )
+          =
+          
+            ∫
+            
+              
+                
+                  R
+                
+                
+                  3
+                
+              
+            
+          
+          
+            p
+            
+              0
+            
+          
+          (
+          x
+          )
+          ⋅
+          
+            ∫
+            
+              
+                
+                  
+                    R
+                  
+                
+                
+                  3
+                
+              
+            
+          
+          K
+          (
+          x
+          ,
+          y
+          )
+          
+            p
+            
+              0
+            
+          
+          (
+          y
+          )
+          
+          d
+          y
+          
+          d
+          x
+          .
+        
+      
+    
+    {\displaystyle \displaystyle d^{2}=(p_{0}\mid v_{0})=\int _{\mathbb {R} ^{3}}p_{0}(x)\cdot \int _{{\mathbb {R} }^{3}}K(x,y)p_{0}(y)\,dy\,dx.}
+  
+
+
+== Software for diffeomorphic mapping ==
+Software suites containing a variety of diffeomorphic mapping algorithms include the following:
+
+Deformetrica
+ANTS
+DARTEL Voxel-based morphometry(VBM)
+DEMONS
+LDDMM
+StationaryLDDMM
+
+
+=== Cloud software ===
+MRICloud
+
+
+== References ==
